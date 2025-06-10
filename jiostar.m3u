@@ -17,14 +17,14 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/output/index.mpd?
 
 #EXTINF:-1 tvg-id="1389" tvg-name="Star Sports 3" tvg-logo="https://img.media.jio.com/tvpimages/18/25/302075_1748601371559_p_medium.jpg" group-title="Infotainment", Star Sports 3
 a#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"10nJsnUFvrDhqLbDDKZd5g","kid":"5Ohkfq8GWayF9hdlpavNwQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=d749c9b27505beb0e1a8b6c30ca65de6:e4e8647eaf0659ac85f61765a5abcdc1
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 #EXTHTTP:{"cookie":"__hdnea__=st=1749481819~exp=1749568219~acl=/*~hmac=7ab91df956e58b125be4b33f0bcefecc5f38b2dc955d867e484038d31ba1c5ef
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/output/index.mpd?__hdnea__=st=1749481819~exp=1749568219~acl=/*~hmac=7ab91df956e58b125be4b33f0bcefecc5f38b2dc955d867e484038d31ba1c5ef
 
 #EXTINF:-1 tvg-id="1106" tvg-name="Star Sports 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/18/25/302075_1748601371559_p_medium.jpg" group-title="Infotainment", Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hZaVB25n/pYYNrVk221onA","kid":"ll3C3bHYUTiteHmZp/MMpQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=859695076e67fe961836b564db6d689c:965dc2ddb1d85138ad787999a7f30ca5
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 #EXTHTTP:{"cookie":"__hdnea__=st=1749481819~exp=1749568219~acl=/*~hmac=7ab91df956e58b125be4b33f0bcefecc5f38b2dc955d867e484038d31ba1c5ef
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1749481819~exp=1749568219~acl=/*~hmac=7ab91df956e58b125be4b33f0bcefecc5f38b2dc955d867e484038d31ba1c5ef
