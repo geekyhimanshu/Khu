@@ -2,10 +2,10 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://m3u.denver1769.fun/Play/Jtv/Jtv.php?id=4459&key
+#KODIPROP:inputstream.adaptive.license_key=http://m3u.denver1769.fun/Play/J/Jtv.php?id=174&key
 #EXTINF:-1 tvg-id="4459" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png" group-title="JSTAR+Sports",Star Sports 1 Hindi HD
 #EXTVLCOPT:http-user-agent=Denver1769
-http://m3u.denver1769.fun/Play/Jtv/Jtv.mpd?id=4459|User-Agent=Denver1769
+https://play.denver1769.fun/J/Jtv.mpd?id=174|User-Agent=Denver1769
 
 #EXTINF:-1 tvg-id="362" tvg-name="Star Sports 1 Hindi" tvg-logo="https://img.media.jio.com/tvpimages/18/25/302075_1748601371559_p_medium.jpg" group-title="Infotainment", Star Sports 1 Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
