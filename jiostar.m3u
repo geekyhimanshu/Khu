@@ -2,7 +2,7 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1108
 #EXTINF:-1 tvg-id="4459" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png" group-title="JSTAR+Sports",Star Sports 1 Hindi HD
 #EXTVLCOPT:http-user-agent=Denver1769
 https://play.denver1769.fun/J/Jtv.mpd?id=174|User-Agent=Denver1769
