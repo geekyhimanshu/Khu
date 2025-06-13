@@ -1,0 +1,449 @@
+#EXTM3U8
+
+
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET/images/LOGO_HD/image.png" group-title="Entertainment", SET SD
+https://re.fredflix.fun/AOIT/live.php?id=sonyentertainmnt_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=sonyentertainmnt_hd&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png" group-title="Entertainment", SET HD SonyLiv
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8|User-Agent=SonyLiv
+
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment", SONY SAB SD SunDirectGo
+https://joker-verse-secured-ce0bb38121e0.herokuapp.com:443/stream/sundirectgo/sonysab?u=joker&p=a6a0fd699fbccffd6443c17cc5bb063bec43c16f210e7c863a4d9daff39ecc5d
+https://re.fredflix.fun/AOIT/live.php?id=sonysab_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=sonysab_hd&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LOGO_HD/image.png" group-title="Entertainment", Sony SAB HD Sony LIV
+https://dish.slivcdn.com/hls/live/2011749-b/SABHD/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Movies", SONY Max SD SonyLiv
+https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8|User-Agent=SonyLiv
+
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX_HD/images/LOGO_HD/image.png" group-title="Movies", Sony MAX HD SonyLiv
+https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8|User-Agent=SonyLiv
+
+
+#EXTINF:-1, Sony Ten 3 HD Sony LIV
+https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8|User-Agent=SonyLiv
+
+
+#EXTINF:-1, Sony Ten 3 SD Sony LIV
+https://dai.google.com/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8|User-Agent=SonyLiv
+
+
+#EXTINF:-1, Sony BBC Earth HD Hindi DishTV line.gofast
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:c2:e2:c9&stream=1118064&extension=m3u8
+
+#EXTINF:-1, Sony BBC Earth HD Hindi Airtel line.gofast
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:c2:e2:c9&stream=156012&extension=m3u8
+
+
+#EXTINF:-1, Sony Pix HD HINDI Airtel line.gofast
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:c2:e2:c9&stream=156004&extension=m3u8
+
+
+#EXTINF:-1, SONY BBC EARTH SD Hindi
+http://14.192.144.13:8000/play/a06w
+
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzfbmDpUTHxO/sgo/widevine/getlicense?id=143247
+#EXTINF:-1 tvg-id="762" tvg-name="Sony Pix HD" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" tvg-chno="762" group-title="Movies - Hindi",Sony Pix HD
+#EXTVLCOPT:http-user-agent=Safari/537.36
+https://sundirectgo-live.pc.cdn.bitgravity.com/hd24/dth.mpd
+
+
+#EXTINF:-1, Sony Pix SD English Toffee TV
+https://re.fredflix.fun/AOIT/live.php?id=sonypix_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=sonypix_hd&e=.m3u8
+
+#EXTINF:-1, Sony Max 1 SunDirectGo
+https://joker-verse-secured-ce0bb38121e0.herokuapp.com/stream/sundirectgo/sonymax1?u=joker&p=a6a0fd699fbccffd6443c17cc5bb063bec43c16f210e7c863a4d9daff39ecc5d
+
+#EXTINF:-1, Sony Max 2 Sony LIV
+https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8|User-Agent=SonyLiv
+
+
+#EXTINF:-1, Sony Yay SonyLiv
+https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8|User-Agent=SonyLiv
+
+
+#EXTINF:-1, Sony Ten 5 HD Sony LIV
+https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8|User-Agent=SonyLiv
+
+
+#EXTINF:-1, Sony Ten 5 SD Sony LIV
+https://dai.google.com/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8|User-Agent=SonyLiv
+
+
+#EXTINF:-1, Sony Ten 1 SD Sony LIV
+https://dai.google.com/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8|User-Agent=SonyLiv
+
+
+#EXTINF:-1, Sony Ten 1 HD Sony LIV
+https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8|User-Agent=SonyLiv
+
+
+#EXTINF:-1, Sony BBC Earth SD English Toffee TV
+https://re.fredflix.fun/AOIT/live.php?id=sonybbc_earth_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=sonybbc_earth_hd&e=.m3u8
+
+
+KODIPROP:inputstream.adaptive.license_type=clearkey
+KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iuYnwIO5kgf4IhrCr8wyQw","kid":"Cq2igbSgNJ2q07h769mkCg"}],"type":"temporary"}
+EXTINF:-1 tvg-id="823" tvg-name="Sony BBC Earth SD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png" tvg-chno="823" group-title="Infotainment - English",Sony BBC Earth SD Hindi
+EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzfbmDpUTHxO/artl/sony-bbc-earth/manifest.mpd|Referer=https://m3u.ygxworld.in
+
+
+#EXTINF:-1, Sony BBC Earth HD English SonyLiv
+https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8|User-Agent=SonyLiv
+
+#EXTINF:-1, Sony Pix HD English SonyLiv
+https://dish.slivcdn.com/hls/live/2011748-b/PIXHD/master.m3u8
+https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8|User-Agent=SonyLiv
+
+
+#EXTINF:-1, Sony Ten 2 HD Sony LIV
+https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8|User-Agent=SonyLiv
+
+#EXTINF:-1, Sony Ten 2 SD Sony LIV
+https://dai.google.com/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8|User-Agent=SonyLiv
+
+
+#EXTINF:-1, Sony Wah SonyLiv
+https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8|User-Agent=SonyLiv
+
+#EXTINF:-1, Sony Pal SonyLiv
+https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8|User-Agent=SonyLiv
+
+
+
+#EXTINF:-1, SONY HD 195.181.169.162
+http://195.181.169.162:80/SONY_HD/index.mpd?token=test
+
+#EXTINF:-1, SONY SAB HD 195.181.169.162
+http://195.181.169.162:80/SONY_SAB_HD/index.mpd?token=test
+
+#EXTINF:-1, SONY MAX HD 195.181.169.162
+http://195.181.169.162:80/SONY_MAX_HD/index.mpd?token=test
+
+#EXTINF:-1, SONY SPORTS 3 HD 195.181.169.162
+http://195.181.169.162:80/TEN_3_HD/index.mpd?token=test
+
+#EXTINF:-1, SONY SPORTS 1 HD 195.181.169.162
+http://195.181.169.162:80/TEN_1_HD/index.mpd?token=test
+
+#EXTINF:-1, SONY SPORTS 2 HD 195.181.169.162
+http://195.181.169.162:80/TEN_2_HD/index.mpd?token=test
+
+#EXTINF:-1, SONY PIX HD ENGLISH 195.181.169.162
+http://195.181.169.162:80/SONY_PIX_HD/index.mpd?token=test
+
+#EXTINF:-1, SONY BBC EARTH HD ENGLISH 195.181.169.162
+http://195.181.169.162:80/BBC_EARTH_HD/index.mpd?token=test
+
+
+EXTINF:-1, Sony Ten 4 HD
+https://dai.google.com/ssai/event/qwv5n8OWQOK1-7EocvRtcA/master.m3u8
+
+EXTINF:-1, Sony Ten 4 SD
+https://dai.google.com/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+
+
+
+EXTINF:-1, Sony Sab HD
+https://103.148.178.242:443/SonySAB/index.mpd
+http://ahaohoo.com:80/.1/tv1/play.php?id=2693&e=.m3u8
+https://cdn.nowhdtime.com.bd/SonySAB/index.mpd
+http://103.157.237.18:8000/play/335
+http://209.126.120.151:80/hls/chssb.m3u8
+http://103.205.133.19/hls/chssab.m3u8
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8?OreoTV=SonyLIV
+https://sony247channels.akamaized.net:443/hls/live/2011749-b/SABHD/hdntl=exp=1621345430~acl=%2f*~id=37c45e88-c713-4247-bbcb-05802ca672b9~data=hdntl~hmac=e2d57e07281379d8fdf1654cc5932e63425163ad11a913f8fee4b589409b3c27/master_412.m3u8?originpath=/linear/hls/pb/event/UI4QFJ_uRk6aLxIcADqa_A/stream/d545af02-26e0-4c28-b62b-9b9c5ca074b8:SIN2/variant/3b5cd36cdf9551c0b961cc97e49bf4f4/bandwidth/596112.m3u8
+Link Use Vpn
+http://208.115.215.42:80/Sony_Sab_HD/index.m3u8
+
+
+Sony Max HD
+http://209.126.120.151:80/hls/chsmax.m3u8
+http://103.205.133.19/hls/chsmax.m3u8
+
+
+http://103.131.212.138:8000/play/a032/index.m3u8
+http://103.157.237.18:8000/play/710
+
+
+Sony Six HD
+http://209.126.120.151:80/hls/sonysix.m3u8
+http://103.205.133.19/hls/sonysix.m3u8
+
+
+Sony Ten 1 SD
+http://209.126.120.151:80/hls/ten1.m3u8
+http://103.205.133.19/hls/ten1.m3u8
+
+
+Sony Ten 3 HD
+http://209.126.120.151:80/hls/ten3.m3u8
+http://103.205.133.19/hls/ten3.m3u8
+
+
+EXTINF:-1, SONY PIX HD HINDI
+http://180.178.189.227:8000/play/a08e/index.m3u8
+http://209.126.120.151:80/hls/sonypix.m3u8
+http://103.205.133.19/hls/sonypix.m3u8
+
+
+Sony Ten 2 HD
+http://209.126.120.151:80/hls/ten2.m3u8
+http://103.205.133.19/hls/ten2.m3u8
+
+
+EXTINF:-1, Sony Pix HD Hindi
+http://103.55.144.46/hls/sonypixhd.m3u8
+http://live.flixhub.net/hls/sonypixhd.m3u8
+http://103.161.2.142/hls/sonypixhd.m3u8
+http://89.187.182.181:9090/KH_HIN_SONY_PIX/index.mpd
+http://2zvdmm.hook.tm/802AAD2/89181e/KH_HIN_SONY_PIX/tracks-v1a1/index.m3u8?token=20b6f0bda5c35b7a1879291d9a928d72f719332e782790f6b883b7dc96059b19b63aabce63a1c7fcdd5038025e27649d271efae97281b8541b5482039b36f0115e3cda9a8a819007c05a7ad7c422b757a905e4bc139d9c58161cf93c
+http://103.81.104.118:80/hls/stream1.m3u8
+http://103.157.237.18:8000/play/711
+
+
+http://180.178.130.180:8000/play/a041/index.m3u8
+http://103.153.39.34:8000/play/a05n/index.m3u8
+
+
+http://89.187.162.89/SONYEARTH/HD/HIN/index.mpd?token=test
+http://hin2.error-404.website/SONYEARTH/HD/HIN/index.m3u8?token=edee8093e3b3ebc3081b2528d82f452d
+
+
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8?HjFreeTV=SABHD
+
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+
+https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8?HjFreeTV=TEN3HD
+
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8?HjFreeTV=TEN3
+
+https://pubads.g.doubleclick.net/ssai/event/6Kd8Myl8RlCnZwTtwHkjwQ/master.m3u8?HjFreeTV=MAX2
+
+https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8?HjFreeTV=SIXHD
+
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8?HjFreeTV=SIX
+
+https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8?HjFreeTV=TEN1
+
+https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8?HjFreeTV=TEN1HD
+
+https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8?HjFreeTV=TEN2HD
+
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8?HjFreeTV=TEN2
+
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8?HjFreeTV=PIXHD
+
+https://pubads.g.doubleclick.net/ssai/event/6Kd8Myl8RlCnZwTtwHkjwQ/master.m3u8|User-Agent=SonyLiv
+
+https://lin-gd-001-cf.slivcdn.com/out/v1/3387ff1dbcb84b06b22dab95a4ee30e5/master.m3u8?hdnea=st=1677723049~exp=1677723349~acl=*~id=1770908d-2381-47a6-9737-42f666dfc7ff~hmac=6c47ff60cf71ef803e0565ef5332310a37b28f83e282b328259e892ff568817f&originpath=/linear/hls/pa/event/MdQ5Zy-PSraOccXu8jflCg/stream/2ff3cb69-1b5d-44a0-8bbd-15b7ba8fb783:TUL/master.m3u8
+
+&play_token=YrLTvTiS9w
+http://89.187.178.133:9066/HINDI_SONY_BBC_EARTH_HINDI/index.mpd
+
+&play_token=FsfTdWTny9
+http://103.174.4.171:8000/play/a07b/index.m3u8
+
+http://103.179.246.243:8000/play/a016/index.m3u8
+
+EXTINF:-1, Sony Pix HD HINDI 103.131.214.219
+http://103.131.214.219:8000/play/a01q
+
+EXTINF:-1, Sony Pix HD HINDI 18001
+http://103.113.103.249:18001/play/a017
+
+EXTINF:-1, Sony Pix HD HINDI 180.178.188.152
+http://180.178.188.152:8000/play/a09u
+
+Sony BBC Earth
+http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:53:2c:f7&stream=281316&extension=ts
+http://37.49.227.81:80/play/live.php?mac=00:1A:79:00:60:70&stream=444145&extension=ts
+
+
+Sony Pix
+http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:00:00:00&stream=162680&extension=ts
+&play_token=cvwOoHyGDo
+http://37.49.227.81:80/play/live.php?mac=00:1A:79:00:60:70&stream=444144&extension=ts
+
+EXTINF:-1, Sony BBC Earth HD Hindi 180.178.188.152
+http://180.178.188.152:8000/play/a015
+
+https://livesportsclub.tech/toffelive/master.m3u8/?id=sony_sab|Referer=https://livesportsclub.tech/toffelive/master.m3u8
+
+EXTINF:-1, Sony Sab SD
+https://mhdtvworld.me/delta/toffeelive/master.m3u8/?cid=streamhub&id=sony_sab|Referer=https://mhdtvworld.me/delta/toffeelive/master.m3u8
+
+EXTINF:-1, Sony Pix SD English
+https://mhdtvworld.me/delta/toffeelive/master.m3u8/?cid=streamhub&id=sony_pix|Referer=https://mhdtvworld.me/delta/toffeelive/master.m3u8
+
+EXTINF:-1, SONY PIX SD HINDI
+http://116.90.116.210:8000/play/a08r
+
+EXTINF:-1, SONY PIX HD HINDI
+http://tv.zaintv.net:80/vx0bjSSVfy/SlYnSdLi73/85664
+
+EXTINF:-1, Sony Sab SD 1935
+http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/Playlist.m3u8
+
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:24:83:35&stream=156012&extension=ts
+&play_token=guVLDPBmCM
+
+http://eu.majes-line.co:80/play/live.php?mac=00:1a:79:00:1a:6d&stream=844256&extension=ts
+
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:24:83:35&stream=1118064&extension=m3u8
+
+http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:2C:C6:8E&stream=162681&extension=ts
+&play_token=hY9nFrOxPy
+
+https://mhdtv.co.in/jio/stream.php?id=154|Referer=https://mhdtv.co.in/jio/stream.php?id=154
+
+EXTINF:-1, Sony BBC Earth HD Hindi raw.bitnode.pm
+http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:D5:25:C6&stream=162681&extension=ts
+
+EXTINF:-1, Sony BBC Earth SD English
+https://mhdtv.co.in/jio/stream.php?id=823|Referer=https://mhdtv.co.in/jio/stream.php?id=289
+
+
+EXTINF:-1, Sony BBC Earth HD Hindi Airtel DTH eu.majes-line.co
+http://eu.majes-line.co:80/play/live.php?mac=00:1a:79:00:1a:6d&stream=281316&extension=m3u8
+
+https://pubads.g.doubleclick.net/ssai/event/O8KbYcNwRE-Ty_6ixUKTVg/master.m3u8|User-Agent=SonyLiv
+
+https://dai.google.com/linear/hls/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+
+Sony TV HD OreoTV
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8?OreoTV=SonyLIV
+oreotv
+https://sony247channels.akamaized.net:443/hls/live/2011671-b/SETHD/hdntl=exp=1621347670~acl=%2f*~id=d65f4dbe-d194-4563-940c-ee7fa13c16f0~data=hdntl~hmac=6a1d9368dd45836f1629c291fd84063c591b9a7d0865c45ba3ce9c635a62b51b/master_412.m3u8?originpath=/linear/hls/pb/event/HgaB-u6rSpGx3mo4Xu3sLw/stream/7b9de693-1b60-4e3d-9625-3c6c9f9a27c8:SIN/variant/5eb48e3fb8a515a30eda1baf19170589/bandwidth/596112.m3u8
+sony247channels.akamaized.net
+
+
+SONY Yay Hindi
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8?OreoTV=SonyLIV
+
+
+http://173.199.120.51:80/hls/chs.m3u8
+http://209.126.120.151:80/hls/chs.m3u8
+http://103.157.237.18:8000/play/333
+http://103.205.133.18/hls/chs.m3u8
+http://209.126.120.153:80/hls/chs.m3u8
+
+
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8?HjFreeTV=SONYSET
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8?HjFreeTV=SONYSET|User-Agent=KAIOS
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+
+EXTINF:-1, Sony Max 2 Sony LIV
+https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8|User-Agent=SonyLiv
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8|User-Agent=SonyLiv
+https://pubads.g.doubleclick.net/ssai/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8|User-Agent=SonyLiv
+
+KODIPROP:inputstream.adaptive.license_type=clearkey
+KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=32&key
+EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" group-title="AVRK ðŸ’« Movies",SONY PIX HD
+https://tataplay.code-crafters.app/channel/ts32.mpd
+
+Sony BBC Earth HD Hindi DishTV stalker.ugoiptv.com
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:58:F7:8E&stream=1118064&extension=m3u8
+
+
+KODIPROP:inputstream.adaptive.license_type=clearkey
+KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=460&key
+EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png" group-title="AVRK ðŸ’« Knowledge",SONY BBC Earth HD
+https://tataplay.code-crafters.app/channel/ts460.mpd
+
+KODIPROP:inputstream.adaptive.license_type=clearkey
+KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=559&key
+EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png" group-title="AVRK ðŸ’« Entertainment",SONY SAB
+https://tataplay.code-crafters.app/channel/ts559.mpd
+
+EXTINF:-1, Sony TV SD
+http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
+
+KODIPROP:inputstream.adaptive.license_type=clearkey
+KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=158&key
+EXTINF:-1 tvg-id=ts158 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-551-j5ky7ufk-v5/imageContent-551-j5ky7ufk-m7.png" group-title="Tata Sky",SONY BBC Earth
+https://tataplay.code-crafters.app/channel/ts158.mpd
+
+EXTINF:-1, Sony Max SD SonyLiv
+https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8|User-Agent=SonyLiv
+
+
+https://companion-live-play1.streamready.in/live/media1/set/ndashd/set.mpd|User-Agent=Safari/537.36
+
+https://companion-live-play1.streamready.in/live/med1-2/set/ndashd/set.mpd
+
+https://companion-live-play1.streamready.in:443/live/media14/sony_sab/ndashd/sony_sab.mpd|User-Agent=Safari/537.36
+
+https://companion-live-play1.streamready.in/live/media4/sony_pix/ndashd/sony_pix.mpd
+
+https://companion-live-play1.streamready.in/live/media13/sony_bbc_earth/ndashd/sony_bbc_earth.mpd
+
+https://livea.streamready.in/set/smil:common.smil/manifest.mpd
+
+streamready.in
+Ye hai mein
+
+Ye subdomain apk wala
+companion-live-play1.streamready.in
+
+Ye abhi
+iptv-live-play1.streamready.in
+
+
+#EXTVLCOPT:http-user-agent=Safari/537.36
+
+https://companion-live-play1.streamready.in/live/med1-2/set/ndashd/set.mpd
+
+
+KODIPROP:inputstream.adaptive.license_type=clearkey
+KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CURSyaod8vjdUH1iNThVdQ","kid":"34e4yFj_PoCKxY5UMCwEsw"}],"type":"temporary"}
+EXTINF:-1 tvg-id="1396" tvg-name="Set SD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" tvg-chno="1396" group-title="Entertainment - Hindi",Set SD
+EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzfbmDpUTHxO/artl/set/manifest.mpd|Referer=https://m3u.ygxworld.in/p/KzfbmDpUTHxO/artl/set/manifest.mpd
+
+KODIPROP:inputstream.adaptive.license_type=clearkey
+KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HVI1gWcNLyiDkdkcpDuH4g","kid":"SSdaXt39OKuyrZXpDHWyoA"}],"type":"temporary"}
+EXTINF:-1 tvg-id="154" tvg-name="Sony SAB" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" tvg-chno="154" group-title="Entertainment - Hindi",Sony SAB SD
+EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzfbmDpUTHxO/artl/sony-sab/manifest.mpd|Referer=https://m3u.ygxworld.in
+
+KODIPROP:inputstream.adaptive.license_type=clearkey
+KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nRDFK0an2Qm2nE1e31abWg","kid":"t0SuDKuuOZi7+9d41TfwSQ"}],"type":"temporary"}
+EXTINF:-1 tvg-id="1530" tvg-name="Sony Pix SD English" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_SD.png" tvg-chno="1530" group-title="Movies - English",Sony Pix SD English
+https://companion-live-play1.streamready.in/live/media4/sony_pix/ndashd/sony_pix.mpd
+
+
+KODIPROP:inputstream.adaptive.license_type=clearkey
+KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=558&key
+EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12080-j9obub60-v6/imageContent-12080-j9obub60-m6.png" group-title="AVRK ðŸ’« Movies",SONY PIX
+https://tataplay.code-crafters.app/channel/ts558.mpd
+
+https://joker-verse-secured-ce0bb38121e0.herokuapp.com:443/stream/sundirectgo/sonysab?u=joker&p=a6a0fd699fbccffd6443c17cc5bb063bec43c16f210e7c863a4d9daff39ecc5d
+
+
+EXTINF:-1, Sony Sab HD Sony LIV
+https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8|User-Agent=SonyLiv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
