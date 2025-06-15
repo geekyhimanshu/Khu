@@ -11,6 +11,8 @@ https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8|U
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment", SONY SAB SD SunDirectGo
 https://joker-verse-secured-ce0bb38121e0.herokuapp.com:443/stream/sundirectgo/sonysab?u=joker&p=a6a0fd699fbccffd6443c17cc5bb063bec43c16f210e7c863a4d9daff39ecc5d
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj0NBCeqsaWxY3O0zNeKvGjUPXWQluRmThtQ&s" group-title="Entertainment", Sony SAB SD Toffee
 https://re.fredflix.fun/AOIT/live.php?id=sonysab_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=sonysab_hd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LOGO_HD/image.png" group-title="Entertainment", Sony SAB HD Sony LIV
@@ -18,23 +20,16 @@ https://dish.slivcdn.com/hls/live/2011749-b/SABHD/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Movies", SONY Max SD SonyLiv
-https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8|User-Agent=SonyLiv
+https://dish.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX_HD/images/LOGO_HD/image.png" group-title="Movies", Sony MAX HD SonyLiv
-https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8|User-Agent=SonyLiv
+https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
 
 
-#EXTINF:-1, Sony Ten 3 HD Sony LIV
-https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8|User-Agent=SonyLiv
+#EXTINF:-1 tvg-id="1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports", Sony TEN 3 HD SonyLiv
+https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
 
-
-#EXTINF:-1, Sony Ten 3 SD Sony LIV
-https://dai.google.com/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8|User-Agent=SonyLiv
-
-
-#EXTINF:-1, Sony BBC Earth HD Hindi DishTV line.gofast
-http://line.gofast-tv.me/play/live.php?mac=00:1a:79:c2:e2:c9&stream=1118064&extension=m3u8
 
 #EXTINF:-1, Sony BBC Earth HD Hindi Airtel line.gofast
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:c2:e2:c9&stream=156012&extension=m3u8
@@ -44,78 +39,78 @@ http://line.gofast-tv.me/play/live.php?mac=00:1a:79:c2:e2:c9&stream=156012&exten
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:c2:e2:c9&stream=156004&extension=m3u8
 
 
-#EXTINF:-1, SONY BBC EARTH SD Hindi
-http://14.192.144.13:8000/play/a06w
-
-
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzfbmDpUTHxO/sgo/widevine/getlicense?id=143247
-#EXTINF:-1 tvg-id="762" tvg-name="Sony Pix HD" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" tvg-chno="762" group-title="Movies - Hindi",Sony Pix HD
+#EXTINF:-1 tvg-id="762" tvg-name="Sony Pix HD" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" tvg-chno="762" group-title="Movies - Hindi",Sony Pix HD SunDirectGo
 #EXTVLCOPT:http-user-agent=Safari/537.36
 https://sundirectgo-live.pc.cdn.bitgravity.com/hd24/dth.mpd
 
 
-#EXTINF:-1, Sony Pix SD English Toffee TV
-https://re.fredflix.fun/AOIT/live.php?id=sonypix_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=sonypix_hd&e=.m3u8
-
 #EXTINF:-1, Sony Max 1 SunDirectGo
 https://joker-verse-secured-ce0bb38121e0.herokuapp.com/stream/sundirectgo/sonymax1?u=joker&p=a6a0fd699fbccffd6443c17cc5bb063bec43c16f210e7c863a4d9daff39ecc5d
 
-#EXTINF:-1, Sony Max 2 Sony LIV
-https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8|User-Agent=SonyLiv
+
+#EXTINF:-1 tvg-id="1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies", Sony MAX 2 SonyLiv
+https://dish.slivcdn.com/hls/live/2011908-b/MAX2/master.m3u8
 
 
-#EXTINF:-1, Sony Yay SonyLiv
-https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8|User-Agent=SonyLiv
+#EXTINF:-1 tvg-id="1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids", Sony YAY SonyLiv
+https://dish.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 
 
-#EXTINF:-1, Sony Ten 5 HD Sony LIV
-https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8|User-Agent=SonyLiv
+#EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports", Sony TEN 1 HD SonyLiv
+https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8
 
 
-#EXTINF:-1, Sony Ten 5 SD Sony LIV
-https://dai.google.com/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8|User-Agent=SonyLiv
+#EXTINF:-1 tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports", Sony TEN 5 HD SonyLiv
+https://dish.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
 
 
-#EXTINF:-1, Sony Ten 1 SD Sony LIV
-https://dai.google.com/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8|User-Agent=SonyLiv
-
-
-#EXTINF:-1, Sony Ten 1 HD Sony LIV
-https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8|User-Agent=SonyLiv
-
-
-#EXTINF:-1, Sony BBC Earth SD English Toffee TV
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH" tvg-name="Sony BBC earth" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f5e6033abf53d08e9e78/images/sony_bbc_earth.png",Sony BBC Earth SD English Toffee TV
 https://re.fredflix.fun/AOIT/live.php?id=sonybbc_earth_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=sonybbc_earth_hd&e=.m3u8
 
-
-KODIPROP:inputstream.adaptive.license_type=clearkey
-KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iuYnwIO5kgf4IhrCr8wyQw","kid":"Cq2igbSgNJ2q07h769mkCg"}],"type":"temporary"}
-EXTINF:-1 tvg-id="823" tvg-name="Sony BBC Earth SD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png" tvg-chno="823" group-title="Infotainment - English",Sony BBC Earth SD Hindi
-EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
-https://m3u.ygxworld.in/p/KzfbmDpUTHxO/artl/sony-bbc-earth/manifest.mpd|Referer=https://m3u.ygxworld.in
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_PIX" tvg-name="SONY PIX" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579791fac7f66229607bd43/images/sony_pix.png",SONY PIX SD English Toffee TV
+https://re.fredflix.fun/AOIT/live.php?id=sonypix_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=sonypix_hd&e=.m3u8
 
 
-#EXTINF:-1, Sony BBC Earth HD English SonyLiv
-https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8|User-Agent=SonyLiv
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH_HD" tvg-name="Sony BBC earth HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978f7359b7130a1f49b64/images/sony_bbc_earth_hd.png",Sony BBC earth HD English SonyLiv
+https://dish.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8
 
-#EXTINF:-1, Sony Pix HD English SonyLiv
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_PIX_HD" tvg-name="Sony Pix HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657979346e4f8a5dd3d181ee/images/sony_pix_hd.png",Sony Pix HD English SonyLiv
 https://dish.slivcdn.com/hls/live/2011748-b/PIXHD/master.m3u8
-https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8|User-Agent=SonyLiv
 
 
-#EXTINF:-1, Sony Ten 2 HD Sony LIV
-https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8|User-Agent=SonyLiv
+#EXTINF:-1 tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports", Sony TEN 2 HD SonyLiv
+https://dish.slivcdn.com/hls/live/2020434-b/TEN2HD/master.m3u8
 
-#EXTINF:-1, Sony Ten 2 SD Sony LIV
+
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies", Sony WAH SonyLiv zee
+https://dish.slivcdn.com/hls/live/2011906-b/SonyWah/master.m3u8
+
+#EXTINF:-1 tvg-id="1000009273" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment", Sony PAL SonyLiv
+https://dish.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="1000009283" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="Sports", Sony TEN 3 SD SonyLiv
+https://dish.slivcdn.com/hls/live/2020592-b/TEN3SD/master.m3u8
+
+
+#EXTINF:-1 tvg-id="1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sports", Sony TEN 1 SD SonyLiv
+https://dish.slivcdn.com/hls/live/2011739-b/TEN1SD/master.m3u8
+
+
+#EXTINF:-1 tvg-id="1000009281" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="Sports", Sony TEN 5 SD SonyLiv
+https://dish.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8
+
+
+#EXTINF:-1 tvg-id="1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sports", Sony TEN 2 SD SonyLiv
+https://dish.slivcdn.com/hls/live/2020590-b/TEN2SD/master.m3u8
 https://dai.google.com/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8|User-Agent=SonyLiv
 
 
-#EXTINF:-1, Sony Wah SonyLiv
-https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8|User-Agent=SonyLiv
-
-#EXTINF:-1, Sony Pal SonyLiv
-https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8|User-Agent=SonyLiv
+#EXTINF:-1, SONY BBC EARTH SD Hindi
+http://14.192.144.13:8000/play/a06w
 
 
 
@@ -142,6 +137,8 @@ http://195.181.169.162:80/SONY_PIX_HD/index.mpd?token=test
 
 #EXTINF:-1, SONY BBC EARTH HD ENGLISH 195.181.169.162
 http://195.181.169.162:80/BBC_EARTH_HD/index.mpd?token=test
+
+
 
 
 EXTINF:-1, Sony Ten 4 HD
@@ -432,6 +429,86 @@ https://joker-verse-secured-ce0bb38121e0.herokuapp.com:443/stream/sundirectgo/so
 
 EXTINF:-1, Sony Sab HD Sony LIV
 https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8|User-Agent=SonyLiv
+
+EXTINF:-1, Sony BBC Earth HD Hindi DishTV line.gofast
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:c2:e2:c9&stream=1118064&extension=m3u8
+
+EXTINF:-1, Sony Pix HD English SonyLiv
+https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8|User-Agent=SonyLiv
+
+KODIPROP:inputstream.adaptive.license_type=clearkey
+KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iuYnwIO5kgf4IhrCr8wyQw","kid":"Cq2igbSgNJ2q07h769mkCg"}],"type":"temporary"}
+EXTINF:-1 tvg-id="823" tvg-name="Sony BBC Earth SD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png" tvg-chno="823" group-title="Infotainment - English",Sony BBC Earth SD Hindi
+EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzfbmDpUTHxO/artl/sony-bbc-earth/manifest.mpd|Referer=https://m3u.ygxworld.in
+
+EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX_HD/images/LOGO_HD/image.png" group-title="Movies", Sony MAX HD SonyLiv
+https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8|User-Agent=SonyLiv
+
+EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Movies", SONY Max SD SonyLiv
+https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8|User-Agent=SonyLiv
+
+EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="freelivtv", Sony TEN 1 HD SonyLiv
+https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8|User-Agent=SonyLiv
+
+
+EXTINF:-1 tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="freelivtv", Sony TEN 2 HD SonyLiv
+https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8|User-Agent=SonyLiv
+
+EXTINF:-1 tvg-id="1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="freelivtv", Sony YAY SonyLiv
+https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8|User-Agent=SonyLiv
+
+EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH_HD" tvg-name="Sony BBC earth HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978f7359b7130a1f49b64/images/sony_bbc_earth_hd.png",Sony BBC earth HD English SonyLiv
+https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8|User-Agent=SonyLiv
+
+EXTINF:-1 tvg-id="1000009253" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies", Sony WAH
+https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8|User-Agent=SonyLiv
+
+EXTINF:-1 tvg-id="1000009273" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment", Sony PAL SonyLiv
+https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8|User-Agent=SonyLiv
+
+EXTINF:-1 tvg-id="1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies", Sony MAX 2 SonyLiv
+https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8|User-Agent=SonyLiv
+
+EXTINF:-1 tvg-id="1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="freelivtv", Sony TEN 1 SD SonyLiv
+https://dai.google.com/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8|User-Agent=SonyLiv
+
+EXTINF:-1 tvg-id="1000009283" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="Sports", Sony TEN 3 SD SonyLiv
+https://dai.google.com/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8|User-Agent=SonyLiv
+
+EXTINF:-1 tvg-id="1000009281" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="Sports", Sony TEN 5 SD SonyLiv
+https://dai.google.com/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8|User-Agent=SonyLiv
+
+EXTINF:-1 tvg-id="1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sports", Sony TEN 2 SD SonyLiv
+https://dai.google.com/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8|User-Agent=SonyLiv
+
+EXTINF:-1 tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="freelivtv", Sony TEN 5 HD SonyLiv
+https://dish.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
