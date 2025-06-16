@@ -66,8 +66,8 @@ https://dish.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
 
 
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH" tvg-name="Sony BBC earth" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f5e6033abf53d08e9e78/images/sony_bbc_earth.png",Sony BBC Earth SD English TataPlay
-#EXTVLCOPT:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/128.0.0.1 Safari/537.36"
-https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/158/master.m3u8&Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/128.0.0.1 Safari/537.36
+https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/158/master.m3u8?%7COrigin="https://watch.tataplay.com"%7CReferer="https://watch.tataplay.com/"
 
 
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_PIX" tvg-name="SONY PIX" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579791fac7f66229607bd43/images/sony_pix.png",SONY PIX SD English Toffee TV
