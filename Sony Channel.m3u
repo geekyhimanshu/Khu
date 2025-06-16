@@ -12,7 +12,7 @@ https://dish.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment", SONY SAB SD SunDirectGo
 https://joker-verse-secured-ce0bb38121e0.herokuapp.com:443/stream/sundirectgo/sonysab?u=joker&p=a6a0fd699fbccffd6443c17cc5bb063bec43c16f210e7c863a4d9daff39ecc5d
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj0NBCeqsaWxY3O0zNeKvGjUPXWQluRmThtQ&s" group-title="Entertainment", Sony SAB SD Toffee
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj0NBCeqsaWxY3O0zNeKvGjUPXWQluRmThtQ&s" group-title="Entertainment", Sony SAB SD Toffee TV
 https://re.fredflix.fun/AOIT/live.php?id=sonysab_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=sonysab_hd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LOGO_HD/image.png" group-title="Entertainment", Sony SAB HD SonyLiv
@@ -65,8 +65,9 @@ https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8
 https://dish.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
 
 
-#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH" tvg-name="Sony BBC earth" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f5e6033abf53d08e9e78/images/sony_bbc_earth.png",Sony BBC Earth SD English Toffee TV
-https://re.fredflix.fun/AOIT/live.php?id=sonybbc_earth_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=sonybbc_earth_hd&e=.m3u8
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH" tvg-name="Sony BBC earth" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f5e6033abf53d08e9e78/images/sony_bbc_earth.png",Sony BBC Earth SD English TataPlay
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
+https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/158/master.m3u8|Referer=https://watch.tataplay.com
 
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_PIX" tvg-name="SONY PIX" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579791fac7f66229607bd43/images/sony_pix.png",SONY PIX SD English Toffee TV
 https://re.fredflix.fun/AOIT/live.php?id=sonypix_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=sonypix_hd&e=.m3u8
@@ -488,7 +489,7 @@ https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8|U
 EXTINF:-1 tvg-id="1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sports", Sony TEN 2 SD SonyLiv
 https://dai.google.com/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8|User-Agent=SonyLiv
 
-
+https://re.fredflix.fun/AOIT/live.php?id=sonybbc_earth_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=sonybbc_earth_hd&e=.m3u8
 
 
 
