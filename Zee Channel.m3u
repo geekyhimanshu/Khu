@@ -17,6 +17,14 @@ https://live.drmlive-02.workers.dev/zee/209.m3u8
 #EXTINF:-1 ,Zee Classic
 https://live.drmlive-02.workers.dev/zee/176.m3u8
 
+#EXTINF:-1 tvg-id="-pictures" tvg-name="& Pictures (And Pictures)" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/xdksem.png" tvg-chno="-pictures" group-title="Movies",& Pictures (And Pictures)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eiFKl05PTR2btmNk1fDLkg","kid":"jepTLKv-T3G6IPYjEOeUnw"}],"type":"temporary"}
+https://otttv.co.in/d2h/livestream/-pictures/manifest.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eiFKl05PTR2btmNk1fDLkg","kid":"jepTLKv-T3G6IPYjEOeUnw"}],"type":"temporary"}
