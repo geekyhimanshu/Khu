@@ -2,20 +2,20 @@
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dPVd4pj6PWK_Eiyvx18Xtw:gk2CFYLQBJ244vwrksiTpg
-#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_ZEST" tvg-name="Zee Zest" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978e7a8676a17df103068/images/zee_zest.png",Zee Zest
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978e7a8676a17df103068/images/zee_zest.png",Zee Zest
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 13) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med12-2/zee_zest/ndashd/zee_zest.mpd|Referer=https://companion-live-play1.streamready.in
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST_HD/images/LOGO_HD/image.png" group-title="Infotainment", Zee Zest HD
 https://live.drmlive-02.workers.dev/zee/348.m3u8
 
-#EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_list/1170x658withlogo358457080.png" group-title="Zee5 | Movie", &xplorHD
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_list/1170x658withlogo358457080.png" group-title="Zee5 | Movie", &xplorHD
 https://live.drmlive-02.workers.dev/zee/209.m3u8
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LOGO_HD/image.png" group-title="Movies", Zee Classic
 https://live.drmlive-02.workers.dev/zee/176.m3u8
 
-#EXTINF:-1 tvg-id="-pictures" tvg-name="& Pictures (And Pictures)" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/xdksem.png" tvg-chno="-pictures" group-title="Movies",& Pictures
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/xdksem.png" tvg-chno="-pictures" group-title="Movies",& Pictures
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -25,20 +25,20 @@ https://otttv.co.in/d2h/livestream/-pictures/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eiFKl05PTR2btmNk1fDLkg","kid":"jepTLKv-T3G6IPYjEOeUnw"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SYMANDPICTURES" tvg-name="&Pictures" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6584951a0a0fe453216392c3/images/_pictures.png",&Pictures SD
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6584951a0a0fe453216392c3/images/_pictures.png",&Pictures SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog2022520414.png" group-title="Zee5 | Entertainment", Big Magic
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog2022520414.png" group-title="Zee5 | Entertainment", Big Magic
 https://live.drmlive-02.workers.dev/zee/bigmagic_1786965389.m3u8
 
 
-#EXTINF:-1 tvg-id="0-9-bigganga" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigganga/channel_list/1170x65802779b8c9ffb451b8e8aea2958c9b3ff.png" group-title="Zee5 | Movie", Zee Anmol Cinema 2
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigganga/channel_list/1170x65802779b8c9ffb451b8e8aea2958c9b3ff.png" group-title="Zee5 | Movie", Zee Anmol Cinema 2
 https://live.drmlive-02.workers.dev/zee/bigganga.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
-#EXTINF:-1 tvg-id="1351" tvg-name="Zee TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png" tvg-chno="1351" group-title="Entertainment - Hindi",Zee TV SD
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png" tvg-chno="1351" group-title="Entertainment - Hindi",Zee TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMAND_PICTURES_HD/images/LOGO_HD/image.png" group-title="Movies", &pictures HD
@@ -47,73 +47,41 @@ https://live.drmlive-02.workers.dev/zee/tvpictureshd.m3u8
   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HD6fzl8BRUK-nNH3SRgSBA","kid":"QCNhNFd3TL63GmLDOZcOYw"}],"type":"temporary"}
-#EXTINF:1 tvg-id="ts64" group-title="ZEE5" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmol/channel_web/1170x658withlog_1844143347.png",Zee Anmol
+#EXTINF:1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmol/channel_web/1170x658withlog_1844143347.png",Zee Anmol
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
-#EXTINF:1 tvg-id="ts64" group-title="ZEE5" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinema/channel_web/1170x658withlog_1844143347.png",Zee Cinema SD
+#EXTINF:1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinema/channel_web/1170x658withlog_1844143347.png",Zee Cinema SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XUCpAyOPStmKu-0Yd9Tj0Q","kid":"9WvqrJ8SRhaHLHQcnOT6Tg"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" tvg-chno="165" group-title="Movies - Hindi",Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" tvg-chno="165" group-title="Movies - Hindi",Zee Cinema HD
 #EXTVLCOPT:http-user-agent=Safari/537.36
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RooLjT1dQtilxBu4dTkKdA","kid":"gSQRy6i8QseesrGc14rT8w"}],"type":"temporary"}
-#EXTINF:1 tvg-id="ts64" group-title="ZEE5" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",Zee Anmol Cinema
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",Zee Anmol Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
-
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
-https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.mpd
-http://cv.khushitv.xyz/channels.php?c=zanmolcnm&e=.m3u8
-https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
-http://z5amshls.akamaized.net:80/zanmolcnm/tracks-v1a1/playlist.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ct2_N_dvSay7jhQOcnnnoQ","kid":"5hUjJgxhR0ayW5pVI_6aOQ"}],"type":"temporary"}
-#EXTINF:1 tvg-id="ts175" group-title="ZEE5" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_web/1170x658e6b59efbc9c5471f9392f477f91f0c11.png",Zee Bollywood
+#EXTINF:1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_web/1170x658e6b59efbc9c5471f9392f477f91f0c11.png",Zee Bollywood
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
 
 
-5hUjJgxhR0ayW5pVI_6aOQ:ct2_N_dvSay7jhQOcnnnoQ
-https://la.drmlive.au/tp/zee-zeeclassic.m3u8
-https://y5w8j4a9.ssl.hwcdn.net/classic/index.mpd
-http://cv.khushitv.xyz/channels.php?c=classic&e=.m3u8
-https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
-http://z5amshls.akamaized.net:80/classic/tracks-v1a1/playlist.m3u8
-
-
-#EXTINF:-1 ,Zee Action
-https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
-https://la.drmlive.au/tp/zee-zeeaction.m3u8
-https://y5w8j4a9.ssl.hwcdn.net/action/index.mpd
-https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
-http://z5amshls.akamaized.net:80/action/tracks-v1a1/playlist.m3u8
-
-
-EXTINF:-1,DD NATIONAL HD
-https://la.drmlive.au/tp/zee-250.m3u8
-https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-250
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PD6NAln3SPGDD3E6dpdg5w","kid":"nXoZF+4yRNGYGTzdH/H+rg"}],"type":"temporary"}
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ACTION_CINEMA/images/LOGO_HD/image.png" group-title="Movies", Zee Action
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
 
 
 #EXTINF:-1 ,Zee TV HD
 https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
-https://la.drmlive.au/tp/zee-zeetvhd.m3u8
-
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png",Zee TV HD
-EXTVLCOPT:http-referer=https://cbqh.short.gy/mhdtv.co.in/jio/play.php?id=2040&slug=Bollywood_Hungama
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36  
-https://dai.google.com/linear/hls/event/6qzmxkU4SYCAYs8IpEVsgw/master.m3u8
-https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeetvhd
-
 
 #EXTINF:-1 ,&TV HD
 https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
@@ -645,12 +613,41 @@ http://cv.khushitv.xyz/channels.php?c=zcinemahd&e=.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 http://z5amshls.akamaized.net:80/zcinemahd/tracks-v1a1/playlist.m3u8
 
+EXTINF:-1 ,Zee Action
+https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
+https://la.drmlive.au/tp/zee-zeeaction.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/action/index.mpd
+https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
+http://z5amshls.akamaized.net:80/action/tracks-v1a1/playlist.m3u8
 
+Zee Classic
+5hUjJgxhR0ayW5pVI_6aOQ:ct2_N_dvSay7jhQOcnnnoQ
+https://la.drmlive.au/tp/zee-zeeclassic.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/classic/index.mpd
+http://cv.khushitv.xyz/channels.php?c=classic&e=.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
+http://z5amshls.akamaized.net:80/classic/tracks-v1a1/playlist.m3u8
 
+Zee Anmol Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.mpd
+http://cv.khushitv.xyz/channels.php?c=zanmolcnm&e=.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
+http://z5amshls.akamaized.net:80/zanmolcnm/tracks-v1a1/playlist.m3u8
 
+EXTINF:-1,DD NATIONAL HD
+https://la.drmlive.au/tp/zee-250.m3u8
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-250
 
-
-
+Zee TV HD
+https://la.drmlive.au/tp/zee-zeetvhd.m3u8
+KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_key=
+EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png",Zee TV HD
+EXTVLCOPT:http-referer=https://cbqh.short.gy/mhdtv.co.in/jio/play.php?id=2040&slug=Bollywood_Hungama
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36  
+https://dai.google.com/linear/hls/event/6qzmxkU4SYCAYs8IpEVsgw/master.m3u8
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeetvhd
 
 
 
