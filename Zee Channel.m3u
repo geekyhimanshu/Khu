@@ -98,57 +98,25 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 #EXTINF:-1 ,&Flix HD Hindi livetvbox.live
 http://livetvbox.live:8080/live/3569087360/6542246996/98841.m3u8
 
-#EXTINF:-1 ,&Flix HD
+#EXTINF:-1 ,&Flix HD English
 https://live.drmlive-02.workers.dev/zee/channel_2105335046.m3u8
-https://la.drmlive.au/tp/zee-channel_2105335046.m3u8
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.mpd
-http://cv.khushitv.xyz/channels.php?c=andflixhd&e=.m3u8
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
-http://z5amshls.akamaized.net:80/andflixhd/tracks-v1a1/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SYMANDFLIX" tvg-name="&flix" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eed7033abf53d08e53b0/images/_flix.png",&flix
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SYMANDFLIX" tvg-name="&flix" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eed7033abf53d08e53b0/images/_flix.png",&flix SD
 https://iptv-live-play1.streamready.in/live/media15/and_flix/dashd/and_flix.mpd
 
-https://y5w8j4a9.ssl.hwcdn.net/andflix/index.mpd
-http://cv.khushitv.xyz/channels.php?c=andflix&e=.m3u8
-https://y5w8j4a9.ssl.hwcdn.net/andflix/index.m3u8
-http://z5amshls.akamaized.net:80/andflix/tracks-v1a1/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_CAFE" tvg-name="Zee Cafe" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978fd9b315d22c1f8102e/images/zee_cafe.png",Zee Cafe
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_CAFE" tvg-name="Zee Cafe" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978fd9b315d22c1f8102e/images/zee_cafe.png",Zee Cafe SD
 https://iptv-live-play1.streamready.in/live/media12/zee_cafe/dashd/zee_cafe.mpd
-
-https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/index.mpd
-http://cv.khushitv.xyz/channels.php?c=zeecafesd&e=.m3u8
-https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/index.m3u8
-http://z5amshls.akamaized.net:80/zeecafesd/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 ,Zee Cafe HD Hindi  livetvbox.live
 http://livetvbox.live:8080/live/3569087360/6542246996/98848.m3u8
 
-#EXTINF:-1 ,Zee Cafe HD
+#EXTINF:-1 ,Zee Cafe HD English
 https://live.drmlive-02.workers.dev/zee/zeecafehd.m3u8
-https://la.drmlive.au/tp/zee-zeecafehd.m3u8
-https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/index.mpd
-http://cv.khushitv.xyz/channels.php?c=zeecafehd&e=.m3u8
-https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/index.m3u8
-http://z5amshls.akamaized.net:80/zeecafehd/tracks-v1a1/playlist.m3u8
 
 
 #EXTINF:-1 ,&Prive HD
 https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
-https://la.drmlive.au/tp/zee-9z5543514.m3u8
-
-KODIPROP:inputstream.adaptive.license_type=clearkey
-KODIPROP:inputstream.adaptive.license_key=https://toxic-in.online/arturo/key.php?id=16
-EXTINF:-1 tvg-id="16" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eec7fe0772265fedb969/images/626.webp" group-title="Movies", &Prive HD
-https://liveb.streamready.in/symandprivehd/smil:common.smil/manifest.mpd
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.mpd
-http://cv.khushitv.xyz/channels.php?c=andprivehd/tracks-v4a1&e=.m3u8
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
-http://z5amshls.akamaized.net:80/andprivehd/tracks-v1a1/playlist.m3u8
-https://dai.google.com/linear/hls/event/6qzmxkU4SYCAYs8IpEVsgw/master.m3u8
 
 
 #EXTINF:-1, ZEE ZEST HD 195.181.169.162
@@ -183,65 +151,7 @@ https://zee5livemedia.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461
 
 
 #EXTINF:-1, Zee Living USA
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/index.mpd
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/index.m3u8
-
-
-KODIPROP:inputstream.adaptive.license_type=clearkey
-KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IPOS5aECG-aPwyvNuew61A","kid":"25ZIOQB2LiM6p4MEV6DTEA"}],"type":"temporary"}
-EXTINF:1 tvg-id="ts503" group-title="ZEE5" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo167952257.png",Zee Cinema HD Astro
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default.mpd
-
-
-
-ZEE Cinema SD UK
-https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.mpd
-
-
-ZEE Cinema SD USA
-https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.mpd
-
-
-ZEE Cinema SD ME
-https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.mpd
-
-
-
-ZEE TV SD USA
-https://y5w8j4a9.ssl.hwcdn.net/ztvsdusa/index.mpd
-
-
-ZEE TV HD USA
-https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/index.mpd
-
-
-ZEE TV CANADA HD
-https://y5w8j4a9.ssl.hwcdn.net/canadahd/index.mpd
-
-
-ZEE TV ASIA
-https://y5w8j4a9.ssl.hwcdn.net/apacsea/index.mpd
-
-
-ZEE TV ME
-https://y5w8j4a9.ssl.hwcdn.net/ztvme/index.mpd
-
-
-
-ZEE Smile SD English USA  Entertainment   Channel
-https://y5w8j4a9.ssl.hwcdn.net/smileusa/index.mpd
-
-
-ZEE World SD English (C.A.T/W.A.T/E.A.T)  South Africa      Entertainment   Channel
-https://y5w8j4a9.ssl.hwcdn.net/world/index.mpd
-
-
-
-#EXTINF:-1 ,ZEE5 THEATRE HD
-https://jokertvlive.buzz/7apijokertv/joker5.m3u8?id=1177
-https://jokertvlive.buzz/7apijokertv/joker5.php?id=1177
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lyT75II.jpg",ZEE TV  UK
@@ -310,9 +220,9 @@ ZEE ZEST HD:- http://cv.khushitv.xyz/channels.php?c=zzesthd&e=.m3u8
 
 ZEE CINEMA HD:- http://cv.khushitv.xyz/channels.php?c=zcinemahd&e=.m3u8
 
-& PICTURES SD:- http://cv.khushitv.xyz/channels.php?c=andpicssd&e=.m3u8
+&PICTURES SD:- http://cv.khushitv.xyz/channels.php?c=andpicssd&e=.m3u8
 
-& PICTURES HD:- http://cv.khushitv.xyz/channels.php?c=andpicshd&e=.m3u8
+&PICTURES HD:- http://cv.khushitv.xyz/channels.php?c=andpicshd&e=.m3u8
 
 ZEE ANMOL CINEMA:- ttp://z5amshls.akamaized.net/zanmolcnm&e=.m3u8
 
@@ -649,6 +559,126 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zing/index.mpd
 https://y5w8j4a9.ssl.hwcdn.net/zing/index.m3u8
 http://cv.khushitv.xyz/channels.php?c=zing&e=.m3u8
+
+&Flix HD
+https://la.drmlive.au/tp/zee-channel_2105335046.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.mpd
+http://cv.khushitv.xyz/channels.php?c=andflixhd&e=.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
+http://z5amshls.akamaized.net:80/andflixhd/tracks-v1a1/playlist.m3u8
+
+&Flix SD
+https://y5w8j4a9.ssl.hwcdn.net/andflix/index.mpd
+http://cv.khushitv.xyz/channels.php?c=andflix&e=.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andflix/index.m3u8
+http://z5amshls.akamaized.net:80/andflix/tracks-v1a1/playlist.m3u8
+
+Zee Cafe SD
+https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/index.mpd
+http://cv.khushitv.xyz/channels.php?c=zeecafesd&e=.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/index.m3u8
+http://z5amshls.akamaized.net:80/zeecafesd/tracks-v1a1/playlist.m3u8
+
+Zee Cafe HD
+https://la.drmlive.au/tp/zee-zeecafehd.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/index.mpd
+http://cv.khushitv.xyz/channels.php?c=zeecafehd&e=.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/index.m3u8
+http://z5amshls.akamaized.net:80/zeecafehd/tracks-v1a1/playlist.m3u8
+
+&Prive HD
+https://la.drmlive.au/tp/zee-9z5543514.m3u8
+KODIPROP:inputstream.adaptive.license_type=clearkey
+KODIPROP:inputstream.adaptive.license_key=https://toxic-in.online/arturo/key.php?id=16
+EXTINF:-1 tvg-id="16" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eec7fe0772265fedb969/images/626.webp" group-title="Movies", &Prive HD
+https://liveb.streamready.in/symandprivehd/smil:common.smil/manifest.mpd
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.mpd
+http://cv.khushitv.xyz/channels.php?c=andprivehd/tracks-v4a1&e=.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
+http://z5amshls.akamaized.net:80/andprivehd/tracks-v1a1/playlist.m3u8
+https://dai.google.com/linear/hls/event/6qzmxkU4SYCAYs8IpEVsgw/master.m3u8
+
+EXTINF:-1, Zee Living USA
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/index.mpd
+
+KODIPROP:inputstream.adaptive.license_type=clearkey
+KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IPOS5aECG-aPwyvNuew61A","kid":"25ZIOQB2LiM6p4MEV6DTEA"}],"type":"temporary"}
+EXTINF:1 tvg-id="ts503" group-title="ZEE5" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo167952257.png",Zee Cinema HD Astro
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default.mpd
+
+
+
+ZEE Cinema SD UK
+https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.mpd
+
+
+ZEE Cinema SD USA
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.mpd
+
+
+ZEE Cinema SD ME
+https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.mpd
+
+
+
+ZEE TV SD USA
+https://y5w8j4a9.ssl.hwcdn.net/ztvsdusa/index.mpd
+
+
+ZEE TV HD USA
+https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/index.mpd
+
+
+ZEE TV CANADA HD
+https://y5w8j4a9.ssl.hwcdn.net/canadahd/index.mpd
+
+
+ZEE TV ASIA
+https://y5w8j4a9.ssl.hwcdn.net/apacsea/index.mpd
+
+
+ZEE TV ME
+https://y5w8j4a9.ssl.hwcdn.net/ztvme/index.mpd
+
+
+
+ZEE Smile SD English USA  Entertainment   Channel
+https://y5w8j4a9.ssl.hwcdn.net/smileusa/index.mpd
+
+
+ZEE World SD English (C.A.T/W.A.T/E.A.T)  South Africa      Entertainment   Channel
+https://y5w8j4a9.ssl.hwcdn.net/world/index.mpd
+
+
+
+EXTINF:-1 ,ZEE5 THEATRE HD
+https://jokertvlive.buzz/7apijokertv/joker5.m3u8?id=1177
+https://jokertvlive.buzz/7apijokertv/joker5.php?id=1177
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
