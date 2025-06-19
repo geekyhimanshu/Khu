@@ -95,27 +95,27 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 
 
-#EXTINF:-1 ,&Flix HD Hindi livetvbox.live
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/image.png" group-title="Movies", Hindi &flix HD livetvbox.live
 http://livetvbox.live:8080/live/3569087360/6542246996/98841.m3u8
 
-#EXTINF:-1 ,&Flix HD English
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/image.png" group-title="Movies", English &flix HD
 https://live.drmlive-02.workers.dev/zee/channel_2105335046.m3u8
 
-#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SYMANDFLIX" tvg-name="&flix" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eed7033abf53d08e53b0/images/_flix.png",&flix SD
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eed7033abf53d08e53b0/images/_flix.png",&flix SD
 https://iptv-live-play1.streamready.in/live/media15/and_flix/dashd/and_flix.mpd
 
 
-#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_CAFE" tvg-name="Zee Cafe" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978fd9b315d22c1f8102e/images/zee_cafe.png",Zee Cafe SD
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978fd9b315d22c1f8102e/images/zee_cafe.png",Zee Cafe SD
 https://iptv-live-play1.streamready.in/live/media12/zee_cafe/dashd/zee_cafe.mpd
 
-#EXTINF:-1 ,Zee Cafe HD Hindi  livetvbox.live
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/image.png" group-title="Entertainment", Hindi Zee Cafe HD livetvbox.live
 http://livetvbox.live:8080/live/3569087360/6542246996/98848.m3u8
 
-#EXTINF:-1 ,Zee Cafe HD English
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/image.png" group-title="Entertainment", English Zee Cafe HD
 https://live.drmlive-02.workers.dev/zee/zeecafehd.m3u8
 
 
-#EXTINF:-1 ,&Prive HD
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SYMANDPRIVE_HD" tvg-name="&Prive HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eec7fe0772265fedb969/images/_prive_hd.png",&Prive HD
 https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
 
 
@@ -142,12 +142,6 @@ http://195.181.169.162:80/AND_FLIX_HD/index.mpd?token=test
 
 #EXTINF:-1, &PRIVE HD 195.181.169.162
 http://195.181.169.162:80/AND_PRIVE_HD/index.mpd?token=test
-
-
-EXTINF:-1 ,ZEE5 KIDS
-https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-290
-https://www.zee5.com/channels/details/zee5-kids/0-9-290
-https://zee5livemedia.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/7c9c0bdf-49b9-4325-ae1d-171917275d28_1000001576_HLS/manifest.m3u8?hdnts=st=1621145519~exp=1621148519~acl=/7c9c0bdf-49b9-4325-ae1d-171917275d28_1000001576_HLS/manifest.m3u8*~hmac=10cdfd98a0b026f4beb07fe1012893edcbfc456fbc56ef4d715867539ea28516
 
 
 #EXTINF:-1, Zee Living USA
@@ -654,6 +648,11 @@ https://y5w8j4a9.ssl.hwcdn.net/world/index.mpd
 EXTINF:-1 ,ZEE5 THEATRE HD
 https://jokertvlive.buzz/7apijokertv/joker5.m3u8?id=1177
 https://jokertvlive.buzz/7apijokertv/joker5.php?id=1177
+
+EXTINF:-1 ,ZEE5 KIDS
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-290
+https://www.zee5.com/channels/details/zee5-kids/0-9-290
+https://zee5livemedia.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/7c9c0bdf-49b9-4325-ae1d-171917275d28_1000001576_HLS/manifest.m3u8?hdnts=st=1621145519~exp=1621148519~acl=/7c9c0bdf-49b9-4325-ae1d-171917275d28_1000001576_HLS/manifest.m3u8*~hmac=10cdfd98a0b026f4beb07fe1012893edcbfc456fbc56ef4d715867539ea28516
 
 
 
