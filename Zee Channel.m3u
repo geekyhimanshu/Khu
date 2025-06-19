@@ -15,8 +15,9 @@ https://live.drmlive-02.workers.dev/zee/209.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LOGO_HD/image.png" group-title="Movies", Zee Classic
 https://live.drmlive-02.workers.dev/zee/176.m3u8
 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eiFKl05PTR2btmNk1fDLkg","kid":"jepTLKv-T3G6IPYjEOeUnw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6584951a0a0fe453216392c3/images/_pictures.png",&Pictures SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 
@@ -60,8 +61,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",Zee Anmol Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ct2_N_dvSay7jhQOcnnnoQ","kid":"5hUjJgxhR0ayW5pVI_6aOQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
 #EXTINF:1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_web/1170x658e6b59efbc9c5471f9392f477f91f0c11.png",Zee Bollywood
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
 
@@ -419,6 +421,13 @@ https://y5w8j4a9.ssl.hwcdn.net/zclassic/index.m3u8
 http://z5amshls.akamaized.net:80/zclassic/tracks-v1a1/playlist.m3u8
 
 &Pictures SD
+KODIPROP:inputstream.adaptive.license_type=clearkey
+KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eiFKl05PTR2btmNk1fDLkg","kid":"jepTLKv-T3G6IPYjEOeUnw"}],"type":"temporary"}
+EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6584951a0a0fe453216392c3/images/_pictures.png",&Pictures SD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
+
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/manifest.mpd
+8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
 EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/xdksem.png" tvg-chno="-pictures" group-title="Movies",& Pictures
 KODIPROP:inputstream=inputstream.adaptive
 KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -527,6 +536,15 @@ http://cv.khushitv.xyz/channels.php?c=zanmolcnm&e=.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 http://z5amshls.akamaized.net:80/zanmolcnm/tracks-v1a1/playlist.m3u8
 
+Zee Bollywood
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
+e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ct2_N_dvSay7jhQOcnnnoQ","kid":"5hUjJgxhR0ayW5pVI_6aOQ"}],"type":"temporary"}
+#EXTINF:1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_web/1170x658e6b59efbc9c5471f9392f477f91f0c11.png",Zee Bollywood
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
+
+
 EXTINF:-1,DD NATIONAL HD
 https://la.drmlive.au/tp/zee-250.m3u8
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-250
@@ -546,6 +564,8 @@ https://la.drmlive.au/tp/zee-tvhd_0.m3u8
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-tvhd_0
 
 Andtv SD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
+26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
 http://103.205.133.19/hls/andtv.m3u8
 
@@ -644,7 +664,6 @@ ZEE World SD English (C.A.T/W.A.T/E.A.T)  South Africa      Entertainment   Chan
 https://y5w8j4a9.ssl.hwcdn.net/world/index.mpd
 
 
-
 EXTINF:-1 ,ZEE5 THEATRE HD
 https://jokertvlive.buzz/7apijokertv/joker5.m3u8?id=1177
 https://jokertvlive.buzz/7apijokertv/joker5.php?id=1177
@@ -653,6 +672,36 @@ EXTINF:-1 ,ZEE5 KIDS
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-290
 https://www.zee5.com/channels/details/zee5-kids/0-9-290
 https://zee5livemedia.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/7c9c0bdf-49b9-4325-ae1d-171917275d28_1000001576_HLS/manifest.m3u8?hdnts=st=1621145519~exp=1621148519~acl=/7c9c0bdf-49b9-4325-ae1d-171917275d28_1000001576_HLS/manifest.m3u8*~hmac=10cdfd98a0b026f4beb07fe1012893edcbfc456fbc56ef4d715867539ea28516
+
+
+https://iptv-live-play1.streamready.in/live/media12/zee_zest/dashd/zee_zest.mpd
+
+
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/Andpictureshd.m3u8
+
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/Zeetvhd.m3u8
+
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/andtvhd.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
