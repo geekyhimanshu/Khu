@@ -1,9 +1,9 @@
 #EXTM3U8
 
 
+#EXTINF:-1 tvg-id="SET SD" group-title="Entertainment"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978ac9d8fb452ad919bdf/images/378221101.webp",SET SD Tataplay DTH
+http://filex.me:8080/998866/998866/496689|Referer=http://filex.me:8080/998866/998866/496689
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET/images/LOGO_HD/image.png" group-title="Entertainment", SET SD
-https://re.fredflix.fun/AOIT/live.php?id=sonyentertainmnt_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=sonyentertainmnt_hd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png" group-title="Entertainment", SET HD SonyLiv
 https://dish.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8
@@ -12,8 +12,10 @@ https://dish.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment", SONY SAB SD SunDirectGo
 https://joker-verse-secured-ce0bb38121e0.herokuapp.com:443/stream/sundirectgo/sonysab?u=joker&p=a6a0fd699fbccffd6443c17cc5bb063bec43c16f210e7c863a4d9daff39ecc5d
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj0NBCeqsaWxY3O0zNeKvGjUPXWQluRmThtQ&s" group-title="Entertainment", Sony SAB SD Toffee TV
-https://re.fredflix.fun/AOIT/live.php?id=sonysab_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=sonysab_hd&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sab-tv-in.png" group-title="Entertainment", SONY SAB SD Tataplay DTH
+http://filex.me:8080/998866/998866/25|Referer=http://filex.me:8080/998866/998866/25
+
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LOGO_HD/image.png" group-title="Entertainment", Sony SAB HD SonyLiv
 https://dish.slivcdn.com/hls/live/2011749-b/SABHD/master.m3u8
@@ -108,13 +110,13 @@ https://dish.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8
 https://dish.slivcdn.com/hls/live/2020590-b/TEN2SD/master.m3u8
 
 
-#EXTINF:-1, Sony Sab SD TataPlay
+#EXTINF:-1 tvg-id="Sony Sab SD" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png",Sony Sab SD TataPlay
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/559/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 
-#EXTINF:-1, Sony SD Tataplay
+#EXTINF:-1 tvg-id="Set SD" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12074-j9oat6qw-v6/imageContent-12074-j9oat6qw-m6.png",Sony SD Tataplay
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/556/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 
-#EXTINF:-1, Sony Pix SD English TataPlay
+#EXTINF:-1 tvg-id="Sony Pix SD" group-title="Movies" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12080-j9obub60-v6/imageContent-12080-j9obub60-m6.png",Sony Pix SD English TataPlay
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/558/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 
 
@@ -503,7 +505,11 @@ https://dai.google.com/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8|User-Agent=
 
 https://re.fredflix.fun/AOIT/live.php?id=sonybbc_earth_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=sonybbc_earth_hd&e=.m3u8
 
+EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET/images/LOGO_HD/image.png" group-title="Entertainment", SET SD
+https://re.fredflix.fun/AOIT/live.php?id=sonyentertainmnt_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=sonyentertainmnt_hd&e=.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj0NBCeqsaWxY3O0zNeKvGjUPXWQluRmThtQ&s" group-title="Entertainment", Sony SAB SD Toffee TV
+https://re.fredflix.fun/AOIT/live.php?id=sonysab_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=sonysab_hd&e=.m3u8
 
 
 
