@@ -145,22 +145,22 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:50:5C:15&stream=305362&extension=
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/andflix.png" group-title="Movies",English &Flix SD
 http://filex.me:8080/998866/998866/55
 
-#EXTINF:-1 tvg-logo="www.tataplay.com/s3-api/v1/assets/channels/dd-sports-hd.gif" group-title="Sports",DD SPORTS HD DD Free Dish
+#EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/dd-sports-hd.gif" group-title="Sports",DD SPORTS HD DD Free Dish
 http://filex.me:8080/998866/998866/247163
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Entertainment",Sony Sab USA ts
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony Sab USA ts
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:c2:e2:c9&stream=157162&extension=ts
 &play_token=vBWetCdr8X
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Entertainment",Sony Sab USA m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony Sab USA m3u8
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:c2:e2:c9&stream=157162&extension=m3u8
 &play_token=vBWetCdr8X
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Entertainment",Zee Cafe HD Airtel ts
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Entertainment",Zee Cafe HD Airtel ts
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:c2:e2:c9&stream=155730&extension=ts
 &play_token=wdzlYP2kjC
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Entertainment",Zee Cafe HD Airtel m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Entertainment",Zee Cafe HD Airtel m3u8
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:c2:e2:c9&stream=155730&extension=m3u8
 &play_token=wdzlYP2kjC
 
