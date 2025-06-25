@@ -91,6 +91,9 @@ Tata Play Aradhana
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Information",HINDI NATIONAL GEOGRAPHIC HD SunDirectHD
 http://89.187.179.14/Nat_Geo_Hin/index.mpd?token=test
 
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD/images/LOGO_HD/image.png" group-title="Information",National Geographic SD                     
+http://195.181.169.162:80/NAT_GEO_HINDI_HD/index.mpd?token=test
+
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Information",HINDI NAT GEO WILD HD DishTV
 http://89.187.179.14/NATGEOWILD/INDI/HIN/index.mpd?token=test
 
