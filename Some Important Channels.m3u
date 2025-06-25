@@ -75,29 +75,29 @@ Etv BalBharat Hindi
 Etv BalBharat Gujarati
 
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Entertainment",Tata Play Comedy ts
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Comedy-Transparent.png" group-title="Entertainment",Tata Play Comedy ts
 http://line.greatstar.me:80/play/live.php?mac=00:2a:01:90:28:A4&stream=155991&extension=ts
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Entertainment",Tata Play Comedy m3u8
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Comedy-Transparent.png" group-title="Entertainment",Tata Play Comedy m3u8
 http://line.greatstar.me:80/play/live.php?mac=00:2a:01:90:28:A4&stream=155991&extension=m3u8
 
 Tata Play Dance Active
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Music",Tata Play Music
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Music-Transparent.png" group-title="Music",Tata Play Music
 http://filex.me:8080/998866/998866/502978
 
 Tata Play Aradhana
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Information",HINDI NATIONAL GEOGRAPHIC HD SunDirectHD
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="Information",HINDI NATIONAL GEOGRAPHIC HD SunDirectHD
 http://89.187.179.14/Nat_Geo_Hin/index.mpd?token=test
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD/images/LOGO_HD/image.png" group-title="Information",National Geographic SD                     
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-462-j5jw44hk-v2/imageContent-462-j5jw44hk-m3.png" group-title="Information",National Geographic SD                     
 http://195.181.169.162:80/NAT_GEO_HINDI_HD/index.mpd?token=test
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Information",HINDI NAT GEO WILD HD DishTV
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="Information",HINDI NAT GEO WILD HD DishTV
 http://89.187.179.14/NATGEOWILD/INDI/HIN/index.mpd?token=test
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Sports",Star Sports 3 Tata Play Multi Language
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31405-jm2isen4-v1/imageContent-31405-jm2isen4-m1.png" group-title="Sports",Star Sports 3 Tata Play Multi Language
 http://nonamevos.com:80/72582/72582/240
 
 
@@ -145,7 +145,7 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:50:5C:15&stream=305362&extension=
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/andflix.png" group-title="Movies",English &Flix SD
 http://filex.me:8080/998866/998866/55
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Sports",DD SPORTS HD DD Free Dish
+#EXTINF:-1 tvg-logo="www.tataplay.com/s3-api/v1/assets/channels/dd-sports-hd.gif" group-title="Sports",DD SPORTS HD DD Free Dish
 http://filex.me:8080/998866/998866/247163
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Entertainment",Sony Sab USA ts
