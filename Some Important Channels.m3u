@@ -34,7 +34,7 @@ http://astv.life:8080/live/anil%40123/anil%40123/137794.ts
 http://astv.life:8080/anil%40123/anil%40123/220585
 http://astv.life:8080/live/anil%40123/anil%40123/220585.ts
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Entertainment",Zee Cafe HD Tataplay Multi Language
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/3442d493-0c71-44b9-b12f-8e600d5eab91.png" group-title="Entertainment",Zee Cafe HD Tataplay Multi Language
 http://astv.life:8080/anil%40123/anil%40123/138860
 http://astv.life:8080/live/anil%40123/anil%40123/138860.ts
 
@@ -47,14 +47,14 @@ Sony Pix HD Hindi Multi
 Zee Zest HD Hindi
 
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Kids",Cartoon Network HD Hindi
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="Kids",Cartoon Network HD Hindi
 https://softbd24.com/new/toffee/live.php?id=206c4fa8e760&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=206c4fa8e760
 https://imranapk.site/TG@RANAPKX73/TOXFE/play.php?id=cartoon_network_hd
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Information",Animal Planet HD Hindi
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET_WORLD_HD/images/LOGO_HD/image.png" group-title="Information",Animal Planet HD Hindi
 http://89.187.179.14/ANMLPLANET/HD/HIN/index.mpd?token=test
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Information",Investigation Discovery HD Hindi
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD/images/LOGO_HD/image.png" group-title="Information",Investigation Discovery HD Hindi
 https://softbd24.com/new/toffee/live.php?id=6789650f5629&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=6789650f5629&e=.m3u8
 https://imranapk.site/TG@RANAPKX73/TOXFE/play.php?id=discovary_investigation_hd
 
