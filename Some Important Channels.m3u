@@ -145,7 +145,7 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:50:5C:15&stream=305362&extension=
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/andflix.png" group-title="Movies",English &Flix SD
 http://filex.me:8080/998866/998866/55
 
-#EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/dd-sports-hd.gif" group-title="Sports",DD SPORTS HD DD Free Dish
+#EXTINF:-1 tvg-logo="https://s4.ezgif.com/tmp/ezgif-4c992ae8cf5056.png" group-title="Sports",DD SPORTS HD DD Free Dish
 http://filex.me:8080/998866/998866/247163
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony Sab USA ts
