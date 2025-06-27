@@ -188,10 +188,10 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:c2:e2:c9&stream=155730&ex
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:c2:e2:c9&stream=155730&extension=m3u8
 &play_token=wdzlYP2kjC
 
-#EXTINF:-1 Discovery Science SD Hindi Multi
+#EXTINF:-1, Discovery Science SD Hindi Multi
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/113/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 
-#EXTINF:-1 GoodTimes Multi
+#EXTINF:-1, GoodTimes Multi
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/136/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 
 #EXTINF:-1 tvg-id="Sony Sab SD" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png",Sony Sab SD TataPlay
@@ -200,7 +200,7 @@ https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/559/master.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="Set SD" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12074-j9oat6qw-v6/imageContent-12074-j9oat6qw-m6.png",Sony SD Tataplay
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/556/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 
-#EXTINF:-1 Cbeebies
+#EXTINF:-1, Cbeebies
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/816/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 
 
