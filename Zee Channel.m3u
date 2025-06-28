@@ -87,7 +87,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="Big Magic"tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog2022520414.png" group-title="Zee5 | Entertainment",Big Magic
-lhttps://la.drmlive.net/tp/zee-bigmagic_1786965389.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://la.drmlive.net/tp/zee-bigmagic_1786965389.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="Zee Anmol Cinema 2"tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigganga/channel_list/1170x65802779b8c9ffb451b8e8aea2958c9b3ff.png" group-title="Zee5 | Movie",Zee Anmol Cinema 2
 https://la.drmlive.net/tp/zee-bigganga.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -95,22 +95,22 @@ https://la.drmlive.net/tp/zee-bigganga.m3u8|user-agent=Mozilla/5.0 (Windows NT 1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ne9DFfAAQBmjcFvLPPMMow","kid":"hu3snjt9QEKk1KHKFPhH7g"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="592" tvg-name="ZOOM" tvg-type="Music" group-title="ZEE5" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png",ZOOM
+#EXTINF:-1 tvg-id="Zoom" tvg-name="ZOOM" tvg-type="Music" group-title="ZEE5" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png",ZOOM
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/3442d493-0c71-44b9-b12f-8e600d5eab91.png" group-title="Entertainment",Zee Cafe HD Tataplay Multi Language
+#EXTINF:-1 tvg-id="Hindi Zee Cafe HD" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/3442d493-0c71-44b9-b12f-8e600d5eab91.png" group-title="Entertainment",Zee Cafe HD Tataplay Multi Language
 http://astv.life:8080/anil%40123/anil%40123/138860
 
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png" group-title="Movies",Hindi &Flix HD ts
+#EXTINF:-1 tvg-id="Hindi &Flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png" group-title="Movies",Hindi &Flix HD ts
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:c2:e2:c9&stream=155990&extension=ts
 
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png" group-title="Movies",Hindi &Flix HD m3u8
+#EXTINF:-1 tvg-id="Hindi &Flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png" group-title="Movies",Hindi &Flix HD m3u8
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:c2:e2:c9&stream=155990&extension=m3u8
 
 
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/andflix.png" group-title="Movies",English &Flix SD
+#EXTINF:-1 tvg-id="English &Flix SD" tvg-logo="https://img.logo-cdn.cc/andflix.png" group-title="Movies",English &Flix SD
 http://filex.me:8080/998866/998866/55
 
 
