@@ -85,13 +85,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="&TV SD"tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog2022520414.png" group-title="Zee5 | Entertainment",Big Magic
-https://live.drmlive-02.workers.dev/zee/bigmagic_1786965389.m3u8
+#EXTINF:-1 tvg-id="Big Magic"tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog2022520414.png" group-title="Zee5 | Entertainment",Big Magic
+https://la.drmlive.net/tp/zee-bigmagic_1786965389.m3u8
 
-
-#EXTINF:-1 tvg-id="&TV SD"tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigganga/channel_list/1170x65802779b8c9ffb451b8e8aea2958c9b3ff.png" group-title="Zee5 | Movie",Zee Anmol Cinema 2
-https://live.drmlive-02.workers.dev/zee/bigganga.m3u8
-
+#EXTINF:-1 tvg-id="Zee Anmol Cinema 2"tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigganga/channel_list/1170x65802779b8c9ffb451b8e8aea2958c9b3ff.png" group-title="Zee5 | Movie",Zee Anmol Cinema 2
+https://la.drmlive.net/tp/zee-bigganga.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -104,26 +102,33 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/3442d493-0c71-44b9-b12f-8e600d5eab91.png" group-title="Entertainment",Zee Cafe HD Tataplay Multi Language
 http://astv.life:8080/anil%40123/anil%40123/138860
 
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png" group-title="Movies",Hindi &Flix HD ts
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:c2:e2:c9&stream=155990&extension=ts
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png" group-title="Movies",Hindi &Flix HD m3u8
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:c2:e2:c9&stream=155990&extension=m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/andflix.png" group-title="Movies",English &Flix SD
+http://filex.me:8080/998866/998866/55
+
 
 #EXTINF:-1 tvg-id="English &Flix HD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/image.png" group-title="Movies",English &flix HD
-https://live.drmlive-02.workers.dev/zee/channel_2105335046.m3u8
+https://la.drmlive.net/tp/zee-channel_2105335046.m3u8
+
+#EXTINF:-1 tvg-id="English Zee Cafe HD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/image.png" group-title="Entertainment",English Zee Cafe HD
+https://la.drmlive.net/tp/zee-zeecafehd.m3u8
+
+#EXTINF:-1 tvg-id="&Prive HD" tvg-id="LIVETV_LIVETVCHANNEL_SYMANDPRIVE_HD" tvg-name="&Prive HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eec7fe0772265fedb969/images/_prive_hd.png",&Prive HD
+https://la.drmlive.net/tp/zee-9z5543514.m3u8
 
 
 #EXTINF:-1 tvg-id="&Flix SD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eed7033abf53d08e53b0/images/_flix.png",&flix SD
 https://iptv-live-play1.streamready.in/live/media15/and_flix/dashd/and_flix.mpd
 
-
 #EXTINF:-1 tvg-id="Zee Cafe SD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978fd9b315d22c1f8102e/images/zee_cafe.png",Zee Cafe SD
 https://iptv-live-play1.streamready.in/live/media12/zee_cafe/dashd/zee_cafe.mpd
 
-
-
-#EXTINF:-1 tvg-id="English Zee Cafe HD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/image.png" group-title="Entertainment",English Zee Cafe HD
-https://live.drmlive-02.workers.dev/zee/zeecafehd.m3u8
-
-
-#EXTINF:-1 tvg-id="&Prive HD" tvg-id="LIVETV_LIVETVCHANNEL_SYMANDPRIVE_HD" tvg-name="&Prive HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eec7fe0772265fedb969/images/_prive_hd.png",&Prive HD
-https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
 
 
 #EXTINF:-1, ZEE ZEST HD 195.181.169.162
@@ -198,6 +203,24 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/5541a515d609e78
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/726e730e030e958.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RI1G0qY.jpg",AND TV  ME
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/b1dda2470470824.m3u8
+
+
+EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/5cwRnZUBtpl-Sbt7wWrN/posters/28335dab-169c-49b6-8d10-ef697f940307.png" group-title="Entertainment",&TV HD Toffee TV
+https://xfireflix.fun/toffeeWd/live.php?id=a6b5f6130cc5&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=a6b5f6130cc5&e=.m3u8
+https://softbd24.com/new/toffee/live.php?id=a6b5f6130cc5&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=a6b5f6130cc5&e=.m3u8
+https://imranapk.site/TG@RANAPKX73/TOXFE/play.php?id=and_tv_hd
+
+EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/QMwWnZUBtpl-Sbt7S2sx/posters/f2e6acfd-0031-4ca4-b954-c014a0c99058.png" group-title="Movies",&Pictures HD Toffee TV
+https://xfireflix.fun/toffeeWd/live.php?id=1d8f06362c1e&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=1d8f06362c1e&e=.m3u8
+https://softbd24.com/new/toffee/live.php?id=1d8f06362c1e&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=1d8f06362c1e&e=.m3u8
+https://imranapk.site/TG@RANAPKX73/TOXFE/play.php?id=andpicture_hd
+
+
+EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ltPQX5UBm1RY_In7b3F1/posters/f81d0cc9-c00e-4839-951a-b754e0e6c58f.png" group-title="Entertainment",Zee TV HD Toffee TV
+https://xfireflix.fun/toffeeWd/live.php?id=9905083432a8&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=9905083432a8&e=.m3u8
+https://softbd24.com/new/toffee/live.php?id=9905083432a8&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=9905083432a8&e=.m3u8
+https://imranapk.site/TG@RANAPKX73/TOXFE/play.php?id=zee_tv_hd
+
 
 
 &TV SD USE VPN
@@ -453,6 +476,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 http://z5amshls.akamaized.net:80/andpicssd/tracks-v1a1/playlist.m3u8
 
 Big Magic
+https://live.drmlive-02.workers.dev/zee/bigmagic_1786965389.m3u8
 https://la.drmlive.au/tp/zee-bigmagic_1786965389.m3u8
 https://mhdtv.co.in/jio/stream.php?id=1359|Referer=https://mhdtv.co.in/jio/stream.php?id=1359
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/bigmagic/default/index.m3u8
@@ -462,6 +486,7 @@ https://y5w8j4a9.ssl.hwcdn.net/bigmagic/index.m3u8
 http://z5amshls.akamaized.net:80/bigmagic/tracks-v1a1/playlist.m3u8
 
 Zee Anmol Cinema 2
+https://live.drmlive-02.workers.dev/zee/bigganga.m3u8
 https://la.drmlive.au/tp/zee-bigganga.m3u8
 
 Zee TV SD
@@ -576,12 +601,14 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
 http://103.205.133.19/hls/andtv.m3u8
 
+Zing
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zing/index.mpd
 https://y5w8j4a9.ssl.hwcdn.net/zing/index.m3u8
 http://cv.khushitv.xyz/channels.php?c=zing&e=.m3u8
 
 &Flix HD
+https://live.drmlive-02.workers.dev/zee/channel_2105335046.m3u8
 #EXTINF:-1 tvg-id="&Flix HD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/image.png" group-title="Movies",Hindi &flix HD livetvbox.live
 http://livetvbox.live:8080/live/3569087360/6542246996/98841.m3u8
 https://la.drmlive.au/tp/zee-channel_2105335046.m3u8
@@ -603,6 +630,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/index.m3u8
 http://z5amshls.akamaized.net:80/zeecafesd/tracks-v1a1/playlist.m3u8
 
 Zee Cafe HD
+https://live.drmlive-02.workers.dev/zee/zeecafehd.m3u8
 EXTINF:-1 tvg-id="Hindi Zee Cafe HD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/image.png" group-title="Entertainment",Hindi Zee Cafe HD livetvbox.live
 http://livetvbox.live:8080/live/3569087360/6542246996/98848.m3u8
 https://la.drmlive.au/tp/zee-zeecafehd.m3u8
@@ -612,6 +640,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/index.m3u8
 http://z5amshls.akamaized.net:80/zeecafehd/tracks-v1a1/playlist.m3u8
 
 &Prive HD
+https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
 https://la.drmlive.au/tp/zee-9z5543514.m3u8
 KODIPROP:inputstream.adaptive.license_type=clearkey
 KODIPROP:inputstream.adaptive.license_key=https://toxic-in.online/arturo/key.php?id=16
