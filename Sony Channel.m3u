@@ -32,16 +32,15 @@ https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
 https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
 
 
-#EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment" ,Hindi Sony BBC Earth HD ts Airtel line.gofast
-http://line.greatstar.me:80/play/live.php?mac=00:2a:01:90:28:A4&stream=156012&extension=ts
+#EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment" ,Hindi Sony BBC Earth HD ts TataPlay line.gofast
+http://line.greatstar.me:80/play/live.php?mac=00:2a:01:90:28:A4&stream=1118064&extension=ts
 
-#EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment" ,Hindi Sony BBC Earth HD m3u8 Airtel line.gofast
-http://line.greatstar.me:80/play/live.php?mac=00:2a:01:90:28:A4&stream=156012&extension=m3u8
+#EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment" ,Hindi Sony BBC Earth HD m3u8 TataPlay line.gofast
+http://line.greatstar.me:80/play/live.php?mac=00:2a:01:90:28:A4&stream=1118064&extension=m3u8
 
 
 #EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies" ,Hindi Sony Pix HD ts Airtel line.gofast
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:c2:e2:c9&stream=156004&extension=ts
-
 
 #EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies" ,Hindi Sony Pix HD m3u8 Airtel line.gofast
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:c2:e2:c9&stream=156004&extension=m3u8
