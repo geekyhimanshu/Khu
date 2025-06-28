@@ -113,23 +113,6 @@ https://xfireflix.fun/toffeeWd/live.php?id=b6192dbff21b&e=.m3u8|Referer=https://
 https://softbd24.com/new/toffee/live.php?id=b6192dbff21b&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=b6192dbff21b&e=.m3u8
 https://imranapk.site/TG@RANAPKX73/TOXFE/play.php?id=sony_max
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/5cwRnZUBtpl-Sbt7wWrN/posters/28335dab-169c-49b6-8d10-ef697f940307.png" group-title="Entertainment",&TV HD
-https://xfireflix.fun/toffeeWd/live.php?id=a6b5f6130cc5&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=a6b5f6130cc5&e=.m3u8
-https://softbd24.com/new/toffee/live.php?id=a6b5f6130cc5&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=a6b5f6130cc5&e=.m3u8
-https://imranapk.site/TG@RANAPKX73/TOXFE/play.php?id=and_tv_hd
-
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/QMwWnZUBtpl-Sbt7S2sx/posters/f2e6acfd-0031-4ca4-b954-c014a0c99058.png" group-title="Movies",&Pictures HD
-https://xfireflix.fun/toffeeWd/live.php?id=1d8f06362c1e&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=1d8f06362c1e&e=.m3u8
-https://softbd24.com/new/toffee/live.php?id=1d8f06362c1e&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=1d8f06362c1e&e=.m3u8
-https://imranapk.site/TG@RANAPKX73/TOXFE/play.php?id=andpicture_hd
-
-
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ltPQX5UBm1RY_In7b3F1/posters/f81d0cc9-c00e-4839-951a-b754e0e6c58f.png" group-title="Entertainment",Zee TV HD
-https://xfireflix.fun/toffeeWd/live.php?id=9905083432a8&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=9905083432a8&e=.m3u8
-https://softbd24.com/new/toffee/live.php?id=9905083432a8&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=9905083432a8&e=.m3u8
-https://imranapk.site/TG@RANAPKX73/TOXFE/play.php?id=zee_tv_hd
-
-
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee Classic.png" group-title="Movies",Zee Classic Tataplay DTH
 http://filex.me:8080/998866/998866/275061
 
@@ -144,11 +127,11 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:50:5C:15&stream=305362&extension=
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment",Sony Sab SD Indo m3u8
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:50:5C:15&stream=305362&extension=m3u8
 
-#EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment" ,Hindi Sony BBC Earth HD ts Airtel line.gofast
-http://line.greatstar.me:80/play/live.php?mac=00:2a:01:90:28:A4&stream=156012&extension=ts
+#EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment" ,Hindi Sony BBC Earth HD ts TataPlay line.gofast
+http://line.greatstar.me:80/play/live.php?mac=00:2a:01:90:28:A4&stream=1118064&extension=ts
 
-#EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment" ,Hindi Sony BBC Earth HD m3u8 Airtel line.gofast
-http://line.greatstar.me:80/play/live.php?mac=00:2a:01:90:28:A4&stream=156012&extension=m3u8
+#EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment" ,Hindi Sony BBC Earth HD m3u8 TataPlay line.gofast
+http://line.greatstar.me:80/play/live.php?mac=00:2a:01:90:28:A4&stream=1118064&extension=m3u8
 
 
 #EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies" ,Hindi Sony Pix HD ts Airtel line.gofast
