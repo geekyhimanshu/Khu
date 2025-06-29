@@ -1,4 +1,4 @@
-name: Update AirtelIPTV
+name: Update artl.m3u
 
 on:
 workflow_dispatch:
