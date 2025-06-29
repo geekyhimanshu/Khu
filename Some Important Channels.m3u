@@ -2,33 +2,29 @@
 
 
 
-#EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png" group-title="Movies",Hindi &Flix HD ts
+#EXTINF:-1 tvg-id="Hindi &Flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png" group-title="Movies",Hindi &Flix HD ts
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:c2:e2:c9&stream=155990&extension=ts
 
-#EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png" group-title="Movies",Hindi &Flix HD m3u8
+#EXTINF:-1 tvg-id="Hindi &Flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png" group-title="Movies",Hindi &Flix HD m3u8
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:c2:e2:c9&stream=155990&extension=m3u8
 
-#EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://assets.etvbalbharat.com/languageimages/ETV_GUJARATHI.png" group-title="Kids",ETV BalBharat SD Gujarati
+#EXTINF:-1 tvg-id="Etv Balbharat SD" tvg-logo="https://assets.etvbalbharat.com/languageimages/ETV_GUJARATHI.png" group-title="Kids",ETV BalBharat SD Gujarati
 http://astv.life:8080/anil%40123/anil%40123/220750
 http://astv.life:8080/live/anil%40123/anil%40123/220750.ts
 
-#EXTINF:-1 tvg-id="Zee Zest HD"tvg-logo="https://assets.etvbalbharat.com/languageimages/ETV_HINDI.png" group-title="Kids",ETV BalBharat SD Hindi
+#EXTINF:-1 tvg-id="Etv Balbharat SD"tvg-logo="https://assets.etvbalbharat.com/languageimages/ETV_HINDI.png" group-title="Kids",ETV BalBharat SD Hindi
 http://astv.life:8080/anil%40123/anil%40123/220750
 http://astv.life:8080/live/anil%40123/anil%40123/220750.ts
 
-#EXTINF:-1 tvg-id="Zee Zest HD"tvg-logo="https://assets.etvbalbharat.com/languageimages/ETV_ENGLISH.png" group-title="Kids",ETV BalBharat SD Multi Language
+#EXTINF:-1 tvg-id="Etv Balbharat SD"tvg-logo="https://assets.etvbalbharat.com/languageimages/ETV_ENGLISH.png" group-title="Kids",ETV BalBharat SD Multi Language
 http://astv.life:8080/anil%40123/anil%40123/220750
 http://astv.life:8080/live/anil%40123/anil%40123/220750.ts
 
-#EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",Disney HD Multi Language
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",Disney HD Multi Language
 http://astv.life:8080/anil%40123/anil%40123/137794
 http://astv.life:8080/live/anil%40123/anil%40123/137794.ts
 
-#EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://s4.ezgif.com/tmp/ezgif-47d664945326c0.png" group-title="Entertainment",24×7 Episode Tarak Mehta ka ooltah chashma
-http://astv.life:8080/anil%40123/anil%40123/220585
-http://astv.life:8080/live/anil%40123/anil%40123/220585.ts
-
-#EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/3442d493-0c71-44b9-b12f-8e600d5eab91.png" group-title="Entertainment",Zee Cafe HD Tataplay Multi Language
+#EXTINF:-1 tvg-id="Hindi Zee Cafe HD" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/3442d493-0c71-44b9-b12f-8e600d5eab91.png" group-title="Entertainment",Zee Cafe HD Tataplay Multi Language
 http://astv.life:8080/anil%40123/anil%40123/138860
 http://astv.life:8080/live/anil%40123/anil%40123/138860.ts
 
@@ -93,22 +89,22 @@ http://195.181.169.162:80/NAT_GEO_HINDI_HD/index.mpd?token=test
 #EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="Information",HINDI NAT GEO WILD HD DishTV
 http://89.187.179.14/NATGEOWILD/INDI/HIN/index.mpd?token=test
 
-#EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31405-jm2isen4-v1/imageContent-31405-jm2isen4-m1.png" group-title="Sports",Star Sports 3 Tata Play Multi Language
+#EXTINF:-1 tvg-id="Star Sports 3 Multi" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31405-jm2isen4-v1/imageContent-31405-jm2isen4-m1.png" group-title="Sports",Star Sports 3 Tata Play Multi Language
 http://nonamevos.com:80/72582/72582/240
 
 
-#EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",Disney Channel HD ts
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",Disney Channel HD ts
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:c2:e2:c9&stream=1110627&extension=ts
 
-#EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",Disney Channel HD m3u8
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",Disney Channel HD m3u8
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:c2:e2:c9&stream=1110627&extension=m3u8
 
-#EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp" group-title="Entertainment",Sony Set South Asian
+#EXTINF:-1 tvg-id="Sony Set South Asia" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp" group-title="Entertainment",Sony Set South Asian
 https://xfireflix.fun/toffeeWd/live.php?id=2bec2112b890&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=2bec2112b890&e=.m3u8
 https://softbd24.com/new/toffee/live.php?id=2bec2112b890&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=2bec2112b890&e=.m3u8
 https://imranapk.site/TG@RANAPKX73/TOXFE/play.php?id=sony_entertainment|Referer=https://imranapk.site/TG@RANAPKX73/TOXFE/play.php?id=sony_entertainment
 
-#EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Entertainment",Sony Max South Asia
+#EXTINF:-1 tvg-id="Sony Max South Asia" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Entertainment",Sony Max South Asia
 https://xfireflix.fun/toffeeWd/live.php?id=b6192dbff21b&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=b6192dbff21b&e=.m3u8
 https://softbd24.com/new/toffee/live.php?id=b6192dbff21b&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=b6192dbff21b&e=.m3u8
 https://imranapk.site/TG@RANAPKX73/TOXFE/play.php?id=sony_max
@@ -186,6 +182,9 @@ https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/556/master.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1, tvg-id="Cbeebies" Cbeebies
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/816/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 
+#EXTINF:-1 tvg-id="Tarak Mehta ka ooltah chashma" tvg-logo="https://s4.ezgif.com/tmp/ezgif-47d664945326c0.png" group-title="Entertainment",24×7 Episode Tarak Mehta ka ooltah chashma
+http://astv.life:8080/anil%40123/anil%40123/220585
+http://astv.life:8080/live/anil%40123/anil%40123/220585.ts
 
 
 
