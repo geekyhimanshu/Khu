@@ -37,15 +37,15 @@ Sony Pix HD Hindi Multi
 Zee Zest HD Hindi
 
 
-#EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="Kids",Cartoon Network HD Hindi
+#EXTINF:-1 tvg-id="Hindi Cartoon Network HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="Kids",Cartoon Network HD Hindi
 https://xfireflix.fun/toffeeWd/live.php?id=206c4fa8e760&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=206c4fa8e760&e=.m3u8
 https://softbd24.com/new/toffee/live.php?id=206c4fa8e760&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=206c4fa8e760=.m3u8
 https://imranapk.site/TG@RANAPKX73/TOXFE/play.php?id=cartoon_network_hd
 
-#EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET_WORLD_HD/images/LOGO_HD/image.png" group-title="Information",Animal Planet HD Hindi
+#EXTINF:-1 tvg-id="Hindi Animal Planet HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET_WORLD_HD/images/LOGO_HD/image.png" group-title="Information",Animal Planet HD Hindi
 http://89.187.179.14/ANMLPLANET/HD/HIN/index.mpd?token=test
 
-#EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD/images/LOGO_HD/image.png" group-title="Information",Investigation Discovery HD Hindi
+#EXTINF:-1 tvg-id="Hindi Investigation Discovery HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD/images/LOGO_HD/image.png" group-title="Information",Investigation Discovery HD Hindi
 https://xfireflix.fun/toffeeWd/live.php?id=6789650f5629&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=6789650f5629&e=.m3u8
 https://softbd24.com/new/toffee/live.php?id=6789650f5629&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=6789650f5629&e=.m3u8
 https://imranapk.site/TG@RANAPKX73/TOXFE/play.php?id=discovary_investigation_hd
@@ -67,26 +67,26 @@ Etv BalBharat Hindi
 Etv BalBharat Gujarati
 
 
-#EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Comedy-Transparent.png" group-title="Entertainment",Tata Play Comedy ts
+#EXTINF:-1 tvg-id="TataPlay Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Comedy-Transparent.png" group-title="Entertainment",Tata Play Comedy ts
 http://line.greatstar.me:80/play/live.php?mac=00:2a:01:90:28:A4&stream=155991&extension=ts
 
-#EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Comedy-Transparent.png" group-title="Entertainment",Tata Play Comedy m3u8
+#EXTINF:-1 tvg-id="TataPlay Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Comedy-Transparent.png" group-title="Entertainment",Tata Play Comedy m3u8
 http://line.greatstar.me:80/play/live.php?mac=00:2a:01:90:28:A4&stream=155991&extension=m3u8
 
 Tata Play Dance Active
 
-#EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Music-Transparent.png" group-title="Music",Tata Play Music
+#EXTINF:-1 tvg-id="TataPlay Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Music-Transparent.png" group-title="Music",Tata Play Music
 http://filex.me:8080/998866/998866/502978
 
 Tata Play Aradhana
 
-#EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="Information",HINDI NATIONAL GEOGRAPHIC HD SunDirectHD
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="Information",HINDI NATIONAL GEOGRAPHIC HD SunDirectHD
 http://89.187.179.14/Nat_Geo_Hin/index.mpd?token=test
 
-#EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-462-j5jw44hk-v2/imageContent-462-j5jw44hk-m3.png" group-title="Information",National Geographic SD                     
+#EXTINF:-1 tvg-id="National Geographic SD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-462-j5jw44hk-v2/imageContent-462-j5jw44hk-m3.png" group-title="Information",National Geographic SD                     
 http://195.181.169.162:80/NAT_GEO_HINDI_HD/index.mpd?token=test
 
-#EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="Information",HINDI NAT GEO WILD HD DishTV
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="Information",HINDI NAT GEO WILD HD DishTV
 http://89.187.179.14/NATGEOWILD/INDI/HIN/index.mpd?token=test
 
 #EXTINF:-1 tvg-id="Star Sports 3 Multi" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31405-jm2isen4-v1/imageContent-31405-jm2isen4-m1.png" group-title="Sports",Star Sports 3 Tata Play Multi Language
