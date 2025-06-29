@@ -17,13 +17,13 @@ steps:
   env:  
     FILE_URL: ${{ secrets.ARTL_FILE_URL }}  
   run: |  
-    curl -o artl.m3u $FILE_URL  
+    curl -o AirtelIPTV $FILE_URL  
 
 - name: Commit and push changes  
   env:  
     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
   run: |  
-    git config --global user.name "github-actions[bot]"  
+    git config --global user.name "geekyhimanshu"  
     git config --global user.email "github-actions[bot]@users.noreply.github.com"  
     git add artl.m3u  
     git commit -m "Update artl.m3u file"  
