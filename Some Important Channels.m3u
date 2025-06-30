@@ -61,64 +61,6 @@ Etv BalBharat Hindi
 Etv BalBharat Gujarati
 
 
-#EXTINF:-1 tvg-id="Hindi &Flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png" group-title="Movies",Hindi &Flix HD ts
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:A7:51:3D&stream=155990&extension=ts
-
-#EXTINF:-1 tvg-id="Hindi &Flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png" group-title="Movies",Hindi &Flix HD m3u8
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:A7:51:3D&stream=155990&extension=m3u8
-
-
-#EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",Disney Channel HD ts
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:A7:51:3D&stream=1110627&extension=ts
-
-#EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",Disney Channel HD m3u8
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:A7:51:3D&stream=1110627&extension=m3u8
-
-
-#EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment" ,Hindi Sony BBC Earth HD ts Airtel line.gofast
-http://line.greatstar.me:80/play/live.php?mac=00:2a:01:90:28:A4&stream=156012&extension=ts
-
-#EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment" ,Hindi Sony BBC Earth HD m3u8 Airtel line.gofast
-http://line.greatstar.me:80/play/live.php?mac=00:2a:01:90:28:A4&stream=156012&extension=m3u8
-
-
-#EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies" ,Hindi Sony Pix HD ts Airtel line.gofast
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:A7:51:3D&stream=156004&extension=ts
-
-#EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies" ,Hindi Sony Pix HD m3u8 Airtel line.gofast
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:A7:51:3D&stream=156004&extension=m3u8
-
-
-#EXTINF:-1 tvg-id="TataPlay Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Comedy-Transparent.png" group-title="Entertainment",Tata Play Comedy ts
-http://line.greatstar.me:80/play/live.php?mac=00:2a:01:90:28:A4&stream=155991&extension=ts
-
-#EXTINF:-1 tvg-id="TataPlay Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Comedy-Transparent.png" group-title="Entertainment",Tata Play Comedy m3u8
-http://line.greatstar.me:80/play/live.php?mac=00:2a:01:90:28:A4&stream=155991&extension=m3u8
-
-
-#EXTINF:-1 tvg-id="Sony Sab USA" tvg-logo="http://www.luckonline.eu:80/images/de39b781baec9e216df1c329ca966f0f.png" group-title="Entertainment",Sony Sab USA ts
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:A7:51:3D&stream=157162&extension=ts
-&play_token=vBWetCdr8X
-
-#EXTINF:-1 tvg-id="Sony Sab USA" tvg-logo="http://www.luckonline.eu:80/images/de39b781baec9e216df1c329ca966f0f.png" group-title="Entertainment",Sony Sab USA m3u8
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:A7:51:3D&stream=157162&extension=m3u8
-&play_token=vBWetCdr8X
-
-#EXTINF:-1 tvg-id="English Disney HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",English Disney HD Tataplay DTH ts
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:A7:51:3D&stream=282634&extension=ts
-
-#EXTINF:-1 tvg-id="English Disney HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",English Disney HD Tataplay DTH m3u8
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:A7:51:3D&stream=282634&extension=m3u8
-
-
-#EXTINF:-1 tvg-id="Zee Cafe HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Entertainment",Zee Cafe HD Airtel ts
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:A7:51:3D&stream=155730&extension=ts
-&play_token=wdzlYP2kjC
-
-#EXTINF:-1 tvg-id="Zee Cafe HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Entertainment",Zee Cafe HD Airtel m3u8
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:A7:51:3D&stream=155730&extension=m3u8
-&play_token=wdzlYP2kjC
-
 Tata Play Dance Active
 
 Tata Play Aradhana
