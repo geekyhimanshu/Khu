@@ -74,6 +74,12 @@ http://195.181.169.162:80/NAT_GEO_HINDI_HD/index.mpd?token=test
 #EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="Information",HINDI NAT GEO WILD HD DishTV
 http://89.187.179.14/NATGEOWILD/INDI/HIN/index.mpd?token=test
 
+#EXTINF:-1 tvg-id="Zee Cafe SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Zeecafe.jpg/640px-Zeecafe.jpg" group-title="Entertainment",Zee Cafe SD Toffee TV
+https://softbd24.com/new/toffee/live.php?id=c65460ba0d73&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=c65460ba0d73&e=.m3u8
+https://xfireflix.fun/toffeeWd/live.php?id=c65460ba0d73&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=c65460ba0d73&e=.m3u8
+https://imranapk.site/TG@RANAPKX73/TOXFE/play.php?id=zee_cafe_hd
+
+
 #EXTINF:-1 tvg-id="Star Sports 3 Multi" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31405-jm2isen4-v1/imageContent-31405-jm2isen4-m1.png" group-title="Sports",Star Sports 3 Tata Play Multi Language
 http://nonamevos.com:80/72582/72582/240
 
