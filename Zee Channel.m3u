@@ -128,6 +128,14 @@ https://la.drmlive.net/tp/zee-zeecafehd.m3u8|user-agent=Mozilla/5.0 (Windows NT 
 #EXTINF:-1 tvg-id="&Prive HD" tvg-id="LIVETV_LIVETVCHANNEL_SYMANDPRIVE_HD" tvg-name="&Prive HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eec7fe0772265fedb969/images/_prive_hd.png",&Prive HD
 https://la.drmlive.net/tp/zee-9z5543514.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="Hindi Zee Cafe HD" ,Hindi Zee Cafe FHD
+http://tigerott.com:8080/75466423/74457211/86076
+
+#EXTINF:-1 tvg-id="Hindi Zee Cafe HD" ,Hindi Zee Cafe HD
+http://tigerott.com:8080/75466423/74457211/86064
+
+#EXTINF:-1 tvg-id="Hindi Zee Cafe HD" ,Hindi Zee Cafe 4K
+http://tigerott.com:8080/75466423/74457211/98848
 
 EXTINF:-1 tvg-id="&Flix SD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eed7033abf53d08e53b0/images/_flix.png",&flix SD
 https://iptv-live-play1.streamready.in/live/media15/and_flix/dashd/and_flix.mpd
