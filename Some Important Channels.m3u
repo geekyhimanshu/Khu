@@ -108,6 +108,9 @@ https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m
 http://filex.me:8080/998866/998866/247163
 
 
+#EXTINF:-1 tvg-id="Hindi Zee Cafe 4k" , Hindi Zee Cafe 4k TataPlay
+http://livetvbox.live:80/Ashraf123/Ashraf321/98848
+
 #EXTINF:-1, tvg-id="Discovery Science SD Hindi" Discovery Science SD Hindi Multi
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/113/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 
