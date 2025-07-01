@@ -134,6 +134,10 @@ http://tigerott.com:8080/75466423/74457211/86076
 #EXTINF:-1 tvg-id="Hindi Zee Cafe HD" ,Hindi Zee Cafe 4k
 http://tigerott.com:8080/75466423/74457211/86064
 
+#EXTINF:-1 tvg-id="Hindi Zee Cafe 4k" , Hindi Zee Cafe 4k TataPlay
+http://livetvbox.live:80/Ashraf123/Ashraf321/98848
+
+
 EXTINF:-1 tvg-id="&Flix SD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eed7033abf53d08e53b0/images/_flix.png",&flix SD
 https://iptv-live-play1.streamready.in/live/media15/and_flix/dashd/and_flix.mpd
 
