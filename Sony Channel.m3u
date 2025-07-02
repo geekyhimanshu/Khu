@@ -9,21 +9,21 @@ http://filex.me:8080/998866/998866/496689|Referer=http://filex.me:8080/998866/99
 https://dish.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8
 
 
-#EXTINF:-1 tvg-id="SET SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment", SONY SAB SD SunDirectGo
+#EXTINF:-1 tvg-id="Sony Sab SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment", SONY SAB SD SunDirectGo
 https://joker-verse.onrender.com/stream/sundirectgo/sonysab?u=joker&p=a6a0fd699fbccffd6443c17cc5bb063bec43c16f210e7c863a4d9daff39ecc5d
 
-#EXTINF:-1 tvg-id="SET SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sab-tv-in.png" group-title="Entertainment", SONY SAB SD Tataplay DTH
+#EXTINF:-1 tvg-id="Sony Sab SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sab-tv-in.png" group-title="Entertainment", SONY SAB SD Tataplay DTH
 http://filex.me:8080/998866/998866/25|Referer=http://filex.me:8080/998866/998866/25
 
 
-#EXTINF:-1 tvg-id="SET SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LOGO_HD/image.png" group-title="Entertainment", Sony SAB HD SonyLiv
+#EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LOGO_HD/image.png" group-title="Entertainment", Sony SAB HD SonyLiv
 https://dish.slivcdn.com/hls/live/2011749-b/SABHD/master.m3u8
 
 
-#EXTINF:-1 tvg-id="SET SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Movies", SONY Max SD SonyLiv
+#EXTINF:-1 tvg-id="Sony Max SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Movies", SONY Max SD SonyLiv
 https://dish.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8
 
-#EXTINF:-1 tvg-id="SET SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX_HD/images/LOGO_HD/image.png" group-title="Movies", Sony MAX HD SonyLiv
+#EXTINF:-1 tvg-id="Sony Max HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX_HD/images/LOGO_HD/image.png" group-title="Movies", Sony MAX HD SonyLiv
 https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
 
 
