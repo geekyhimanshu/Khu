@@ -45,7 +45,7 @@ http://line.gofast-tv.me/play/live.php?mac=00:1a:79:c2:e2:c9&stream=156004&exten
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:c2:e2:c9&stream=156004&extension=m3u8
 
 
-#EXTINF:-1, Sony Max 1 SunDirectGo
+#EXTINF:-1 tvg-id="Sony Max 1" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/SONYMAX1_Poster_c3d9bf7c-c428-4ed8-8140-81e6d8b142a8.png" group-title="­Movies",Sony Max 1 SunDirectGo
 https://joker-verse.onrender.com/stream/sundirectgo/sonysab?u=joker&p=a6a0fd699fbccffd6443c17cc5bb063bec43c16f210e7c863a4d9daff39ecc5d
 
 
