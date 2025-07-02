@@ -98,7 +98,7 @@ https://la.drmlive.net/tp/zee-bigganga.m3u8|user-agent=Mozilla/5.0 (Windows NT 1
 #EXTINF:-1 tvg-id="Zoom" tvg-name="ZOOM" tvg-type="Music" group-title="ZEE5" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png",ZOOM
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 
-
+#KODIPROP:inputstream.adaptive.license_type=widevine
 #EXTINF:-1 tvg-id="Zee Cafe SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Zeecafe.jpg/640px-Zeecafe.jpg" group-title="Entertainment",Zee Cafe SD Toffee TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://bd.drmlive.net/toffee/cdn/live/zee_cafe_hd/playlist.m3u8|Referer=https://bd.drmlive.net/toffee/cdn/live/zee_cafe_hd/playlist.m3u8
