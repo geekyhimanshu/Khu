@@ -4,15 +4,18 @@
 
 #EXTINF:-1 tvg-id="Etv Balbharat SD" tvg-logo="https://assets.etvbalbharat.com/languageimages/ETV_GUJARATHI.png" group-title="Kids",ETV BalBharat SD Gujarati
 http://astv.life:8080/anil%40123/anil%40123/220750
-http://astv.life:8080/live/anil%40123/anil%40123/220750.ts
+#EXTINF:-1 tvg-id="Etv Balbharat SD" tvg-logo="https://assets.etvbalbharat.com/languageimages/ETV_GUJARATHI.png" group-title="Kids",ETV BalBharat SD Gujarati m3u8
+http://astv.life:8080/live/anil%40123/anil%40123/220750.m3u8
 
 #EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",Disney HD Multi Language
 http://astv.life:8080/anil%40123/anil%40123/137794
-http://astv.life:8080/live/anil%40123/anil%40123/137794.ts
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",Disney HD Multi Language m3u8
+http://astv.life:8080/live/anil%40123/anil%40123/137794.m3u8
 
 #EXTINF:-1 tvg-id="Hindi Zee Cafe HD" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/3442d493-0c71-44b9-b12f-8e600d5eab91.png" group-title="Entertainment",Zee Cafe HD Tataplay Multi Language
 http://astv.life:8080/anil%40123/anil%40123/138860
-http://astv.life:8080/live/anil%40123/anil%40123/138860.ts
+#EXTINF:-1 tvg-id="Hindi Zee Cafe HD" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/3442d493-0c71-44b9-b12f-8e600d5eab91.png" group-title="Entertainment",Zee Cafe HD Tataplay Multi Language m3u8
+http://astv.life:8080/live/anil%40123/anil%40123/138860.m3u8
 
 
 Zee Cafe HD Hindi Multi
@@ -75,6 +78,8 @@ https://imranapk.site/TG@RANAPKX73/TOXFE/play.php?id=zee_cafe_hd
 
 #EXTINF:-1 tvg-id="Star Sports 3 Multi" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31405-jm2isen4-v1/imageContent-31405-jm2isen4-m1.png" group-title="Sports",Star Sports 3 Tata Play Multi Language
 http://nonamevos.com:80/72582/72582/240
+#EXTINF:-1 tvg-id="Star Sports 3 Multi" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31405-jm2isen4-v1/imageContent-31405-jm2isen4-m1.png" group-title="Sports",Star Sports 3 Tata Play Multi Language
+http://nonamevos.com:80/live/72582/72582/240.m3u8
 
 #EXTINF:-1 tvg-id="ts744" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Comedy-Transparent.png" group-title="Hindi Entertainment",Tata Play Comedy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -85,10 +90,13 @@ http://103.168.18.108/tpo/manifest.mpd?id=744
 
 #EXTINF:-1 tvg-id="TataPlay Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Music-Transparent.png" group-title="Music",Tata Play Music
 http://filex.me:8080/998866/998866/502978
-
+#EXTINF:-1 tvg-id="TataPlay Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Music-Transparent.png" group-title="Music",Tata Play Music m3u8
+http://filex.me:8080/live/998866/998866/502978.m3u8
 
 #EXTINF:-1 tvg-id="Zee Classic" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee Classic.png" group-title="Movies",Zee Classic Tataplay DTH
 http://filex.me:8080/998866/998866/275061
+#EXTINF:-1 tvg-id="Zee Classic" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee Classic.png" group-title="Movies",Zee Classic Tataplay DTH m3u8
+http://filex.me:8080/live/998866/998866/275061.m3u8
 
 #EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="Sports",Ten Cricket
 https://xfireflix.fun/toffeeWd/live.php?id=f76c7eb00da0&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=f76c7eb00da0&e=.m3u8
@@ -98,6 +106,8 @@ https://imranapk.site/TG@RANAPKX73/TOXFE/play.php?id=ten_cricket
 
 #EXTINF:-1 tvg-id="English &Flix SD" tvg-logo="https://img.logo-cdn.cc/andflix.png" group-title="Movies",English &Flix SD
 http://filex.me:8080/998866/998866/55
+#EXTINF:-1 tvg-id="English &Flix SD" tvg-logo="https://img.logo-cdn.cc/andflix.png" group-title="Movies",English &Flix SD m3u8
+http://filex.me:8080/live/998866/998866/55.m3u8
 
 #EXTINF:-1 tvg-id="English &Flix SD" tvg-logo="https://yt3.googleusercontent.com/Ktusknr8uKCVvjlnuJdXKJlsjN9Lv_-RGJWseGTd3DnuuMWcYKKgEUzXTlUWqSdQyyRER2si2A=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",English &Flix SD PeoTV Go
 https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
@@ -109,6 +119,15 @@ http://filex.me:8080/998866/998866/247163
 
 #EXTINF:-1 tvg-id="Hindi Zee Cafe 4k" , Hindi Zee Cafe 4k TataPlay
 http://livetvbox.live:80/Ashraf123/Ashraf321/98848
+#EXTINF:-1 tvg-id="Hindi Zee Cafe 4k" , Hindi Zee Cafe 4k TataPlay
+http://livetvbox.live:80/live/Ashraf123/Ashraf321/98848.m3u8
+
+#EXTINF:-1 tvg-id="Hindi &Flix HD" ,Hindi &Flix 4K
+http://livetvbox.live:8080/Ashraf123/Ashraf321/98841
+
+#EXTINF:-1 tvg-id="Hindi &Flix HD" ,Hindi &Flix 4K m3u8
+http://livetvbox.live:8080/live/Ashraf123/Ashraf321/98841.m3u8
+
 
 #EXTINF:-1, tvg-id="Discovery Science SD Hindi" Discovery Science SD Hindi Multi
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/113/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
