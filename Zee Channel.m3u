@@ -98,6 +98,20 @@ https://la.drmlive.net/tp/zee-bigganga.m3u8|user-agent=Mozilla/5.0 (Windows NT 1
 #EXTINF:-1 tvg-id="Zoom" tvg-name="ZOOM" tvg-type="Music" group-title="ZEE5" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png",ZOOM
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 
+
+#EXTINF:-1 tvg-id="Hindi Zee Cafe HD" ,Hindi Zee Cafe FHD
+http://tigerott.com:8080/75466423/74457211/86076
+
+#EXTINF:-1 tvg-id="Hindi Zee Cafe HD" ,Hindi Zee Cafe 4k
+http://tigerott.com:8080/75466423/74457211/86064
+
+#EXTINF:-1 tvg-id="Hindi Zee Cafe 4k" , Hindi Zee Cafe 4k TataPlay
+http://livetvbox.live:80/Ashraf123/Ashraf321/98848
+
+#EXTINF:-1 tvg-id="Hindi Zee Cafe 4k" , Hindi Zee Cafe 4k TataPlay m3u8
+http://livetvbox.live:80/live/Ashraf123/Ashraf321/98848.m3u8
+
+
 #EXTINF:-1 tvg-id="Hindi &Flix HD" ,Hindi &Flix 4K
 http://livetvbox.live:8080/Ashraf123/Ashraf321/98841
 
@@ -109,16 +123,15 @@ http://livetvbox.live:8080/live/Ashraf123/Ashraf321/98841.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="Zee Cafe SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Zeecafe.jpg/640px-Zeecafe.jpg" group-title="Entertainment",Zee Cafe SD Toffee TV
 https://bd.drmlive.net/toffee/cdn/live/zee_cafe_hd/playlist.m3u8|?%7CReferer=https://bd.drmlive.net/toffee/cdn/live/zee_cafe_hd/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://softbd24.com/new/toffee/live.php?id=c65460ba0d73&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=c65460ba0d73&e=.m3u8
 
 #EXTINF:-1 tvg-id="Hindi Zee Cafe HD" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/3442d493-0c71-44b9-b12f-8e600d5eab91.png" group-title="Entertainment",Zee Cafe HD Tataplay Multi Language
 http://astv.life:8080/anil%40123/anil%40123/138860
 
 #EXTINF:-1 tvg-id="Hindi &Flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png" group-title="Movies",Hindi &Flix HD ts
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:c2:e2:c9&stream=155990&extension=ts
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C1:A1:5B&stream=155990&extension=ts
 
 #EXTINF:-1 tvg-id="Hindi &Flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png" group-title="Movies",Hindi &Flix HD m3u8
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:c2:e2:c9&stream=155990&extension=m3u8
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C1:A1:5B&stream=155990&extension=m3u8
 
 
 #EXTINF:-1 tvg-id="English &Flix SD" tvg-logo="https://img.logo-cdn.cc/andflix.png" group-title="Movies",English &Flix SD
@@ -137,22 +150,8 @@ https://la.drmlive.net/tp/zee-zeecafehd.m3u8|user-agent=Mozilla/5.0 (Windows NT 
 #EXTINF:-1 tvg-id="&Prive HD" tvg-id="LIVETV_LIVETVCHANNEL_SYMANDPRIVE_HD" tvg-name="&Prive HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eec7fe0772265fedb969/images/_prive_hd.png",&Prive HD
 https://la.drmlive.net/tp/zee-9z5543514.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="Hindi Zee Cafe HD" ,Hindi Zee Cafe FHD
-http://tigerott.com:8080/75466423/74457211/86076
-
-#EXTINF:-1 tvg-id="Hindi Zee Cafe HD" ,Hindi Zee Cafe 4k
-http://tigerott.com:8080/75466423/74457211/86064
-
-#EXTINF:-1 tvg-id="Hindi Zee Cafe 4k" , Hindi Zee Cafe 4k TataPlay
-http://livetvbox.live:80/Ashraf123/Ashraf321/98848
-
-
-EXTINF:-1 tvg-id="&Flix SD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eed7033abf53d08e53b0/images/_flix.png",&flix SD
-https://iptv-live-play1.streamready.in/live/media15/and_flix/dashd/and_flix.mpd
-
-EXTINF:-1 tvg-id="Zee Cafe SD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978fd9b315d22c1f8102e/images/zee_cafe.png",Zee Cafe SD
-https://iptv-live-play1.streamready.in/live/media12/zee_cafe/dashd/zee_cafe.mpd
-
+#EXTINF:-1 tvg-id="Zee Cafe SD" ,Zee Cafe SD softbd24
+https://softbd24.com/new/toffee/live.php?id=c65460ba0d73&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=c65460ba0d73&e=.m3u8
 
 
 #EXTINF:-1, ZEE ZEST HD 195.181.169.162
@@ -752,6 +751,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/Zeetvhd.m3u8
 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/andtvhd.m3u8
 
+EXTINF:-1 tvg-id="&Flix SD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eed7033abf53d08e53b0/images/_flix.png",&flix SD
+https://iptv-live-play1.streamready.in/live/media15/and_flix/dashd/and_flix.mpd
+
+EXTINF:-1 tvg-id="Zee Cafe SD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978fd9b315d22c1f8102e/images/zee_cafe.png",Zee Cafe SD
+https://iptv-live-play1.streamready.in/live/media12/zee_cafe/dashd/zee_cafe.mpd
 
 
 
