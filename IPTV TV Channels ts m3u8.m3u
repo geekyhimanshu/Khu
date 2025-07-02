@@ -56,6 +56,13 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=155730&ex
 #EXTINF:-1 tvg-id="Zee Cafe HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Entertainment",Zee Cafe HD Airtel m3u8
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=155730&extension=m3u8
 
+#EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies" ,Hindi Sony Pix HD ts Airtel line.gofast
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:C9:AF:CF&stream=156004&extension=ts
+
+#EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies" ,Hindi Sony Pix HD m3u8 Airtel line.gofast
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:C9:AF:CF&stream=156004&extension=m3u8
+
+
 #EXTINF:-1 tvg-id="Zee Classic" ,Zee Classic ts Airtel 
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=311858&extension=ts
 
