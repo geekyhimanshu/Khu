@@ -112,10 +112,10 @@ https://dish.slivcdn.com/hls/live/2020590-b/TEN2SD/master.m3u8
 #EXTINF:-1 tvg-id="Sony Sab SD" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png",Sony Sab SD TataPlay
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/559/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 
-#EXTINF:-1 Hindi Sony BBC Earth HD TataPlay DTH m3u8
+#EXTINF:-1 tvg-id="Sony Sab SD",Hindi Sony BBC Earth HD TataPlay DTH m3u8
 http://webhop.xyz/live/Ashraf123/Ashraf321/9396.m3u8
 
-#EXTINF:-1 Hindi Sony BBC Earth HD TataPlay DTH
+#EXTINF:-1 tvg-id="Sony Sab SD",Hindi Sony BBC Earth HD TataPlay DTH
 http://webhop.xyz/Ashraf123/Ashraf321/9396
 
 #EXTINF:-1 tvg-id="Hindi Sony BBC Earth HD" , DishTV Hindi Sony BBC Earth HD ts
