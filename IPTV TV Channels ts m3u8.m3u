@@ -37,11 +37,11 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=155991&ex
 
 #EXTINF:-1 tvg-id="Sony Sab USA" tvg-logo="http://www.luckonline.eu:80/images/de39b781baec9e216df1c329ca966f0f.png" group-title="Entertainment",Sony Sab USA ts
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C1:A1:5B&stream=157162&extension=ts
-&play_token=vBWetCdr8X
+
 
 #EXTINF:-1 tvg-id="Sony Sab USA" tvg-logo="http://www.luckonline.eu:80/images/de39b781baec9e216df1c329ca966f0f.png" group-title="Entertainment",Sony Sab USA m3u8
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C1:A1:5B&stream=157162&extension=m3u8
-&play_token=vBWetCdr8X
+
 
 #EXTINF:-1 tvg-id="English Disney HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",English Disney HD Tataplay DTH ts
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C1:A1:5B&stream=282634&extension=ts
@@ -52,27 +52,24 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C1:A1:5B&stream=282634&ex
 
 #EXTINF:-1 tvg-id="Zee Cafe HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Entertainment",Zee Cafe HD Airtel ts
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C1:A1:5B&stream=155730&extension=ts
-&play_token=wdzlYP2kjC
 
 #EXTINF:-1 tvg-id="Zee Cafe HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Entertainment",Zee Cafe HD Airtel m3u8
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C1:A1:5B&stream=155730&extension=m3u8
-&play_token=wdzlYP2kjC
 
 #EXTINF:-1 tvg-id="Zee Classic" ,Zee Classic ts Airtel 
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C1:A1:5B&stream=311858&extension=ts
-&play_token=R0hgo8jrj9
 
 #EXTINF:-1 tvg-id="Zee Classic" , Zee Classic m3u8 Airtel
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C1:A1:5B&stream=311858&extension=m3u8
-&play_token=R0hgo8jrj9
+
 
 #EXTINF:-1 tvg-id="Hindi Sony BBC Earth HD" , DishTV Hindi Sony BBC Earth HD ts
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C1:A1:5B&stream=1118064&extension=ts
-&play_token=s1eiZrdsry
+
 
 #EXTINF:-1 tvg-id="Hindi Sony BBC Earth HD" , DishTV Hindi Sony BBC Earth HD m3u8
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C1:A1:5B&stream=1118064&extension=m3u8
-&play_token=s1eiZrdsry
+
 
 
 
