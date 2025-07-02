@@ -10,8 +10,7 @@ https://dish.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8
 
 
 #EXTINF:-1 tvg-id="SET SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment", SONY SAB SD SunDirectGo
-https://joker-verse-secured-ce0bb38121e0.herokuapp.com:443/stream/sundirectgo/sonysab?u=joker&p=a6a0fd699fbccffd6443c17cc5bb063bec43c16f210e7c863a4d9daff39ecc5d
-
+https://joker-verse.onrender.com/stream/sundirectgo/sonysab?u=joker&p=a6a0fd699fbccffd6443c17cc5bb063bec43c16f210e7c863a4d9daff39ecc5d
 
 #EXTINF:-1 tvg-id="SET SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sab-tv-in.png" group-title="Entertainment", SONY SAB SD Tataplay DTH
 http://filex.me:8080/998866/998866/25|Referer=http://filex.me:8080/998866/998866/25
@@ -528,7 +527,8 @@ https://re.fredflix.fun/AOIT/live.php?id=sonysab_hd&e=.m3u8|Referer=https://re.f
 Sony Pix SD
 https://re.fredflix.fun/AOIT/live.php?id=sonypix_hd&e=.m3u8|Referer=https://re.fredflix.fun/AOIT/live.php?id=sonypix_hd&e=.m3u8
 
-
+Sony Sab SD
+https://joker-verse-secured-ce0bb38121e0.herokuapp.com:443/stream/sundirectgo/sonysab?u=joker&p=a6a0fd699fbccffd6443c17cc5bb063bec43c16f210e7c863a4d9daff39ecc5d
 
 
 
