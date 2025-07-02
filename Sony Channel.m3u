@@ -45,16 +45,8 @@ http://line.gofast-tv.me/play/live.php?mac=00:1a:79:c2:e2:c9&stream=156004&exten
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:c2:e2:c9&stream=156004&extension=m3u8
 
 
-
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzfbmDpUTHxO/sgo/widevine/getlicense?id=143247
-#EXTINF:-1 tvg-id="762" tvg-name="Sony Pix HD" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" tvg-chno="762" group-title="Movies - Hindi",Sony Pix HD SunDirectGo
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://sundirectgo-live.pc.cdn.bitgravity.com/hd24/dth.mpd
-
-
 #EXTINF:-1, Sony Max 1 SunDirectGo
-https://joker-verse-secured-ce0bb38121e0.herokuapp.com/stream/sundirectgo/sonymax1?u=joker&p=a6a0fd699fbccffd6443c17cc5bb063bec43c16f210e7c863a4d9daff39ecc5d
+https://joker-verse.onrender.com/stream/sundirectgo/sonysab?u=joker&p=a6a0fd699fbccffd6443c17cc5bb063bec43c16f210e7c863a4d9daff39ecc5d
 
 
 #EXTINF:-1 tvg-id="Sony Max 2" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies", Sony MAX 2 SonyLiv
@@ -530,8 +522,14 @@ https://re.fredflix.fun/AOIT/live.php?id=sonypix_hd&e=.m3u8|Referer=https://re.f
 Sony Sab SD
 https://joker-verse-secured-ce0bb38121e0.herokuapp.com:443/stream/sundirectgo/sonysab?u=joker&p=a6a0fd699fbccffd6443c17cc5bb063bec43c16f210e7c863a4d9daff39ecc5d
 
+KODIPROP:inputstream.adaptive.license_type=widevine
+KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzfbmDpUTHxO/sgo/widevine/getlicense?id=143247
+EXTINF:-1 tvg-id="762" tvg-name="Sony Pix HD" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" tvg-chno="762" group-title="Movies - Hindi",Sony Pix HD SunDirectGo
+EXTVLCOPT:http-user-agent=Safari/537.36
+https://sundirectgo-live.pc.cdn.bitgravity.com/hd24/dth.mpd
 
-
+Sony Max 1
+https://joker-verse-secured-ce0bb38121e0.herokuapp.com/stream/sundirectgo/sonymax1?u=joker&p=a6a0fd699fbccffd6443c17cc5bb063bec43c16f210e7c863a4d9daff39ecc5d
 
 
 
