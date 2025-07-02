@@ -120,11 +120,11 @@ http://webhop.xyz/Ashraf123/Ashraf321/9396
 
 #EXTINF:-1 tvg-id="Hindi Sony BBC Earth HD" , DishTV Hindi Sony BBC Earth HD ts
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C1:A1:5B&stream=1118064&extension=ts
-&play_token=s1eiZrdsry
+
 
 #EXTINF:-1 tvg-id="Hindi Sony BBC Earth HD" , DishTV Hindi Sony BBC Earth HD m3u8
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C1:A1:5B&stream=1118064&extension=m3u8
-&play_token=s1eiZrdsry
+
 
 #EXTINF:-1 tvg-id="Set SD" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12074-j9oat6qw-v6/imageContent-12074-j9oat6qw-m6.png",Sony SD Tataplay
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/556/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
