@@ -118,6 +118,8 @@ http://webhop.xyz/live/Ashraf123/Ashraf321/9396.m3u8
 #EXTINF:-1 tvg-id="Sony Sab SD",Hindi Sony BBC Earth HD TataPlay DTH
 http://webhop.xyz/Ashraf123/Ashraf321/9396
 
+#EXTINF:-1 tvg-id="Sony Max 1",Sony Max 1 TataPlay DTH
+http://filex.me:8080/4585/4585/512328
 
 #EXTINF:-1 tvg-id="Sony Pix HD Hindi",Sony Pix HD Hindi TataPlay DTH
 http://filex.me:8080/4585/4585/275048
