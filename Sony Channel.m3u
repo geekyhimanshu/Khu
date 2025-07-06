@@ -82,7 +82,7 @@ https://dish.slivcdn.com/hls/live/2011748-b/PIXHD/master.m3u8
 https://dish.slivcdn.com/hls/live/2020434-b/TEN2HD/master.m3u8
 
 
-#EXTINF:-1 tvg-id="Sony Wah" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies", Sony WAH SonyLiv zee
+#EXTINF:-1 tvg-id="Sony Wah" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies", Sony WAH SonyLiv
 https://dish.slivcdn.com/hls/live/2011906-b/SonyWah/master.m3u8
 
 #EXTINF:-1 tvg-id="Sony Pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment", Sony PAL SonyLiv
