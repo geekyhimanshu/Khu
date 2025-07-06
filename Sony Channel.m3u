@@ -118,6 +118,10 @@ http://webhop.xyz/live/Ashraf123/Ashraf321/9396.m3u8
 #EXTINF:-1 tvg-id="Sony Sab SD",Hindi Sony BBC Earth HD TataPlay DTH
 http://webhop.xyz/Ashraf123/Ashraf321/9396
 
+
+#EXTINF:-1 tvg-id="Sony Pix HD Hindi",Sony Pix HD Hindi TataPlay DTH
+http://filex.me:8080/4585/4585/275048
+
 #EXTINF:-1 tvg-id="Hindi Sony BBC Earth HD" , DishTV Hindi Sony BBC Earth HD ts
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=1118064&extension=ts
 
