@@ -139,6 +139,8 @@ http://livetvbox.live:8080/Ashraf123/Ashraf321/98841
 #EXTINF:-1 tvg-id="Hindi &Flix HD" ,Hindi &Flix 4K m3u8
 http://livetvbox.live:8080/live/Ashraf123/Ashraf321/98841.m3u8
 
+#EXTINF:-1 tvg-id="Sony Pix HD Hindi",Sony Pix HD Hindi TataPlay DTH
+http://filex.me:8080/4585/4585/275048
 
 #EXTINF:-1, tvg-id="Discovery Science SD Hindi" Discovery Science SD Hindi Multi
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/113/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
