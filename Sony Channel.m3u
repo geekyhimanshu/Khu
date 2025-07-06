@@ -31,17 +31,17 @@ https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
 https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
 
 
-#EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment" ,Hindi Sony BBC Earth HD ts Airtel line.gofast
+#EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment" ,Hindi Sony BBC Earth HD livetvbox
 http://webhop.xyz/Ashraf123/Ashraf321/9396
 
-#EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment" ,Hindi Sony BBC Earth HD m3u8 Airtel line.gofast
+#EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment" ,Hindi Sony BBC Earth HD m3u8 livetvbox
 http://webhop.xyz/live/Ashraf123/Ashraf321/9396.m3u8
 
 
-#EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies" ,Hindi Sony Pix HD ts Airtel line.gofast
+#EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies" ,Hindi Sony Pix HD livetvbox
 http://filex.me:8080/4585/4585/275048
 
-#EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies" ,Hindi Sony Pix HD m3u8 Airtel line.gofast
+#EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies" ,Hindi Sony Pix HD m3u8 livetvbox
 http://filex.me:8080/live/4585/4585/275048.m3u8
 
 
