@@ -32,17 +32,17 @@ https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment" ,Hindi Sony BBC Earth HD ts Airtel line.gofast
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=156012&extension=ts
+http://webhop.xyz/Ashraf123/Ashraf321/9396
 
 #EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment" ,Hindi Sony BBC Earth HD m3u8 Airtel line.gofast
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=156012&extension=m3u8
+http://webhop.xyz/live/Ashraf123/Ashraf321/9396.m3u8
 
 
 #EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies" ,Hindi Sony Pix HD ts Airtel line.gofast
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:C9:AF:CF&stream=156004&extension=ts
+http://filex.me:8080/4585/4585/275048
 
 #EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies" ,Hindi Sony Pix HD m3u8 Airtel line.gofast
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:C9:AF:CF&stream=156004&extension=m3u8
+http://filex.me:8080/live/4585/4585/275048.m3u8
 
 
 #EXTINF:-1 tvg-id="Sony Max 1" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/SONYMAX1_Poster_c3d9bf7c-c428-4ed8-8140-81e6d8b142a8.png" group-title="­Movies",Sony Max 1 SunDirectGo
@@ -65,19 +65,19 @@ https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8
 https://dish.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
 
 
-#EXTINF:-1 tvg-id="English Sony BBC Earth SD" tvg-name="Sony BBC earth" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f5e6033abf53d08e9e78/images/sony_bbc_earth.png",Sony BBC Earth SD English TataPlay
+#EXTINF:-1 tvg-id="English Sony BBC Earth SD" tvg-name="Sony BBC earth" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SOBB_BoxCover-v6/SOBB_BoxCover.jpg",Sony BBC Earth SD English TataPlay
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/158/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 
 
-#EXTINF:-1 tvg-id="SONY_PIX_SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579791fac7f66229607bd43/images/sony_pix.png",SONY PIX SD English Toffee TV
+#EXTINF:-1 tvg-id="SONY_PIX_SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12078-j9obub60-v7/imageContent-12078-j9obub60-m6.jpg",SONY PIX SD English Toffee TV
 https://xfireflix.fun/toffeeWd/live.php?id=ea02096b0fbc&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=ea02096b0fbc&e=.m3u8
 https://softbd24.com/new/toffee/live.php?id=ea02096b0fbc&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=ea02096b0fbc&e=.m3u8
 
 
-#EXTINF:-1 tvg-id="English SONY_BBC_EARTH_HD" tvg-name="Sony BBC earth HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978f7359b7130a1f49b64/images/sony_bbc_earth_hd.png",Sony BBC earth HD English SonyLiv
+#EXTINF:-1 tvg-id="English SONY_BBC_EARTH_HD" tvg-name="Sony BBC earth HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SOBBHD1_BoxCover-v4/SOBBHD1_BoxCover.jpg",Sony BBC earth HD English SonyLiv
 https://dish.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8
 
-#EXTINF:-1 tvg-id="English SONY_PIX_HD" tvg-name="Sony Pix HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657979346e4f8a5dd3d181ee/images/sony_pix_hd.png",Sony Pix HD English SonyLiv
+#EXTINF:-1 tvg-id="English SONY_PIX_HD" tvg-name="Sony Pix HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-91-j5fjv614-v3/imageContent-91-j5fjv614-m3.jpg",Sony Pix HD English SonyLiv
 https://dish.slivcdn.com/hls/live/2011748-b/PIXHD/master.m3u8
 
 
@@ -109,20 +109,25 @@ https://dish.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8
 https://dish.slivcdn.com/hls/live/2020590-b/TEN2SD/master.m3u8
 
 
+
 #EXTINF:-1 tvg-id="Sony Sab SD" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png",Sony Sab SD TataPlay
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/559/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 
-#EXTINF:-1 tvg-id="Sony Sab SD",Hindi Sony BBC Earth HD TataPlay DTH m3u8
-http://webhop.xyz/live/Ashraf123/Ashraf321/9396.m3u8
+#EXTINF:-1 tvg-id="Sony BBC Earth HD",Hindi Sony BBC Earth HD TataPlay DTH m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=156012&extension=m3u8
 
-#EXTINF:-1 tvg-id="Sony Sab SD",Hindi Sony BBC Earth HD TataPlay DTH
-http://webhop.xyz/Ashraf123/Ashraf321/9396
+#EXTINF:-1 tvg-id="Sony BBC Earth HD",Hindi Sony BBC Earth HD TataPlay DTH
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=156012&extension=ts
+
 
 #EXTINF:-1 tvg-id="Sony Max 1",Sony Max 1 TataPlay DTH
 http://filex.me:8080/4585/4585/512328
 
 #EXTINF:-1 tvg-id="Sony Pix HD Hindi",Sony Pix HD Hindi TataPlay DTH
-http://filex.me:8080/4585/4585/275048
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:C9:AF:CF&stream=156004&extension=ts
+
+#EXTINF:-1 tvg-id="Sony Pix HD Hindi",Sony Pix HD Hindi m3u8 TataPlay DTH
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:C9:AF:CF&stream=156004&extension=m3u8
 
 #EXTINF:-1 tvg-id="Hindi Sony BBC Earth HD" , DishTV Hindi Sony BBC Earth HD ts
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=1118064&extension=ts
