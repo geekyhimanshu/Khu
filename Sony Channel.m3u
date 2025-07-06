@@ -8,9 +8,6 @@ https://xfireflix.fun/toffeeWd/live.php?id=243771d9592c&e=.m3u8|Referer=https://
 https://dish.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8
 
 
-#EXTINF:-1 tvg-id="Sony Sab SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment", SONY SAB SD SunDirectGo
-https://sundirectgo.joker-verse.workers.dev:443/joker.mpd?id=src72&uid=863663110&pass=9f9974a1
-
 #EXTINF:-1 tvg-id="Sony Sab SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sab-tv-in.png" group-title="Entertainment", SONY SAB SD Tataplay DTH
 http://filex.me:8080/998866/998866/25|Referer=http://filex.me:8080/998866/998866/25
 
@@ -44,9 +41,8 @@ http://filex.me:8080/4585/4585/275048
 http://filex.me:8080/live/4585/4585/275048.m3u8
 
 
-#EXTINF:-1 tvg-id="Sony Max 1" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/SONYMAX1_Poster_c3d9bf7c-c428-4ed8-8140-81e6d8b142a8.png" group-title="­Movies",Sony Max 1 SunDirectGo
-https://joker-verse.onrender.com/stream/sundirectgo/sonymax1?u=joker&p=a6a0fd699fbccffd6443c17cc5bb063bec43c16f210e7c863a4d9daff39ecc5d
-
+#EXTINF:-1 tvg-id="Sony Max 1" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/SONYMAX1_Poster_c3d9bf7c-c428-4ed8-8140-81e6d8b142a8.png" group-title="­Movies",Sony Max 1 TataPlay DTH
+http://filex.me:8080/4585/4585/512328
 
 #EXTINF:-1 tvg-id="Sony Max 2" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies", Sony MAX 2 SonyLiv
 https://dish.slivcdn.com/hls/live/2011908-b/MAX2/master.m3u8
@@ -109,9 +105,6 @@ https://dish.slivcdn.com/hls/live/2020590-b/TEN2SD/master.m3u8
 
 #EXTINF:-1 tvg-id="Sony SAB SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj0NBCeqsaWxY3O0zNeKvGjUPXWQluRmThtQ&s" group-title="Entertainment",Sony SAB SD Toffee TV
 https://xfireflix.fun/toffeeWd/live.php?id=b7167fe646a4&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=b7167fe646a4&e=.m3u8
-
-#EXTINF:-1 tvg-id="Sony Max 1" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/SONYMAX1_Poster_c3d9bf7c-c428-4ed8-8140-81e6d8b142a8.png" group-title="­Movies",Sony Max 1 TataPlay DTH
-http://filex.me:8080/4585/4585/512328
 
 #EXTINF:-1 tvg-id="Sony Set SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET/images/LOGO_HD/image.png" group-title="Entertainment", SET SD Softbd24
 https://softbd24.com/new/toffee/live.php?id=243771d9592c&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=243771d9592c&e=.m3u8
@@ -562,9 +555,13 @@ https://joker-verse-secured-ce0bb38121e0.herokuapp.com/stream/sundirectgo/sonyma
 EXTINF:-1 tvg-id="Sony Pix SD" group-title="Movies" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12080-j9obub60-v6/imageContent-12080-j9obub60-m6.png",Sony Pix SD English TataPlay
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/558/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 
+EXTINF:-1 tvg-id="Sony Sab SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment", SONY SAB SD SunDirectGo
+https://joker-verse.onrender.com/stream/sundirectgo/sonysab?u=joker&p=a6a0fd699fbccffd6443c17cc5bb063bec43c16f210e7c863a4d9daff39ecc5d
+https://sundirectgo.joker-verse.workers.dev:443/joker.mpd?id=src72&uid=863663110&pass=9f9974a1
 
 
-
+EXTINF:-1 tvg-id="Sony Max 1" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/SONYMAX1_Poster_c3d9bf7c-c428-4ed8-8140-81e6d8b142a8.png" group-title="­Movies",Sony Max 1 SunDirectGo
+https://joker-verse.onrender.com/stream/sundirectgo/sonymax1?u=joker&p=a6a0fd699fbccffd6443c17cc5bb063bec43c16f210e7c863a4d9daff39ecc5d
 
 
 
