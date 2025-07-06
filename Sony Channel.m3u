@@ -67,10 +67,8 @@ https://dish.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
 #EXTINF:-1 tvg-id="English Sony BBC Earth SD" tvg-name="Sony BBC earth" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SOBB_BoxCover-v6/SOBB_BoxCover.jpg",Sony BBC Earth SD English TataPlay
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/158/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 
-
 #EXTINF:-1 tvg-id="SONY_PIX_SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12078-j9obub60-v7/imageContent-12078-j9obub60-m6.jpg",SONY PIX SD English Toffee TV
 https://xfireflix.fun/toffeeWd/live.php?id=ea02096b0fbc&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=ea02096b0fbc&e=.m3u8
-https://softbd24.com/new/toffee/live.php?id=ea02096b0fbc&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=ea02096b0fbc&e=.m3u8
 
 
 #EXTINF:-1 tvg-id="English SONY_BBC_EARTH_HD" tvg-name="Sony BBC earth HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SOBBHD1_BoxCover-v4/SOBBHD1_BoxCover.jpg",Sony BBC earth HD English SonyLiv
@@ -109,8 +107,8 @@ https://dish.slivcdn.com/hls/live/2020590-b/TEN2SD/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Sony Sab SD" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png",Sony Sab SD TataPlay
-https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/559/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
+#EXTINF:-1 tvg-id="Sony SAB SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj0NBCeqsaWxY3O0zNeKvGjUPXWQluRmThtQ&s" group-title="Entertainment",Sony SAB SD Toffee TV
+https://xfireflix.fun/toffeeWd/live.php?id=b7167fe646a4&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=b7167fe646a4&e=.m3u8
 
 #EXTINF:-1 tvg-id="Sony Max 1" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/SONYMAX1_Poster_c3d9bf7c-c428-4ed8-8140-81e6d8b142a8.png" group-title="­Movies",Sony Max 1 TataPlay DTH
 http://filex.me:8080/4585/4585/512328
@@ -130,13 +128,17 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:C9:AF:CF&stream=156004&exten
 #EXTINF:-1 tvg-id="Sony Pix HD Hindi",Sony Pix HD Hindi m3u8 line.gofast
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:C9:AF:CF&stream=156004&extension=m3u8
 
+#EXTINF:-1 tvg-id="SONY_PIX_SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12078-j9obub60-v7/imageContent-12078-j9obub60-m6.jpg",SONY PIX SD English Softbd24
+https://softbd24.com/new/toffee/live.php?id=ea02096b0fbc&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=ea02096b0fbc&e=.m3u8
 
+
+
+
+#EXTINF:-1 tvg-id="Sony Sab SD" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png",Sony Sab SD TataPlay
+https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/559/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 
 #EXTINF:-1 tvg-id="Sony SAB SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj0NBCeqsaWxY3O0zNeKvGjUPXWQluRmThtQ&s" group-title="Entertainment",Sony SAB SD Softbd24
 https://softbd24.com/new/toffee/live.php?id=b7167fe646a4&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=b7167fe646a4&e=.m3u8
-
-#EXTINF:-1 tvg-id="Sony SAB SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj0NBCeqsaWxY3O0zNeKvGjUPXWQluRmThtQ&s" group-title="Entertainment",Sony SAB SD Toffee TV
-https://xfireflix.fun/toffeeWd/live.php?id=b7167fe646a4&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=b7167fe646a4&e=.m3u8
 
 #EXTINF:-1 tvg-id="Set SD" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12074-j9oat6qw-v6/imageContent-12074-j9oat6qw-m6.png",Sony SD Tataplay
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/556/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
@@ -151,7 +153,6 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=1118064&e
 
 #EXTINF:-1 tvg-id="SET SD" group-title="Entertainment"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978ac9d8fb452ad919bdf/images/378221101.webp",SET SD Tataplay DTH
 http://filex.me:8080/998866/998866/496689|Referer=http://filex.me:8080/998866/998866/496689
-
 
 #EXTINF:-1, SONY BBC EARTH SD Hindi
 http://14.192.144.13:8000/play/a06w
