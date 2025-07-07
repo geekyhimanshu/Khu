@@ -5,7 +5,7 @@
 #KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
 #EXTINF:-1 tvg-id="4459" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png" group-title="JSTAR+Sports",Star Sports 1 Hindi HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6
-#EXTHTTP:{"cookie":"__hdnea__=st=1751887310~exp=1751973710~acl=/*~hmac=d6b76e24ef3239b82b2897525bfb04a1ad17b8664345a2e4a3dc89a6e882b11b"}
+#EXTHTTP:__hdnea__=st=1751887310~exp=1751973710~acl=/*~hmac=d6b76e24ef3239b82b2897525bfb04a1ad17b8664345a2e4a3dc89a6e882b11b
 https://game.denver1769.fun/Jtv/O2s0Sl/Jtv.mpd?id=174|User-Agent=Denver1769
 
 #EXTINF:-1 tvg-id="362" tvg-name="Star Sports 1 Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978e8c4589e08ce80f035/images/star_sports_1_hindi.png" group-title="Jiostar", Star Sports 1 Hindi
