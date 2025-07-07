@@ -41,12 +41,21 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd?__hd
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/output/index.mpd?__hdnea__=st=1751887310~exp=1751973710~acl=/*~hmac=d6b76e24ef3239b82b2897525bfb04a1ad17b8664345a2e4a3dc89a6e882b11b&xxx=%7Ccookie=__hdnea__=st=1751887310~exp=1751973710~acl=/*~hmac=d6b76e24ef3239b82b2897525bfb04a1ad17b8664345a2e4a3dc89a6e882b11b
 
 
+#EXTINF:-1 tvg-id="1404" tvg-name="Nat Geo Wild" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579789fc4589e08ce80ebd3/images/nat_geo_wild.png" group-title="Jiostar", Nat Geo Wild
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df09db58c18355689e86870a4bba4971:df2323beb63a5582442eedae2059147e
+#EXTHTTP:{"cookie":"__hdnea__=st=1751887310~exp=1751973710~acl=/*~hmac=d6b76e24ef3239b82b2897525bfb04a1ad17b8664345a2e4a3dc89a6e882b11b"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_BTS/output/index.mpd?__hdnea__=st=1751887310~exp=1751973710~acl=/*~hmac=d6b76e24ef3239b82b2897525bfb04a1ad17b8664345a2e4a3dc89a6e882b11b&xxx=%7Ccookie=__hdnea__=st=1751887310~exp=1751973710~acl=/*~hmac=d6b76e24ef3239b82b2897525bfb04a1ad17b8664345a2e4a3dc89a6e882b11b
+
+
 #EXTINF:-1 tvg-id="4302" tvg-name="Jiostar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT/images/star_movies_select.png" group-title="Jiostar", Star Movies Select
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+/M6z8pImxNUlVy/sJVwtQ","kid":"S31XnijUUEG6eMOpLwrMkg"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 #EXTHTTP:{"cookie":"__hdnea__=st=1751887310~exp=1751973710~acl=/*~hmac=d6b76e24ef3239b82b2897525bfb04a1ad17b8664345a2e4a3dc89a6e882b11b"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_Select_BTS/output/index.mpd?__hdnea__=st=1751887310~exp=1751973710~acl=/*~hmac=d6b76e24ef3239b82b2897525bfb04a1ad17b8664345a2e4a3dc89a6e882b11b&xxx=%7Ccookie=__hdnea__=st=1751887310~exp=1751973710~acl=/*~hmac=d6b76e24ef3239b82b2897525bfb04a1ad17b8664345a2e4a3dc89a6e882b11b
+
+
 
 
 
