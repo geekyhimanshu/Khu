@@ -1,10 +1,9 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
-
+#EXTINF:-1 tvg-id="174" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png" group-title="Sports",Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.denver1769.fun/Jtv/Jtv.php?id=174&keys
-#EXTINF:-1 tvg-id="174" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png" group-title="Sports",Star Sports 1 Hindi HD
 #EXTVLCOPT:http-user-agent=Denver1769
 https://game.denver1769.fun/Jtv/G8ufIk/Jtv.mpd?id=174|User-Agent=Denver1769
 
