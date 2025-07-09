@@ -2,31 +2,31 @@
 
 
 
-#EXTINF:-1 tvg-id="Etv Balbharat SD" tvg-logo="https://assets.etvbalbharat.com/languageimages/ETV_GUJARATHI.png" group-title="Kids",ETV BalBharat SD Gujarati
+#EXTINF:-1 tvg-id="Etv Balbharat SD" tvg-logo="https://assets.etvbalbharat.com/languageimages/ETV_GUJARATHI.png" group-title="Kids",ETV BalBharat SD Gujarati astv.life
 http://astv.life:8080/anil%40123/anil%40123/220750
-#EXTINF:-1 tvg-id="Etv Balbharat SD" tvg-logo="https://assets.etvbalbharat.com/languageimages/ETV_GUJARATHI.png" group-title="Kids",ETV BalBharat SD Gujarati m3u8
+#EXTINF:-1 tvg-id="Etv Balbharat SD" tvg-logo="https://assets.etvbalbharat.com/languageimages/ETV_GUJARATHI.png" group-title="Kids",ETV BalBharat SD Gujarati m3u8 astv.life
 http://astv.life:8080/live/anil%40123/anil%40123/220750.m3u8
 
-#EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",Disney HD Multi Language
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",Disney HD Multi Language astv.life
 http://astv.life:8080/anil%40123/anil%40123/137794
-#EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",Disney HD Multi Language m3u8
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",Disney HD Multi Language m3u8 astv.life
 http://astv.life:8080/live/anil%40123/anil%40123/137794.m3u8
 
 
-#EXTINF:-1 tvg-id="Etv Balbharat SD" tvg-logo="https://assets.etvbalbharat.com/languageimages/ETV_HINDI.png" group-title="Kids",ETV BalBharat SD Hindi
+#EXTINF:-1 tvg-id="Etv Balbharat SD" tvg-logo="https://assets.etvbalbharat.com/languageimages/ETV_HINDI.png" group-title="Kids",ETV BalBharat SD Hindi livetvbox
 http://livetvbox.live:8080/Ashraf123/Ashraf321/355286
-#EXTINF:-1 tvg-id="Etv Balbharat SD" tvg-logo="https://assets.etvbalbharat.com/languageimages/ETV_HINDI.png" group-title="Kids",ETV BalBharat SD Hindi m3u8
+#EXTINF:-1 tvg-id="Etv Balbharat SD" tvg-logo="https://assets.etvbalbharat.com/languageimages/ETV_HINDI.png" group-title="Kids",ETV BalBharat SD Hindi m3u8 livetvbox
 http://livetvbox.live:8080/live/Ashraf123/Ashraf321/355286.m3u8
 
-#EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",Disney HD Multi Language
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",Disney HD Multi Language livetvbox
 http://livetvbox.live:8080/Ashraf123/Ashraf321/19741
-#EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",Disney HD Multi Language m3u8
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",Disney HD Multi Language m3u8 livetvbox
 http://livetvbox.live:8080/live/Ashraf123/Ashraf321/19741.m3u8
 
 
-#EXTINF:-1 tvg-id="Hindi Zee Cafe HD" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/3442d493-0c71-44b9-b12f-8e600d5eab91.png" group-title="Entertainment",Zee Cafe HD Tataplay Multi Language
+#EXTINF:-1 tvg-id="Hindi Zee Cafe HD" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/3442d493-0c71-44b9-b12f-8e600d5eab91.png" group-title="Entertainment",Zee Cafe HD Tataplay Multi Language astv.life
 http://astv.life:8080/anil%40123/anil%40123/138860
-#EXTINF:-1 tvg-id="Hindi Zee Cafe HD" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/3442d493-0c71-44b9-b12f-8e600d5eab91.png" group-title="Entertainment",Zee Cafe HD Tataplay Multi Language m3u8
+#EXTINF:-1 tvg-id="Hindi Zee Cafe HD" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/3442d493-0c71-44b9-b12f-8e600d5eab91.png" group-title="Entertainment",Zee Cafe HD Tataplay Multi Language m3u8 astv.life
 http://astv.life:8080/live/anil%40123/anil%40123/138860.m3u8
 
 
@@ -128,15 +128,15 @@ https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m
 http://filex.me:8080/998866/998866/247163
 
 
-#EXTINF:-1 tvg-id="Hindi Zee Cafe 4k" , Hindi Zee Cafe 4k TataPlay
+#EXTINF:-1 tvg-id="Hindi Zee Cafe 4k" , Hindi Zee Cafe 4k TataPlay livetvbox
 http://livetvbox.live:80/Ashraf123/Ashraf321/98848
-#EXTINF:-1 tvg-id="Hindi Zee Cafe 4k" , Hindi Zee Cafe 4k TataPlay
+#EXTINF:-1 tvg-id="Hindi Zee Cafe 4k" , Hindi Zee Cafe 4k TataPlay livetvbox
 http://livetvbox.live:80/live/Ashraf123/Ashraf321/98848.m3u8
 
-#EXTINF:-1 tvg-id="Hindi &Flix HD" ,Hindi &Flix 4K
+#EXTINF:-1 tvg-id="Hindi &Flix HD" ,Hindi &Flix 4K livetvbox
 http://livetvbox.live:8080/Ashraf123/Ashraf321/98841
 
-#EXTINF:-1 tvg-id="Hindi &Flix HD" ,Hindi &Flix 4K m3u8
+#EXTINF:-1 tvg-id="Hindi &Flix HD" ,Hindi &Flix 4K m3u8 livetvbox
 http://livetvbox.live:8080/live/Ashraf123/Ashraf321/98841.m3u8
 
 #EXTINF:-1 tvg-id="Sony Pix HD Hindi",Sony Pix HD Hindi TataPlay DTH
