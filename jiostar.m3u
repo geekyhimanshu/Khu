@@ -1,6 +1,13 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
+#EXTINF:-1 tvg-id="173" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports 1 Hindi HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1752026844~exp=1752113244~acl=/*~hmac=f72754afd9d674eed6920fd77dc6d6cd723f824d8624c2662cc6197cfcc28491"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1752026844~exp=1752113244~acl=/*~hmac=f72754afd9d674eed6920fd77dc6d6cd723f824d8624c2662cc6197cfcc28491&xxx=%7Ccookie=__hdnea__=st=1752026844~exp=1752113244~acl=/*~hmac=f72754afd9d674eed6920fd77dc6d6cd723f824d8624c2662cc6197cfcc28491
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.denver1769.fun/Jtv/Jtv.php?id=174&keys
 #EXTINF:-1 tvg-id="174" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png" group-title="Sports",Star Sports 1 Hindi HD
