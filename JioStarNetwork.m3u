@@ -174,7 +174,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_Select_1_BTS/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=c2c048e439d65316beeda6ef64d5d0f8:e2fdc132cbdee65501b845ce414fce39
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1752113248~exp=1752199648~acl=/*~hmac=f93a2d76e26b5d1b53b5000d45e9af3cdb232d1d87fa685790f979dcd5e838cf"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_Select_1_HD_BTS/output/index.mpd?__hdnea__=st=1752113248~exp=1752199648~acl=/*~hmac=f93a2d76e26b5d1b53b5000d45e9af3cdb232d1d87fa685790f979dcd5e838cf&xxx=%7Ccookie=__hdnea__=st=1752113248~exp=1752199648~acl=/*~hmac=f93a2d76e26b5d1b53b5000d45e9af3cdb232d1d87fa685790f979dcd5e838cf
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/output/index.mpd?__hdnea__=st=1752113248~exp=1752199648~acl=/*~hmac=f93a2d76e26b5d1b53b5000d45e9af3cdb232d1d87fa685790f979dcd5e838cf&xxx=%7Ccookie=__hdnea__=st=1752113248~exp=1752199648~acl=/*~hmac=f93a2d76e26b5d1b53b5000d45e9af3cdb232d1d87fa685790f979dcd5e838cf
 
 #EXTINF:-1 tvg-id="1114" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_2.png",Star Sports Select 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
