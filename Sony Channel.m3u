@@ -117,18 +117,6 @@ https://softbd24.com/new/toffee/live.php?id=b7167fe646a4&e=.m3u8|Referer=https:/
 #EXTINF:-1 tvg-id="Sony Set SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET/images/LOGO_HD/image.png" group-title="Entertainment", SET SD Softbd24
 https://softbd24.com/new/toffee/live.php?id=243771d9592c&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=243771d9592c&e=.m3u8
 
-#EXTINF:-1 tvg-id="Sony BBC Earth HD",Hindi Sony BBC Earth HD m3u8 line.gofast
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=156012&extension=m3u8
-
-#EXTINF:-1 tvg-id="Sony BBC Earth HD",Hindi Sony BBC Earth HD ts line.gofast
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=156012&extension=ts
-
-#EXTINF:-1 tvg-id="Sony Pix HD Hindi",Sony Pix HD Hindi ts line.gofast
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:C9:AF:CF&stream=156004&extension=ts
-
-#EXTINF:-1 tvg-id="Sony Pix HD Hindi",Sony Pix HD Hindi m3u8 line.gofast
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:C9:AF:CF&stream=156004&extension=m3u8
-
 #EXTINF:-1 tvg-id="SONY_PIX_SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12078-j9obub60-v7/imageContent-12078-j9obub60-m6.jpg",SONY PIX SD English Softbd24
 https://softbd24.com/new/toffee/live.php?id=ea02096b0fbc&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=ea02096b0fbc&e=.m3u8
 
@@ -140,13 +128,6 @@ https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/559/master.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="Sony Set SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET/images/LOGO_HD/image.png" group-title="Entertainment", SET SD Toffee TV
 https://xfireflix.fun/toffeeWd/live.php?id=243771d9592c&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=243771d9592c&e=.m3u8
-
-#EXTINF:-1 tvg-id="Hindi Sony BBC Earth HD" , DishTV Hindi Sony BBC Earth HD ts
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=1118064&extension=ts
-
-#EXTINF:-1 tvg-id="Hindi Sony BBC Earth HD" , DishTV Hindi Sony BBC Earth HD m3u8
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=1118064&extension=m3u8
-
 
 
 #EXTINF:-1 tvg-id="Set SD" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12074-j9oat6qw-v6/imageContent-12074-j9oat6qw-m6.png",Sony SD Tataplay
@@ -571,6 +552,24 @@ https://joker-verse.onrender.com/stream/sundirectgo/sonymax1?u=joker&p=a6a0fd699
 Sony Set SD
 http://filex.me:8080/998866/998866/496689|Referer=http://filex.me:8080/998866/998866/496689
 
+EXTINF:-1 tvg-id="Sony BBC Earth HD",Hindi Sony BBC Earth HD m3u8 line.gofast
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=156012&extension=m3u8
+
+EXTINF:-1 tvg-id="Sony BBC Earth HD",Hindi Sony BBC Earth HD ts line.gofast
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=156012&extension=ts
+
+EXTINF:-1 tvg-id="Sony Pix HD Hindi",Sony Pix HD Hindi ts line.gofast
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:C9:AF:CF&stream=156004&extension=ts
+
+EXTINF:-1 tvg-id="Sony Pix HD Hindi",Sony Pix HD Hindi m3u8 line.gofast
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:C9:AF:CF&stream=156004&extension=m3u8
+
+
+EXTINF:-1 tvg-id="Hindi Sony BBC Earth HD" , DishTV Hindi Sony BBC Earth HD ts
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=1118064&extension=ts
+
+EXTINF:-1 tvg-id="Hindi Sony BBC Earth HD" , DishTV Hindi Sony BBC Earth HD m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=1118064&extension=m3u8
 
 
 
