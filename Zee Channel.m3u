@@ -136,7 +136,8 @@ https://la.drmlive.net/tp/zee-9z5543514.m3u8|user-agent=Mozilla/5.0 (Windows NT 
 
 
 #EXTINF:-1 tvg-id="Zee Cafe SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Zeecafe.jpg/640px-Zeecafe.jpg" group-title="Entertainment",Zee Cafe SD Toffee TV
-https://softbd24.com/new/toffee/live.php?id=c65460ba0d73&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=c65460ba0d73&e=.m3u8
+https://m.xigzo.store/toffee-old/live.php?id=c65460ba0d73&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=c65460ba0d73&e=.m3u8
+
 
 
 #EXTINF:-1, ZEE ZEST HD 195.181.169.162
@@ -766,7 +767,8 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=155730&ex
 EXTINF:-1 tvg-id="Zee Cafe HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Entertainment",Zee Cafe HD Airtel m3u8
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=155730&extension=m3u8
 
-
+Zee Cafe SD
+https://softbd24.com/new/toffee/live.php?id=c65460ba0d73&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=c65460ba0d73&e=.m3u8
 
 
 
