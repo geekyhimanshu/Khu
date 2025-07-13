@@ -112,15 +112,13 @@ https://dish.slivcdn.com/hls/live/2020590-b/TEN2SD/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Sony Sab SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj0NBCeqsaWxY3O0zNeKvGjUPXWQluRmThtQ&s" group-title="Entertainment",Sony SAB SD Softbd24
-https://softbd24.com/new/toffee/live.php?id=b7167fe646a4&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=b7167fe646a4&e=.m3u8
+https://m.xigzo.store/toffee-old/live.php?id=b7167fe646a4&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=b7167fe646a4&e=.m3u8
 
 #EXTINF:-1 tvg-id="Sony Set SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET/images/LOGO_HD/image.png" group-title="Entertainment", SET SD Softbd24
-https://softbd24.com/new/toffee/live.php?id=243771d9592c&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=243771d9592c&e=.m3u8
+https://m.xigzo.store/toffee-old/live.php?id=243771d9592c&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=243771d9592c&e=.m3u8
 
 #EXTINF:-1 tvg-id="SONY_PIX_SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12078-j9obub60-v7/imageContent-12078-j9obub60-m6.jpg",SONY PIX SD English Softbd24
-https://softbd24.com/new/toffee/live.php?id=ea02096b0fbc&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=ea02096b0fbc&e=.m3u8
-
-
+https://m.xigzo.store/toffee-old/live.php?id=ea02096b0fbc&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=ea02096b0fbc&e=.m3u8
 
 
 #EXTINF:-1 tvg-id="Sony Sab SD" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png",Sony Sab SD TataPlay
@@ -448,6 +446,7 @@ KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentI
 EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12080-j9obub60-v6/imageContent-12080-j9obub60-m6.png" group-title="AVRK ðŸ’« Movies",SONY PIX
 https://tataplay.code-crafters.app/channel/ts558.mpd
 
+Sony Sab SD
 https://joker-verse-secured-ce0bb38121e0.herokuapp.com:443/stream/sundirectgo/sonysab?u=joker&p=a6a0fd699fbccffd6443c17cc5bb063bec43c16f210e7c863a4d9daff39ecc5d
 
 
@@ -571,11 +570,14 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=1118064&e
 EXTINF:-1 tvg-id="Hindi Sony BBC Earth HD" , DishTV Hindi Sony BBC Earth HD m3u8
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=1118064&extension=m3u8
 
+Sony Sab SD
+https://softbd24.com/new/toffee/live.php?id=b7167fe646a4&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=b7167fe646a4&e=.m3u8
 
+Sony Set SD
+https://softbd24.com/new/toffee/live.php?id=243771d9592c&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=243771d9592c&e=.m3u8
 
-
-
-
+Sony Pix SD
+https://softbd24.com/new/toffee/live.php?id=ea02096b0fbc&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=ea02096b0fbc&e=.m3u8
 
 
 
