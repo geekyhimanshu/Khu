@@ -113,7 +113,7 @@ http://livetvbox.live:8080/Ashraf123/Ashraf321/98841
 http://livetvbox.live:8080/live/Ashraf123/Ashraf321/98841.m3u8
 
 
-#EXTINF:-1 tvg-id="Hindi Zee Cafe HD" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/3442d493-0c71-44b9-b12f-8e600d5eab91.png" group-title="Entertainment",Zee Cafe HD Tataplay Multi Language
+#EXTINF:-1 tvg-id="Hindi Zee Cafe HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list_clean/1920x1080list2ad732383dfb4c8f8f4e15531119effd.png" group-title="Entertainment",Zee Cafe HD Tataplay Multi Language
 http://astv.life:8080/anil%40123/anil%40123/138860
 
 
@@ -134,9 +134,12 @@ https://la.drmlive.net/tp/zee-zeecafehd.m3u8|user-agent=Mozilla/5.0 (Windows NT 
 https://la.drmlive.net/tp/zee-9z5543514.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 
 
-#EXTINF:-1 tvg-id="Zee Cafe SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Zeecafe.jpg/640px-Zeecafe.jpg" group-title="Entertainment",Zee Cafe SD Toffee TV
+#EXTINF:-1 tvg-id="Zee Cafe SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-rX_6nFfhfMnjMVA5zk3wJ35xteDBAioKGQ&usqp=CAU" group-title="Entertainment",Zee Cafe SD Toffee TV
 https://m.xigzo.store/toffee-old/live.php?id=c65460ba0d73&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=c65460ba0d73&e=.m3u8
 
+
+#EXTINF:-1 tvg-id="Zee Cafe SD" tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/02/Zee-Cafe-logo.jpg" group-title="Entertainment",Zee Cafe SD Drmlive
+https://bd.drmlive.net/toffee/cdn/live/zee_cafe_hd/playlist.m3u8|?%7CReferer=https://bd.drmlive.net/toffee/cdn/live/zee_cafe_hd/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 
 
 #EXTINF:-1, ZEE ZEST HD 195.181.169.162
@@ -745,8 +748,6 @@ https://iptv-live-play1.streamready.in/live/media12/zee_cafe/dashd/zee_cafe.mpd
 KODIPROP:inputstream.adaptive.license_type=clearkey
 KODIPROP:inputstreamaddon=inputstream.adaptive
 KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-id="Zee Cafe SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Zeecafe.jpg/640px-Zeecafe.jpg" group-title="Entertainment",Zee Cafe SD Drmlive
-https://bd.drmlive.net/toffee/cdn/live/zee_cafe_hd/playlist.m3u8|?%7CReferer=https://bd.drmlive.net/toffee/cdn/live/zee_cafe_hd/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 
 EXTINF:-1 tvg-id="Hindi Zee Cafe HD" ,Hindi Zee Cafe FHD
 http://tigerott.com:8080/75466423/74457211/86076
