@@ -89,7 +89,7 @@ https://tv.bongoflix.top/toffee/live.php?id=c65460ba0d73&e=.m3u8|Referer=https:/
 #EXTINF:-1 tvg-id="English SONY_BBC_EARTH_HD" tvg-name="Sony BBC earth HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png",Sony BBC earth HD English SonyLiv
 https://dish.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8
 
-#EXTINF:-1 tvg-id="English SONY_PIX_HD" tvg-name="Sony Pix HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-91-j5fjv614-v3/imageContent-91-j5fjv614-m3.jpg",Sony Pix HD English SonyLiv
+#EXTINF:-1 tvg-id="English SONY_PIX_HD" tvg-name="Sony Pix HD" tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png",Sony Pix HD English SonyLiv
 https://dish.slivcdn.com/hls/live/2011748-b/PIXHD/master.m3u8
 
 
