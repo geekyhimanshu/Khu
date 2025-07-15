@@ -124,7 +124,7 @@ http://filex.me:8080/998866/998866/55
 https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 
 
-#EXTINF:-1 tvg-id="English &Flix HD"tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list5d289fc39bef4ebca19c6bfe64e46e26.jpg"group-title="ZEE5",English &flix HD
+#EXTINF:-1 tvg-id="English &Flix HD"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDxa8FNPcOWYt55HbrsHlhIv-z1iW3qQeU7A&usqp=CAU"group-title="ZEE5",English &flix HD
 https://la.drmlive.net/tp/zee-channel_2105335046.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="English Zee Cafe HD"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Zee_Caf%C3%A9_HD_2017_Bug.jpg/revision/latest?cb=20240320185107" group-title="ZEE5",English Zee Cafe HD
