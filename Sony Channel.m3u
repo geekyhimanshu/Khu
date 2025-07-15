@@ -1,18 +1,8 @@
-#EXTM3U8
+#EXTM3U
 
-#EXTINF:-1 tvg-id="SET SD" group-title="Entertainment"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978ac9d8fb452ad919bdf/images/378221101.webp",SET SD Tataplay DTH
-http://filex.me:8080/998866/998866/15|Referer=http://filex.me:8080/998866/998866/15
 
 #EXTINF:-1 tvg-id="SET HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png" group-title="Entertainment", SET HD SonyLiv
 https://dish.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8
-
-
-#EXTINF:-1 tvg-id="Sony SAB SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj0NBCeqsaWxY3O0zNeKvGjUPXWQluRmThtQ&s" group-title="Entertainment",Sony SAB SD Toffee TV
-https://tv.bongoflix.top/toffee/live.php?id=c65460ba0d73&e=.m3u8|Referer=https://tv.bongoflix.top/toffee/live.php?id=c65460ba0d73&e=.m3u8
-
-
-#EXTINF:-1 tvg-id="Sony Sab SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sab-tv-in.png" group-title="Entertainment", SONY SAB SD Tataplay DTH
-http://filex.me:8080/998866/998866/25|Referer=http://filex.me:8080/998866/998866/25
 
 
 #EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LOGO_HD/image.png" group-title="Entertainment", Sony SAB HD SonyLiv
@@ -30,29 +20,6 @@ https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
 https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
 
 
-#EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment" ,Hindi Sony BBC Earth HD livetvbox
-http://webhop.xyz/Ashraf123/Ashraf321/9396
-
-#EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment" ,Hindi Sony BBC Earth HD m3u8 livetvbox
-http://webhop.xyz/live/Ashraf123/Ashraf321/9396.m3u8
-
-#EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies" ,Hindi Sony Pix HD liveboxtv
-http://webhop.xyz/Ashraf123/Ashraf321/98846
-#EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies" ,Hindi Sony Pix HD m3u8 liveboxtv
-http://webhop.xyz/live/Ashraf123/Ashraf321/98846.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies" ,Hindi Sony Pix HD filex.me
-http://filex.me:8080/998866/998866/275048
-
-#EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies" ,Hindi Sony Pix HD m3u8 filex.me
-http://filex.me:8080/live/998866/998866/275048.m3u8
-
-
-#EXTINF:-1 tvg-id="Sony Max 1" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/SONYMAX1_Poster_c3d9bf7c-c428-4ed8-8140-81e6d8b142a8.png" group-title="­Movies",Sony Max 1 TataPlay DTH
-http://filex.me:8080/998866/998866/512328
-
 #EXTINF:-1 tvg-id="Sony Max 2" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies", Sony MAX 2 SonyLiv
 https://dish.slivcdn.com/hls/live/2011908-b/MAX2/master.m3u8
 
@@ -69,20 +36,6 @@ https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8
 https://dish.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
 
 
-#EXTINF:-1 tvg-id="English Sony BBC Earth SD" tvg-name="Sony BBC earth" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SOBB_BoxCover-v6/SOBB_BoxCover.jpg",Sony BBC Earth SD English TataPlay
-https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/158/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
-
-#EXTINF:-1 tvg-id="SONY_PIX_SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12078-j9obub60-v7/imageContent-12078-j9obub60-m6.jpg",SONY PIX SD English Toffee TV
-https://tv.bongoflix.top/toffee/live.php?id=c65460ba0d73&e=.m3u8|Referer=https://tv.bongoflix.top/toffee/live.php?id=c65460ba0d73&e=.m3u8
-
-
-#EXTINF:-1 tvg-id="English SONY_BBC_EARTH_HD" tvg-name="Sony BBC earth HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SOBBHD1_BoxCover-v4/SOBBHD1_BoxCover.jpg",Sony BBC earth HD English SonyLiv
-https://dish.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8
-
-#EXTINF:-1 tvg-id="English SONY_PIX_HD" tvg-name="Sony Pix HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-91-j5fjv614-v3/imageContent-91-j5fjv614-m3.jpg",Sony Pix HD English SonyLiv
-https://dish.slivcdn.com/hls/live/2011748-b/PIXHD/master.m3u8
-
-
 #EXTINF:-1 tvg-id="Sony Ten 2 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports", Sony TEN 2 HD SonyLiv
 https://dish.slivcdn.com/hls/live/2020434-b/TEN2HD/master.m3u8
 
@@ -93,6 +46,51 @@ https://dish.slivcdn.com/hls/live/2011906-b/SonyWah/master.m3u8
 #EXTINF:-1 tvg-id="Sony Pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment", Sony PAL SonyLiv
 https://dish.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 
+
+#EXTINF:-1 tvg-id="Sony SAB SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj0NBCeqsaWxY3O0zNeKvGjUPXWQluRmThtQ&s" group-title="Entertainment",Sony SAB SD Bongoflix
+https://tv.bongoflix.top/toffee/live.php?id=c65460ba0d73&e=.m3u8|Referer=https://tv.bongoflix.top/toffee/live.php?id=c65460ba0d73&e=.m3u8
+
+#EXTINF:-1 tvg-id="Sony Sab SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sab-tv-in.png" group-title="Entertainment", SONY SAB SD Tataplay DTH
+http://filex.me:8080/998866/998866/25|Referer=http://filex.me:8080/998866/998866/25
+
+#EXTINF:-1 tvg-id="SET SD" group-title="Entertainment"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978ac9d8fb452ad919bdf/images/378221101.webp",SET SD Tataplay DTH
+http://filex.me:8080/998866/998866/15|Referer=http://filex.me:8080/998866/998866/15
+
+#EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment" ,Hindi Sony BBC Earth HD livetvbox
+http://webhop.xyz/Ashraf123/Ashraf321/9396
+
+#EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment" ,Hindi Sony BBC Earth HD m3u8 livetvbox
+http://webhop.xyz/live/Ashraf123/Ashraf321/9396.m3u8
+
+#EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PIX_HD/images/LOGO_HD/image.png" group-title="Movies" ,Hindi Sony Pix HD liveboxtv
+http://webhop.xyz/Ashraf123/Ashraf321/98846
+
+#EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PIX_HD/images/LOGO_HD/image.png" group-title="Movies" ,Hindi Sony Pix HD m3u8 liveboxtv
+http://webhop.xyz/live/Ashraf123/Ashraf321/98846.m3u8
+
+#EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies" ,Hindi Sony Pix HD filex.me
+http://filex.me:8080/998866/998866/275048
+
+#EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies" ,Hindi Sony Pix HD m3u8 filex.me
+http://filex.me:8080/live/998866/998866/275048.m3u8
+
+#EXTINF:-1 tvg-id="Sony Max 1" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/SONYMAX1_Poster_c3d9bf7c-c428-4ed8-8140-81e6d8b142a8.png" group-title="­Movies",Sony Max 1 TataPlay DTH
+http://filex.me:8080/998866/998866/512328
+
+
+
+#EXTINF:-1 tvg-id="English Sony BBC Earth SD" tvg-name="Sony BBC earth" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SOBB_BoxCover-v6/SOBB_BoxCover.jpg",Sony BBC Earth SD English TataPlay
+https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/158/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
+
+#EXTINF:-1 tvg-id="SONY_PIX_SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12078-j9obub60-v7/imageContent-12078-j9obub60-m6.jpg",SONY PIX SD English Bongoflix
+https://tv.bongoflix.top/toffee/live.php?id=c65460ba0d73&e=.m3u8|Referer=https://tv.bongoflix.top/toffee/live.php?id=c65460ba0d73&e=.m3u8
+
+
+#EXTINF:-1 tvg-id="English SONY_BBC_EARTH_HD" tvg-name="Sony BBC earth HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SOBBHD1_BoxCover-v4/SOBBHD1_BoxCover.jpg",Sony BBC earth HD English SonyLiv
+https://dish.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8
+
+#EXTINF:-1 tvg-id="English SONY_PIX_HD" tvg-name="Sony Pix HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-91-j5fjv614-v3/imageContent-91-j5fjv614-m3.jpg",Sony Pix HD English SonyLiv
+https://dish.slivcdn.com/hls/live/2011748-b/PIXHD/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Sony Ten 3 SD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="Sports", Sony TEN 3 SD SonyLiv
@@ -125,7 +123,7 @@ https://m.xigzo.store/toffee-old/live.php?id=5c42f69f96db&e=.m3u8|Referer=https:
 #EXTINF:-1 tvg-id="Sony Sab SD" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png",Sony Sab SD TataPlay
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/559/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 
-#EXTINF:-1 tvg-id="Sony Set SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET/images/LOGO_HD/image.png" group-title="Entertainment", SET SD Toffee TV
+#EXTINF:-1 tvg-id="Sony Set SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET/images/LOGO_HD/image.png" group-title="Entertainment", SET SD Bongoflix
 https://tv.bongoflix.top/toffee/live.php?id=c65460ba0d73&e=.m3u8|Referer=https://tv.bongoflix.top/toffee/live.php?id=c65460ba0d73&e=.m3u8
 
 
