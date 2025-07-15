@@ -31,18 +31,26 @@ Sony Pix HD Hindi Multi
 
 Zee Zest HD Hindi
 
-
-#EXTINF:-1 tvg-id="Hindi Cartoon Network HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="Kids",Cartoon Network HD Hindi
-https://xfireflix.fun/toffeeWd/live.php?id=206c4fa8e760&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=206c4fa8e760&e=.m3u8
-https://m.xigzo.store/toffee-old/live.php?id=206c4fa8e760&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=206c4fa8e760&e=.m3u8
-
 #EXTINF:-1 tvg-id="Hindi Animal Planet HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET_WORLD_HD/images/LOGO_HD/image.png" group-title="Information",Animal Planet HD Hindi
 http://89.187.179.14/ANMLPLANET/HD/HIN/index.mpd?token=test
 
-#EXTINF:-1 tvg-id="Hindi Investigation Discovery HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD/images/LOGO_HD/image.png" group-title="Information",Investigation Discovery HD Hindi
-https://xfireflix.fun/toffeeWd/live.php?id=6789650f5629&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=6789650f5629&e=.m3u8
+#EXTINF:-1 tvg-id="Hindi Cartoon Network HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="Kids",Cartoon Network HD Hindi Toffee TV
+https://tv.bongoflix.top/toffee/live.php?id=c65460ba0d73&e=.m3u8|Referer=https://tv.bongoflix.top/toffee/live.php?id=c65460ba0d73&e=.m3u8
+
+#EXTINF:-1 tvg-id="Hindi Cartoon Network HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="Kids",Cartoon Network HD Hindi Mxonlive
+https://m.xigzo.store/toffee-old/live.php?id=206c4fa8e760&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=206c4fa8e760&e=.m3u8
+
+#EXTINF:-1 tvg-id="Hindi Investigation Discovery HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD/images/LOGO_HD/image.png" group-title="Information",Investigation Discovery HD Hindi Toffee TV
+https://tv.bongoflix.top/toffee/live.php?id=c65460ba0d73&e=.m3u8|Referer=https://tv.bongoflix.top/toffee/live.php?id=c65460ba0d73&e=.m3u8
+
+#EXTINF:-1 tvg-id="Hindi Investigation Discovery HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD/images/LOGO_HD/image.png" group-title="Information",Investigation Discovery HD Hindi Mxonlive
 https://m.xigzo.store/toffee-old/live.php?id=6789650f5629&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=6789650f5629&e=.m3u8
 
+#EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="Sports",Ten Cricket Toffee TV
+https://xfireflix.fun/toffeeWd/live.php?id=f76c7eb00da0&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=f76c7eb00da0&e=.m3u8
+
+#EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="Sports",Ten Cricket Mxonlive
+https://tv.bongoflix.top/toffee/live.php?id=c65460ba0d73&e=.m3u8|Referer=https://tv.bongoflix.top/toffee/live.php?id=c65460ba0d73&e=.m3u8
 
 
 &Flix SD Hindi Multi
@@ -83,7 +91,7 @@ http://nonamevos.com:80/live/72582/72582/240.m3u8
 
 #EXTINF:-1 tvg-id="ts744" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Comedy-Transparent.png" group-title="Hindi Entertainment",Tata Play Comedy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=744
+#KODIPROP:inputstream.adaptive.license_key=https://tp.kliv.fun/tp800/key.php?id=744
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 http://103.168.18.108/tpo/manifest.mpd?id=744
@@ -97,11 +105,6 @@ http://filex.me:8080/live/998866/998866/502978.m3u8
 http://filex.me:8080/998866/998866/275061
 #EXTINF:-1 tvg-id="Zee Classic" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee Classic.png" group-title="Movies",Zee Classic Tataplay DTH m3u8 filex.me
 http://filex.me:8080/live/998866/998866/275061.m3u8
-
-#EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="Sports",Ten Cricket
-https://xfireflix.fun/toffeeWd/live.php?id=f76c7eb00da0&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=f76c7eb00da0&e=.m3u8
-https://m.xigzo.store/toffee-old/live.php?id=f76c7eb00da0&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=f76c7eb00da0&e=.m3u8
-
 
 #EXTINF:-1 tvg-id="DD SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSROWHLIi7HSAVvBC068b-CcrQj0VFArpNbiQ&usqp=CAU" group-title="Sports",DD SPORTS HD DD Free Dish filex.me
 http://filex.me:8080/998866/998866/247163
