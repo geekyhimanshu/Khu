@@ -771,9 +771,10 @@ KODIPROP:inputstreamaddon=inputstream.adaptive
 KODIPROP:inputstream.adaptive.manifest_type=m3u8
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bd.drmlive.net/toffee/cdn/live/zee_cafe_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Zee Cafe SD" tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/02/Zee-Cafe-logo.jpg" group-title="Entertainment",Zee Cafe SD Drmlive
-https://bd.drmlive.net/toffee/cdn/live/zee_cafe_hd/playlist.m3u8&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36&Origin=https://toffeelive.com&Referer=https://bd.drmlive.net/toffee/cdn/live/zee_cafe_hd/playlist.m3u8
-Zee Cafe SD
+https://bd.drmlive.net/toffee/cdn/live/zee_cafe_hd/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://softbd24.com/new/toffee/live.php?id=c65460ba0d73&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=c65460ba0d73&e=.m3u8
 
 
