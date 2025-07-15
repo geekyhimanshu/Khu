@@ -89,7 +89,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 #EXTINF:-1 tvg-id="Big Magic"tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog2022520414.png" group-title="Zee5",Big Magic
 https://la.drmlive.net/tp/zee-bigmagic_1786965389.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="Zee Anmol Cinema 2"tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png" group-title="Zee5",Zee Anmol Cinema 2
+#EXTINF:-1 tvg-id="Zee Anmol Cinema 2"tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZACINE_Thumbnail-v2/ZACINE_Thumbnail.png" group-title="Zee5",Zee Anmol Cinema 2
 https://la.drmlive.net/tp/zee-bigganga.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 
 
@@ -125,7 +125,7 @@ http://filex.me:8080/998866/998866/55
 https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 
 
-#EXTINF:-1 tvg-id="English &Flix HD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/image.png" group-title="Movies",English &flix HD
+#EXTINF:-1 tvg-id="English &Flix HD"tvg-logo="https://images.seeklogo.com/logo-png/43/1/flix-hd-logo-png_seeklogo-432038.png" group-title="Movies",English &flix HD
 https://la.drmlive.net/tp/zee-channel_2105335046.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="English Zee Cafe HD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/image.png" group-title="Entertainment",English Zee Cafe HD
