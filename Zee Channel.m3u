@@ -106,10 +106,10 @@ http://livetvbox.live:80/Ashraf123/Ashraf321/98848
 http://livetvbox.live:80/live/Ashraf123/Ashraf321/98848.m3u8
 
 
-#EXTINF:-1 tvg-id="Hindi &Flix 4K" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png" group-title="Movies",Hindi &Flix 4K livetvbox
+#EXTINF:-1 tvg-id="Hindi &Flix 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVKDzH_8kKlT-sQ525gT79xQ1k3enQMa0Yw&usqp=CAU" group-title="Movies",Hindi &Flix 4K livetvbox
 http://livetvbox.live:8080/Ashraf123/Ashraf321/98841
 
-#EXTINF:-1 tvg-id="Hindi &Flix 4K" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png" group-title="Movies",Hindi &Flix 4K m3u8 livetvbox
+#EXTINF:-1 tvg-id="Hindi &Flix 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVKDzH_8kKlT-sQ525gT79xQ1k3enQMa0Yw&usqp=CAU" group-title="Movies",Hindi &Flix 4K m3u8 livetvbox
 http://livetvbox.live:8080/live/Ashraf123/Ashraf321/98841.m3u8
 
 
@@ -117,7 +117,7 @@ http://livetvbox.live:8080/live/Ashraf123/Ashraf321/98841.m3u8
 http://astv.life:8080/anil%40123/anil%40123/138860
 
 
-#EXTINF:-1 tvg-id="English &Flix SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJKvpSRK6-nAf4q_2XQCFs7UJJKA6pFVQhmQ&usqp=CAU" group-title="Movies",English &Flix SD
+#EXTINF:-1 tvg-id="English &Flix SD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list5d289fc39bef4ebca19c6bfe64e46e26.jpg" group-title="Movies",English &Flix SD
 http://filex.me:8080/998866/998866/55
 
 #EXTINF:-1 tvg-id="English &Flix SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrM0RN7qcdX9Y7_KpWUYXZM9nhjWDr0TlhA&usqp=CAU" group-title="Movies",English &Flix SD PeoTV Go
