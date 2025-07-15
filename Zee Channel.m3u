@@ -137,8 +137,11 @@ https://la.drmlive.net/tp/zee-9z5543514.m3u8|user-agent=Mozilla/5.0 (Windows NT 
 #EXTINF:-1 tvg-id="Zee Cafe SD" tvg-logo="https://dialogselfcare.s3.ap-southeast-1.amazonaws.com/dialogdigitizationservices/productcatalogue/dtv/4/Zeecafe_Grey_Logo_1572x516.png" group-title="Entertainment",Zee Cafe SD Toffee TV
 https://m.xigzo.store/toffee-old/live.php?id=c65460ba0d73&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=c65460ba0d73&e=.m3u8
 
-
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="Zee Cafe SD" tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/02/Zee-Cafe-logo.jpg" group-title="Entertainment",Zee Cafe SD Drmlive
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://bd.drmlive.net/toffee/cdn/live/zee_cafe_hd/playlist.m3u8|?%7CReferer=https://bd.drmlive.net/toffee/cdn/live/zee_cafe_hd/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 
 
