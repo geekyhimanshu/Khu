@@ -84,7 +84,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 #EXTINF:-1 tvg-id="Big Magic"tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog2022520414.png"group-title="ZEE5",Big Magic
 https://la.drmlive.net/tp/zee-bigmagic_1786965389.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="Zee Anmol Cinema 2"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7dLUlrL8SgQ-XgbvaWLFqahfK2catL7LMUPWR6-zaOL1Ze3eqBD5kZv-Q&s=10"group-title="ZEE5",Zee Anmol Cinema 2
+#EXTINF:-1 tvg-id="Zee Anmol Cinema 2"tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigganga/channel_list/1170x65802779b8c9ffb451b8e8aea2958c9b3ff.png"group-title="ZEE5",Zee Anmol Cinema 2
 https://la.drmlive.net/tp/zee-bigganga.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -124,7 +124,7 @@ http://filex.me:8080/998866/998866/55
 https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 
 
-#EXTINF:-1 tvg-id="English &Flix HD"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVKDzH_8kKlT-sQ525gT79xQ1k3enQMa0Yw&usqp=CAU"group-title="ZEE5",English &flix HD
+#EXTINF:-1 tvg-id="English &Flix HD"tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list5d289fc39bef4ebca19c6bfe64e46e26.jpg"group-title="ZEE5",English &flix HD
 https://la.drmlive.net/tp/zee-channel_2105335046.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="English Zee Cafe HD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/image.png" group-title="ZEE5",English Zee Cafe HD
