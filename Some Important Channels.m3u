@@ -35,22 +35,19 @@ Zee Zest HD Hindi
 http://89.187.179.14/ANMLPLANET/HD/HIN/index.mpd?token=test
 
 #EXTINF:-1 tvg-id="Hindi Cartoon Network HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="Kids",Cartoon Network HD Hindi Toffee TV
-https://tv.bongoflix.top/toffee/live.php?id=206c4fa8e760&e=.m3u8|Referer=https://tv.bongoflix.top/toffee/live.php?id=206c4fa8e760&e=.m3u8
-
-#EXTINF:-1 tvg-id="Hindi Cartoon Network HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="Kids",Cartoon Network HD Hindi Mxonlive
 https://m.xigzo.store/toffee-old/live.php?id=eb6b38bdd902&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=eb6b38bdd902&e=.m3u8
 
-#EXTINF:-1 tvg-id="Hindi Investigation Discovery HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD/images/LOGO_HD/image.png" group-title="Information",Investigation Discovery HD Hindi Toffee TV
-https://tv.bongoflix.top/toffee/live.php?id=6789650f5629&e=.m3u8|Referer=https://tv.bongoflix.top/toffee/live.php?id=6789650f5629&e=.m3u8
+#EXTINF:-1 tvg-id="Hindi Cartoon Network HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="Kids",Cartoon Network HD Hindi Bongoflix
+https://tv.bongoflix.top/toffee/live.php?id=206c4fa8e760&e=.m3u8|Referer=https://tv.bongoflix.top/toffee/live.php?id=206c4fa8e760&e=.m3u8
 
-#EXTINF:-1 tvg-id="Hindi Investigation Discovery HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD/images/LOGO_HD/image.png" group-title="Information",Investigation Discovery HD Hindi Mxonlive
+#EXTINF:-1 tvg-id="Hindi Investigation Discovery HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD/images/LOGO_HD/image.png" group-title="Information",Investigation Discovery HD Hindi Toffee TV
 https://m.xigzo.store/toffee-old/live.php?id=6789650f5629&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=6789650f5629&e=.m3u8
 
 #EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="Sports",Ten Cricket Toffee TV
-https://tv.bongoflix.top/toffee/live.php?id=f76c7eb00da0&e=.m3u8|Referer=https://tv.bongoflix.top/toffee/live.php?id=f76c7eb00da0&e=.m3u8
-
-#EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="Sports",Ten Cricket Mxonlive
 https://m.xigzo.store/toffee-old/live.php?id=86db7302947d&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=86db7302947d&e=.m3u8
+
+#EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="Sports",Ten Cricket Bongoflix
+https://tv.bongoflix.top/toffee/live.php?id=f76c7eb00da0&e=.m3u8|Referer=https://tv.bongoflix.top/toffee/live.php?id=f76c7eb00da0&e=.m3u8
 
 
 &Flix SD Hindi Multi
