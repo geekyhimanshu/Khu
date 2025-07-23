@@ -125,9 +125,9 @@ https://companion-live-play1.streamready.in/live/med10-2/dd_kisan/ndashd/dd_kisa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911376756dde3a3394ed17c2f89fac62:006a7494c6760793999751566fbbd47b
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE/images/LOGO_HD/image.png" group-title="Entertainment", Zee Cafe
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX2NhZmUvbmRhc2hkLw==:Expires=1753239617:KeyName=iptv-prod-media-cdn-keys:Signature=MseUjxdIXu6UQznsWg0ugNHMidrWZqpANWMd2BEQBM4g74aRWI2bLmgPJvaoqvlJjXyBCzFqhVIIDXarjWstAA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX2NhZmUvbmRhc2hkLw==:Expires=1753274709:KeyName=iptv-prod-media-cdn-keys:Signature=-gkv4cdymJDO9BBZh-jfcIa01GZE79lg21CidyLUJVyeDB7S_egPVPnTTgHcQwb2Cfk3rQ5HhwNJMBKe95juBA=="}
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ygx/69.1 ExoPlayerLib/2.19.1
-https://companion-live-play1.streamready.in/live/med12-2/zee_cafe/ndashd/zee_cafe.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX2NhZmUvbmRhc2hkLw==:Expires=1753239617:KeyName=iptv-prod-media-cdn-keys:Signature=MseUjxdIXu6UQznsWg0ugNHMidrWZqpANWMd2BEQBM4g74aRWI2bLmgPJvaoqvlJjXyBCzFqhVIIDXarjWstAA==
+https://companion-live-play1.streamready.in/live/med12-2/zee_cafe/ndashd/zee_cafe.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX2NhZmUvbmRhc2hkLw==:Expires=1753274709:KeyName=iptv-prod-media-cdn-keys:Signature=-gkv4cdymJDO9BBZh-jfcIa01GZE79lg21CidyLUJVyeDB7S_egPVPnTTgHcQwb2Cfk3rQ5HhwNJMBKe95juBA==
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d46d955693433b9f9249f4dffd6f016b:22d33ed8879ddd6e4eda0bee6e2055f1
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Movies", SONY Max
