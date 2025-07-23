@@ -215,15 +215,15 @@ https://companion-live-play1.streamready.in/live/med14-2/mh_one_dil_se/ndashd/mh
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b744ae0cabae3998bbfbd778d537f049:9d10c52b46a7d909b69c4d5edf569b5a
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PIX/images/LOGO_HD/image.png" group-title="Movies", SONY PIX
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQtMi9zb255X3BpeC9uZGFzaGQv:Expires=1753245012:KeyName=iptv-prod-media-cdn-keys:Signature=byFpFc7IVeKPG-lZtxbhI_JAVJ0S8MxXC9DrX6ryjiQbVviXCGZU4pfPL7Nj6rM0gv0yQGBOzjENfUV6uB8tBg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQtMi9zb255X3BpeC9uZGFzaGQv:Expires=1753279215:KeyName=iptv-prod-media-cdn-keys:Signature=I0dxJa_Oa5ACUXIMDa7pyI4vmFqeuQBzSk0B8ij5QDGTbVElOVRC2G8klnTnLDnWVfZ4sV9MppCd8qrXqVnmCA=="}
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ygx/69.1 ExoPlayerLib/2.19.1
-https://companion-live-play1.streamready.in/live/med4-2/sony_pix/ndashd/sony_pix.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQtMi9zb255X3BpeC9uZGFzaGQv:Expires=1753245012:KeyName=iptv-prod-media-cdn-keys:Signature=byFpFc7IVeKPG-lZtxbhI_JAVJ0S8MxXC9DrX6ryjiQbVviXCGZU4pfPL7Nj6rM0gv0yQGBOzjENfUV6uB8tBg==
+https://companion-live-play1.streamready.in/live/med4-2/sony_pix/ndashd/sony_pix.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQtMi9zb255X3BpeC9uZGFzaGQv:Expires=1753279215:KeyName=iptv-prod-media-cdn-keys:Signature=I0dxJa_Oa5ACUXIMDa7pyI4vmFqeuQBzSk0B8ij5QDGTbVElOVRC2G8klnTnLDnWVfZ4sV9MppCd8qrXqVnmCA==
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=87d6ad41231538558962745f2c42014b:3a0f674e1529fcfaaa1e8a3178d93139
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PIX_HD/images/LOGO_HD/image.png" group-title="Movies", Sony Pix HD
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvc29ueV9waXhfaGQvbmRhc2hoZC8=:Expires=1753245012:KeyName=iptv-prod-media-cdn-keys:Signature=-29OO1hgynEpcQr_fVmS20bT77KtZT4YcAMzDv7JuZQWHObzGw_rG4DkLVSQYI40xOkexbaRBIRcKJ9NiUFeAw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvc29ueV9waXhfaGQvbmRhc2hoZC8=:Expires=1753279214:KeyName=iptv-prod-media-cdn-keys:Signature=vt1jI2a4PbWbg-Jp_FPv9z9AxrraMr1YV85ykYqxOWwR-kBf1TLKBw70bJcseSA_jmTSTWNhjr7xSED4jrcuCQ=="}
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ygx/69.1 ExoPlayerLib/2.19.1
-https://companion-live-play1.streamready.in/live/med15-2/sony_pix_hd/ndashhd/sony_pix_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvc29ueV9waXhfaGQvbmRhc2hoZC8=:Expires=1753245012:KeyName=iptv-prod-media-cdn-keys:Signature=-29OO1hgynEpcQr_fVmS20bT77KtZT4YcAMzDv7JuZQWHObzGw_rG4DkLVSQYI40xOkexbaRBIRcKJ9NiUFeAw==
+https://companion-live-play1.streamready.in/live/med15-2/sony_pix_hd/ndashhd/sony_pix_hd.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvc29ueV9waXhfaGQvbmRhc2hoZC8=:Expires=1753279214:KeyName=iptv-prod-media-cdn-keys:Signature=vt1jI2a4PbWbg-Jp_FPv9z9AxrraMr1YV85ykYqxOWwR-kBf1TLKBw70bJcseSA_jmTSTWNhjr7xSED4jrcuCQ==
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0029d27f5d4437879020e1cdcdc855bd:7a0213446ea299994924b22977ed2d47
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png" group-title="Movies", Movies Now
@@ -251,9 +251,9 @@ https://companion-live-play1.streamready.in/live/med3-2/romedy_now/ndashd/romedy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c9e85ca825803ede9e74857641217620:3e6d412381aea91f047e3d912660825a
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/image.png" group-title="Movies", &flix
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvYW5kX2ZsaXgvbmRhc2hkLw==:Expires=1753245012:KeyName=iptv-prod-media-cdn-keys:Signature=8kZYb-28iKnEgjXcNA1quHaB5rCvMrxGYMjdG9B9SnLkhAp4kUYaQDDQvYTqoFHP8s77JHCj7HuPzq7AREtiDQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvYW5kX2ZsaXgvbmRhc2hkLw==:Expires=1753280109:KeyName=iptv-prod-media-cdn-keys:Signature=T10uYshGWp5XM529YKOaPhwY9_p9jSVQbWHse9Tw8lvJqkujnt57Fvir-t0vRjgYEUbvmuoe5nbw8V1jQxCmBQ=="}
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ygx/69.1 ExoPlayerLib/2.19.1
-https://companion-live-play1.streamready.in/live/med15-2/and_flix/ndashd/and_flix.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvYW5kX2ZsaXgvbmRhc2hkLw==:Expires=1753245012:KeyName=iptv-prod-media-cdn-keys:Signature=8kZYb-28iKnEgjXcNA1quHaB5rCvMrxGYMjdG9B9SnLkhAp4kUYaQDDQvYTqoFHP8s77JHCj7HuPzq7AREtiDQ==
+https://companion-live-play1.streamready.in/live/med15-2/and_flix/ndashd/and_flix.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvYW5kX2ZsaXgvbmRhc2hkLw==:Expires=1753280109:KeyName=iptv-prod-media-cdn-keys:Signature=T10uYshGWp5XM529YKOaPhwY9_p9jSVQbWHse9Tw8lvJqkujnt57Fvir-t0vRjgYEUbvmuoe5nbw8V1jQxCmBQ==
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=919c9589c9ee336f889f2a0a4bf13d8f:3aca899e6192c795edf692d81725a797
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX/images/LOGO_HD/image.png" group-title="Movies", MNX
@@ -569,9 +569,9 @@ https://companion-live-play1.streamready.in/live/med14-2/animal_planet_hd_world/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2241443a13b439d5a741a7bd6915b354:8df3f646d7378dac47aa70b041fe3999
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_SCIENCE/images/LOGO_HD/image.png" group-title="Infotainment", Discovery Science
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzLTIvZGlzY292ZXJ5X3NjaWVuY2UvbmRhc2hkLw==:Expires=1753245912:KeyName=iptv-prod-media-cdn-keys:Signature=ebu0-5BlFn1yBIJi7wJmI81k5H7Gy3pzZ-akTgFDMKvDWTU4dc-Pj3Lhogz0rP1VaKbBiAvkMzPNEmaKbF9rCQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzLTIvZGlzY292ZXJ5X3NjaWVuY2UvbmRhc2hkLw==:Expires=1753281013:KeyName=iptv-prod-media-cdn-keys:Signature=Yr21H8Vqvc_PSoLYUOXQKPD2NebLwAiZbepocMR6GV0ZTa1p-210GxGL34z8Aigs1htffk4xZcVhf_sjHhLmCA=="}
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ygx/69.1 ExoPlayerLib/2.19.1
-https://companion-live-play1.streamready.in/live/med13-2/discovery_science/ndashd/discovery_science.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzLTIvZGlzY292ZXJ5X3NjaWVuY2UvbmRhc2hkLw==:Expires=1753245912:KeyName=iptv-prod-media-cdn-keys:Signature=ebu0-5BlFn1yBIJi7wJmI81k5H7Gy3pzZ-akTgFDMKvDWTU4dc-Pj3Lhogz0rP1VaKbBiAvkMzPNEmaKbF9rCQ==
+https://companion-live-play1.streamready.in/live/med13-2/discovery_science/ndashd/discovery_science.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzLTIvZGlzY292ZXJ5X3NjaWVuY2UvbmRhc2hkLw==:Expires=1753281013:KeyName=iptv-prod-media-cdn-keys:Signature=Yr21H8Vqvc_PSoLYUOXQKPD2NebLwAiZbepocMR6GV0ZTa1p-210GxGL34z8Aigs1htffk4xZcVhf_sjHhLmCA==
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be1ca994bc243a9fb997cb71932c9269:4b4d9b54a8aa08696d4959db80e3e6a7
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png" group-title="Infotainment", Discovery Turbo
@@ -581,9 +581,9 @@ https://companion-live-play1.streamready.in/live/med14-2/discovery_turbo/ndashd/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aada281b4a0349daad3b87bebd9a40a:8ae627c083b99207f8221ac2afcc3243
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH/images/LOGO_HD/image.png" group-title="Infotainment", Sony BBC earth
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzLTIvc29ueV9iYmNfZWFydGgvbmRhc2hkLw==:Expires=1753245912:KeyName=iptv-prod-media-cdn-keys:Signature=8fMYp5fghK64Qz2k5uaXUR3Ne5RHcb317H6IoTQVsVvMOt8axhLfpU4RLp3zDD9Vlb-IJWOkiJ5OENi2Oq3pAQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzLTIvc29ueV9iYmNfZWFydGgvbmRhc2hkLw==:Expires=1753281013:KeyName=iptv-prod-media-cdn-keys:Signature=BYD1O1yBGKWOY9Dom6-uP3yCjFuZ4EcqB_vr4w0b4D3PaWkUmW4794lZKiI7FPKjqn6TSASPIpavPO_oQJ4WAw=="}
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ygx/69.1 ExoPlayerLib/2.19.1
-https://companion-live-play1.streamready.in/live/med13-2/sony_bbc_earth/ndashd/sony_bbc_earth.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzLTIvc29ueV9iYmNfZWFydGgvbmRhc2hkLw==:Expires=1753245912:KeyName=iptv-prod-media-cdn-keys:Signature=8fMYp5fghK64Qz2k5uaXUR3Ne5RHcb317H6IoTQVsVvMOt8axhLfpU4RLp3zDD9Vlb-IJWOkiJ5OENi2Oq3pAQ==
+https://companion-live-play1.streamready.in/live/med13-2/sony_bbc_earth/ndashd/sony_bbc_earth.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzLTIvc29ueV9iYmNfZWFydGgvbmRhc2hkLw==:Expires=1753281013:KeyName=iptv-prod-media-cdn-keys:Signature=BYD1O1yBGKWOY9Dom6-uP3yCjFuZ4EcqB_vr4w0b4D3PaWkUmW4794lZKiI7FPKjqn6TSASPIpavPO_oQJ4WAw==
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=507c62116a623980aa1201292ee3b5bf:479e2bf7be4f8e06a6a7dda7fa4188f3
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH_HD/images/LOGO_HD/image.png" group-title="Infotainment", Sony BBC earth HD
