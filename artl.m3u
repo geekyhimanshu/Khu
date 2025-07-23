@@ -23,9 +23,9 @@ https://companion-live-play1.streamready.in/live/med14-2/investigation_discovery
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49275a5eddfd38abb2ad95e90c75b2a0:1d523581670d2f288391d91ca43b87e2
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment", SONY SAB
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvc29ueV9zYWIvbmRhc2hkLw==:Expires=1753240509:KeyName=iptv-prod-media-cdn-keys:Signature=zSis_cgXNXaLAoVxBKNzu9F8o2kWWq5w47SJCtfkb2_0-GzXrGuDwE2LGdTOP-87HxcikJ22wE40Qyx6dJN0BQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvc29ueV9zYWIvbmRhc2hkLw==:Expires=1753275615:KeyName=iptv-prod-media-cdn-keys:Signature=SNIyn4E8rNCpnYDaihWH0Pmxo00OBYSPLXoB11n1LjAMDXFEVtZ5y07-TfxbjRnoJSqb8iN6wV_b4SedgcpIAA=="}
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ygx/69.1 ExoPlayerLib/2.19.1
-https://companion-live-play1.streamready.in/live/med14-2/sony_sab/ndashd/sony_sab.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvc29ueV9zYWIvbmRhc2hkLw==:Expires=1753240509:KeyName=iptv-prod-media-cdn-keys:Signature=zSis_cgXNXaLAoVxBKNzu9F8o2kWWq5w47SJCtfkb2_0-GzXrGuDwE2LGdTOP-87HxcikJ22wE40Qyx6dJN0BQ==
+https://companion-live-play1.streamready.in/live/med14-2/sony_sab/ndashd/sony_sab.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvc29ueV9zYWIvbmRhc2hkLw==:Expires=1753275615:KeyName=iptv-prod-media-cdn-keys:Signature=SNIyn4E8rNCpnYDaihWH0Pmxo00OBYSPLXoB11n1LjAMDXFEVtZ5y07-TfxbjRnoJSqb8iN6wV_b4SedgcpIAA==
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3931a693a596357b85c887b4cd6c1860:e61c04aa578191a33d39842028c51835
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png" group-title="Entertainment", SET HD
