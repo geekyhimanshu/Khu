@@ -9,8 +9,7 @@ https://companion-live-play1.streamready.in/live/med12-2/zee_zest/ndashd/zee_zes
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-348/channel_web/1170x658withlog2096037619.png" group-title="ZEE5",Zee Zest HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-348&uid=863663110&pass=9f9974a1&Origin=https://www.zee5.com&Referer=https://www.zee5.com/&Host=zee5.joker-verse.workers.dev
+https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-348&uid=863663110&pass=9f9974a1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.zee5.com&Referer=https://www.zee5.com/&Host=zee5.joker-verse.workers.dev
 
 
 #EXTINF:-1 tvg-id="&Xplor HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_list/1170x658withlogo358457080.png" group-title="ZEE5",&xplorHD
