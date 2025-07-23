@@ -81,10 +81,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="Big Magic" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog2022520414.png"group-title="ZEE5",Big Magic
-https://la.drmlive.net/tp/zee-bigmagic_1786965389.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-bigmagic_1786965389%26uid=863663110%26pass=9f9974a1%7Corigin=https://www.zee5.com%26user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="Zee Anmol Cinema 2" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigganga/channel_list/1170x65802779b8c9ffb451b8e8aea2958c9b3ff.png"group-title="ZEE5",Zee Anmol Cinema 2
-https://la.drmlive.net/tp/zee-bigganga.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-bigganga%26uid=863663110%26pass=9f9974a1%7Corigin=https://www.zee5.com%26user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PD6NAln3SPGDD3E6dpdg5w","kid":"nXoZF+4yRNGYGTzdH/H+rg"}],"type":"temporary"}
@@ -99,7 +99,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="Hindi Zee Cafe 4K" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Entertainment",Hindi Zee Cafe 4k TataPlay livetvbox
-http://lhttp://livetvbox.live:80/Ashraf123/Ashraf321/98848
+http://livetvbox.live:80/Ashraf123/Ashraf321/98848
 
 #EXTINF:-1 tvg-id="Hindi Zee Cafe 4K" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Entertainment",Hindi Zee Cafe 4k TataPlay m3u8 livetvbox
 http://livetvbox.live:80/live/Ashraf123/Ashraf321/98848.m3u8
@@ -122,14 +122,14 @@ http://astv.life:8080/anil%40123/anil%40123/138860
 https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="English &Flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list5d289fc39bef4ebca19c6bfe64e46e26.jpg"group-title="ZEE5",English &flix HD
-https://la.drmlive.net/tp/zee-channel_2105335046.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-channel_2105335046%26uid=863663110%26pass=9f9974a1%7Corigin=https://www.zee5.com%26user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="English Zee Cafe HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Zee_Caf%C3%A9_HD_2017_Bug.jpg/revision/latest?cb=20240320185107"group-title="ZEE5",English Zee Cafe HD
-https://la.drmlive.net/tp/zee-zeecafehd.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-zeecafehd%26uid=863663110%26pass=9f9974a1%7Corigin=https://www.zee5.com%26user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+
 
 #EXTINF:-1 tvg-id="&Prive HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg"group-title="ZEE5",&Prive HD
-https://la.drmlive.net/tp/zee-9z5543514.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-
+https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-9z5543514%26uid=863663110%26pass=9f9974a1%7Corigin=https://www.zee5.com%26user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="Zee Cafe SD" tvg-logo="https://dialogselfcare.s3.ap-southeast-1.amazonaws.com/dialogdigitizationservices/productcatalogue/dtv/4/Zeecafe_Grey_Logo_1572x516.png" group-title="Entertainment",Zee Cafe SD Toffee TV
 https://m.xigzo.store/toffee-old/live.php?id=c65460ba0d73&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=c65460ba0d73&e=.m3u8
@@ -487,6 +487,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 http://z5amshls.akamaized.net:80/andpicssd/tracks-v1a1/playlist.m3u8
 
 Big Magic
+https://la.drmlive.net/tp/zee-bigmagic_1786965389.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/bigmagic_1786965389.m3u8
 https://la.drmlive.au/tp/zee-bigmagic_1786965389.m3u8
 https://mhdtv.co.in/jio/stream.php?id=1359|Referer=https://mhdtv.co.in/jio/stream.php?id=1359
@@ -497,6 +498,7 @@ https://y5w8j4a9.ssl.hwcdn.net/bigmagic/index.m3u8
 http://z5amshls.akamaized.net:80/bigmagic/tracks-v1a1/playlist.m3u8
 
 Zee Anmol Cinema 2
+https://la.drmlive.net/tp/zee-bigganga.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/bigganga.m3u8
 https://la.drmlive.au/tp/zee-bigganga.m3u8
 
@@ -627,6 +629,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zing/index.m3u8
 http://cv.khushitv.xyz/channels.php?c=zing&e=.m3u8
 
 &Flix HD
+https://la.drmlive.net/tp/zee-channel_2105335046.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/channel_2105335046.m3u8
 EXTINF:-1 tvg-id="&Flix HD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/image.png" group-title="Movies",Hindi &flix HD livetvbox.live
 http://livetvbox.live:8080/live/3569087360/6542246996/98841.m3u8
@@ -659,6 +662,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/index.m3u8
 http://z5amshls.akamaized.net:80/zeecafehd/tracks-v1a1/playlist.m3u8
 
 &Prive HD
+https://la.drmlive.net/tp/zee-9z5543514.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
 https://la.drmlive.au/tp/zee-9z5543514.m3u8
 KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -775,9 +779,9 @@ KODIPROP:inputstreamaddon=inputstream.adaptive
 KODIPROP:inputstream.adaptive.manifest_type=m3u8
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bd.drmlive.net/toffee/cdn/live/zee_cafe_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="Zee Cafe SD" tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/02/Zee-Cafe-logo.jpg" group-title="Entertainment",Zee Cafe SD Drmlive
+KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_key=https://bd.drmlive.net/toffee/cdn/live/zee_cafe_hd/playlist.m3u8
+EXTINF:-1 tvg-id="Zee Cafe SD" tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/02/Zee-Cafe-logo.jpg" group-title="Entertainment",Zee Cafe SD Drmlive
 https://bd.drmlive.net/toffee/cdn/live/zee_cafe_hd/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 
 Zee Cafe SD softbd24
