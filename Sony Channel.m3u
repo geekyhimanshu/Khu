@@ -47,6 +47,9 @@ https://dish.slivcdn.com/hls/live/2011906-b/SonyWah/master.m3u8
 https://dish.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 
 
+#EXTINF:-1 tvg-id="sony-sab" tvg-logo="https://live.dinesh29.com.np/logos/sony-sab.png" group-title="Entertainment",Sony Sab TV Nettv
+https://live.dinesh29.com.np/stream/livetv/sonysab/master.m3u8
+
 #EXTINF:-1 tvg-id="Sony SAB SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj0NBCeqsaWxY3O0zNeKvGjUPXWQluRmThtQ&s" group-title="Entertainment",Sony SAB SD Bongoflix
 https://tv.bongoflix.top/toffee/live.php?id=978d421e4729&e=.m3u8|Referer=https://tv.bongoflix.top/toffee/live.php?id=978d421e4729&e=.m3u8
 
