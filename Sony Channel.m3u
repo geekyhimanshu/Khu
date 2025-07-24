@@ -50,8 +50,6 @@ https://dish.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 #EXTINF:-1 tvg-id="sony-sab" tvg-logo="https://live.dinesh29.com.np/logos/sony-sab.png" group-title="Entertainment",Sony Sab TV Nettv
 https://live.dinesh29.com.np/stream/livetv/sonysab/master.m3u8
 
-#EXTINF:-1 tvg-id="Sony SAB SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj0NBCeqsaWxY3O0zNeKvGjUPXWQluRmThtQ&s" group-title="Entertainment",Sony SAB SD Bongoflix
-https://tv.bongoflix.top/toffee/live.php?id=978d421e4729&e=.m3u8|Referer=https://tv.bongoflix.top/toffee/live.php?id=978d421e4729&e=.m3u8
 
 #EXTINF:-1 tvg-id="Sony Sab SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12082-j9oc3vaw-v8/imageContent-12082-j9oc3vaw-m7.jpg" group-title="Entertainment", SONY SAB SD Tataplay DTH
 http://filex.me:8080/998866/998866/25|Referer=http://filex.me:8080/998866/998866/25
@@ -84,9 +82,6 @@ http://filex.me:8080/998866/998866/512328
 
 #EXTINF:-1 tvg-id="English Sony BBC Earth SD" tvg-name="Sony BBC earth" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SOBB_BoxCover-v6/SOBB_BoxCover.jpg",Sony BBC Earth SD English TataPlay
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/158/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
-
-#EXTINF:-1 tvg-id="SONY_PIX_SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12078-j9obub60-v7/imageContent-12078-j9obub60-m6.jpg",SONY PIX SD English Bongoflix
-https://tv.bongoflix.top/toffee/live.php?id=5c42f69f96db&e=.m3u8|Referer=https://tv.bongoflix.top/toffee/live.php?id=5c42f69f96db&e=.m3u8
 
 
 #EXTINF:-1 tvg-id="English SONY_BBC_EARTH_HD" tvg-name="Sony BBC earth HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png",Sony BBC earth HD English SonyLiv
@@ -122,16 +117,6 @@ https://m.xigzo.store/toffee-old/live.php?id=2604a4cd22ee&e=.m3u8|Referer=https:
 #EXTINF:-1 tvg-id="SONY_PIX_SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12078-j9obub60-v7/imageContent-12078-j9obub60-m6.jpg",SONY PIX SD English Toffee TV
 https://m.xigzo.store/toffee-old/live.php?id=5c42f69f96db&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=5c42f69f96db&e=.m3u8
 
-
-#EXTINF:-1 tvg-id="Sony Sab SD" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png",Sony Sab SD TataPlay
-https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/559/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
-
-#EXTINF:-1 tvg-id="Sony Set SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET/images/LOGO_HD/image.png" group-title="Entertainment", SET SD Bongoflix
-https://tv.bongoflix.top/toffee/live.php?id=243771d9592c&e=.m3u8|Referer=https://tv.bongoflix.top/toffee/live.php?id=243771d9592c&e=.m3u8
-
-
-#EXTINF:-1 tvg-id="Set SD" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12074-j9oat6qw-v6/imageContent-12074-j9oat6qw-m6.png",Sony SD Tataplay
-https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/556/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 
 #EXTINF:-1, SONY BBC EARTH SD Hindi
 http://14.192.144.13:8000/play/a06w
@@ -584,7 +569,21 @@ Sony Pix SD
 https://xfireflix.fun/toffeeWd/live.php?id=ea02096b0fbc&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=ea02096b0fbc&e=.m3u8
 https://softbd24.com/new/toffee/live.php?id=ea02096b0fbc&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=ea02096b0fbc&e=.m3u8
 
+EXTINF:-1 tvg-id="Sony SAB SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj0NBCeqsaWxY3O0zNeKvGjUPXWQluRmThtQ&s" group-title="Entertainment",Sony SAB SD Bongoflix
+https://tv.bongoflix.top/toffee/live.php?id=978d421e4729&e=.m3u8|Referer=https://tv.bongoflix.top/toffee/live.php?id=978d421e4729&e=.m3u8
 
+EXTINF:-1 tvg-id="SONY_PIX_SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12078-j9obub60-v7/imageContent-12078-j9obub60-m6.jpg",SONY PIX SD English Bongoflix
+https://tv.bongoflix.top/toffee/live.php?id=5c42f69f96db&e=.m3u8|Referer=https://tv.bongoflix.top/toffee/live.php?id=5c42f69f96db&e=.m3u8
+
+EXTINF:-1 tvg-id="Sony Set SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET/images/LOGO_HD/image.png" group-title="Entertainment", SET SD Bongoflix
+https://tv.bongoflix.top/toffee/live.php?id=243771d9592c&e=.m3u8|Referer=https://tv.bongoflix.top/toffee/live.php?id=243771d9592c&e=.m3u8
+
+
+EXTINF:-1 tvg-id="Sony Sab SD" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png",Sony Sab SD TataPlay
+https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/559/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
+
+EXTINF:-1 tvg-id="Set SD" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12074-j9oat6qw-v6/imageContent-12074-j9oat6qw-m6.png",Sony SD Tataplay
+https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/556/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 
 
 
