@@ -13,19 +13,24 @@ https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-348%26uid=863663110%26pa
 
 
 #EXTINF:-1 tvg-id="&Xplor HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_list/1170x658withlogo358457080.png" group-title="ZEE5",&xplorHD
+https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-209&uid=863663110&pass=9f9974a1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.zee5.com&Referer=https://www.zee5.com/
 https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-209%26uid=863663110%26pass=9f9974a1%7Corigin=https://www.zee5.com%26user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="Zee Classic" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee Classic.png" group-title="ZEE5",Zee Classic
+https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-176&uid=863663110&pass=9f9974a1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.zee5.com&Referer=https://www.zee5.com/
 https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-176%26uid=863663110%26pass=9f9974a1%7Corigin=https://www.zee5.com%26user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 
 
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog1476130363.png" group-title="ZEE5", &pictures HD
+https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-tvpictureshd&uid=863663110&pass=9f9974a1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.zee5.com&Referer=https://www.zee5.com/
 https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-tvpictureshd%26uid=863663110%26pass=9f9974a1%7Corigin=https://www.zee5.com%26user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="Zee TV HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png" group-title="ZEE5",Zee TV HD
+https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-zeetvhd&uid=863663110&pass=9f9974a1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.zee5.com&Referer=https://www.zee5.com/
 https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-zeetvhd%26uid=863663110%26pass=9f9974a1%7Corigin=https://www.zee5.com%26user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="ZEE5",&TV HD
+https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-tvhd_0&uid=863663110&pass=9f9974a1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.zee5.com&Referer=https://www.zee5.com/
 https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-tvhd_0%26uid=863663110%26pass=9f9974a1%7Corigin=https://www.zee5.com%26user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 
 
@@ -83,9 +88,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="Big Magic" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog2022520414.png"group-title="ZEE5",Big Magic
+https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-bigmagic_1786965389&uid=863663110&pass=9f9974a1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.zee5.com&Referer=https://www.zee5.com/
 https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-bigmagic_1786965389%26uid=863663110%26pass=9f9974a1%7Corigin=https://www.zee5.com%26user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="Zee Anmol Cinema 2" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigganga/channel_list/1170x65802779b8c9ffb451b8e8aea2958c9b3ff.png"group-title="ZEE5",Zee Anmol Cinema 2
+https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-bigganga&uid=863663110&pass=9f9974a1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.zee5.com&Referer=https://www.zee5.com/
 https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-bigganga%26uid=863663110%26pass=9f9974a1%7Corigin=https://www.zee5.com%26user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -124,13 +131,15 @@ http://astv.life:8080/anil%40123/anil%40123/138860
 https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="English &Flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list5d289fc39bef4ebca19c6bfe64e46e26.jpg"group-title="ZEE5",English &flix HD
+https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-channel_2105335046&uid=863663110&pass=9f9974a1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.zee5.com&Referer=https://www.zee5.com/
 https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-channel_2105335046%26uid=863663110%26pass=9f9974a1%7Corigin=https://www.zee5.com%26user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="English Zee Cafe HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Zee_Caf%C3%A9_HD_2017_Bug.jpg/revision/latest?cb=20240320185107"group-title="ZEE5",English Zee Cafe HD
+https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-zeecafehd&uid=863663110&pass=9f9974a1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.zee5.com&Referer=https://www.zee5.com/
 https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-zeecafehd%26uid=863663110%26pass=9f9974a1%7Corigin=https://www.zee5.com%26user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 
-
 #EXTINF:-1 tvg-id="&Prive HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg"group-title="ZEE5",&Prive HD
+https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-9z5543514&uid=863663110&pass=9f9974a1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.zee5.com&Referer=https://www.zee5.com/
 https://zee5.joker-verse.workers.dev/master.m3u8?id=0-9-9z5543514%26uid=863663110%26pass=9f9974a1%7Corigin=https://www.zee5.com%26user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="Zee Cafe SD" tvg-logo="https://dialogselfcare.s3.ap-southeast-1.amazonaws.com/dialogdigitizationservices/productcatalogue/dtv/4/Zeecafe_Grey_Logo_1572x516.png" group-title="Entertainment",Zee Cafe SD Toffee TV
