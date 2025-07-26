@@ -13,8 +13,8 @@ EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://akamaividz2.zee5.com/image/uplo
 EXTINF:-1 tvg-id="&Xplor HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_list/1170x658withlogo358457080.png" group-title="ZEE5",&xplorHD
 
 
-EXTINF:-1 tvg-id="Zee Classic" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee Classic.png" group-title="ZEE5",Zee Classic
-
+#EXTINF:-1 tvg-id="Zee Classic" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee Classic.png" group-title="ZEE5",Zee Classic
+https://mintos.allinonereborn.xyz/ze/live.php?id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105547/ZeeClassicELE/master.m3u8&token=JITENDRA_KUMAR&e.m3u8&Origin=https://www.zee5.com
 
 EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog1476130363.png" group-title="ZEE5", &pictures HD
 
@@ -122,7 +122,8 @@ https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/manifest.mpd
 
 EXTINF:-1 tvg-id="English &Flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list5d289fc39bef4ebca19c6bfe64e46e26.jpg"group-title="ZEE5",English &flix HD
 
-EXTINF:-1 tvg-id="English Zee Cafe HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Zee_Caf%C3%A9_HD_2017_Bug.jpg/revision/latest?cb=20240320185107"group-title="ZEE5",English Zee Cafe HD
+#EXTINF:-1 tvg-id="English Zee Cafe HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Zee_Caf%C3%A9_HD_2017_Bug.jpg/revision/latest?cb=20240320185107"group-title="ZEE5",English Zee Cafe HD
+https://mintos.allinonereborn.xyz/ze/live.php?id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105539/ZeecafeHDELE/index-connected.m3u8&token=JITENDRA_KUMAR&e.m3u8&Origin=https://www.zee5.com
 
 EXTINF:-1 tvg-id="&Prive HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg"group-title="ZEE5",&Prive HD
 
