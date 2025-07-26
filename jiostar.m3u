@@ -5,7 +5,8 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
-https://jiotvplus.joker-verse.workers.dev:443/index.mpd?id=1108&uid=863663110&pass=9f9974a1|Origin=https://www.jiotv.com&Referer=https://www.jiotv.com/
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1753495719~exp=1753582119~acl=/*~hmac=76ea2394c34255467244ae4304f42026ea74dd1fafac0189226d9b974c9a9d01&xxx=%7Ccookie=__hdnea__=st=1753495719~exp=1753582119~acl=/*~hmac=76ea2394c34255467244ae4304f42026ea74dd1fafac0189226d9b974c9a9d01
+
 
 #EXTINF:-1 tvg-id="362" tvg-name="Star Sports 1 Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978e8c4589e08ce80f035/images/147.webp" group-title="Jiostar", Star Sports 1 Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
