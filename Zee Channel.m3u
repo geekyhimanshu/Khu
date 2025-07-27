@@ -7,23 +7,23 @@
 https://companion-live-play1.streamready.in/live/med12-2/zee_zest/ndashd/zee_zest.mpd|Referer=https://companion-live-play1.streamready.in
 
 
-EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-348/channel_web/1170x658withlog2096037619.png" group-title="ZEE5",Zee Zest HD
+#EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-348/channel_web/1170x658withlog2096037619.png" group-title="ZEE5",Zee Zest HD
+https://mintos.allinonereborn.xyz/ze/live.php?id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105513/ZeeZestHDELE/index-connected.m3u8&token=JITENDRA_KUMAR&e.m3u8&Origin=https://www.zee5.com
 
-
-EXTINF:-1 tvg-id="&Xplor HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_list/1170x658withlogo358457080.png" group-title="ZEE5",&xplorHD
-
+#EXTINF:-1 tvg-id="&Xplor HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_list/1170x658withlogo358457080.png" group-title="ZEE5",&xplorHD
+https://mintos.allinonereborn.xyz/ze/live.php?id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105553/AndxploreHDELE/index-connected.m3u8&token=JITENDRA_KUMAR&e.m3u8&Origin=https://www.zee5.com
 
 #EXTINF:-1 tvg-id="Zee Classic" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee Classic.png" group-title="ZEE5",Zee Classic
 https://mintos.allinonereborn.xyz/ze/live.php?id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105547/ZeeClassicELE/master.m3u8&token=JITENDRA_KUMAR&e.m3u8&Origin=https://www.zee5.com
 
-EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog1476130363.png" group-title="ZEE5", &pictures HD
-
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog1476130363.png" group-title="ZEE5", &pictures HD
+https://mintos.allinonereborn.xyz/ze/live.php?id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105174/ANDPicturesHDELE/index-connected.m3u8&token=JITENDRA_KUMAR&e.m3u8&Origin=https://www.zee5.com
 
 #EXTINF:-1 tvg-id="Zee TV HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png" group-title="ZEE5",Zee TV HD
 https://mintos.allinonereborn.xyz/ze/live.php?id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105531/ZeeTVHDMSLELE/index-connected.m3u8&token=JITENDRA_KUMAR&e.m3u8&Origin=https://www.zee5.com
 
-
-EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="ZEE5",&TV HD
+#EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="ZEE5",&TV HD
+https://mintos.allinonereborn.xyz/ze/live.php?id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105504/AndTVHDELE/index-connected.m3u8&token=JITENDRA_KUMAR&e.m3u8&Origin=https://www.zee5.com
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
