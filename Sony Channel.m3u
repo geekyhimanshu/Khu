@@ -16,7 +16,7 @@ https://dish.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8
 https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
 
 
-#EXTINF:-1 tvg-name="Sony Sports Ten 3 HD Hindi" tvg-logo="http://192.0.0.4:5350/jtvimage/Ten3_HD.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Sports Ten 3 HD Hindi SonyLiv
+#EXTINF:-1 tvg-name="Sony Sports Ten 3 HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Sports Ten 3 HD Hindi SonyLiv
 https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
 
 
@@ -28,15 +28,15 @@ https://dish.slivcdn.com/hls/live/2011908-b/MAX2/master.m3u8
 https://dish.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 
 
-#EXTINF:-1 tvg-name="Sony Sports Ten 1 HD" tvg-logo="http://192.0.0.4:5350/jtvimage/Ten_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Sports Ten 1 HD SonyLiv
+#EXTINF:-1 tvg-name="Sony Sports Ten 1 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Sports Ten 1 HD SonyLiv
 https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8
 
 
-#EXTINF:-1 tvg-name="Sony Sports Ten 5 HD" tvg-logo="http://192.0.0.4:5350/jtvimage/Six_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Sports Ten 5 HD SonyLiv
+#EXTINF:-1 tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Sports Ten 5 HD SonyLiv
 https://dish.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
 
 
-#EXTINF:-1 tvg-name="Sony Sports Ten 2 HD" tvg-logo="http://192.0.0.4:5350/jtvimage/Ten2_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Sports Ten 2 HD SonyLiv
+#EXTINF:-1 tvg-name="Sony Sports Ten 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Sports Ten 2 HD SonyLiv
 https://dish.slivcdn.com/hls/live/2020434-b/TEN2HD/master.m3u8
 
 
@@ -91,19 +91,19 @@ https://dish.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8
 https://dish.slivcdn.com/hls/live/2011748-b/PIXHD/master.m3u8
 
 
-#EXTINF:-1 tvg-name="Sony Ten 3 Hindi SD" tvg-logo="http://192.0.0.4:5350/jtvimage/Ten_3.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Sports Ten 3 Hindi SD SonyLiv
+#EXTINF:-1 tvg-name="Sony Ten 3 Hindi SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Sports Ten 3 Hindi SD SonyLiv
 https://dish.slivcdn.com/hls/live/2020592-b/TEN3SD/master.m3u8
 
 
-#EXTINF:-1 tvg-id=514 tvg-name="Sony Ten 1 SD" tvg-logo="http://192.0.0.4:5350/jtvimage/Ten_1.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 1 SD SonyLiv
+#EXTINF:-1 tvg-id=514 tvg-name="Sony Ten 1 SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 1 SD SonyLiv
 https://dish.slivcdn.com/hls/live/2011739-b/TEN1SD/master.m3u8
 
 
-#EXTINF:-1 tvg-name="Sony Ten 5 SD" tvg-logo="http://192.0.0.4:5350/jtvimage/Sony_Six_SD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Sports Ten 5 SD SonyLiv
+#EXTINF:-1 tvg-name="Sony Ten 5 SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Sports Ten 5 SD SonyLiv
 https://dish.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8
 
 
-#EXTINF:-1 tvg-id=523 tvg-name="Sony Ten 2 SD" tvg-logo="http://192.0.0.4:5350/jtvimage/Ten_2.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Sports Ten 2 SD SonyLiv
+#EXTINF:-1 tvg-id=523 tvg-name="Sony Ten 2 SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Sports Ten 2 SD SonyLiv
 https://dish.slivcdn.com/hls/live/2020590-b/TEN2SD/master.m3u8
 
 
