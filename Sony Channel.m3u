@@ -20,11 +20,11 @@ https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
 https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
 
 
-#EXTINF:-1 tvg-id="Sony Max 2" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies", Sony MAX 2 SonyLiv
+#EXTINF:-1 tvg-id="Sony Max 2" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/2_250.png" group-title="Movies", Sony MAX 2 SonyLiv
 https://dish.slivcdn.com/hls/live/2011908-b/MAX2/master.m3u8
 
 
-#EXTINF:-1 tvg-id="Sony Yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids", Sony YAY SonyLiv
+#EXTINF:-1 tvg-id="Sony Yay" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png" group-title="Kids", Sony YAY SonyLiv
 https://dish.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 
 
@@ -40,10 +40,10 @@ https://dish.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
 https://dish.slivcdn.com/hls/live/2020434-b/TEN2HD/master.m3u8
 
 
-#EXTINF:-1 tvg-id="Sony Wah" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies", Sony WAH SonyLiv
+#EXTINF:-1 tvg-id="Sony Wah" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/10_258.png" group-title="Movies", Sony WAH SonyLiv
 https://dish.slivcdn.com/hls/live/2011906-b/SonyWah/master.m3u8
 
-#EXTINF:-1 tvg-id="Sony Pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment", Sony PAL SonyLiv
+#EXTINF:-1 tvg-id="Sony Pal" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/6_257.png" group-title="Entertainment", Sony PAL SonyLiv
 https://dish.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 
 
