@@ -80,7 +80,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="Big Magic" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog2022520414.png"group-title="ZEE5",Big Magic
-https://mintos.allinonereborn.xyz/ze/live.php?id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105176/BigMagicELE/master.m3u8&token=JITENDRA_KUMAR&e.m3u8&Origin=https://www.zee5.com
+https://la.drmlive.net/tp/zee-bigmagic_1786965389.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36&Origin=https://www.zee5.com
 
 #EXTINF:-1 tvg-id="Zee Anmol Cinema 2" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigganga/channel_list/1170x65802779b8c9ffb451b8e8aea2958c9b3ff.png"group-title="ZEE5",Zee Anmol Cinema 2
 https://mintos.allinonereborn.xyz/ze/live.php?id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105171/ZeeGangaELE/master.m3u8&token=JITENDRA_KUMAR&e.m3u8&Origin=https://www.zee5.com
