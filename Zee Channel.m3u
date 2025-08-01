@@ -97,7 +97,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PD6NAln3SPGDD3E6dpdg5w","kid":"nXoZF+4yRNGYGTzdH/H+rg"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="Zee Action" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png"group-title="Watcho Dishtv",Zee Action
@@ -142,6 +141,12 @@ http://filex.me:8080/998866/998866/55
 
 #EXTINF:-1 tvg-id="Zee Cafe SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiuZjxLgvMvySCF2rW7q1Bs1hrMvGHZT7EsQkssAMfl1bEyrEwqPdPIFw&s=10" group-title="Entertainment",Zee Cafe SD Nettv
 https://live.dinesh29.com.np/stream/livetv/zeecafehd/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bd.drmlive.net/toffee/cdn/live/zee_cafe_hd/playlist.m3u8
+EXTINF:-1 tvg-id="Zee Cafe SD" tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/02/Zee-Cafe-logo.jpg" group-title="Entertainment",Zee Cafe SD Drmlive
+https://bd.drmlive.net/toffee/cdn/live/zee_cafe_hd/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
 
 #EXTINF:-1, ZEE ZEST HD 195.181.169.162
 http://195.181.169.162:80/LIVING_FOODZ_HD/index.mpd?token=test
