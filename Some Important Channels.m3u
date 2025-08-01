@@ -38,10 +38,9 @@ http://89.187.179.14/ANMLPLANET/HD/HIN/index.mpd?token=test
 https://tv.bongoflix.top/toffee/live.php?id=eb6b38bdd902&e=.m3u8|Referer=https://tv.bongoflix.top/toffee/live.php?id=eb6b38bdd902&e=.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bd.drmlive.net/toffee/cdn/live/zee_cafe_hd/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://bd.drmlive.net/toffee/cdn/live/discovary_investigation_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Hindi Investigation Discovery HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD/images/LOGO_HD/image.png" group-title="Information",Investigation Discovery HD Hindi Toffee TV
-https://bd.drmlive.net/toffee/cdn/live/investigation_discovery_hd/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-
+https://bd.drmlive.net/toffee/cdn/live/discovary_investigation_hd/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="Sports",Ten Cricket Toffee TV
 https://tv.bongoflix.top/toffee/live.php?id=86db7302947d&e=.m3u8|Referer=https://tv.bongoflix.top/toffee/live.php?id=86db7302947d&e=.m3u8
