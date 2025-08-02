@@ -24,13 +24,6 @@ http://livetvbox.live:8080/Ashraf123/Ashraf321/19741
 http://livetvbox.live:8080/live/Ashraf123/Ashraf321/19741.m3u8
 
 
-Zee Cafe HD Hindi Multi
-
-Sony BBC Earth HD Hindi Multi
-Sony Pix HD Hindi Multi
-
-Zee Zest HD Hindi
-
 #EXTINF:-1 tvg-id="Hindi Animal Planet HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET_WORLD_HD/images/LOGO_HD/image.png" group-title="Information",Animal Planet HD Hindi
 http://89.187.179.14/ANMLPLANET/HD/HIN/index.mpd?token=test
 
@@ -60,27 +53,6 @@ https://bd.drmlive.net/toffee/cdn/live/ten_cricket/playlist.m3u8|user-agent=Mozi
 #EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="Sports",Ten Cricket Toffee TV
 https://softbd24.com/new/toffee/live.php?id=86db7302947d&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=86db7302947d&e=.m3u8
 
-
-&Flix SD Hindi Multi
-Sony BBC Earth SD Hindi Multi
-Sony Pix SD Hindi Multi
-Discovery Science SD Hindi Multi
-
-Sony SD
-Sony Sab SD
-
-Zee Cafe SD English
-
-Zee Cafe SD Hindi
-
-Disney Channel HD
-Etv BalBharat Hindi 
-Etv BalBharat Gujarati
-
-
-Tata Play Dance Active
-
-Tata Play Aradhana
 
 #EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="Information",HINDI NATIONAL GEOGRAPHIC HD SunDirectHD
 http://89.187.179.14/Nat_Geo_Hin/index.mpd?token=test
@@ -122,6 +94,7 @@ https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/113/master.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1, tvg-id="GoodTimes" GoodTimes Multi
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/136/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
+
 
 
 
