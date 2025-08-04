@@ -123,10 +123,6 @@ http://livetvbox.live:8080/Ashraf123/Ashraf321/98841
 http://livetvbox.live:8080/live/Ashraf123/Ashraf321/98841.m3u8
 
 
-#EXTINF:-1 tvg-id="Hindi Zee Cafe HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list_clean/1920x1080list2ad732383dfb4c8f8f4e15531119effd.png" group-title="Entertainment",Zee Cafe HD Tataplay Multi Language
-http://astv.life:8080/anil%40123/anil%40123/138860
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 #EXTINF:-1 tvg-id="English &Flix SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrM0RN7qcdX9Y7_KpWUYXZM9nhjWDr0TlhA&usqp=CAU" group-title="Movies",English &Flix SD PeoTV Go
@@ -171,6 +167,7 @@ http://195.181.169.162:80/AND_FLIX_HD/index.mpd?token=test
 
 #EXTINF:-1, &PRIVE HD 195.181.169.162
 http://195.181.169.162:80/AND_PRIVE_HD/index.mpd?token=test
+
 
 
 
