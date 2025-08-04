@@ -2,17 +2,6 @@
 
 
 
-#EXTINF:-1 tvg-id="Etv Balbharat SD" tvg-logo="https://assets.etvbalbharat.com/languageimages/ETV_GUJARATHI.png" group-title="Kids",ETV BalBharat SD Gujarati astv.life
-http://astv.life:8080/anil%40123/anil%40123/220750
-#EXTINF:-1 tvg-id="Etv Balbharat SD" tvg-logo="https://assets.etvbalbharat.com/languageimages/ETV_GUJARATHI.png" group-title="Kids",ETV BalBharat SD Gujarati m3u8 astv.life
-http://astv.life:8080/live/anil%40123/anil%40123/220750.m3u8
-
-#EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",Disney HD Multi Language astv.life
-http://astv.life:8080/anil%40123/anil%40123/137794
-#EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",Disney HD Multi Language m3u8 astv.life
-http://astv.life:8080/live/anil%40123/anil%40123/137794.m3u8
-
-
 #EXTINF:-1 tvg-id="Etv Balbharat SD" tvg-logo="https://assets.etvbalbharat.com/languageimages/ETV_HINDI.png" group-title="Kids",ETV BalBharat SD Hindi livetvbox
 http://livetvbox.live:8080/Ashraf123/Ashraf321/355286
 #EXTINF:-1 tvg-id="Etv Balbharat SD" tvg-logo="https://assets.etvbalbharat.com/languageimages/ETV_HINDI.png" group-title="Kids",ETV BalBharat SD Hindi m3u8 livetvbox
@@ -64,16 +53,12 @@ http://195.181.169.162:80/NAT_GEO_HINDI_HD/index.mpd?token=test
 http://89.187.179.14/NATGEOWILD/INDI/HIN/index.mpd?token=test
 
 
-#EXTINF:-1 tvg-id="Star Sports 3 Multi" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31405-jm2isen4-v1/imageContent-31405-jm2isen4-m1.png" group-title="Sports",Star Sports 3 Tata Play Multi Language nonamevos
-http://nonamevos.com:80/72582/72582/240
-#EXTINF:-1 tvg-id="Star Sports 3 Multi" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31405-jm2isen4-v1/imageContent-31405-jm2isen4-m1.png" group-title="Sports",Star Sports 3 Tata Play Multi Language nonamevos
-http://nonamevos.com:80/live/72582/72582/240.m3u8
+#EXTINF:-1 tvg-id="TataPlay Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Comedy-Transparent.png" group-title="Entertainment",Tata Play Comedy ts
+http://line.greatstar.me:80/play/live.php?mac=00:2a:01:90:28:A4&stream=155991&extension=ts
 
-#EXTINF:-1 tvg-id="ts744" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Comedy-Transparent.png" group-title="Hindi Entertainment",Tata Play Comedy m3u8
-http://astv.life:8080/live/anil%40123/anil%40123/399449.m3u8
+#EXTINF:-1 tvg-id="TataPlay Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Comedy-Transparent.png" group-title="Entertainment",Tata Play Comedy m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C1:A1:5B&stream=155991&extension=m3u8
 
-#EXTINF:-1 tvg-id="ts744" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Comedy-Transparent.png" group-title="Hindi Entertainment",Tata Play Comedy
-http://astv.life:8080/anil%40123/anil%40123/399449
 
 #EXTINF:-1 tvg-id="TataPlay Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Music-Transparent.png" group-title="Music",Tata Play Music filex.me
 http://filex.me:8080/998866/998866/502978
@@ -88,12 +73,6 @@ http://filex.me:8080/live/998866/998866/275061.m3u8
 #EXTINF:-1 tvg-id="DD SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSROWHLIi7HSAVvBC068b-CcrQj0VFArpNbiQ&usqp=CAU" group-title="Sports",DD SPORTS HD DD Free Dish filex.me
 http://filex.me:8080/998866/998866/247163
 
-
-#EXTINF:-1, tvg-id="Discovery Science SD Hindi" Discovery Science SD Hindi Multi
-https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/113/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
-
-#EXTINF:-1, tvg-id="GoodTimes" GoodTimes Multi
-https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/136/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 
 
 
