@@ -47,14 +47,14 @@ https://dish.slivcdn.com/hls/live/2011906-b/SonyWah/master.m3u8
 https://dish.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 
 
-#EXTINF:-1 tvg-id="sony-sab" tvg-logo="https://live.dinesh29.com.np/logos/sony-sab.png" group-title="Entertainment",Sony Sab TV Nettv
-https://live.dinesh29.com.np/stream/livetv/sonysab/master.m3u8
+#EXTINF:-1 tvg-id="sony-sab" tvg-logo="https://live.dinesh29.com.np/logos/sony-sab.png" group-title="Entertainment",Sony Sab SD afpanel
+http://afpanel.one:8080/Nadim/1234/131771
 
 
 #EXTINF:-1 tvg-id="Sony Sab SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12082-j9oc3vaw-v8/imageContent-12082-j9oc3vaw-m7.jpg" group-title="Entertainment", SONY SAB SD Tataplay DTH
 http://filex.me:8080/998866/998866/25|Referer=http://filex.me:8080/998866/998866/25
 
-#EXTINF:-1 tvg-id="SET SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12072-j9oat6qw-v6/imageContent-12072-j9oat6qw-m6.jpg" group-title="Entertainment",SET SD Tataplay DTH
+#EXTINF:-1 tvg-id="Sony Set SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12072-j9oat6qw-v6/imageContent-12072-j9oat6qw-m6.jpg" group-title="Entertainment",SET SD Tataplay DTH
 http://filex.me:8080/998866/998866/15|Referer=http://filex.me:8080/998866/998866/15
 
 #EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment" ,Hindi Sony BBC Earth HD livetvbox
@@ -115,13 +115,13 @@ https://dish.slivcdn.com/hls/live/2020590-b/TEN2SD/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Sony SAB SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj0NBCeqsaWxY3O0zNeKvGjUPXWQluRmThtQ&s" group-title="Entertainment",Sony SAB SD Toffee TV
+#EXTINF:-1 tvg-id="SONY SAB SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj0NBCeqsaWxY3O0zNeKvGjUPXWQluRmThtQ&s" group-title="Entertainment",Sony SAB SD Toffee TV
 https://softbd24.com/new/toffee/live.php?id=b7167fe646a4&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=b7167fe646a4&e=.m3u8
 
-#EXTINF:-1 tvg-id="SONY_PIX_SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12078-j9obub60-v7/imageContent-12078-j9obub60-m6.jpg",SONY PIX SD English Toffee TV
+#EXTINF:-1 tvg-id="SONY PIX SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12078-j9obub60-v7/imageContent-12078-j9obub60-m6.jpg",SONY PIX SD English Toffee TV
 https://softbd24.com/new/toffee/live.php?id=ea02096b0fbc&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=ea02096b0fbc&e=.m3u8
 
-#EXTINF:-1 tvg-id="Sony Set SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET/images/LOGO_HD/image.png" group-title="Entertainment", SET SD Toffee TV
+#EXTINF:-1 tvg-id="SONY SET SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET/images/LOGO_HD/image.png" group-title="Entertainment", SET SD Toffee TV
 https://softbd24.com/new/toffee/live.php?id=243771d9592c&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=243771d9592c&e=.m3u8
 
 
@@ -170,6 +170,7 @@ http://195.181.169.162:80/SONY_PIX_HD/index.mpd?token=test
 
 #EXTINF:-1, SONY BBC EARTH HD ENGLISH 195.181.169.162
 http://195.181.169.162:80/BBC_EARTH_HD/index.mpd?token=test
+
 
 
 
