@@ -47,7 +47,7 @@ https://dish.slivcdn.com/hls/live/2011906-b/SonyWah/master.m3u8
 https://dish.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 
 
-#EXTINF:-1 tvg-id="sony-sab" tvg-logo="https://live.dinesh29.com.np/logos/sony-sab.png" group-title="Entertainment",Sony Sab SD afpanel
+#EXTINF:-1 tvg-id="sony-sab" tvg-logo="https://live.dinesh29.com.np/logos/livetv/sony-sab.png" group-title="Entertainment",Sony Sab SD afpanel
 http://afpanel.one:8080/Nadim/1234/131771
 
 
@@ -170,6 +170,7 @@ http://195.181.169.162:80/SONY_PIX_HD/index.mpd?token=test
 
 #EXTINF:-1, SONY BBC EARTH HD ENGLISH 195.181.169.162
 http://195.181.169.162:80/BBC_EARTH_HD/index.mpd?token=test
+
 
 
 
