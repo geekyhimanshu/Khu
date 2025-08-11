@@ -109,18 +109,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="Hindi Zee Cafe 4K" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Entertainment",Hindi Zee Cafe 4k TataPlay livetvbox
-http://livetvbox.live:80/Ashraf123/Ashraf321/98848
-
 #EXTINF:-1 tvg-id="Hindi Zee Cafe 4K" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Entertainment",Hindi Zee Cafe 4k TataPlay m3u8 livetvbox
-http://livetvbox.live:80/live/Ashraf123/Ashraf321/98848.m3u8
-
-
-#EXTINF:-1 tvg-id="Hindi &Flix 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVKDzH_8kKlT-sQ525gT79xQ1k3enQMa0Yw&usqp=CAU" group-title="Movies",Hindi &Flix 4K livetvbox
-http://livetvbox.live:8080/Ashraf123/Ashraf321/98841
+http://joker-verse.vercel.app/starshare/itv/98848.m3u8
 
 #EXTINF:-1 tvg-id="Hindi &Flix 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVKDzH_8kKlT-sQ525gT79xQ1k3enQMa0Yw&usqp=CAU" group-title="Movies",Hindi &Flix 4K m3u8 livetvbox
-http://livetvbox.live:8080/live/Ashraf123/Ashraf321/98841.m3u8
+http://joker-verse.vercel.app/starshare/itv/98841.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -167,6 +160,7 @@ http://195.181.169.162:80/AND_FLIX_HD/index.mpd?token=test
 
 #EXTINF:-1, &PRIVE HD 195.181.169.162
 http://195.181.169.162:80/AND_PRIVE_HD/index.mpd?token=test
+
 
 
 
