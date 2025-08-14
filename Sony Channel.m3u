@@ -60,10 +60,14 @@ https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/96133332/master.m3u8%7CUser-Agent=Mozi
 #EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment" ,Sony BBC Earth HD Multi Language
 http://89.187.179.14:80/SONYEARTH/HD/HIN/index.m3u8?token=test
 
-
+#EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment" ,Hindi Sony BBC Earth HD m3u8 livetvbox
+http://115.42.70.201:8000/play/a01g
 
 #EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt2RftGao_tyBYmwGo0d9L6Id_hhcb5N9W7g&usqp=CAU" group-title="Movies" ,Hindi Sony Pix HD filex.me
 http://filex.me:8080/444476/444476/275048
+
+#EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PIX_HD/images/LOGO_HD/image.png" group-title="Movies" ,Hindi Sony Pix HD m3u8 liveboxtv
+http://115.42.70.201:8000/play/a01v
 
 #EXTINF:-1 tvg-id="Sony Max 1" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/SONYMAX1_Poster_c3d9bf7c-c428-4ed8-8140-81e6d8b142a8.png" group-title="­Movies",Sony Max 1 TataPlay DTH
 http://filex.me:8080/444476/444476/512328
@@ -153,6 +157,7 @@ http://195.181.169.162:80/SONY_PIX_HD/index.mpd?token=test
 
 #EXTINF:-1, SONY BBC EARTH HD ENGLISH 195.181.169.162
 http://195.181.169.162:80/BBC_EARTH_HD/index.mpd?token=test
+
 
 
 
