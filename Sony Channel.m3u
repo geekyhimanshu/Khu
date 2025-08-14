@@ -52,10 +52,10 @@ http://afpanel.one:8080/Nadim/1234/131771
 
 
 #EXTINF:-1 tvg-id="Sony Sab SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12082-j9oc3vaw-v8/imageContent-12082-j9oc3vaw-m7.jpg" group-title="Entertainment", SONY SAB SD Tataplay DTH
-http://filex.me:8080/998866/998866/25|Referer=http://filex.me:8080/998866/998866/25
+http://filex.me:8080/444476/444476/25|Referer=http://filex.me:8080/444476/444476/25
 
 #EXTINF:-1 tvg-id="Sony Set SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12072-j9oat6qw-v6/imageContent-12072-j9oat6qw-m6.jpg" group-title="Entertainment",SET SD Tataplay DTH
-http://filex.me:8080/998866/998866/15|Referer=http://filex.me:8080/998866/998866/15
+http://filex.me:8080/444476/444476/15|Referer=http://filex.me:8080/444476/444476/15
 
 #EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment" ,Hindi Sony BBC Earth HD m3u8 livetvbox
 http://joker-verse.vercel.app/starshare/itv/9396.m3u8
@@ -71,13 +71,10 @@ http://89.187.179.14:80/SONYEARTH/HD/HIN/index.m3u8?token=test
 http://joker-verse.vercel.app/starshare/itv/98846.m3u8
 
 #EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt2RftGao_tyBYmwGo0d9L6Id_hhcb5N9W7g&usqp=CAU" group-title="Movies" ,Hindi Sony Pix HD filex.me
-http://filex.me:8080/998866/998866/275048
-
-#EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt2RftGao_tyBYmwGo0d9L6Id_hhcb5N9W7g&usqp=CAU" group-title="Movies" ,Hindi Sony Pix HD m3u8 filex.me
-http://filex.me:8080/live/998866/998866/275048.m3u8
+http://filex.me:8080/444476/444476/275048
 
 #EXTINF:-1 tvg-id="Sony Max 1" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/SONYMAX1_Poster_c3d9bf7c-c428-4ed8-8140-81e6d8b142a8.png" group-title="­Movies",Sony Max 1 TataPlay DTH
-http://filex.me:8080/998866/998866/512328
+http://filex.me:8080/444476/444476/512328
 
 
 
@@ -164,6 +161,7 @@ http://195.181.169.162:80/SONY_PIX_HD/index.mpd?token=test
 
 #EXTINF:-1, SONY BBC EARTH HD ENGLISH 195.181.169.162
 http://195.181.169.162:80/BBC_EARTH_HD/index.mpd?token=test
+
 
 
 
