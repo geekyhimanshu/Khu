@@ -102,6 +102,13 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 
 
+#EXTINF:-1 tvg-id="Hindi &Flix 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVKDzH_8kKlT-sQ525gT79xQ1k3enQMa0Yw&usqp=CAU" group-title="Movies",Hindi &Flix 4K m3u8 livetvbox
+http://115.42.70.201:8000/play/a01y
+
+#EXTINF:-1 tvg-id="Hindi Zee Cafe 4K" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Entertainment",Hindi Zee Cafe 4k TataPlay m3u8 livetvbox
+http://66.102.120.18:8000/play/a076
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 #EXTINF:-1 tvg-id="English &Flix SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrM0RN7qcdX9Y7_KpWUYXZM9nhjWDr0TlhA&usqp=CAU" group-title="Zee Channels",English &Flix SD PeoTV Go
@@ -144,6 +151,7 @@ http://195.181.169.162:80/AND_FLIX_HD/index.mpd?token=test
 
 #EXTINF:-1, &PRIVE HD 195.181.169.162
 http://195.181.169.162:80/AND_PRIVE_HD/index.mpd?token=test
+
 
 
 
