@@ -55,10 +55,9 @@ http://filex.me:8080/444476/444476/15
 #EXTINF:-1 tvg-id="Sony Max 1" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/40_272.png" group-title="­Movies",Sony Max 1 SundirectGo
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/96133332/master.m3u8%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
-#EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment" ,Sony BBC Earth HD Multi Language
-http://89.187.179.14:80/SONYEARTH/HD/HIN/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment" ,Hindi Sony BBC Earth HD m3u8 livetvbox
+
+#EXTINF:-1 tvg-id="Sony BBC HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment" ,Sony BBC Earth HD Multi Language
 http://115.42.70.201:8000/play/a01g
 
 #EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt2RftGao_tyBYmwGo0d9L6Id_hhcb5N9W7g&usqp=CAU" group-title="Movies" ,Hindi Sony Pix HD filex.me
@@ -155,6 +154,7 @@ http://195.181.169.162:80/SONY_PIX_HD/index.mpd?token=test
 
 #EXTINF:-1, SONY BBC EARTH HD ENGLISH 195.181.169.162
 http://195.181.169.162:80/BBC_EARTH_HD/index.mpd?token=test
+
 
 
 
