@@ -160,7 +160,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/output/index.m
 #EXTHTTP:{"cookie":"__hdnea__=st=1749348801~exp=1749435201~acl=/*~hmac=92f2ec954e2ff9709ebdbc1bff00bfc6efb46df78971b0c637ff4d5f38d8e905"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/National_Geographic_BTS/output/index.mpd?__hdnea__=st=1749348801~exp=1749435201~acl=/*~hmac=92f2ec954e2ff9709ebdbc1bff00bfc6efb46df78971b0c637ff4d5f38d8e905&xxx=%7Ccookie=__hdnea__=st=1749348801~exp=1749435201~acl=/*~hmac=92f2ec954e2ff9709ebdbc1bff00bfc6efb46df78971b0c637ff4d5f38d8e905
 
-#EXTINF:-1 tvg-id="1404" tvg-name="Nat Geo Wild" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/B7j5DOeg.png" group-title="Jiostar", Nat Geo Wild
+#EXTINF:-1 tvg-id="1404" tvg-name="Nat Geo Wild" tvg-logo="https://the-media-ant.mo.cloudinary.net/medias/55fb00a28ead0e79178b5e68/1565810036777/55fb00a28ead0e79178b5e68.jpg" group-title="Jiostar", Nat Geo Wild
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df09db58c18355689e86870a4bba4971:df2323beb63a5582442eedae2059147e
 #EXTHTTP:{"cookie":"__hdnea__=st=1749348801~exp=1749435201~acl=/*~hmac=92f2ec954e2ff9709ebdbc1bff00bfc6efb46df78971b0c637ff4d5f38d8e905"}
