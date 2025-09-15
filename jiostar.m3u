@@ -7,7 +7,7 @@
 #KODIPROP:inputstream.adaptive.license_key=b9d4acedc66c5660a1e06197a55bccd2:dd53bab1a42f41ae8f0a5c8fd286f456
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 #EXTHTTP:{"cookie":"__hdnea__=st=1749348801~exp=1749435201~acl=/*~hmac=92f2ec954e2ff9709ebdbc1bff00bfc6efb46df78971b0c637ff4d5f38d8e905"}
-https://mini.allinonereborn.online/jiotv-in/app/ts_live_1984.m3u8
+https://playyonogames.in/live.php?id=1984&extension=.m3u8|Referer=https://playyonogames.in//&key=BDStreamHub
 
 #EXTINF:-1 tvg-id="173" group-title="Jiostar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978f46cbc4372820a5bdf/images/237.webp" group-title="Jiostar", Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
