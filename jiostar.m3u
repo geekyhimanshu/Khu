@@ -5,8 +5,8 @@
 #EXTINF:-1 tvg-id="1984" group-title="Sports" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/2QTUuuBj.png",Star Sports 2 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b9d4acedc66c5660a1e06197a55bccd2:dd53bab1a42f41ae8f0a5c8fd286f456
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_1_HD_BTS/output/index.mpd?__hdnea__=st=1757942041~exp=1758028441~acl=/*~hmac=2f3b33a6f88096c6865e63b9d99b57b0bc971d9140d8d8fa36f24d004f729cfb
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
+https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_1_HD_BTS/output/index.mpd?__hdnea__=st=1757942041~exp=1758028441~acl=/*~hmac=2f3b33a6f88096c6865e63b9d99b57b0bc971d9140d8d8fa36f24d004f729cfb&xxx=%7Ccookie=__hdnea__=st=1757942041~exp=1758028441~acl=/*~hmac=2f3b33a6f88096c6865e63b9d99b57b0bc971d9140d8d8fa36f24d004f729cfb
 
 #EXTINF:-1 tvg-id="173" group-title="Jiostar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978f46cbc4372820a5bdf/images/237.webp" group-title="Jiostar", Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
