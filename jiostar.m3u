@@ -151,7 +151,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/output/index.mpd?__hd
 #EXTHTTP:{"cookie":"__hdnea__=st=1749348801~exp=1749435201~acl=/*~hmac=92f2ec954e2ff9709ebdbc1bff00bfc6efb46df78971b0c637ff4d5f38d8e905"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/output/index.mpd?__hdnea__=st=1757942041~exp=1758028441~acl=/*~hmac=2f3b33a6f88096c6865e63b9d99b57b0bc971d9140d8d8fa36f24d004f729cfb&xxx=%7Ccookie=__hdnea__=st=1757942041~exp=1758028441~acl=/*~hmac=2f3b33a6f88096c6865e63b9d99b57b0bc971d9140d8d8fa36f24d004f729cfb
 
-#EXTINF:-1 tvg-id="1406" group-title="Jiostar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAdZ4LJ3Ih2yXCIQh_isf_B22Ke40HO4t1ieVYVoRu5LYWAaeWO4UrAsXlW3I16RXf3o&usqp=CAU" group-title="Jiostar", National Geographic
+#EXTINF:-1 tvg-id="1406" group-title="Jiostar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAtheDIFiQ_ik7SNgp9bq9-2oIzLp7ROQVjeVCTnokvw&s=10" group-title="Jiostar", National Geographic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=053d3a1f8d5e5d759a7cbaa5b9ca7a0d:020e466407e9be52f1884697ef9d9ec9
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
