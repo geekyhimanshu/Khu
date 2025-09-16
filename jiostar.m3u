@@ -6,19 +6,19 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1757942041~exp=1758028441~acl=/*~hmac=2f3b33a6f88096c6865e63b9d99b57b0bc971d9140d8d8fa36f24d004f729cfb
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1757942041~exp=1758028441~acl=/*~hmac=2f3b33a6f88096c6865e63b9d99b57b0bc971d9140d8d8fa36f24d004f729cfb&xxx=%7Ccookie=__hdnea__=st=1757942041~exp=1758028441~acl=/*~hmac=2f3b33a6f88096c6865e63b9d99b57b0bc971d9140d8d8fa36f24d004f729cfb
 
 #EXTINF:-1 tvg-id="362" tvg-name="Star Sports 1 Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978e8c4589e08ce80f035/images/147.webp" group-title="Jiostar", Star Sports 1 Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NQwKr_7fUcwVAulUPHyIXg","kid":"jqm2B1SSUgaOJgpfTX3TIQ"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/output/index.mpd?__hdnea__=st=1757942041~exp=1758028441~acl=/*~hmac=2f3b33a6f88096c6865e63b9d99b57b0bc971d9140d8d8fa36f24d004f729cfb
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/output/index.mpd?__hdnea__=st=1757942041~exp=1758028441~acl=/*~hmac=2f3b33a6f88096c6865e63b9d99b57b0bc971d9140d8d8fa36f24d004f729cfb&xxx=%7Ccookie=__hdnea__=st=1757942041~exp=1758028441~acl=/*~hmac=2f3b33a6f88096c6865e63b9d99b57b0bc971d9140d8d8fa36f24d004f729cfb
 
 #EXTINF:-1 tvg-id="1389" tvg-name="Star Sports 3" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797981a9540e6b3ede477e/images/530.webp" group-title="Jiostar", Star Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4e8647eaf0659ac85f61765a5abcdc1:d749c9b27505beb0e1a8b6c30ca65de6
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/output/index.mpd?__hdnea__=st=1757942041~exp=1758028441~acl=/*~hmac=2f3b33a6f88096c6865e63b9d99b57b0bc971d9140d8d8fa36f24d004f729cfb
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/output/index.mpd?__hdnea__=st=1757942041~exp=1758028441~acl=/*~hmac=2f3b33a6f88096c6865e63b9d99b57b0bc971d9140d8d8fa36f24d004f729cfb&xxx=%7Ccookie=__hdnea__=st=1757942041~exp=1758028441~acl=/*~hmac=2f3b33a6f88096c6865e63b9d99b57b0bc971d9140d8d8fa36f24d004f729cfb
 
 #EXTINF:-1 tvg-id="1106" tvg-name="Star Sports 1 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a7c5625a16ee72e958/images/402.webp" group-title="Jiostar", Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
