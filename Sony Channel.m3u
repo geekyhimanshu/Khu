@@ -2,15 +2,15 @@
 
 
 #EXTINF:-1 tvg-id="SET HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png" group-title="Entertainment", SET HD SonyLiv
-https://dish.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8
+https://la.drmlive.net/tp/sliv-sethd.m3u8
 
 
 #EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LOGO_HD/image.png" group-title="Entertainment", Sony SAB HD SonyLiv
-https://dish.slivcdn.com/hls/live/2011749-b/SABHD/master.m3u8
+https://la.drmlive.net/tp/sliv-sabhd.m3u8
 
 
 #EXTINF:-1 tvg-id="Sony Max SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Movies", SONY Max SD SonyLiv
-https://dish.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8
+https://la.drmlive.net/tp/sliv-sonymaxsd.m3u8
 
 #EXTINF:-1 tvg-id="Sony Max HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX_HD/images/LOGO_HD/image.png" group-title="Movies", Sony MAX HD SonyLiv
 https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
@@ -21,7 +21,7 @@ https://la.drmlive.net/tp/sliv-ten3hd.m3u8
 
 
 #EXTINF:-1 tvg-id="Sony Max 2" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/2_250.png" group-title="Movies", Sony MAX 2 SonyLiv
-https://dish.slivcdn.com/hls/live/2011908-b/MAX2/master.m3u8
+https://la.drmlive.net/tp/sliv-max2.m3u8
 
 
 #EXTINF:-1 tvg-id="Sony Yay" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png" group-title="Kids", Sony YAY SonyLiv
@@ -29,7 +29,7 @@ https://dish.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 
 
 #EXTINF:-1 tvg-name="Sony Sports Ten 1 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Sports Ten 1 HD SonyLiv
-https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8
+https://la.drmlive.net/tp/sliv-ten1hd.m3u8
 
 
 #EXTINF:-1 tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Sports Ten 5 HD SonyLiv
@@ -37,7 +37,7 @@ https://dish.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
 
 
 #EXTINF:-1 tvg-name="Sony Sports Ten 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Sports Ten 2 HD SonyLiv
-https://dish.slivcdn.com/hls/live/2020434-b/TEN2HD/master.m3u8
+https://la.drmlive.net/tp/sliv-ten2hd.m3u8
 
 
 #EXTINF:-1 tvg-id="Sony Wah" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/10_258.png" group-title="Movies", Sony WAH SonyLiv
@@ -94,6 +94,7 @@ http://195.181.169.162:80/SONY_PIX_HD/index.mpd?token=test
 
 #EXTINF:-1, SONY BBC EARTH HD ENGLISH 195.181.169.162
 http://195.181.169.162:80/BBC_EARTH_HD/index.mpd?token=test
+
 
 
 
