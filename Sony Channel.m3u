@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-id="SET HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png" group-title="Entertainment", SET HD SonyLiv
-https://la.drmlive.net/tp/sliv-sony.m3u8
+https://nxtlive.net/sliv/stream.m3u8?id=1000009246|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009246
 
 
 #EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LOGO_HD/image.png" group-title="Entertainment", Sony SAB HD SonyLiv
@@ -93,6 +93,7 @@ http://195.181.169.162:80/SONY_PIX_HD/index.mpd?token=test
 
 #EXTINF:-1, SONY BBC EARTH HD ENGLISH 195.181.169.162
 http://195.181.169.162:80/BBC_EARTH_HD/index.mpd?token=test
+
 
 
 
