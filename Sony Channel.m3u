@@ -79,7 +79,7 @@ http://195.181.169.162:80/SONY_SAB_HD/index.mpd?token=test
 #EXTINF:-1, SONY MAX HD 195.181.169.162
 http://195.181.169.162:80/SONY_MAX_HD/index.mpd?token=test
 
-#EXTINF:-1 tvg-name="Sony Sports Ten 3 HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" tvg-language="Hindi" SONY SPORTS TEN 3 HD 195.181.169.162
+#EXTINF:-1 tvg-name="Sony Sports Ten 3 HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" tvg-language="Hindi", SONY SPORTS TEN 3 HD 195.181.169.162
 http://195.181.169.162:80/TEN_3_HD/index.mpd?token=test
 
 #EXTINF:-1, SONY SPORTS 1 HD 195.181.169.162
@@ -93,6 +93,7 @@ http://195.181.169.162:80/SONY_PIX_HD/index.mpd?token=test
 
 #EXTINF:-1, SONY BBC EARTH HD ENGLISH 195.181.169.162
 http://195.181.169.162:80/BBC_EARTH_HD/index.mpd?token=test
+
 
 
 
