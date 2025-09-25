@@ -54,7 +54,7 @@ https://nxtlive.net/sliv/stream.m3u8?id=1000009258|Referer=https://nxtlive.net/s
 
 
 #EXTINF:-1 tvg-name="Sony Ten 3 Hindi SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Sports Ten 3 Hindi SD SonyLiv
-https://la.drmlive.net/tp/sliv-ten3.m3u8
+https://nxtlive.net/sliv/stream.m3u8?id=1000009283|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009283
 
 
 #EXTINF:-1 tvg-id=514 tvg-name="Sony Ten 1 SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 1 SD SonyLiv
@@ -93,6 +93,7 @@ http://195.181.169.162:80/SONY_PIX_HD/index.mpd?token=test
 
 #EXTINF:-1, SONY BBC EARTH HD ENGLISH 195.181.169.162
 http://195.181.169.162:80/BBC_EARTH_HD/index.mpd?token=test
+
 
 
 
