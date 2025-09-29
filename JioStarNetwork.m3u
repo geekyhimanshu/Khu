@@ -127,6 +127,13 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_BTS/output/index.mpd?__hdnea__=
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/output/index.mpd?__hdnea__=st=1759106582~exp=1759192982~acl=/*~hmac=8ce57d73329b8f913b642faf0a4997dee90636e7d33cb9baee2f4e3138519c8c&xxx=%7Ccookie=__hdnea__=st=1759106582~exp=1759192982~acl=/*~hmac=8ce57d73329b8f913b642faf0a4997dee90636e7d33cb9baee2f4e3138519c8c
 
+#EXTINF:-1 tvg-id="1404" tvg-name="Nat Geo Wild" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/4/46/1200px-Nat_Geo_Wild_logo.png/revision/latest?cb=20230606211219&path-prefix=pl" group-title="Jiostar", Nat Geo Wild
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df09db58c18355689e86870a4bba4971:df2323beb63a5582442eedae2059147e
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
+https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_BTS/output/index.mpd?__hdnea__=st=1759106582~exp=1759192982~acl=/*~hmac=8ce57d73329b8f913b642faf0a4997dee90636e7d33cb9baee2f4e3138519c8c&xxx=%7Ccookie=__hdnea__=st=1759106582~exp=1759192982~acl=/*~hmac=8ce57d73329b8f913b642faf0a4997dee90636e7d33cb9baee2f4e3138519c8c
+
+
 #EXTINF:-1 tvg-id="1335" group-title="Jiostar" tvg-logo="https://preview.redd.it/national-geographic-hd-logo-2016-v0-zyv7w7hi9wye1.png?width=640&crop=smart&auto=webp&s=5ea1a442fc8958e26d222485a068569956d83901" group-title="Jiostar", National Geographic HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b006dd7965e5777a7fa33dd636c2e5d:179f796bdf11b750bebd469a3aeae1d0
@@ -139,11 +146,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/output/index.m
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_BTS/output/index.mpd?__hdnea__=st=1759106582~exp=1759192982~acl=/*~hmac=8ce57d73329b8f913b642faf0a4997dee90636e7d33cb9baee2f4e3138519c8c&xxx=%7Ccookie=__hdnea__=st=1759106582~exp=1759192982~acl=/*~hmac=8ce57d73329b8f913b642faf0a4997dee90636e7d33cb9baee2f4e3138519c8c
 
-#EXTINF:-1 tvg-id="1404" tvg-name="Nat Geo Wild" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/4/46/1200px-Nat_Geo_Wild_logo.png/revision/latest?cb=20230606211219&path-prefix=pl" group-title="Jiostar", Nat Geo Wild
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df09db58c18355689e86870a4bba4971:df2323beb63a5582442eedae2059147e
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_BTS/output/index.mpd?__hdnea__=st=1759106582~exp=1759192982~acl=/*~hmac=8ce57d73329b8f913b642faf0a4997dee90636e7d33cb9baee2f4e3138519c8c&xxx=%7Ccookie=__hdnea__=st=1759106582~exp=1759192982~acl=/*~hmac=8ce57d73329b8f913b642faf0a4997dee90636e7d33cb9baee2f4e3138519c8c
 
 
 
@@ -246,17 +248,19 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_1_SD_BTS/output/index.mpd?__hdne
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_Khel_BTS/output/index.mpd?__hdnea__=st=1759106582~exp=1759192982~acl=/*~hmac=8ce57d73329b8f913b642faf0a4997dee90636e7d33cb9baee2f4e3138519c8c&xxx=%7Ccookie=__hdnea__=st=1759106582~exp=1759192982~acl=/*~hmac=8ce57d73329b8f913b642faf0a4997dee90636e7d33cb9baee2f4e3138519c8c
 
-#EXTINF:-1 tvg-id="1136" group-title="Jiostar" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4lqGdBTB.png",Star Utsav Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1faf9c42dfe45669a70c470359886145:5a229a5f6f270c880b24014bf3cd6ee7
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Utsav_Movies_BTS/output/index.mpd?__hdnea__=st=1759106582~exp=1759192982~acl=/*~hmac=8ce57d73329b8f913b642faf0a4997dee90636e7d33cb9baee2f4e3138519c8c&xxx=%7Ccookie=__hdnea__=st=1759106582~exp=1759192982~acl=/*~hmac=8ce57d73329b8f913b642faf0a4997dee90636e7d33cb9baee2f4e3138519c8c
 
 #EXTINF:-1 tvg-id="1143" group-title="Jiostar" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/SMnGVij5.png",Star Utsav
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=63456f11b1bf599a93a6a4b9a76db2bf:b47756e4d8fb938dcbcb72d6d877fbc3
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Utsav_BTS/output/index.mpd?__hdnea__=st=1759106582~exp=1759192982~acl=/*~hmac=8ce57d73329b8f913b642faf0a4997dee90636e7d33cb9baee2f4e3138519c8c&xxx=%7Ccookie=__hdnea__=st=1759106582~exp=1759192982~acl=/*~hmac=8ce57d73329b8f913b642faf0a4997dee90636e7d33cb9baee2f4e3138519c8c
+
+#EXTINF:-1 tvg-id="1136" group-title="Jiostar" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4lqGdBTB.png",Star Utsav Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1faf9c42dfe45669a70c470359886145:5a229a5f6f270c880b24014bf3cd6ee7
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Utsav_Movies_BTS/output/index.mpd?__hdnea__=st=1759106582~exp=1759192982~acl=/*~hmac=8ce57d73329b8f913b642faf0a4997dee90636e7d33cb9baee2f4e3138519c8c&xxx=%7Ccookie=__hdnea__=st=1759106582~exp=1759192982~acl=/*~hmac=8ce57d73329b8f913b642faf0a4997dee90636e7d33cb9baee2f4e3138519c8c
+
 
 
 
