@@ -180,7 +180,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_BTS/output/index.mpd?__h
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_BTS/output/index.mpd?__hdnea__=st=1759711337~exp=1759797737~acl=/*~hmac=5635ebc50672025ad0d333011160e235e9ed1887f5892ef233c6162bf3c7aca7&xxx=%7Ccookie=__hdnea__=st=1759711337~exp=1759797737~acl=/*~hmac=5635ebc50672025ad0d333011160e235e9ed1887f5892ef233c6162bf3c7aca7
 
 
-#EXTINF:-1 tvg-id="1123" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_1.png",Star Sports Select 1
+#EXTINF:-1 tvg-id="1123" group-title="Jiostar" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/CDzxunbK.png",Star Sports Select 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea7985dacbb95f1c9d62e5a1675142e5:39d5910ca04841b5f32bf24623cdae58
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
