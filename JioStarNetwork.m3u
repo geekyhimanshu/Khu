@@ -84,20 +84,20 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Super_Hungama_BTS/output/index.mpd?__hdne
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_HD_BTS/output/index.mpd?__hdnea__=st=1760402460~exp=1760488860~acl=/*~hmac=29f61dfd843ebbaa1f19b5169ad264db0c44fe3cd38fdac82cd0d95ead76316e&xxx=%7Ccookie=__hdnea__=st=1760402460~exp=1760488860~acl=/*~hmac=29f61dfd843ebbaa1f19b5169ad264db0c44fe3cd38fdac82cd0d95ead76316e
 
-#EXTINF:-1 tvg-id="1116" group-title="Jiostar" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1MlJHGDc.png",Star Plus
+#EXTINF:-1 tvg-id="1116" group-title="Jiostar" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/1MlJHGDc.png",Star Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bba2ffaf08b501796c5d9eb431460a4:7a62074c4c46f3b153259526481c02bf
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_BTS/output/index.mpd?__hdnea__=st=1760402460~exp=1760488860~acl=/*~hmac=29f61dfd843ebbaa1f19b5169ad264db0c44fe3cd38fdac82cd0d95ead76316e&xxx=%7Ccookie=__hdnea__=st=1760402460~exp=1760488860~acl=/*~hmac=29f61dfd843ebbaa1f19b5169ad264db0c44fe3cd38fdac82cd0d95ead76316e
 
-#EXTINF:-1 tvg-id="156" group-title="Jiostar" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/DvfrYoaM.png",Star Gold HD
+#EXTINF:-1 tvg-id="156" group-title="Jiostar" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/DvfrYoaM.png",Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ad3786d9e5efa9e0c4aeb3e58c7b7:907509ccae7e68b30ae75b5d09fe60ef
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/output/index.mpd?__hdnea__=st=1760402460~exp=1760488860~acl=/*~hmac=29f61dfd843ebbaa1f19b5169ad264db0c44fe3cd38fdac82cd0d95ead76316e&xxx=%7Ccookie=__hdnea__=st=1760402460~exp=1760488860~acl=/*~hmac=29f61dfd843ebbaa1f19b5169ad264db0c44fe3cd38fdac82cd0d95ead76316e
 
 
-#EXTINF:-1 tvg-id="1151" group-title="Jiostar" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/USd2c3cM.png",Star Gold Romance
+#EXTINF:-1 tvg-id="1151" group-title="Jiostar" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/USd2c3cM.png",Star Gold Romance
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee6e9f18a6c155e3855700b34fa8436f:b670c81b0e4f7f19f1fbeac0eaa7fba8
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
