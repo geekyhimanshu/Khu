@@ -40,7 +40,7 @@ https://nonprod-sports-cohort.jiocinema.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1760488965~exp=1760575365~acl=/*~hmac=698ab4e12fb710a8ebfe59ec6265b9166c6dd13db5e23645d657ab9713918d66&xxx=%7Ccookie=__hdnea__=st=1760488965~exp=1760575365~acl=/*~hmac=698ab4e12fb710a8ebfe59ec6265b9166c6dd13db5e23645d657ab9713918d66
 
-#EXTINF:-1 tvg-id="1142" group-title="Jiostar" tvg-logo="https://img.media.jio.com/tvpimages/56/92/302115_1749665579801_l_medium.jpg",Star Sports 1
+#EXTINF:-1 tvg-id="1142" group-title="Jiostar" tvg-logo="xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1/images/LOGO_HD/image.png",Star Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df20894ec30954d3b28097c138f4cfda:ff9b6292b1cddbd11a046029cb314634
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
