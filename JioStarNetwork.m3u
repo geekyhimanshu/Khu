@@ -84,7 +84,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Super_Hungama_BTS/output/index.mpd?__hdne
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_HD_BTS/output/index.mpd?__hdnea__=st=1760488965~exp=1760575365~acl=/*~hmac=698ab4e12fb710a8ebfe59ec6265b9166c6dd13db5e23645d657ab9713918d66&xxx=%7Ccookie=__hdnea__=st=1760488965~exp=1760575365~acl=/*~hmac=698ab4e12fb710a8ebfe59ec6265b9166c6dd13db5e23645d657ab9713918d66
 
-#EXTINF:-1 tvg-id="1116" group-title="Jiostar" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/1MlJHGDc.webp",Star Plus
+#EXTINF:-1 tvg-id="1116" group-title="Jiostar" tvg-logo="https://img.media.jio.com/tvpimages/66/40/302084_1748604142189_p_medium.jpg",Star Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bba2ffaf08b501796c5d9eb431460a4:7a62074c4c46f3b153259526481c02bf
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
