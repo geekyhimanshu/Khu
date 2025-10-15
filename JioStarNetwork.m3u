@@ -236,7 +236,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/output/index.mp
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_BTS/output/index.mpd?__hdnea__=st=1760488965~exp=1760575365~acl=/*~hmac=698ab4e12fb710a8ebfe59ec6265b9166c6dd13db5e23645d657ab9713918d66&xxx=%7Ccookie=__hdnea__=st=1760488965~exp=1760575365~acl=/*~hmac=698ab4e12fb710a8ebfe59ec6265b9166c6dd13db5e23645d657ab9713918d66
 
 
-#EXTINF:-1 tvg-id="1998" group-title="Sports" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/r1W3wpgX.png",Star Sports Khel
+#EXTINF:-1 tvg-id="1998" group-title="Sports" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-ZKY9zDK_Z4gAHmFNlKg1W7FQ0RbjdCrHnb4Dn2krm9Wyc-U1",Star Sports Khel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab947ddbb9795d38bff35597b4f73108:2671e22eb7dc174c35b6aad4b113f7b0
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
