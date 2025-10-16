@@ -259,6 +259,31 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Utsav_BTS/output/index.mpd?__hdnea__
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Utsav_Movies_BTS/output/index.mpd?__hdnea__=st=1760575330~exp=1760661730~acl=/*~hmac=8b22c32a6f68ad2e6dad0be91951680788f79f188530f04c4f2b5bae462b755f&xxx=%7Ccookie=__hdnea__=st=1760575330~exp=1760661730~acl=/*~hmac=8b22c32a6f68ad2e6dad0be91951680788f79f188530f04c4f2b5bae462b755f
 
+#EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-1-hindi-hd.webp",Star Sports 1 Hindi HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Yk4ksYQ7RZ-rCpSWCUFvDQ", "kid": "_ncY-7P7S6eMB8wPV4dE5g"}], "type": "temporary"}
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
+https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd?hdntl=exp=1760680206~acl=*sshindi*~id=722c0937730c49d567cd47889ce6f382~data=hdntl~hmac=8dcc222694e2db55db41ca333d3394cd1cb08bbc62b92da8a7d72d464668e488&xxx=%7Ccookie=hdntl=exp=1760680206~acl=*sshindi*~id=722c0937730c49d567cd47889ce6f382~data=hdntl~hmac=8dcc222694e2db55db41ca333d3394cd1cb08bbc62b92da8a7d72d464668e488|origin=https://www.hotstar.com
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Yk4ksYQ7RZ-rCpSWCUFvDQ", "kid": "_ncY-7P7S6eMB8wPV4dE5g"}], "type": "temporary"}
+#EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-1-hd.webp",Star Sports 1 HD
+https://livetv-push.hotstar.com/dash/live/2002464-b/sshd1livetvwv/master.mpd?hdntl=exp=1760680207~acl=*sshd1livetv*~id=91e0e37b0ed6db861ead2da069c1668d~data=hdntl~hmac=7976b2bf2e7410a720a30b3e691887a7a16cfa6ec912389b62550d89592158ef&xxx=%7Ccookie=hdntl=exp=1760680207~acl=*sshd1livetv*~id=91e0e37b0ed6db861ead2da069c1668d~data=hdntl~hmac=7976b2bf2e7410a720a30b3e691887a7a16cfa6ec912389b62550d89592158ef|origin=https://www.hotstar.com
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Yk4ksYQ7RZ-rCpSWCUFvDQ", "kid": "_ncY-7P7S6eMB8wPV4dE5g"}], "type": "temporary"}
+#EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2-hd.webp",Star Sports 2 HD
+https://livetv-push.hotstar.com:443/dash/live/2002465-b/sshd2livetvwv/master.mpd?hdntl=exp=1760680207~acl=*sshd2livetv*~id=ddf789245df4e5f94e1a8f9175a2fe14~data=hdntl~hmac=46bdcf6f5889dec120d9886a034bace068e57fe7ad546db94e4cf8e1edfe8d51&xxx=%7Ccookie=hdntl=exp=1760680207~acl=*sshd2livetv*~id=ddf789245df4e5f94e1a8f9175a2fe14~data=hdntl~hmac=46bdcf6f5889dec120d9886a034bace068e57fe7ad546db94e4cf8e1edfe8d51|origin=https://www.hotstar.com
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Yk4ksYQ7RZ-rCpSWCUFvDQ", "kid": "_ncY-7P7S6eMB8wPV4dE5g"}], "type": "temporary"}
+#EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-1-hd.webp",Star Sports Select 1 HD
+https://livetv-push.hotstar.com:443/dash/live/2002470-b/ssselecthd1wv/master.mpd?hdntl=exp=1760680208~acl=*ssselecthd1*~id=35a3387a38c23ed9e087841745e98cfc~data=hdntl~hmac=985397b3e60e3ee17f6631a4d965857f8012f81845d7d4ad7638634999dbb4f0&xxx=%7Ccookie=hdntl=exp=1760680208~acl=*ssselecthd1*~id=35a3387a38c23ed9e087841745e98cfc~data=hdntl~hmac=985397b3e60e3ee17f6631a4d965857f8012f81845d7d4ad7638634999dbb4f0|origin=https://www.hotstar.com
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Yk4ksYQ7RZ-rCpSWCUFvDQ", "kid": "_ncY-7P7S6eMB8wPV4dE5g"}], "type": "temporary"}
+#EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-2-hd.webp",Star Sports Select 2 HD
+https://livetv-push.hotstar.com:443/dash/live/2002471-b/ssselecthd2wv/master.mpd?hdntl=exp=1760680209~acl=*ssselecthd2*~id=3d25c36854dde37928ba3635ef1a8bb7~data=hdntl~hmac=f126d78ba36d4592e0a11d098f1bcd28b05e07d5ac0ef549c4d6f7e151c75b6d&xxx=%7Ccookie=hdntl=exp=1760680209~acl=*ssselecthd2*~id=3d25c36854dde37928ba3635ef1a8bb7~data=hdntl~hmac=f126d78ba36d4592e0a11d098f1bcd28b05e07d5ac0ef549c4d6f7e151c75b6d|origin=https://www.hotstar.com
 
 
 
