@@ -1,0 +1,123 @@
+#EXTM3U
+
+#EXTINF:-1,ICC WWC Toffee TV
+https://yflix.top/fuck/live.php?id=match-asiacup&e=.m3u8|Referer=https://yflix.top/fuck/live.php?id=match-asiacup&e=.m3u8
+
+#EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="Sports",Ten Cricket Toffee TV
+https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8|Referer=https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
+
+#EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="Sports",Ten Cricket 9981
+http://103.101.197.10:9981/stream/channelid/373034842?profile=pass
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2ba14ee5ef4440d8e56a8bb5403117d:b77a334fd7aff9c9960ca7785a20ea66
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://iili.io/K8gPQmg.png" group-title="Sports",FOX 501 HD
+https://aus.livecricketsl.live/proxy/get.php/https://live1-814bffb9b389f652.fastly.foxtelgroupcdn.net.au/out/v1/c1566607e84d4dd0bc7e53bc26943d14/index.mpd
+
+
+#EXTINF:-1,Fox Sports 501 HD b1g.ooo
+http://b1g.uk/200/230/260995
+
+#EXTINF:-1,Sky Sports Cricket
+http://b1g.uk/200/230/35799
+
+#EXTINF:-1,NZ Sky Sports 1
+http://b1g.uk/200/230/696472
+
+#EXTINF:-1,A SPORTS HD
+http://alexbdix.noobmaster.xyz:8080/ASPORTSHD/index.mpd
+
+#EXTINF:-1,PTVSPORTS HD
+http://alexbdix.noobmaster.xyz:8080/PTVSPORTSHD/index.mpd
+
+#EXTINF:-1,T Sports HD
+http://alexbdix.noobmaster.xyz:8080/TSPORTS/index.mpd
+
+#EXTINF:-1,Astro Cricket
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+#EXTVLCOPT:http-user-agent=@joker_verse
+https://aus.livecricketsl.live/proxy/get.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd|Referer=https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+#EXTINF:-1,WWE HD
+http://cors.tundracast.com:2000/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1779C27B9D077A3BA0C9CC1BB9A94B9F:CC5CF3B7928FB9E0A1EE6A8B566F0A8E
+#EXTINF:-1,Willow Cricket SD
+https://a170aivottlinear-a.akamaihd.net:443/OTTB/bom-nitro/live/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+
+
+#EXTINF:-1,Willow Cricket 2 b1g.ooo
+http://b1g.uk/200/230/260994
+
+#EXTINF:-1,Willow Cricket HD b1g.ooo
+http://b1g.uk/200/230/260993
+
+#EXTINF:-1,Super Sports Cricket b1g.ooo
+http://b1g.uk/200/230/260996
+
+#EXTINF:-1,Super Sports Grandstand HD Cooltv
+http://thksmom.shop/AF_S_G/index.m3u8?token=test
+
+#EXTINF:-1,Sky Sports Cricket Cooltv
+http://thksmom.shop/AE_1018/index.m3u8?token=test
+
+#EXTINF:-1,AU_FOXSPORTS501
+http://thksmom.shop/AU_FOXSPORTS501/index.m3u8?token=test
+#EXTINF:-1,AU_FOXSPORTS502
+http://thksmom.shop/AU_FOXSPORTS502/index.m3u8?token=test
+#EXTINF:-1,AU_FOXSPORTS503
+http://thksmom.shop/AU_FOXSPORTS503/index.m3u8?token=test
+#EXTINF:-1,AU_FOXSPORTS504
+http://thksmom.shop/AU_FOXSPORTS504/index.m3u8?token=test
+#EXTINF:-1,AU_FOXSPORTS505
+http://thksmom.shop/AU_FOXSPORTS505/index.m3u8?token=test
+#EXTINF:-1,AU_FOXSPORTS506
+http://thksmom.shop/AU_FOXSPORTS506/index.m3u8?token=test
+#EXTINF:-1,AU_FOXSPORTS507
+http://thksmom.shop/AU_FOXSPORTS507/index.m3u8?token=test
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+#EXTINF:-1 tvg-id="AstroFootball" ch-number="814" ch-number="814" tvg-logo="https://i.ibb.co/whRT82yw/Picsart-25-09-02-18-14-12-493.png" group-title="Sports", Astro Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yLiGFCAF1+UGfIcXd36qxA", "kid":"gTUrxH7BF3syHuZawb5/EA" } ], "type":"temporary" }
+#EXTINF:-1 group-title="Sports" tvg-id="AstroSportsPlus" ch-number="817" tvg-logo="https://i.ibb.co/dCzsnRP/Picsart-25-09-02-18-14-26-092.png", Astro Sports Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5171/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fo8/rfxzC6PfyTL3xDDifQ", "kid":"W+Zqb4jv7j1uMPcqnFjjEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="810.astro" ch-number="813" tvg-logo="https://i.ibb.co/ycRGMGvh/Picsart-25-09-02-18-13-59-182.png" group-title="Sports", Astro Grandstand 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
+
+#EXTINF:-1 tvg-id="805" tvg-name="Astro Sports UHD" group-title="Sports" ch-number="805" tvg-logo="https://i.ibb.co/bj0b2zQb/Picsart-25-09-02-18-13-43-104.png", Astro SuperSport UHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
+
+
+#EXTINF:-1,Ten Sports HD b1g.ooo
+http://b1g.uk/200/230/239424
+
+#EXTINF:-1,PTV Sports HD b1g.ooo
+http://b1g.uk/200/230/263669
+
+#EXTINF:-1,Geo Super
+http://b1g.uk/200/230/7955
+
+
+
