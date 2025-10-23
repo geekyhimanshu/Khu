@@ -8,17 +8,6 @@
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=173
 
-#EXTINF:-1 tvg-id="362" tvg-name="Star Sports 1 Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978e8c4589e08ce80f035/images/147.webp" group-title="Jiostar", Star Sports 1 Hindi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NQwKr_7fUcwVAulUPHyIXg","kid":"jqm2B1SSUgaOJgpfTX3TIQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=362
-
-#EXTINF:-1 tvg-id="1109" tvg-name="Star Sports 2 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797986a9540e6b3ede47bf/images/607.webp" group-title="Jiostar", Star Sports 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5iCpcM6kdMSRrHiucaTXZA","kid":"lFfrkBKUVvqOqV4QukrFHg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=1109
 
 #EXTINF:-1 tvg-id="1141" group-title="Jiostar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797920c5625a16ee72f2d5/images/529.webp",Star Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -26,22 +15,6 @@ https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=1109
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=1141
 
-#EXTINF:-1 tvg-id="1984" group-title="Sports" tvg-logo="https://www.indigital.co.in/images/logo/star-sports-hindi-HD-black.jpg",Star Sports 2 Hindi HD
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-https://jcevents.hotstar.com/bpk-tv/JC_Sports18_1HD/JCHLS/manifest.m3u8?hdntl=exp=1760769008~acl=%2f*~id=289c0e7f3ae04384c812ace58671e1bc~data=hdntl~hmac=3a1abc5ceb7e777990d654426f5c0928f2e14d90a52660514b78e89063e60847&xxx=%7Ccookie=hdntl=exp=1760769008~acl=%2f*~id=289c0e7f3ae04384c812ace58671e1bc~data=hdntl~hmac=3a1abc5ceb7e777990d654426f5c0928f2e14d90a52660514b78e89063e60847|origin=https://www.hotstar.com
-
-
-#EXTINF:-1 tvg-id="1985" group-title="Sports" tvg-logo="https://www.indigital.co.in/images/logo/star-sports-hindi-black.jpg",Star Sports 2 Hindi
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8?hdntl=exp=1760769008~acl=%2f*~id=289c0e7f3ae04384c812ace58671e1bc~data=hdntl~hmac=3a1abc5ceb7e777990d654426f5c0928f2e14d90a52660514b78e89063e60847&xxx=%7Ccookie=hdntl=exp=1760769008~acl=%2f*~id=289c0e7f3ae04384c812ace58671e1bc~data=hdntl~hmac=3a1abc5ceb7e777990d654426f5c0928f2e14d90a52660514b78e89063e60847|origin=https://www.hotstar.com
-
-
-
-#EXTINF:-1 tvg-id="1106" tvg-name="Star Sports 1 HD" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25778?accessKey=WkVjNWNscFhORDBLCg==" group-title="Jiostar", Star Sports 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=1106
 
 #EXTINF:-1 tvg-id="1142" group-title="Jiostar" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25728?accessKey=WkVjNWNscFhORDBLCg==",Star Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -49,11 +22,6 @@ https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=1106
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=1142
 
-#EXTINF:-1 tvg-id="1389" tvg-name="Star Sports 3" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797981a9540e6b3ede477e/images/530.webp" group-title="Jiostar", Star Sports 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e4e8647eaf0659ac85f61765a5abcdc1:d749c9b27505beb0e1a8b6c30ca65de6
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=1389
 
 #EXTINF:-1 tvg-id="1373" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -251,6 +219,43 @@ https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=1143
 #KODIPROP:inputstream.adaptive.license_key=1faf9c42dfe45669a70c470359886145:5a229a5f6f270c880b24014bf3cd6ee7
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=1136
+
+
+#EXTINF:-1 tvg-id="362" tvg-name="Star Sports 1 Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978e8c4589e08ce80f035/images/147.webp" group-title="Jiostar", Star Sports 1 Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NQwKr_7fUcwVAulUPHyIXg","kid":"jqm2B1SSUgaOJgpfTX3TIQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
+https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=362
+
+#EXTINF:-1 tvg-id="1109" tvg-name="Star Sports 2 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797986a9540e6b3ede47bf/images/607.webp" group-title="Jiostar", Star Sports 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5iCpcM6kdMSRrHiucaTXZA","kid":"lFfrkBKUVvqOqV4QukrFHg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
+https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=1109
+
+
+#EXTINF:-1 tvg-id="1106" tvg-name="Star Sports 1 HD" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25778?accessKey=WkVjNWNscFhORDBLCg==" group-title="Jiostar", Star Sports 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
+https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=1106
+
+#EXTINF:-1 tvg-id="1389" tvg-name="Star Sports 3" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797981a9540e6b3ede477e/images/530.webp" group-title="Jiostar", Star Sports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4e8647eaf0659ac85f61765a5abcdc1:d749c9b27505beb0e1a8b6c30ca65de6
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
+https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=1389
+
+
+#EXTINF:-1 tvg-id="1984" group-title="Sports" tvg-logo="https://www.indigital.co.in/images/logo/star-sports-hindi-HD-black.jpg",Star Sports 2 Hindi HD
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
+https://jcevents.hotstar.com/bpk-tv/JC_Sports18_1HD/JCHLS/manifest.m3u8?hdntl=exp=1760769008~acl=%2f*~id=289c0e7f3ae04384c812ace58671e1bc~data=hdntl~hmac=3a1abc5ceb7e777990d654426f5c0928f2e14d90a52660514b78e89063e60847&xxx=%7Ccookie=hdntl=exp=1760769008~acl=%2f*~id=289c0e7f3ae04384c812ace58671e1bc~data=hdntl~hmac=3a1abc5ceb7e777990d654426f5c0928f2e14d90a52660514b78e89063e60847|origin=https://www.hotstar.com
+
+
+#EXTINF:-1 tvg-id="1985" group-title="Sports" tvg-logo="https://www.indigital.co.in/images/logo/star-sports-hindi-black.jpg",Star Sports 2 Hindi
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
+https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8?hdntl=exp=1760769008~acl=%2f*~id=289c0e7f3ae04384c812ace58671e1bc~data=hdntl~hmac=3a1abc5ceb7e777990d654426f5c0928f2e14d90a52660514b78e89063e60847&xxx=%7Ccookie=hdntl=exp=1760769008~acl=%2f*~id=289c0e7f3ae04384c812ace58671e1bc~data=hdntl~hmac=3a1abc5ceb7e777990d654426f5c0928f2e14d90a52660514b78e89063e60847|origin=https://www.hotstar.com
+
 
 #EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-1-hindi-hd.webp",Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
