@@ -182,7 +182,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/output/index.mp
 #EXTHTTP:{"cookie":"__hdnea__=st=1758280064~exp=1758366464~acl=/*~hmac=f828a4bfd62980ef6d3ebd9faf3668b0b73ac7da3322f0c65a8374a96179a356"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_BTS/output/index.mpd?__hdnea__=st=1758280064~exp=1758366464~acl=/*~hmac=f828a4bfd62980ef6d3ebd9faf3668b0b73ac7da3322f0c65a8374a96179a356&xxx=%7Ccookie=__hdnea__=st=1758280064~exp=1758366464~acl=/*~hmac=f828a4bfd62980ef6d3ebd9faf3668b0b73ac7da3322f0c65a8374a96179a356
 
-#EXTINF:-1 tvg-id="1142" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1.png",Star Sports 1
+#EXTINF:-1 tvg-id="1142" group-title="Jiostar" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25728?accessKey=WkVjNWNscFhORDBLCg==",Star Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df20894ec30954d3b28097c138f4cfda:ff9b6292b1cddbd11a046029cb314634
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
