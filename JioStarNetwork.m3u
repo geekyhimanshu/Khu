@@ -234,7 +234,7 @@ https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=362
 https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=1109
 
 
-#EXTINF:-1 tvg-id="1106" tvg-name="Star Sports 1 HD" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25778?accessKey=WkVjNWNscFhORDBLCg==" group-title="Jiostar", Star Sports 1 HD
+#EXTINF:-1 tvg-id="1106" tvg-name="Star Sports 1 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a7c5625a16ee72e958/images/402.webp" group-title="Jiostar", Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
