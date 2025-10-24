@@ -53,7 +53,7 @@ https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=1392
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=1132
 
-#EXTINF:-1 tvg-id="1116" group-title="Jiostar" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25748?accessKey=WkVjNWNscFhORDBLCg==",Star Plus
+#EXTINF:-1 tvg-id="1116" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Plus.png",Star Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bba2ffaf08b501796c5d9eb431460a4:7a62074c4c46f3b153259526481c02bf
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
