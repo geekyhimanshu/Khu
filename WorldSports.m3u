@@ -101,6 +101,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5171/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fo8/rfxzC6PfyTL3xDDifQ", "kid":"W+Zqb4jv7j1uMPcqnFjjEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="810.astro" ch-number="813" tvg-logo="https://i.ibb.co/ycRGMGvh/Picsart-25-09-02-18-13-59-182.png" group-title="Sports", Astro Grandstand 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
 
 #EXTINF:-1 tvg-id="805" tvg-name="Astro Sports UHD" group-title="Sports" ch-number="805" tvg-logo="https://i.ibb.co/bj0b2zQb/Picsart-25-09-02-18-13-43-104.png", Astro SuperSport UHD
@@ -118,6 +119,7 @@ http://b1g.uk/200/230/263669
 
 #EXTINF:-1,Geo Super
 http://b1g.uk/200/230/7955
+
 
 
 
