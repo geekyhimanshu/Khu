@@ -208,7 +208,7 @@ https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=1136
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NQwKr_7fUcwVAulUPHyIXg","kid":"jqm2B1SSUgaOJgpfTX3TIQ"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/output/index.mpd?__hdnea__=st=1761352892~exp=1761439292~acl=/*~hmac=2ea5356245b05e9ef9b78461677e13af3c9df3f60e0516c9ff0ddf0d98c8f02c&xxx=%7Ccookie=__hdnea__=st=1761352892~exp=1761439292~acl=/*~hmac=2ea5356245b05e9ef9b78461677e13af3c9df3f60e0516c9ff0ddf0d98c8f02c3d9fccb2d125b&xxx=%7Ccookie=__hdnea__=st=1761266381~exp=1761352781~acl=/*~hmac=eca1a2dcf44fdb40347f2d2abb41a5b6d53f63a04415cd734fa3d9fccb2d125b
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/output/index.mpd?__hdnea__=st=1761352892~exp=1761439292~acl=/*~hmac=2ea5356245b05e9ef9b78461677e13af3c9df3f60e0516c9ff0ddf0d98c8f02c&xxx=%7Ccookie=__hdnea__=st=1761352892~exp=1761439292~acl=/*~hmac=2ea5356245b05e9ef9b78461677e13af3c9df3f60e0516c9ff0ddf0d98c8f02c
 
 #EXTINF:-1 tvg-id="1109" tvg-name="Star Sports 2 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797986a9540e6b3ede47bf/images/607.webp" group-title="Jiostar", Star Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
