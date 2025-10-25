@@ -4,13 +4,6 @@
 #EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978f46cbc4372820a5bdf/images/237.webp",Star Sports 1 Hindi HD - Rs 19.00 116.90.120.149
 http://116.90.120.149:8000/play/a0bv
 
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/comp/2YRHMJF/australia-vs-india-3d-illustration-vector-flags-in-shaded-rounded-rectangle-with-flash-versus-match-2YRHMJF.jpg",BHARAT vs AUS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1761364369~acl=/cmaf/live/2108404/inallow-ausvsind-odi-2025/hin/1540055349/15mindvrm012ffb9876bf4a406b803480b4be738dba25october2025/master_a*~data=ip=ylysJ76kQZKOc8k6RqPpucNaifMAIucGhoWxv4mtt9t7-userid=WpguuaLjVkYKnFurac7q86ahgznsHkQLRgevK5hUsWaR-did=BIahL78dneOwGsbyRwbMHxbqdOmxyUZtPGmU9FbSBwDZ-cc=in-de=1-pl=androidtv-ap=25.01.27.5.3788-ut=paid-ttl=1800-type=paid-raf=1761363169-~hmac=7610c4f0004292938f6953e8d4013a1437588457f558399f194bf9617962c28c"}
-#EXTVLCOPT:http-origin=https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-http://live12p-ssai-akt-mum.cdn.hotstar.com:80/cmaf/live/2108404/inallow-ausvsind-odi-2025/hin/1540055349/15mindvrm012ffb9876bf4a406b803480b4be738dba25october2025/master_a.m3u8?playback_proto=http&playback_host=live12p-pristine-akt.cdn.hotstar.com&layer=master&random=inallow-ausvsind-odi-2025&content_id=1540055349&language=hindi&media_codec=codec=h265:dr=sdr&si_match_id=718308&a=s&hdnea=exp=1761363067~acl=%2fcmaf%2flive%2f2108404%2finallow-ausvsind-odi-2025%2fhin%2f1540055349%2f15mindvrm012ffb9876bf4a406b803480b4be738dba25october2025%2fmaster_a%2a~data=ip%3dj9ZpkLlvBWgiGI0GAnfaB5-userid%3dWpguuaLjVkYKnFurac7q86ahgznsHkQLRgevK5hUsWaR-did%3dBIahL78dneOwGsbyRwbMHxbqdOmxyUZtPGmU9FbSBwDZ-cc%3din-de%3d1-pl%3dandroidtv-ap%3d25.01.27.5.3788-ut%3dpaid-ttl%3d1800-type%3dpaid-~hmac=894cb6e5f75dc0813da8ada0cbf5083101a0eeca4fe5a572474a2c8ea57f4af7&ttl=1800&type=paid&acl=/cmaf/live/2108404/inallow-ausvsind-odi-2025/hin/1540055349/15mindvrm012ffb9876bf4a406b803480b4be738dba25october2025/master_a
-
 #EXTINF:-1  tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_HD1_Hindi.png",Star Sports 1 Hindi HD 66.102.120.18
 http://66.102.120.18:8000/play/a072
 
