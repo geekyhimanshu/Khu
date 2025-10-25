@@ -38,7 +38,7 @@ http://alexbdix.noobmaster.xyz:8080/TSPORTS/index.mpd
 #EXTINF:-1,Astro Cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-#EXTVLCOPT:http-user-agent=@joker_verse
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://aus.livecricketsl.live/proxy/get.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd|Referer=https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -118,6 +118,7 @@ http://b1g.uk/200/230/263669
 
 #EXTINF:-1,Geo Super
 http://b1g.uk/200/230/7955
+
 
 
 
