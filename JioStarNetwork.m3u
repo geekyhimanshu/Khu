@@ -139,7 +139,7 @@ https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=1151
 https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=1153
 
 
-#EXTINF:-1 tvg-id="1154" group-title="Jiostar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_2/images/LOGO_HD/image.png",Star Gold 2
+#EXTINF:-1 tvg-id="1154" group-title="Jiostar" tvg-logo="https://img.media.jio.com/tvpimages/87/52/302077_1748601853695_p_medium.jpg",Star Gold 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2db0cd9cb0685309b48e322c83192bda:e13bf7a33eb2e19a8f19568dd383ba6d
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
