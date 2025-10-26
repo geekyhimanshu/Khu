@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
+#EXTINF:-1 tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/2QTUuuBj.png",Star Sports 2 Hindi HD - Rs 19.00 116.90.120.149
+http://116.90.120.149:8000/play/a0cs
+
+#EXTINF:-1  tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://trai.sundirect.in/cmsapi/channels/star_sports_2_hindi_hd3007202510250793815.jpg",Star Sports2 Hindi HD 66.102.120.18
+http://66.102.120.18:8000/play/a00v
+
 #EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978f46cbc4372820a5bdf/images/237.webp",Star Sports 1 Hindi HD - Rs 19.00 116.90.120.149
 http://116.90.120.149:8000/play/a0bv
 
