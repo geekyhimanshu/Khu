@@ -5,13 +5,13 @@
 http://116.90.120.149:8000/play/a0cs
 
 #EXTINF:-1  tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://trai.sundirect.in/cmsapi/channels/star_sports_2_hindi_hd3007202510250793815.jpg",Star Sports2 Hindi HD 66.102.120.18
-http://66.102.120.18:8000/play/a00v
+http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a00v
 
 #EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978f46cbc4372820a5bdf/images/237.webp",Star Sports 1 Hindi HD - Rs 19.00 116.90.120.149
 http://116.90.120.149:8000/play/a0bv
 
 #EXTINF:-1  tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://github.com/geekyhimanshu/Khu/blob/main/Star%20Sports%201%20Hindi%20HD-edit.jpg?raw=true",Star Sports 1 Hindi HD 66.102.120.18
-http://66.102.120.18:8000/play/a072
+http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a072
 
 #EXTINF:-1  tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_HD1_Hindi.png",Star Sports 1 Hindi HD 103.182.170.32:8888
 http://103.182.170.32:8888/play/a04e
