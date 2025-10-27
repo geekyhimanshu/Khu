@@ -5,7 +5,7 @@
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9XM2/default/9XM.m3u8
 
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ftklpj.png" group-title="Entertainment", DD National
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational2/default/Ddnational2.mpd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational2/default/Ddnational2.m3u8
 
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/iqfloc.png" group-title="News", NDTV India
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -64,19 +64,13 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mp
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="9xm-jalwa" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music", 9xm Jalwa
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa2/default/9Xjalwa.mpd
-
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/xiseyx.png" group-title="Music", 9X Tashan
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.mpd
-
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/rpxdkm.png" group-title="Music", 9x Jhakaas
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.mpd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa2/default/9Xjalwa.m3u8
 
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/fjeoiu.png" group-title="Music", Music India
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/Musicindia.mpd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/Musicindia.m3u8
 
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bpgfhq.png" group-title="Music", Sangeet Bhojpuri
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri2/default/Sangeetbhojpuri.mpd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri2/default/Sangeetbhojpuri.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=86edec9e3b7d4042a4d4a1ca personally14f847ee:9def4315f0004019a3705bcb3cf30ca3
@@ -91,17 +85,17 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
-#EXTINF:-1 tvg-id="shorts-tv-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="Entertainment", Shorts TV Active
+#EXTINF:-1 tvg-id="shorts-tv-active" tvg-logo="https://imagesdishtvd2h.whatonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="Entertainment", Shorts TV Active
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/drciav.png" group-title="Education", DD Bharati
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddbharti2/default/Ddbharti.mpd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddbharti2/default/Ddbharti.m3u8
 
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ptcgyh.png" group-title="News", Sansad TV HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sansadtvhd2/default/Sansadtvhd.mpd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sansadtvhd2/default/Sansadtvhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/oshzts.png" group-title="News", Sansad TV SD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sansadtvsd2/default/Sansadtvsd.mpd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sansadtvsd2/default/Sansadtvsd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="Movies",Movies Now HD
