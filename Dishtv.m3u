@@ -1,9 +1,6 @@
 #EXTM3U 
 
 
-#EXTINF:-1 tvg-id="9xm" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/36HEDUo4.png" group-title="Music", 9xm
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9XM2/default/9XM.m3u8
-
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ftklpj.png" group-title="Entertainment", DD National
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational2/default/Ddnational2.m3u8
 
@@ -63,8 +60,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mp
 #EXTINF:-1 tvg-id="tlc" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FOvFsIgt.png" group-title="Lifestyle", TLC
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="9xm-jalwa" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music", 9xm Jalwa
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa2/default/9Xjalwa.m3u8
 
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/fjeoiu.png" group-title="Music", Music India
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/Musicindia.m3u8
@@ -73,7 +68,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/Musicindia.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri2/default/Sangeetbhojpuri.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=86edec9e3b7d4042a4d4a1ca personally14f847ee:9def4315f0004019a3705bcb3cf30ca3
+#KODIPROP:inputstream.adaptive.license_key=86edec9e3b7d4042a4d4a1ca14f847ee:9def4315f0004019a3705bcb3cf30ca3
 #EXTINF:-1 tvg-id="zoom2" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jLvKrs62.png" group-title="Lifestyle", Zoom
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 
