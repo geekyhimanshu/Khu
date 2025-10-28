@@ -25,7 +25,7 @@ https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 #EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-1-hd.webp",Star Sports 1 HD
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1761523808~acl=*sshd1livetv*~id=524ed4a925445046a6963e6bd11e9ac1~data=hdntl~hmac=feb96d8377a2eb2eddc925b1dac31d9acfb03adae2d8667fc953eb9079b3e8d0","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1761723607~acl=*sshindi*~id=b296dfd7d8a549d76132cb3724c231ce~data=hdntl~hmac=86afdca03924be5892beffd430a0e7cd3def7dcce8d51710f4d28dbc58402ab4","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
 https://livetv-push.hotstar.com/dash/live/2002464-b/sshd1livetvwv/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
