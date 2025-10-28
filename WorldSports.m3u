@@ -36,6 +36,10 @@ http://103.101.197.10:9981/stream/channelid/373034842?profile=pass
 #EXTINF: -1 tvg-id="" tvg-logo="https://i.ibb.co/Qcy3Dcg/Od-KOXawp-400x400-modified.png" group-title="Sports",Fox Sports 501 HD
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
 
+#EXTINF:-1 ,Sky Sports Cricket
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/9258/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://iili.io/K8gPQmg.png",Fox Sports 501 HD b1g.ooo
 http://b1g.uk/200/230/260995
 
@@ -293,6 +297,7 @@ http://cors.tundracast.com:2000/https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN
 #KODIPROP:inputstream.adaptive.license_key=2b087348dcaa1bd66a86a4fc7150abc9:13fb668260b5c982f0c756aeb1ea072d
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvR9Mnjh/worldtv2.png" group-title="ESPN" ch-number="4" type="channel",ESPN 4
 http://cors.tundracast.com:2000/https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN4HD/default.mpd
+
 
 
 
