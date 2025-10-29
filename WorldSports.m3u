@@ -36,6 +36,23 @@ http://103.101.197.10:9981/stream/channelid/373034842?profile=pass
 #EXTINF:-1 tvg-logo="https://iili.io/K8gPQmg.png",Fox Sports 501 HD b1g.ooo
 http://b1g.uk/200/230/260995
 
+#EXTINF:-1,Fox Sports 502 HD b1g.ooo
+http://b1g.uk/200/230/839343
+
+#EXTINF:-1,Fox Sports 503 HD b1g.ooo
+http://b1g.uk/200/230/839342
+
+#EXTINF:-1,Fox Sports 504 HD b1g.ooo
+http://b1g.uk/200/230/839341
+
+#EXTINF:-1,Fox Sports 505 HD b1g.ooo
+http://b1g.uk/200/230/839340
+
+#EXTINF:-1,Fox Sports 506 HD b1g.ooo
+http://b1g.uk/200/230/839339
+
+#EXTINF:-1,Fox Sports 507 HD b1g.ooo
+http://b1g.uk/200/230/839338
 
 #EXTINF:-1,Sky Sports Cricket b1g.ooo
 http://b1g.uk/200/230/35799
@@ -335,6 +352,7 @@ http://thksmom.shop/AU_FOXSPORTS505/index.m3u8?token=test
 http://thksmom.shop/AU_FOXSPORTS506/index.m3u8?token=test
 #EXTINF:-1,AU_FOXSPORTS507
 http://thksmom.shop/AU_FOXSPORTS507/index.m3u8?token=test
+
 
 
 
