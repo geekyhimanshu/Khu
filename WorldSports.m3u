@@ -33,13 +33,6 @@ https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8|Referer=https:/
 http://103.101.197.10:9981/stream/channelid/373034842?profile=pass
 
 
-#EXTINF: -1 tvg-id="" tvg-logo="https://i.ibb.co/Qcy3Dcg/Od-KOXawp-400x400-modified.png" group-title="Sports",Fox Sports 501 HD
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
-
-#EXTINF:-1 ,Sky Sports Cricket Iptv
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/9258/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://iili.io/K8gPQmg.png",Fox Sports 501 HD b1g.ooo
 http://b1g.uk/200/230/260995
 
@@ -74,9 +67,6 @@ http://b1g.uk/200/230/260994
 
 #EXTINF:-1,Willow Cricket HD b1g.ooo
 http://b1g.uk/200/230/260993
-
-#EXTINF:-1,Super Sports Cricket b1g.ooo
-http://b1g.uk/200/230/260996
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
@@ -330,6 +320,21 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 #KODIPROP:inputstream.adaptive.license_key=ba9b637b639af897f228114363e882fa:27508374902bd52361f08a2ad4dba3a3
 https://live2.shoq.com.pk/live/eds/Fast_Sports_HD/DASH/Fast_Sports_HD.mpd
 
+
+#EXTINF:-1,AU_FOXSPORTS501
+http://thksmom.shop/AU_FOXSPORTS501/index.m3u8?token=test
+#EXTINF:-1,AU_FOXSPORTS502
+http://thksmom.shop/AU_FOXSPORTS502/index.m3u8?token=test
+#EXTINF:-1,AU_FOXSPORTS503
+http://thksmom.shop/AU_FOXSPORTS503/index.m3u8?token=test
+#EXTINF:-1,AU_FOXSPORTS504
+http://thksmom.shop/AU_FOXSPORTS504/index.m3u8?token=test
+#EXTINF:-1,AU_FOXSPORTS505
+http://thksmom.shop/AU_FOXSPORTS505/index.m3u8?token=test
+#EXTINF:-1,AU_FOXSPORTS506
+http://thksmom.shop/AU_FOXSPORTS506/index.m3u8?token=test
+#EXTINF:-1,AU_FOXSPORTS507
+http://thksmom.shop/AU_FOXSPORTS507/index.m3u8?token=test
 
 
 
