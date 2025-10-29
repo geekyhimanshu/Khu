@@ -37,13 +37,13 @@ https://livetv-push.hotstar.com:443/dash/live/2002465-b/sshd2livetvwv/master.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 #EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-1-hd.webp",Star Sports Select 1 HD
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1761523809~acl=*ssselecthd1*~id=f5aaf47429ec831f88637167521a755a~data=hdntl~hmac=4befb16ea44899f9119907326c5449fbd0a6ef48e0b76490a8be53b05e482247","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1761745806~acl=*ssselecthd1*~id=7fb8f77b4a7f3503eb247685844e7f64~data=hdntl~hmac=0fc651f0e129c642c70468c65ea965d79814075774e5beddab809ba067b6c37e","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
 https://livetv-push.hotstar.com:443/dash/live/2002470-b/ssselecthd1wv/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 #EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-2-hd.webp",Star Sports Select 2 HD
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1761523810~acl=*ssselecthd2*~id=33d9b64f46dcda8eaf12605a1b7a8ea4~data=hdntl~hmac=dc78b24bca9ca9c9eb9abbcdaa436b1124b086d6d8343246bd2c5ff50353713a","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1761745806~acl=*ssselecthd2*~id=15069d92994439139c022c3e9d89ed09~data=hdntl~hmac=d503ecb261ec50b108b9ccca07481158c0348ffba1012e9a1eac82c04b2ca325","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
 https://livetv-push.hotstar.com:443/dash/live/2002471-b/ssselecthd2wv/master.mpd
 
 
