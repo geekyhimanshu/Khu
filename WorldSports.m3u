@@ -57,8 +57,33 @@ http://b1g.uk/200/230/839338
 #EXTINF:-1,Sky Sports Cricket b1g.ooo
 http://b1g.uk/200/230/35799
 
-#EXTINF:-1,NZ Sky Sports 1
+#EXTINF:-1,NZ Sky Sports 1 b1g.ooo
 http://b1g.uk/200/230/696472
+
+#EXTINF:-1,NZ Sky Sports 2 b1g.ooo
+http://b1g.uk/200/230/696473
+
+#EXTINF:-1,NZ Sky Sports 3 b1g.ooo
+http://b1g.uk/200/230/696474
+
+#EXTINF:-1,NZ Sky Sports 4 b1g.ooo
+http://b1g.uk/200/230/696475
+
+#EXTINF:-1,NZ Sky Sports 5 b1g.ooo
+http://b1g.uk/200/230/696476
+
+#EXTINF:-1,NZ Sky Sports 6 b1g.ooo
+http://b1g.uk/200/230/696477
+
+#EXTINF:-1,NZ Sky Sports 7 b1g.ooo
+http://b1g.uk/200/230/696478
+
+#EXTINF:-1,NZ Sky Sports 8 b1g.ooo
+http://b1g.uk/200/230/696479
+
+#EXTINF:-1,NZ Sky Sports 9 b1g.ooo
+http://b1g.uk/200/230/696480
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRTSwnkP/Picsart-25-09-02-14-07-08-767.png" group-title="Sports", TNT Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -352,6 +377,7 @@ http://thksmom.shop/AU_FOXSPORTS505/index.m3u8?token=test
 http://thksmom.shop/AU_FOXSPORTS506/index.m3u8?token=test
 #EXTINF:-1,AU_FOXSPORTS507
 http://thksmom.shop/AU_FOXSPORTS507/index.m3u8?token=test
+
 
 
 
