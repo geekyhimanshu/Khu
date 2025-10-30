@@ -68,6 +68,13 @@ https://jcevents.hotstar.com/bpk-tv/JC_Sports18_1HD/JCHLS/manifest.m3u8
 https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8
 
 
+#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a7c5625a16ee72e958/images/402.webp" , Star Sports 1 HD 116.90.120.149
+http://116.90.120.149:8000/play/a0ba
+
+#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25778?accessKey=WkVjNWNscFhORDBLCg==",Star Sports 1 HD - Rs 19.00 66.102.120.18
+http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a009
+
+
 #EXTINF:-1 tvg-id="173" group-title="Jiostar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978f46cbc4372820a5bdf/images/237.webp" group-title="Jiostar", Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
