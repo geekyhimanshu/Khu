@@ -60,23 +60,23 @@ http://87.255.35.150:18828
 #EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://www.dishtv.in/content/dam/dishtv-aem-web-platform/mogiio/images/channels/star-sports-1-hd-hindi.webp",Star Sports 1 Hindi HD Exclusive
 http://87.255.35.150:18923
 
-#EXTINF:-1 tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/2QTUuuBj.png",Star Sports 2 Hindi HD 116.90.120.149
-http://116.90.120.149:8000/play/a0cs
-
 #EXTINF:-1  tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://trai.sundirect.in/cmsapi/channels/star_sports_2_hindi_hd3007202510250793815.jpg",Star Sports2 Hindi HD 66.102.120.18
 http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a00v
 
 #EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978f46cbc4372820a5bdf/images/237.webp",Star Sports 1 Hindi HD 116.90.120.149
 http://116.90.120.149:8000/play/a0bv
 
+#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a7c5625a16ee72e958/images/402.webp" , Star Sports 1 HD 116.90.120.149
+http://116.90.120.149:8000/play/a0ba
+
+#EXTINF:-1 tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/2QTUuuBj.png",Star Sports 2 Hindi HD 116.90.120.149
+http://116.90.120.149:8000/play/a0cs
+
 #EXTINF:-1  tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://github.com/geekyhimanshu/Khu/blob/main/Star%20Sports%201%20Hindi%20HD-edit.jpg?raw=true",Star Sports 1 Hindi HD 66.102.120.18
 http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a072
 
 #EXTINF:-1  tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_HD1_Hindi.png",Star Sports 1 Hindi HD 103.182.170.32:8888
 http://103.182.170.32:8888/play/a04e
-
-#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a7c5625a16ee72e958/images/402.webp" , Star Sports 1 HD 116.90.120.149
-http://116.90.120.149:8000/play/a0ba
 
 #EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25778?accessKey=WkVjNWNscFhORDBLCg==",Star Sports 1 HD - Rs 19.00 66.102.120.18
 http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a009
@@ -265,7 +265,7 @@ https://stream.kliv.fun/allplus189/jtv/manifest.mpd?id=1115
 https://stream.kliv.fun/allplus189/jtv/manifest.mpd?id=1110
 
 
-#EXTINF:-1 tvg-id="1998" group-title="Sports" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-ZKY9zDK_Z4gAHmFNlKg1W7FQ0RbjdCrHnb4Dn2krm9Wyc-U1",Star Sports Khel
+#EXTINF:-1 tvg-id="1998" group-title="Sports" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/r1W3wpgX.png",Star Sports Khel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab947ddbb9795d38bff35597b4f73108:2671e22eb7dc174c35b6aad4b113f7b0
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
