@@ -127,7 +127,9 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/91
 #EXTINF:-1,A SPORTS HD
 https://stalker.tnm3us.workers.dev/30975.m3u8
 
-#EXTINF:-1,PTVSPORTS HD
+#EXTINF:-1,PTVSPORTS HD 9981
+http://103.101.197.10:9981/stream/channelid/1577786237?profile=pass
+#EXTINF:-1,PTVSPORTS HD 66.102.120.18
 http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a04w
 
 #EXTINF:-1,T Sports HD
@@ -421,6 +423,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Trace Sport
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
 
 
 
