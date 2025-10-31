@@ -125,13 +125,13 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/91
 
 
 #EXTINF:-1,A SPORTS HD
-http://alexbdix.noobmaster.xyz:8080/ASPORTSHD/index.mpd
+https://stalker.tnm3us.workers.dev/30975.m3u8
 
 #EXTINF:-1,PTVSPORTS HD
-http://alexbdix.noobmaster.xyz:8080/PTVSPORTSHD/index.mpd
+http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a04w
 
 #EXTINF:-1,T Sports HD
-http://alexbdix.noobmaster.xyz:8080/TSPORTS/index.mpd
+http://103.101.197.10:9981/stream/channelid/598508825?profile=pass
 
 
 #EXTINF:-1,Willow Cricket 2 b1g.ooo
@@ -409,6 +409,18 @@ http://thksmom.shop/AU_FOXSPORTS506/index.m3u8?token=test
 http://thksmom.shop/AU_FOXSPORTS507/index.m3u8?token=test
 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8C7BdHMr/Dubai-Sports-2.jpg",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/dubaisportshd/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/zfhHXPTT/Dubai-Sports-3.jpg",Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/HT0W29vz/Tennis-Channel.jpg",Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Trace Sport
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 
 
