@@ -51,6 +51,12 @@ https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c
 #EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_2/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star%20Sports%201%20Hindi%20HD.png",Star Sports 1 Hindi HD
 http://87.255.35.150:18302
 
+#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_2/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star%20Sports%201%20HD.png",STARSPORTS1HD 87.255.35.150
+http://87.255.35.150:18891
+
+#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_2/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star%20Sports%203.png", STARSPORTS2HD 87.255.35.150
+http://87.255.35.150:18828
+
 #EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://www.dishtv.in/content/dam/dishtv-aem-web-platform/mogiio/images/channels/star-sports-1-hd-hindi.webp",Star Sports 1 Hindi HD
 http://87.255.35.150:18923
 
