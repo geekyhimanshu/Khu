@@ -6,7 +6,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 #EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1761879007~acl=*sshindi*~id=19e4b4d57601bbf859f506fbce0a31fa~data=hdntl~hmac=6cbd9692c1fe1462350db4a3dcfd005ded5c5f55092ab04df857e4f78d67c7ad","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
-https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd
+https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd%7CCookie="hdntl=exp=1761967809~acl=*sshindi*~id=e428a4e939c51d439736a97ddb96d5db~data=hdntl~hmac=12991fca15c8231dae9b537a549a42cfd13211992a2ed3407f3fe6b2042d71a4"&Origin="https://www.hotstar.com"&Referer="https://www.hotstar.com/"&User-Agent="Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)"&X-User-Agent="TiviMate/5.1.0 (Android 15)"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
