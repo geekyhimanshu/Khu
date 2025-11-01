@@ -35,7 +35,7 @@ https://livetv-push.hotstar.com:443/dash/live/2002471-b/ssselecthd2wv/master.mpd
 
 #EXTINF:-1 tvg-id="1984" group-title="Sports" tvg-logo="https://trai.sundirect.in/cmsapi/channels/star_sports_2_hindi_hd3007202510250793815.jpg",Star Sports 2 Hindi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"hdntl=exp=1762056605~acl=%2f*~id=c5b4860305a0e2fefebb3f83d2ad7ab1~data=hdntl~hmac=e395cf4eb952df4d1036c8d965bd92fd9026c512a68b527ab45a0dc0275a544b"}
+#EXTHTTP:{"cookie":"hdntl=exp=1762056605~acl=%2f*~id=c5b4860305a0e2fefebb3f83d2ad7ab1~data=hdntl~hmac=e395cf4eb952df4d1036c8d965bd92fd9026c512a68b527ab45a0dc0275a544b"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_Sports18_1HD/JCHLS/manifest.m3u8
