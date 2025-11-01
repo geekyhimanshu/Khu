@@ -32,6 +32,8 @@ https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8|Referer=https:/
 #EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="Sports",Ten Cricket 9981
 http://103.101.197.10:9981/stream/channelid/373034842?profile=pass
 
+#EXTINF:-1, Willow Cricket By Cricbuzz 87.255.35.150
+http://87.255.35.150:18957
 
 #EXTINF:-1 ,Fox Sports 501 HD
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
@@ -424,6 +426,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Trace Sport
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
 
 
 
