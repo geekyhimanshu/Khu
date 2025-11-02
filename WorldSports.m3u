@@ -114,6 +114,29 @@ http://b1g.uk/200/230/164500
 #EXTINF:-1, Sky Sports News b1g.ooo
 http://b1g.uk/200/230/35805
 
+#EXTINF:-1 tvg-logo="",Sky Sport Nz 1
+http://cors.tundracast.com:2000/http://135.125.238.26:8080/catena-36-1149990-streamer-nz_sky_sport_1/playlist.mpd?token=f54abc11fcaeb75c0368edb767264658
+
+#EXTINF:-1 tvg-logo="",Sky Sport Nz 2
+http://cors.tundracast.com:2000/http://135.125.238.26:8080/catena-36-1149991-streamer-nz_sky_sport_2/playlist.mpd?token=f54abc11fcaeb75c0368edb767264658
+
+#EXTINF:-1 tvg-logo="",Sky Sport Nz 3
+http://cors.tundracast.com:2000/http://135.125.238.26:8080/catena-36-1149992-streamer-nz_sky_sport_3/playlist.mpd?token=f54abc11fcaeb75c0368edb767264658
+
+#EXTINF:-1 tvg-logo="",Sky Sport Nz 4
+http://cors.tundracast.com:2000/http://135.125.238.26:8080/catena-36-1149993-streamer-nz_sky_sport_4/playlist.mpd?token=f54abc11fcaeb75c0368edb767264658
+#EXTINF:-1 tvg-logo="",Sky Sport Nz 5
+http://cors.tundracast.com:2000/http://135.125.238.26:8080/catena-36-1149994-streamer-nz_sky_sport_5/playlist.mpd?token=f54abc11fcaeb75c0368edb767264658
+#EXTINF:-1 tvg-logo="",Sky Sport Nz 6
+http://cors.tundracast.com:2000/http://135.125.238.26:8080/catena-36-1149995-streamer-nz_sky_sport_6/playlist.mpd?token=f54abc11fcaeb75c0368edb767264658
+#EXTINF:-1 tvg-logo="",Sky Sport Nz 7
+http://cors.tundracast.com:2000/http://135.125.238.26:8080/catena-36-1149996-streamer-nz_sky_sport_7/playlist.mpd?token=f54abc11fcaeb75c0368edb767264658
+#EXTINF:-1 tvg-logo="",Sky Sport Nz 8
+http://cors.tundracast.com:2000/http://135.125.238.26:8080/catena-36-1149997-streamer-nz_sky_sport_8/playlist.mpd?token=f54abc11fcaeb75c0368edb767264658
+#EXTINF:-1 tvg-logo="",Sky Sport Nz 9
+http://cors.tundracast.com:2000/http://135.125.238.26:8080/catena-36-1149998-streamer-nz_sky_sport_9/playlist.mpd?token=f54abc11fcaeb75c0368edb767264658
+
+
 #EXTINF:-1,NZ Sky Sports 1 b1g.ooo
 http://b1g.uk/200/230/696472
 
@@ -426,6 +449,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Trace Sport
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
 
 
 
