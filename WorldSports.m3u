@@ -5,7 +5,7 @@
 #KODIPROP:inputstream.adaptive.license_key=a2ba14ee5ef4440d8e56a8bb5403117d:b77a334fd7aff9c9960ca7785a20ea66
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://iili.io/K8gPQmg.png" group-title="Sports",FOX 501 HD
-https://live1-814bffb9b389f652.fastly.foxtelgroupcdn.net.au/out/v1/c1566607e84d4dd0bc7e53bc26943d14/index.mpd
+https://live1-814bffb9b389f652-cf.foxtelgroupcdn.net.au/out/v1/c1566607e84d4dd0bc7e53bc26943d14/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wrjJqQ50/Picsart-25-09-02-14-04-46-017.png",Astro Cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -447,6 +447,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Trace Sport
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
 
 
 
