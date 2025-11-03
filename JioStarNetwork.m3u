@@ -35,14 +35,14 @@ https://livetv-push.hotstar.com:443/dash/live/2002471-b/ssselecthd2wv/master.mpd
 
 #EXTINF:-1 tvg-id="1984" group-title="Sports" tvg-logo="https://trai.sundirect.in/cmsapi/channels/star_sports_2_hindi_hd3007202510250793815.jpg",Star Sports 2 Hindi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1762145407~acl=%2f*~id=28a96e325568fbacbac191efaf22c9bd~data=hdntl~hmac=d7ef4ee65dfca6c96f963fba457e09157b3ff9e092ecc2bc95edefb5d03b15ef"}
+#EXTHTTP:{"cookie":"hdntl=exp=1762234208~acl=%2f*~id=95869cce362a77ff7b67cef8d4fc491b~data=hdntl~hmac=ff5d868198852d900353207bc9452a30fa476df0f84ef2ae0eba2aa1b10b160e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_Sports18_1HD/JCHLS/manifest.m3u8
 
 #EXTINF:-1 tvg-id="1985" group-title="Sports" tvg-logo="https://www.indigital.co.in/images/logo/star-sports-hindi-black.jpg",Star Sports 2 Hindi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1762145407~acl=%2f*~id=28a96e325568fbacbac191efaf22c9bd~data=hdntl~hmac=d7ef4ee65dfca6c96f963fba457e09157b3ff9e092ecc2bc95edefb5d03b15ef"}
+#EXTHTTP:{"cookie":"hdntl=exp=1762234208~acl=%2f*~id=95869cce362a77ff7b67cef8d4fc491b~data=hdntl~hmac=ff5d868198852d900353207bc9452a30fa476df0f84ef2ae0eba2aa1b10b160e"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8
