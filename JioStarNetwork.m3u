@@ -5,13 +5,13 @@
 #EXTINF:-1 tvg-logo="https://cdn.gadgets360.com/content/assets/channels/star-sports-1-hindi-hd.jpg",Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1762145407~acl=*sshindi*~id=0f7ac2b187db8c0af1c1b7bf2be2c8e9~data=hdntl~hmac=7b7895d4b0487864c97fc950ae119420ed047111cf65524f606e0dcf8ae14725","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1762234209~acl=*sshindi*~id=a44b909f39583d7d2906e5931a857637~data=hdntl~hmac=12930d280940de37230f819d015a1d43728949704d6e46c621f68a997055f7c2","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
 https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 #EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-1-hd.webp",Star Sports 1 HD
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1762145407~acl=*sshd1livetv*~id=074f83ef495468e9b1bad4ac03b141c4~data=hdntl~hmac=deefa7f8c9f5e67adb4053881aa2594a419a06c45b7807c70d338318ff02fbe4","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=hdntl=exp=1762234209~acl=*sshd1livetv*~id=a44b909f39583d7d2906e5931a857637~data=hdntl~hmac=12930d280940de37230f819d015a1d43728949704d6e46c621f68a997055f7c2","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
 https://livetv-push.hotstar.com/dash/live/2002464-b/sshd1livetvwv/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
