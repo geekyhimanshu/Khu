@@ -11,13 +11,13 @@ https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 #EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-1-hd.webp",Star Sports 1 HD
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=hdntl=exp=1762234209~acl=*sshd1livetv*~id=c742d24fec2ac01d7b3fe1892a0b8597~data=hdntl~hmac=38b0e643e636da9af4db0b813714a9f873bbee101a94d0088e69442f3bdef0b8","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1762234209~acl=*sshd1livetv*~id=c742d24fec2ac01d7b3fe1892a0b8597~data=hdntl~hmac=38b0e643e636da9af4db0b813714a9f873bbee101a94d0088e69442f3bdef0b8","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
 https://livetv-push.hotstar.com/dash/live/2002464-b/sshd1livetvwv/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 #EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2-hd.webp",Star Sports 2 HD
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1762145408~acl=*sshd2livetv*~id=128472ef19b6e0709f418ad51c421988~data=hdntl~hmac=697c65a77330fed56069c081f9676709316275f5ebed75d4726b99ce7d3a2f53","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1762234209~acl=*sshd2livetv*~id=c742d24fec2ac01d7b3fe1892a0b8597~data=hdntl~hmac=38b0e643e636da9af4db0b813714a9f873bbee101a94d0088e69442f3bdef0b8","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
 https://livetv-push.hotstar.com:443/dash/live/2002465-b/sshd2livetvwv/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
