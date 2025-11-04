@@ -39,10 +39,10 @@ https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c
 #EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://github.com/geekyhimanshu/Khu/blob/main/Star%20Sports%201%20Hindi%20HD-edit.jpg?raw=true",Star Sports 1 Hindi HD 87.255.35.150
 http://87.255.35.150:18302
 
-#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg",STARSPORTS1HD 87.255.35.150
+#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg",STARSPORTS 1 HD 87.255.35.150
 http://87.255.35.150:18891
 
-#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg", STARSPORTS2HD 87.255.35.150
+#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg", STARSPORTS 2 HD 87.255.35.150
 http://87.255.35.150:18828
 
 
