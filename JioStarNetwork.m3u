@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo="https://cdn.gadgets360.com/content/assets/channels/star-sports-1-hindi-hd.jpg",Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","hdntl=exp=1762300812~acl=*sshindi*~id=c297039c1583c601c983e0c7d7bd9ca7~data=hdntl~hmac=a41b556ecd9694203053a3caa40b3b23b1369511c30e3c7196f87f1c249dca32","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1762300812~acl=*sshindi*~id=c297039c1583c601c983e0c7d7bd9ca7~data=hdntl~hmac=a41b556ecd9694203053a3caa40b3b23b1369511c30e3c7196f87f1c249dca32","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
 https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
