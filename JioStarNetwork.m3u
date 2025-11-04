@@ -46,17 +46,19 @@ http://87.255.35.150:18891
 http://87.255.35.150:18828
 
 
+#EXTINF:-1 tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2-hindi-hd.webp",Star Sports 2 Hindi HD 116.90.120.149
+http://116.90.120.149:8000/play/a0hi
+
 #EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://dmnwebapi.dishhome.com.np/v1/file/image-16707427691002534.png",Star Sports 1 Hindi HD 116.90.120.149
 http://116.90.120.149:8000/play/a0je
 
 #EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://dmnwebapi.dishhome.com.np/v1/file/image-16707426506604637.png" , Star Sports 1 HD 116.90.120.149
 http://116.90.120.149:8000/play/a0gs
 
-#EXTINF:-1 tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://trai.sundirect.in/cmsapi/channels/star_sports_2_hindi_hd3007202510250793815.jpg",Star Sports 2 Hindi HD 116.90.120.149
-http://116.90.120.149:8000/play/a0hi
 
 
-#EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://www.dishtv.in/content/dam/dishtv-aem-web-platform/mogiio/images/channels/star-sports-1-hd-hindi.webp",Star Sports 1 Hindi HD Exclusive
+
+#EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://img.airtel.tv/unsafe/fit-in/1600x0/filters:format(webp)/https://image.airtel.tv/content/XSTREAMADS/undefined/XSTREAMADS_VIDEO_65854223b7f4303b98b1626d/Star_Sports_1_HD_Hindi.png",Star Sports 1 Hindi HD Exclusive
 http://87.255.35.150:18923
 
 
