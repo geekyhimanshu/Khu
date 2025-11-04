@@ -62,7 +62,7 @@ http://116.90.120.149:8000/play/a0gs
 http://87.255.35.150:18923
 
 
-#EXTINF:-1  tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_HD1_Hindi.png",Star Sports 1 Hindi HD 103.182.170.32:8888
+#EXTINF:-1  tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/500/-/Star_Sports_HD1_Hindi.png",Star Sports 1 Hindi HD 103.182.170.32:8888
 http://103.182.170.32:8888/play/a04e
 
 #EXTINF:-1 tvg-id="173" group-title="Jiostar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978f46cbc4372820a5bdf/images/237.webp" group-title="Jiostar", Star Sports 1 Hindi HD
