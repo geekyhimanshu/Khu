@@ -5,44 +5,32 @@
 #EXTINF:-1 tvg-logo="https://cdn.gadgets360.com/content/assets/channels/star-sports-1-hindi-hd.jpg",Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1762234209~acl=*sshindi*~id=a44b909f39583d7d2906e5931a857637~data=hdntl~hmac=12930d280940de37230f819d015a1d43728949704d6e46c621f68a997055f7c2","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","hdntl=exp=1762300812~acl=*sshindi*~id=c297039c1583c601c983e0c7d7bd9ca7~data=hdntl~hmac=a41b556ecd9694203053a3caa40b3b23b1369511c30e3c7196f87f1c249dca32","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
 https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 #EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-1-hd.webp",Star Sports 1 HD
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1762234209~acl=*sshd1livetv*~id=c742d24fec2ac01d7b3fe1892a0b8597~data=hdntl~hmac=38b0e643e636da9af4db0b813714a9f873bbee101a94d0088e69442f3bdef0b8","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1762300813~acl=*sshd1livetv*~id=aa5a0b7ae6bdce084d08a674f367d5f0~data=hdntl~hmac=97799046af3639132356c5a5b3f4ef951ea9509aee457469383eb41884413b5a","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
 https://livetv-push.hotstar.com/dash/live/2002464-b/sshd1livetvwv/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 #EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2-hd.webp",Star Sports 2 HD
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1762234209~acl=*sshd2livetv*~id=ae43374984e916e5f7274dcb6a1ac487~data=hdntl~hmac=5b1e83b194030a78260eda6a3c8ee2d0f7c5e94fbfaac9abcf9f35a50dd8310c","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1762300813~acl=*sshd2livetv*~id=a131bbbc9cb072baf4af5c727bd077fb~data=hdntl~hmac=c556374e468b8a457a923f35a5c7b68e3e171ba8315fdf2f140d103811fbd88b","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
 https://livetv-push.hotstar.com:443/dash/live/2002465-b/sshd2livetvwv/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
-#EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-1-hd.webp",Star Sports Select 1 HD
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1762145408~acl=*ssselecthd1*~id=70e567463bffe2cfd1a4865d2732cab3~data=hdntl~hmac=8ebee22af5ea1039db0434f85db0c85fc2347b9760caec26f490eb426c1411a1","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
-https://livetv-push.hotstar.com:443/dash/live/2002470-b/ssselecthd1wv/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
-#EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-2-hd.webp",Star Sports Select 2 HD
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1762145408~acl=*ssselecthd2*~id=f7c150777c751740775ce458b85fd4a7~data=hdntl~hmac=e32fd9f97292a4a397c5e6ed2649feae56b8eeabbbb3a869d78e433c258ccabf","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
-https://livetv-push.hotstar.com:443/dash/live/2002471-b/ssselecthd2wv/master.mpd
 
 
 #EXTINF:-1 tvg-id="1984" group-title="Sports" tvg-logo="https://trai.sundirect.in/cmsapi/channels/star_sports_2_hindi_hd3007202510250793815.jpg",Star Sports 2 Hindi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1762234208~acl=%2f*~id=95869cce362a77ff7b67cef8d4fc491b~data=hdntl~hmac=ff5d868198852d900353207bc9452a30fa476df0f84ef2ae0eba2aa1b10b160e"}
+#EXTHTTP:{"cookie":"hdntl=exp=1762300811~acl=%2f*~id=568857fa54938c5967b49aa03e1b5b08~data=hdntl~hmac=398d3200c15ac66e8fdcd4afe1a82e936f3aa80579c8010613ce3950fcfd3bb8"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_Sports18_1HD/JCHLS/manifest.m3u8
 
 #EXTINF:-1 tvg-id="1985" group-title="Sports" tvg-logo="https://www.indigital.co.in/images/logo/star-sports-hindi-black.jpg",Star Sports 2 Hindi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1762234208~acl=%2f*~id=95869cce362a77ff7b67cef8d4fc491b~data=hdntl~hmac=ff5d868198852d900353207bc9452a30fa476df0f84ef2ae0eba2aa1b10b160e"}
+#EXTHTTP:{"cookie":"hdntl=exp=1762300811~acl=%2f*~id=568857fa54938c5967b49aa03e1b5b08~data=hdntl~hmac=398d3200c15ac66e8fdcd4afe1a82e936f3aa80579c8010613ce3950fcfd3bb8"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8
@@ -327,6 +315,17 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_BTS/output/index.mpd?__hdnea
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_BTS/output/index.mpd?__hdnea__=st=1762217030~exp=1762303430~acl=/*~hmac=576df40deed8d0cc342f318ce0f8cbeef5bf1cbcf9940f2aa7fd04b2eadec412&xxx=%7Ccookie=__hdnea__=st=1762217030~exp=1762303430~acl=/*~hmac=576df40deed8d0cc342f318ce0f8cbeef5bf1cbcf9940f2aa7fd04b2eadec412
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+#EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-1-hd.webp",Star Sports Select 1 HD
+#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1762145408~acl=*ssselecthd1*~id=70e567463bffe2cfd1a4865d2732cab3~data=hdntl~hmac=8ebee22af5ea1039db0434f85db0c85fc2347b9760caec26f490eb426c1411a1","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+https://livetv-push.hotstar.com:443/dash/live/2002470-b/ssselecthd1wv/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+#EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-2-hd.webp",Star Sports Select 2 HD
+#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1762145408~acl=*ssselecthd2*~id=f7c150777c751740775ce458b85fd4a7~data=hdntl~hmac=e32fd9f97292a4a397c5e6ed2649feae56b8eeabbbb3a869d78e433c258ccabf","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+https://livetv-push.hotstar.com:443/dash/live/2002471-b/ssselecthd2wv/master.mpd
 
 
 
