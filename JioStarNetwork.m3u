@@ -5,32 +5,32 @@
 #EXTINF:-1 tvg-logo="https://cdn.gadgets360.com/content/assets/channels/star-sports-1-hindi-hd.jpg",Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1762300812~acl=*sshindi*~id=c297039c1583c601c983e0c7d7bd9ca7~data=hdntl~hmac=a41b556ecd9694203053a3caa40b3b23b1369511c30e3c7196f87f1c249dca32","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1762389607~acl=*sshindi*~id=d9fe7eaa1394a917a55772007cf43510~data=hdntl~hmac=758473c1d24597502736bbe3b60036ae5967071c7d5c98cc35e7d7c99ca10993","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
 https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 #EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-1-hd.webp",Star Sports 1 HD
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1762300813~acl=*sshd1livetv*~id=aa5a0b7ae6bdce084d08a674f367d5f0~data=hdntl~hmac=97799046af3639132356c5a5b3f4ef951ea9509aee457469383eb41884413b5a","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1762389608~acl=*sshd1livetv*~id=331b6916b8d74875b816bfbd40cdd7fa~data=hdntl~hmac=b8b18366c020558160f86653df18ba5f3d2b64eeea9641d2c3953ee730580043","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
 https://livetv-push.hotstar.com/dash/live/2002464-b/sshd1livetvwv/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 #EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2-hd.webp",Star Sports 2 HD
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1762300813~acl=*sshd2livetv*~id=a131bbbc9cb072baf4af5c727bd077fb~data=hdntl~hmac=c556374e468b8a457a923f35a5c7b68e3e171ba8315fdf2f140d103811fbd88b","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1762389609~acl=*sshd2livetv*~id=e924fd9e2cd07df9969db146ad847a3d~data=hdntl~hmac=b295f57de137707077a9100dfcb3d6e0e0c8dcada896f08a6ba5c292269e7df9","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
 https://livetv-push.hotstar.com:443/dash/live/2002465-b/sshd2livetvwv/master.mpd
 
 
 #EXTINF:-1 tvg-id="1984" group-title="Sports" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_BoxCover_3a373a17-83ff-48f3-bfc8-abea26977ebf.png",Star Sports 2 Hindi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1762300811~acl=%2f*~id=568857fa54938c5967b49aa03e1b5b08~data=hdntl~hmac=398d3200c15ac66e8fdcd4afe1a82e936f3aa80579c8010613ce3950fcfd3bb8"}
+#EXTHTTP:{"cookie":"hdntl=exp=1762389606~acl=%2f*~id=ce29d013ecad13cfd6b20f8ec751eff2~data=hdntl~hmac=974b40095366dac6cf25d0f4014e236a59dd76420f820b36dce8c9485bb866bd"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_Sports18_1HD/JCHLS/manifest.m3u8
 
 #EXTINF:-1 tvg-id="1985" group-title="Sports" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Hindi_BoxCover_4f3b2a8f-7a5a-43f9-ab20-85f8311fe39c.png",Star Sports 2 Hindi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1762300811~acl=%2f*~id=568857fa54938c5967b49aa03e1b5b08~data=hdntl~hmac=398d3200c15ac66e8fdcd4afe1a82e936f3aa80579c8010613ce3950fcfd3bb8"}
+#EXTHTTP:{"cookie":"hdntl=exp=1762389606~acl=%2f*~id=ce29d013ecad13cfd6b20f8ec751eff2~data=hdntl~hmac=974b40095366dac6cf25d0f4014e236a59dd76420f820b36dce8c9485bb866bd"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8
