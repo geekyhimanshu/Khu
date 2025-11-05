@@ -63,6 +63,10 @@ http://103.101.197.10:9981/stream/channelid/1577786237?profile=pass
 #EXTINF:-1,T Sports HD 9981
 http://103.101.197.10:9981/stream/channelid/598508825?profile=pass
 
+#EXTINF:-1,Ten Sports HD 4456
+http://cors.tundracast.com:2000/http://175.107.244.52:4456/play/a05v
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHV6lkpsVdZ_Inb3R-2rTJS1TPwT5HbG4ASg&s",Sky Sport Nz 1
 http://cors.tundracast.com:2000/http://135.125.238.26:8080/catena-36-1149990-streamer-nz_sky_sport_1/playlist.mpd?token=f54abc11fcaeb75c0368edb767264658
 
@@ -446,6 +450,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Trace Sport
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
 
 
 
