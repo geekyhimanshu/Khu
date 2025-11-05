@@ -66,6 +66,9 @@ http://103.101.197.10:9981/stream/channelid/598508825?profile=pass
 #EXTINF:-1,Ten Sports HD 4456
 http://cors.tundracast.com:2000/http://175.107.244.52:4456/play/a05v
 
+#EXTINF:-1,Geo Super 4456
+http://cors.tundracast.com:2000/http://175.107.244.52:4456/play/a06z
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHV6lkpsVdZ_Inb3R-2rTJS1TPwT5HbG4ASg&s",Sky Sport Nz 1
 http://cors.tundracast.com:2000/http://135.125.238.26:8080/catena-36-1149990-streamer-nz_sky_sport_1/playlist.mpd?token=f54abc11fcaeb75c0368edb767264658
@@ -99,77 +102,77 @@ http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/9258/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/K8gPQmg.png",Fox Sports 501 HD b1g.ooo
 http://b1g.uk/200/230/260995
 
-#EXTINF:-1,Fox Sports 502 HD b1g.ooo
+#EXTINF:-1,Fox Sports 502 HD b1g.uk
 http://b1g.uk/200/230/839343
 
-#EXTINF:-1,Fox Sports 503 HD b1g.ooo
+#EXTINF:-1,Fox Sports 503 HD b1g.uk
 http://b1g.uk/200/230/839342
 
-#EXTINF:-1,Fox Sports 504 HD b1g.ooo
+#EXTINF:-1,Fox Sports 504 HD b1g.uk
 http://b1g.uk/200/230/839341
 
-#EXTINF:-1,Fox Sports 505 HD b1g.ooo
+#EXTINF:-1,Fox Sports 505 HD b1g.uk
 http://b1g.uk/200/230/839340
 
-#EXTINF:-1,Fox Sports 506 HD b1g.ooo
+#EXTINF:-1,Fox Sports 506 HD b1g.uk
 http://b1g.uk/200/230/839339
 
-#EXTINF:-1,Fox Sports 507 HD b1g.ooo
+#EXTINF:-1,Fox Sports 507 HD b1g.uk
 http://b1g.uk/200/230/839338
 
-#EXTINF:-1,Sky Sports Cricket b1g.ooo
+#EXTINF:-1,Sky Sports Cricket b1g.uk
 http://b1g.uk/200/230/35799
 
-#EXTINF:-1,Sky Sports Mix b1g.ooo
+#EXTINF:-1,Sky Sports Mix b1g.uk
 http://b1g.uk/200/230/35804
 
-#EXTINF:-1,Sky Sports Plus b1g.ooo
+#EXTINF:-1,Sky Sports Plus b1g.uk
 http://b1g.uk/200/230/35801
 
-#EXTINF:-1,Sky Sports Golf b1g.ooo
+#EXTINF:-1,Sky Sports Golf b1g.uk
 http://b1g.uk/200/230/35800
 
-#EXTINF:-1,Sky Sports Main Event b1g.ooo
+#EXTINF:-1,Sky Sports Main Event b1g.uk
 http://b1g.uk/200/230/35796
 
-#EXTINF:-1,Sky Sports Premier League b1g.ooo
+#EXTINF:-1,Sky Sports Premier League b1g.uk
 http://b1g.uk/200/230/35797
 
-#EXTINF:-1,Sky Sports Football b1g.ooo
+#EXTINF:-1,Sky Sports Football b1g.uk
 http://b1g.uk/200/230/35798
 
-#EXTINF:-1,Sky Sports F1 b1g.ooo
+#EXTINF:-1,Sky Sports F1 b1g.uk
 http://b1g.uk/200/230/164500
 
-#EXTINF:-1, Sky Sports News b1g.ooo
+#EXTINF:-1, Sky Sports News b1g.uk
 http://b1g.uk/200/230/35805
 
 
-#EXTINF:-1,NZ Sky Sports 1 b1g.ooo
+#EXTINF:-1,NZ Sky Sports 1 b1g.uk
 http://b1g.uk/200/230/696472
 
-#EXTINF:-1,NZ Sky Sports 2 b1g.ooo
+#EXTINF:-1,NZ Sky Sports 2 b1g.uk
 http://b1g.uk/200/230/696473
 
-#EXTINF:-1,NZ Sky Sports 3 b1g.ooo
+#EXTINF:-1,NZ Sky Sports 3 b1g.uk
 http://b1g.uk/200/230/696474
 
-#EXTINF:-1,NZ Sky Sports 4 b1g.ooo
+#EXTINF:-1,NZ Sky Sports 4 b1g.uk
 http://b1g.uk/200/230/696475
 
-#EXTINF:-1,NZ Sky Sports 5 b1g.ooo
+#EXTINF:-1,NZ Sky Sports 5 b1g.uk
 http://b1g.uk/200/230/696476
 
-#EXTINF:-1,NZ Sky Sports 6 b1g.ooo
+#EXTINF:-1,NZ Sky Sports 6 b1g.uk
 http://b1g.uk/200/230/696477
 
-#EXTINF:-1,NZ Sky Sports 7 b1g.ooo
+#EXTINF:-1,NZ Sky Sports 7 b1g.uk
 http://b1g.uk/200/230/696478
 
-#EXTINF:-1,NZ Sky Sports 8 b1g.ooo
+#EXTINF:-1,NZ Sky Sports 8 b1g.uk
 http://b1g.uk/200/230/696479
 
-#EXTINF:-1,NZ Sky Sports 9 b1g.ooo
+#EXTINF:-1,NZ Sky Sports 9 b1g.uk
 http://b1g.uk/200/230/696480
 
 #EXTINF:-1,A SPORTS HD
@@ -179,10 +182,10 @@ http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a04w
 #EXTINF:-1,PTVSPORTS HD 103.250.28.66
 http://cors.tundracast.com:2000/http://103.250.28.66:8000/play/a054
 
-#EXTINF:-1,Willow Cricket 2 b1g.ooo
+#EXTINF:-1,Willow Cricket 2 b1g.uk
 http://b1g.uk/200/230/260994
 
-#EXTINF:-1,Willow Cricket HD b1g.ooo
+#EXTINF:-1,Willow Cricket HD b1g.uk
 http://b1g.uk/200/230/260993
 
 
@@ -223,13 +226,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
 
 
-#EXTINF:-1,Ten Sports HD b1g.ooo
+#EXTINF:-1,Ten Sports HD b1g.uk
 http://b1g.uk/200/230/239424
 
-#EXTINF:-1,PTV Sports HD b1g.ooo
+#EXTINF:-1,PTV Sports HD b1g.uk
 http://b1g.uk/200/230/263669
 
-#EXTINF:-1,Geo Super
+#EXTINF:-1,Geo Super b1g.uk
 http://b1g.uk/200/230/7955
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -450,6 +453,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Trace Sport
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
 
 
 
