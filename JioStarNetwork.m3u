@@ -49,7 +49,7 @@ http://116.90.120.149:8000/play/a0jo
 http://116.90.120.149:8000/play/a0hi
 
 
-#EXTINF:-1  tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://github.com/geekyhimanshu/KP-Channels/blob/main/StarSportHindiHD1.jpg",Star Sports 1 Hindi HD 66.102.120.18
+#EXTINF:-1  tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportHindiHD1.jpg",Star Sports 1 Hindi HD 66.102.120.18
 http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a072
 
 #EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://trai.sundirect.in/cmsapi/channels/636571536475753548_star-sports-1-hd.jpg",Star Sports 1 HD 66.102.120.18
