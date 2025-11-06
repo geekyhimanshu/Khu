@@ -42,7 +42,7 @@ http://87.255.35.150:18302
 #EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportHD1.jpg",STARSPORTS 1 HD 87.255.35.150
 http://87.255.35.150:18891
 
-#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="", STARSPORTS 2 HD 87.255.35.150
+#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportsHD2.jpg", STARSPORTS 2 HD 87.255.35.150
 http://87.255.35.150:18828
 
 
