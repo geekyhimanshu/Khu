@@ -36,7 +36,7 @@ https://jcevents.hotstar.com/bpk-tv/JC_Sports18_1HD/JCHLS/manifest.m3u8
 https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8
 
 
-#EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="",Star Sports 1 Hindi HD 87.255.35.150
+#EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSports1HindiHD.jpg",Star Sports 1 Hindi HD 87.255.35.150
 http://87.255.35.150:18302
 
 #EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSports1HD.jpg",STARSPORTS 1 HD 87.255.35.150
