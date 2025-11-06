@@ -36,34 +36,34 @@ https://jcevents.hotstar.com/bpk-tv/JC_Sports18_1HD/JCHLS/manifest.m3u8
 https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8
 
 
-#EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportsHindi1HD.jpg",Star Sports 1 Hindi HD 87.255.35.150
+#EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSports1HindiHD.jpg",Star Sports 1 Hindi HD 87.255.35.150
 http://87.255.35.150:18302
 
-#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportsHD.jpg",STARSPORTS 1 HD 87.255.35.150
+#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportHD1.jpg",STARSPORTS 1 HD 87.255.35.150
 http://87.255.35.150:18891
 
-#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg", STARSPORTS 2 HD 87.255.35.150
+#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="", STARSPORTS 2 HD 87.255.35.150
 http://87.255.35.150:18828
 
 
-#EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://resources.geniustv.geniussystems.com.np/public/images/v1/channels/2022-02-03-123450-61fb7b0ea2abc-png",Star Sports 1 Hindi HD 116.90.120.149
+#EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="",Star Sports 1 Hindi HD 116.90.120.149
 http://116.90.120.149:8000/play/a0je
 
-#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://dmnwebapi.dishhome.com.np/v1/file/image-16707426506604637.png",STARSPORTS 1 HD 116.90.120.149
+#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="",STARSPORTS 1 HD 116.90.120.149
 http://116.90.120.149:8000/play/a0gs
 
-#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://resources.geniustv.geniussystems.com.np/public/images/v1/channels/113-png", STARSPORTS 2 HD 116.90.120.149
+#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg", STARSPORTS 2 HD 116.90.120.149
 http://116.90.120.149:8000/play/a0jo
 
-#EXTINF:-1 tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiFDmfGWRRhNvctt0StKUFKyPkGj7zR_EEDg&s",Star Sports 2 Hindi HD 116.90.120.149
+#EXTINF:-1 tvg-name="Star Sports 2 Hindi HD" tvg-logo="",Star Sports 2 Hindi HD 116.90.120.149
 http://116.90.120.149:8000/play/a0hi
 
 
 
-#EXTINF:-1  tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSports1HindiHD.jpg",Star Sports 1 Hindi HD 66.102.120.18
+#EXTINF:-1  tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportsHindi1HD.jpg",Star Sports 1 Hindi HD 66.102.120.18
 http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a072
 
-#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportHD1.jpg",Star Sports 1 HD 66.102.120.18
+#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportsHD.jpg",Star Sports 1 HD 66.102.120.18
 http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a009
 
 #EXTINF:-1  tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2-hindi-hd.webp",Star Sports2 Hindi HD 66.102.120.18
