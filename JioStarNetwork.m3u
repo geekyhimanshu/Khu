@@ -2,17 +2,6 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
 
-
-#EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSports1HindiHD.jpg",Star Sports 1 Hindi HD 87.255.35.150
-http://87.255.35.150:18302
-
-#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportHD1.jpg",STARSPORTS 1 HD 87.255.35.150
-http://87.255.35.150:18891
-
-#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportsHD2.jpg", STARSPORTS 2 HD 87.255.35.150
-http://87.255.35.150:18828
-
-
 #EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportsHindi1HD.jpg",Star Sports 1 Hindi HD 116.90.120.149
 http://116.90.120.149:8000/play/a0je
 
@@ -25,6 +14,15 @@ http://116.90.120.149:8000/play/a0jo
 #EXTINF:-1 tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportsHindiHD2.jpg",Star Sports 2 Hindi HD 116.90.120.149
 http://116.90.120.149:8000/play/a0hi
 
+
+#EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSports1HindiHD.jpg",Star Sports 1 Hindi HD 87.255.35.150
+http://87.255.35.150:18302
+
+#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportHD1.jpg",STARSPORTS 1 HD 87.255.35.150
+http://87.255.35.150:18891
+
+#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportsHD2.jpg", STARSPORTS 2 HD 87.255.35.150
+http://87.255.35.150:18828
 
 
 #EXTINF:-1  tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportsHindi1HD.jpg",Star Sports 1 Hindi HD 66.102.120.18
