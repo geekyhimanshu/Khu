@@ -226,15 +226,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
 
 
-#EXTINF:-1,Ten Sports HD b1g.uk
-http://b1g.uk/200/230/239424
-
-#EXTINF:-1,PTV Sports HD b1g.uk
-http://b1g.uk/200/230/263669
-
-#EXTINF:-1,Geo Super b1g.uk
-http://b1g.uk/200/230/7955
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PEUIrzSIRBB/XgJqT9axbg","kid":"GmVRiatcSesjUwjCsannEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="beINSports" ch-number="820" tvg-name="beIN Sports HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="Sports",BeINSports 1
@@ -425,22 +416,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 https://live2.shoq.com.pk/live/eds/Fast_Sports_HD/DASH/Fast_Sports_HD.mpd
 
 
-#EXTINF:-1,AU_FOXSPORTS501
-http://thksmom.shop/AU_FOXSPORTS501/index.m3u8?token=test
-#EXTINF:-1,AU_FOXSPORTS502
-http://thksmom.shop/AU_FOXSPORTS502/index.m3u8?token=test
-#EXTINF:-1,AU_FOXSPORTS503
-http://thksmom.shop/AU_FOXSPORTS503/index.m3u8?token=test
-#EXTINF:-1,AU_FOXSPORTS504
-http://thksmom.shop/AU_FOXSPORTS504/index.m3u8?token=test
-#EXTINF:-1,AU_FOXSPORTS505
-http://thksmom.shop/AU_FOXSPORTS505/index.m3u8?token=test
-#EXTINF:-1,AU_FOXSPORTS506
-http://thksmom.shop/AU_FOXSPORTS506/index.m3u8?token=test
-#EXTINF:-1,AU_FOXSPORTS507
-http://thksmom.shop/AU_FOXSPORTS507/index.m3u8?token=test
-
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8C7BdHMr/Dubai-Sports-2.jpg",Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/dubaisportshd/chunklist.m3u8
 
@@ -453,6 +428,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Trace Sport
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
 
 
 
