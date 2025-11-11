@@ -219,12 +219,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/o
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
-#EXTINF:-1 tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/11/stan-sport-logo.png" group-title="Sports",Stan Sport
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=b950cf34f08749208b74ed5e2bc0da0e:0e59aab6f2c94f073b53854847d56207
-https://awslive02.stan.video/out/v1/a5968ff9d1e84e28a46512b10ca6fef9/index.mpd
-
 
 #EXTINF:-1 tvg-logo="https://iili.io/K8gPQmg.png",Fox Sports 501 HD b1g.ooo
 http://b1g.uk/200/230/260995
@@ -555,6 +549,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Trace Sport
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
 
 
 
