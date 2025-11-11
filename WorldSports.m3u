@@ -70,8 +70,10 @@ http://cors.tundracast.com:2000/http://175.107.244.52:4456/play/a05v
 http://cors.tundracast.com:2000/http://175.107.244.52:4456/play/a06z
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHV6lkpsVdZ_Inb3R-2rTJS1TPwT5HbG4ASg&s",Sky Sport Nz 1
-http://cors.tundracast.com:2000/http://135.125.238.26:8080/catena-36-1149990-streamer-nz_sky_sport_1/playlist.mpd?token=f54abc11fcaeb75c0368edb767264658
+https://cors-proxy.rdpsell01.workers.dev/https://dice-live-oc.akamaized.net/hdntl=exp=1762884041~acl=%2f*~id=b02f1c21-54ce-496f-8804-2be6c873e67a~data=hdntl,dWlkPXNWa2pnc3w2ZjZmZTIwMS02NWUyLTRmNWMtOWY3OC01MTBlNDU0NzY0YWUmaXA9MTI0LjI0OC4xNDIuMTUmZXhwPTE3NjI4ODQwNzEmZWlkPTIxOTAyNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=6d9d890c80e54aa480b3c1b9a2f8c14debe3854f804827c32339b160070a49ba/dash/live/2093724/219026-308528/manifest-d.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi7E-05NsI2ou1G21Ok954AWfg8Tg29KkEtg&s",Sky Sport Nz 2
 http://cors.tundracast.com:2000/http://135.125.238.26:8080/catena-36-1149991-streamer-nz_sky_sport_2/playlist.mpd?token=f54abc11fcaeb75c0368edb767264658
@@ -428,6 +430,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Trace Sport
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
 
 
 
