@@ -115,7 +115,7 @@ https://cors-proxy.rdpsell01.workers.dev/https://otte.live.fly.ww.aiv-cdn.net/ia
 #KODIPROP:inputstream.adaptive.license_key=581698bd7d049a4877227553e2902410:e39e223d3679e533b8144a6241f794ba
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://iili.io/KbJ51YN.png" group-title="HD SPORTS",Astro Cricket HD
-https://cors-proxy.rdpsell01.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
+https://cors-proxy.rdpsell01.workers.dev/https://hls.livecricketsl.xyz/aus/get.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -200,11 +200,6 @@ https://cors-proxy.rdpsell01.workers.dev/https://dice-live-oc.akamaized.net/hdnt
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://iili.io/KmUO5il.png" group-title="HD SPORTS",ESPN 2
 https://cors-proxy.rdpsell01.workers.dev/https://dice-live-oc.akamaized.net/hdntl=exp=1762884145~acl=%2f*~id=3492d64f-2888-4bdf-b0a9-c8708ad7c1ed~data=hdntl,dWlkPXNWa2pnc3w2ZjZmZTIwMS02NWUyLTRmNWMtOWY3OC01MTBlNDU0NzY0YWUmaXA9MTI0LjI0OC4xNDIuMTUmZXhwPTE3NjI4ODQxNzQmZWlkPTIxOTAzOSZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=84be81f037ce2afaa4f7dd50a3dccc7b550a45166f7247cdcfaf7d4026b6ae0c/dash/live/2093714/219039-308446/manifest-d.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHV6lkpsVdZ_Inb3R-2rTJS1TPwT5HbG4ASg&s",Sky Sport Nz 1
-https://cors-proxy.rdpsell01.workers.dev/https://dice-live-oc.akamaized.net/hdntl=exp=1762884041~acl=%2f*~id=b02f1c21-54ce-496f-8804-2be6c873e67a~data=hdntl,dWlkPXNWa2pnc3w2ZjZmZTIwMS02NWUyLTRmNWMtOWY3OC01MTBlNDU0NzY0YWUmaXA9MTI0LjI0OC4xNDIuMTUmZXhwPTE3NjI4ODQwNzEmZWlkPTIxOTAyNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=6d9d890c80e54aa480b3c1b9a2f8c14debe3854f804827c32339b160070a49ba/dash/live/2093724/219026-308528/manifest-d.mpd
 
 
 #EXTINF:-1 ,Fox Sports 501 HD
@@ -560,6 +555,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Trace Sport
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
 
 
 
