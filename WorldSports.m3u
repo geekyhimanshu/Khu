@@ -414,14 +414,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",wc
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17
-http://cors.tundracast.com:2000/https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd
-
-
 #EXTINF:-1 tvg-id="ziggo2" tvg-logo="", ziggo2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
@@ -594,6 +586,7 @@ https://stalker.tnm3us.workers.dev/30975.m3u8
 http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a04w
 #EXTINF:-1,PTVSPORTS HD 103.250.28.66
 http://cors.tundracast.com:2000/http://103.250.28.66:8000/play/a054
+
 
 
 
