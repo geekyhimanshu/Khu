@@ -573,7 +573,7 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/HT0W29vz/Tennis-Channel.jpg",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Trace Sport
+#EXTINF:-1 group-title="Sports" tvg-logo="",Trace Sport
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 
@@ -586,6 +586,7 @@ https://stalker.tnm3us.workers.dev/30975.m3u8
 http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a04w
 #EXTINF:-1,PTVSPORTS HD 103.250.28.66
 http://cors.tundracast.com:2000/http://103.250.28.66:8000/play/a054
+
 
 
 
