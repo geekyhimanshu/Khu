@@ -198,11 +198,12 @@ http://b1g.uk/200/230/839339
 #EXTINF:-1,Fox Sports 507 HD b1g.uk
 http://b1g.uk/200/230/839338
 
-#EXTINF:-1,Sky Sports Cricket b1g.uk
-http://b1g.uk/200/230/35799
 
-#EXTINF:-1,Sky Sports Mix b1g.uk
-http://b1g.uk/200/230/35804
+#EXTINF:-1,Sky Sports Cricket
+http://178.33.239.54:8080/503a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
+
+#EXTINF:-1,Sky Sports Mix
+http://178.33.239.54:8080/507a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
 
 #EXTINF:-1,Sky Sports Plus b1g.uk
 http://b1g.uk/200/230/35801
@@ -210,20 +211,23 @@ http://b1g.uk/200/230/35801
 #EXTINF:-1,Sky Sports Golf b1g.uk
 http://b1g.uk/200/230/35800
 
-#EXTINF:-1,Sky Sports Main Event b1g.uk
-http://b1g.uk/200/230/35796
+#EXTINF:-1,Sky Sports Main Event
+http://178.33.239.54:8080/502a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
 
-#EXTINF:-1,Sky Sports Premier League b1g.uk
-http://b1g.uk/200/230/35797
+#EXTINF:-1,Sky Sports Premier League
+http://178.33.239.54:8080/506a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
 
-#EXTINF:-1,Sky Sports Football b1g.uk
-http://b1g.uk/200/230/35798
+#EXTINF:-1,Sky Sports Football
+http://178.33.239.54:8080/500a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
 
-#EXTINF:-1,Sky Sports F1 b1g.uk
-http://b1g.uk/200/230/164500
+#EXTINF:-1,Sky Sports F1
+http://178.33.239.54:8080/508a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
 
-#EXTINF:-1, Sky Sports News b1g.uk
-http://b1g.uk/200/230/35805
+#EXTINF:-1,Sky Sports News
+http://178.33.239.54:8080/501a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
+
+#EXTINF:-1,Sky Sport Action
+http://178.33.239.54:8080/504a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -527,6 +531,7 @@ https://stalker.tnm3us.workers.dev/30975.m3u8
 http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a04w
 #EXTINF:-1,PTVSPORTS HD 103.250.28.66
 http://cors.tundracast.com:2000/http://103.250.28.66:8000/play/a054
+
 
 
 
