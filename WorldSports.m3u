@@ -74,9 +74,16 @@ http://cors.tundracast.com:2000/http://175.107.244.52:4456/play/a05v
 http://cors.tundracast.com:2000/http://175.107.244.52:4456/play/a06z
 
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=581698bd7d049a4877227553e2902410:e39e223d3679e533b8144a6241f794ba
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://iili.io/KbJ51YN.png" group-title="HD SPORTS",Astro Cricket HD
+https://astro-cricket-proxy-3.onrender.com/https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_ott.mpd
+
+
 #EXTINF:-1,Fox Sports English
 https://d1jzu95oc8fgt3.cloudfront.net:443/FOX_Sports.m3u8
-
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -113,13 +120,6 @@ https://cors-proxy.rdpsell01.workers.dev/https://ottb.live.cf.ww.aiv-cdn.net/lhr
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://iili.io/KYJC4V9.png" group-title="HD SPORTS",Fox Sports 2
 https://cors-proxy.rdpsell01.workers.dev/https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=581698bd7d049a4877227553e2902410:e39e223d3679e533b8144a6241f794ba
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="https://iili.io/KbJ51YN.png" group-title="HD SPORTS",Astro Cricket HD
-https://cors-proxy.rdpsell01.workers.dev/https://hls.livecricketsl.xyz/aus/get.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
 
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -534,7 +534,7 @@ https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkjmoUatVnbQsL-NNHSj2L9zjbbMg92x5pNA&s" group-title="SHOQ",Fast Sports HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkjmoUatVnbQsL-NNHSj2L9zjbbMg92x5pNA&s",Fast Sports HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba9b637b639af897f228114363e882fa:27508374902bd52361f08a2ad4dba3a3
 https://live2.shoq.com.pk/live/eds/Fast_Sports_HD/DASH/Fast_Sports_HD.mpd
@@ -581,6 +581,7 @@ https://stalker.tnm3us.workers.dev/30975.m3u8
 http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a04w
 #EXTINF:-1,PTVSPORTS HD 103.250.28.66
 http://cors.tundracast.com:2000/http://103.250.28.66:8000/play/a054
+
 
 
 
