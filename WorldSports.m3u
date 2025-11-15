@@ -85,14 +85,14 @@ http://cors.tundracast.com:2000/https://dice-live-oc.akamaized.net/hdntl=exp=176
 #KODIPROP:inputstream.adaptive.license_key=708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://iili.io/Kbd3hYv.png" group-title="HD SPORTS",Sky Sports NZ 2
-http://cors.tundracast.com:2000/https://dice-live-oc.akamaized.net/hdntl=exp=1763260139~acl=%2f*~id=7d966e03-eb18-43d0-8369-d5366654d6f2~data=hdntl,dWlkPXNWa2pnc3w2ZjZmZTIwMS02NWUyLTRmNWMtOWY3OC01MTBlNDU0NzY0YWUmaXA9MTE4LjkzLjExNS4xNjYmZXhwPTE3NjMyNjAxNjkmZWlkPTIxOTAyNyZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=04076ba0c135cc08b7340d83d8ccf90060836ca5726ad166b8273ab9d606258d/dash/live/2093739/219027-309254/manifest-d.mpd
+http://cors.tundracast.com:2000/https://dice-live-oc.akamaized.net/hdntl=exp=1763260139~acl=%2f*~id=7d966e03-eb18-43d0-8369-d5366654d6f2~data=hdntl,dWlkPXNWa2pnc3w2ZjZmZTIwMS02NWUyLTRmNWMtOWY3OC01MTBlNDU0NzY0YWUmaXA9MTE4LjkzLjExNS4xNjYmZXhwPTE3NjMyNjAxNjkmZWlkPTIxOTAyNyZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=04076ba0c135cc08b7340d83d8ccf90060836ca5726ad166b8273ab9d606258d/dash/live/2093725/219027-308529/manifest-d.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://iili.io/KbJoon2.png" group-title="HD SPORTS",Sky Sports NZ 3
-http://cors.tundracast.com:2000/https://dice-live-oc.akamaized.net/hdntl=exp=1763260139~acl=%2f*~id=7d966e03-eb18-43d0-8369-d5366654d6f2~data=hdntl,dWlkPXNWa2pnc3w2ZjZmZTIwMS02NWUyLTRmNWMtOWY3OC01MTBlNDU0NzY0YWUmaXA9MTE4LjkzLjExNS4xNjYmZXhwPTE3NjMyNjAxNjkmZWlkPTIxOTAyNyZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=04076ba0c135cc08b7340d83d8ccf90060836ca5726ad166b8273ab9d606258d/dash/live/2093738/219028-309253/manifest-d.mpd
+http://cors.tundracast.com:2000/https://dice-live-oc.akamaized.net/hdntl=exp=1763260149~acl=%2f*~id=c763e15f-2dfc-4d9a-8cde-1bdc9d08ce02~data=hdntl,dWlkPXNWa2pnc3w2ZjZmZTIwMS02NWUyLTRmNWMtOWY3OC01MTBlNDU0NzY0YWUmaXA9MTE4LjkzLjExNS4xNjYmZXhwPTE3NjMyNjAxNzkmZWlkPTIxOTAyOCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=7d4768b65b4afd9a79e4cbc8b2620043a2aea6bf7e84f38bccbcc45f8a15487f/dash/live/2093726/219028-308530/manifest-d.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -580,6 +580,7 @@ https://stalker.tnm3us.workers.dev/30975.m3u8
 http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a04w
 #EXTINF:-1,PTVSPORTS HD 103.250.28.66
 http://cors.tundracast.com:2000/http://103.250.28.66:8000/play/a054
+
 
 
 
