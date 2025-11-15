@@ -282,7 +282,7 @@ http://cors.tundracast.com:2000/http://178.33.239.54:8080/504a/index.mpd?token=t
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Bld//MSTW6JK/0xMndaEbQ", "kid":"m/61BoclYX261jOEc9ptEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="PremierSports" tvg-name="Premier Sports HD" group-title="AstroGO | SPORTS" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1mkKts.png",Premier Sports 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
+https://singapore-cors-proxy.onrender.com:443/https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -580,6 +580,7 @@ https://stalker.tnm3us.workers.dev/30975.m3u8
 http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a04w
 #EXTINF:-1,PTVSPORTS HD 103.250.28.66
 http://cors.tundracast.com:2000/http://103.250.28.66:8000/play/a054
+
 
 
 
