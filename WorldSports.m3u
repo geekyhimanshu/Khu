@@ -206,11 +206,6 @@ https://cors-proxy.rdpsell01.workers.dev/https://ottb.live.cf.ww.aiv-cdn.net/lhr
 https://cors-proxy.rdpsell01.workers.dev/https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
 
-#EXTINF:-1 ,Fox Sports 501 HD
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
-#EXTINF:-1 ,Sky Sports Cricket
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/9258/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/prod-cbssportstenantstack-citadelbucket0907d78c-qwwjcczd8p3p/CBS-Sports-Logo-1731106414735.png" group-title="Sports",CBS Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -222,59 +217,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/o
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-
-
-#EXTINF:-1 tvg-logo="https://iili.io/K8gPQmg.png",Fox Sports 501 HD b1g.uk
-http://b1g.uk/200/230/260995
-
-#EXTINF:-1,Fox Sports 502 HD b1g.uk
-http://b1g.uk/200/230/839343
-
-#EXTINF:-1,Fox Sports 503 HD b1g.uk
-http://b1g.uk/200/230/839342
-
-#EXTINF:-1,Fox Sports 504 HD b1g.uk
-http://b1g.uk/200/230/839341
-
-#EXTINF:-1,Fox Sports 505 HD b1g.uk
-http://b1g.uk/200/230/839340
-
-#EXTINF:-1,Fox Sports 506 HD b1g.uk
-http://b1g.uk/200/230/839339
-
-#EXTINF:-1,Fox Sports 507 HD b1g.uk
-http://b1g.uk/200/230/839338
-
-
-#EXTINF:-1,Sky Sports Cricket
-http://cors.tundracast.com:2000/http://178.33.239.54:8080/503a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
-
-#EXTINF:-1,Sky Sports Mix
-http://cors.tundracast.com:2000/http://178.33.239.54:8080/507a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
-
-#EXTINF:-1,Sky Sports Plus b1g.uk
-http://b1g.uk/200/230/35801
-
-#EXTINF:-1,Sky Sports Golf b1g.uk
-http://b1g.uk/200/230/35800
-
-#EXTINF:-1,Sky Sports Main Event
-http://cors.tundracast.com:2000/http://178.33.239.54:8080/502a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
-
-#EXTINF:-1,Sky Sports Premier League
-http://cors.tundracast.com:2000/http://178.33.239.54:8080/506a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
-
-#EXTINF:-1,Sky Sports Football
-http://cors.tundracast.com:2000/http://178.33.239.54:8080/500a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
-
-#EXTINF:-1,Sky Sports F1
-http://cors.tundracast.com:2000/http://178.33.239.54:8080/508a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
-
-#EXTINF:-1,Sky Sports News
-http://cors.tundracast.com:2000/http://178.33.239.54:8080/501a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
-
-#EXTINF:-1,Sky Sport Action
-http://cors.tundracast.com:2000/http://178.33.239.54:8080/504a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -582,7 +524,63 @@ http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a04w
 http://cors.tundracast.com:2000/http://103.250.28.66:8000/play/a054
 
 
+#EXTINF:-1,Sky Sports Cricket
+http://cors.tundracast.com:2000/http://178.33.239.54:8080/503a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
 
+#EXTINF:-1,Sky Sports Mix
+http://cors.tundracast.com:2000/http://178.33.239.54:8080/507a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
+
+#EXTINF:-1,Sky Sports Main Event
+http://cors.tundracast.com:2000/http://178.33.239.54:8080/502a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
+
+#EXTINF:-1,Sky Sports Premier League
+http://cors.tundracast.com:2000/http://178.33.239.54:8080/506a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
+
+#EXTINF:-1,Sky Sports Football
+http://cors.tundracast.com:2000/http://178.33.239.54:8080/500a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
+
+#EXTINF:-1,Sky Sports F1
+http://cors.tundracast.com:2000/http://178.33.239.54:8080/508a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
+
+#EXTINF:-1,Sky Sports News
+http://cors.tundracast.com:2000/http://178.33.239.54:8080/501a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
+
+#EXTINF:-1,Sky Sport Action
+http://cors.tundracast.com:2000/http://178.33.239.54:8080/504a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
+
+
+#EXTINF:-1 tvg-logo="https://iili.io/K8gPQmg.png",Fox Sports 501 HD b1g.uk
+http://b1g.uk/200/230/260995
+
+#EXTINF:-1,Fox Sports 502 HD b1g.uk
+http://b1g.uk/200/230/839343
+
+#EXTINF:-1,Fox Sports 503 HD b1g.uk
+http://b1g.uk/200/230/839342
+
+#EXTINF:-1,Fox Sports 504 HD b1g.uk
+http://b1g.uk/200/230/839341
+
+#EXTINF:-1,Fox Sports 505 HD b1g.uk
+http://b1g.uk/200/230/839340
+
+#EXTINF:-1,Fox Sports 506 HD b1g.uk
+http://b1g.uk/200/230/839339
+
+#EXTINF:-1,Fox Sports 507 HD b1g.uk
+http://b1g.uk/200/230/839338
+
+#EXTINF:-1 ,Fox Sports 501 HD megatv
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
+#EXTINF:-1 ,Sky Sports Cricket megatv
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/9258/index.m3u8
+
+
+#EXTINF:-1,Sky Sports Plus b1g.uk
+http://b1g.uk/200/230/35801
+
+#EXTINF:-1,Sky Sports Golf b1g.uk
+http://b1g.uk/200/230/35800
 
 
 
