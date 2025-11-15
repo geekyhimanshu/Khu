@@ -78,7 +78,7 @@ http://cors.tundracast.com:2000/http://175.107.244.52:4456/play/a06z
 #KODIPROP:inputstream.adaptive.license_key=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://iili.io/KbJy77S.png" group-title="HD SPORTS",Sky Sports NZ 1
-http://cors.tundracast.com:2000/https://dice-live-oc.akamaized.net/hdntl=exp=1763260139~acl=%2f*~id=7d966e03-eb18-43d0-8369-d5366654d6f2~data=hdntl,dWlkPXNWa2pnc3w2ZjZmZTIwMS02NWUyLTRmNWMtOWY3OC01MTBlNDU0NzY0YWUmaXA9MTE4LjkzLjExNS4xNjYmZXhwPTE3NjMyNjAxNjkmZWlkPTIxOTAyNyZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=04076ba0c135cc08b7340d83d8ccf90060836ca5726ad166b8273ab9d606258d/dash/live/2093724/219026-308528/manifest-d.mpd
+http://cors.tundracast.com:2000/https://dice-live-oc.akamaized.net:443/hdntl=exp=1763204712~acl=%2f*~id=1c6afdea-a3cc-4807-b42e-ff91da34cf46~data=hdntl,dWlkPXNWa2pnc3w2ZjZmZTIwMS02NWUyLTRmNWMtOWY3OC01MTBlNDU0NzY0YWUmaXA9MTI0LjI0OC4xNDIuMTImZXhwPTE3NjMyMDQ3NDImZWlkPTIxOTAyNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=b50853a24a811acd3a50f013162f6d81911be1361ccbc6dc148c34df9b23dfa3/dash/live/2093775/219026-310853/manifest-d.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -580,6 +580,7 @@ https://stalker.tnm3us.workers.dev/30975.m3u8
 http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a04w
 #EXTINF:-1,PTVSPORTS HD 103.250.28.66
 http://cors.tundracast.com:2000/http://103.250.28.66:8000/play/a054
+
 
 
 
