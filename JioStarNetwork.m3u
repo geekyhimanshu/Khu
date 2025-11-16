@@ -5,19 +5,19 @@
 #EXTINF:-1 tvg-logo="https://cdn.gadgets360.com/content/assets/channels/star-sports-1-hindi-hd.jpg",Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1763255407~acl=*sshindi*~id=80e7664176578167351be62d6f83530d~data=hdntl~hmac=eb62b34968e06454efd2b69c84d8a43a6701ecfc7e27912cd1706074242301db","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1763344208~acl=*sshindi*~id=3547b93e51e2cbc85b4ffbe8123dd0e7~data=hdntl~hmac=5e0d9ee74a62179943919dc44529c615910c4dc9f15a2fc7bc8c2a72edaa6ce8","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
 https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 #EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-1-hd.webp",Star Sports 1 HD
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1763255407~acl=*sshd1livetv*~id=417c927ed69fed7cc38d086a11f54ce8~data=hdntl~hmac=46f78454121ce7e14949a91d462f55c9a578f3f89e6cc1c32b6f45abf039c40a","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1763344208~acl=*sshd1livetv*~id=0e6ae2c82ba4c175ccb4e02d539eaf84~data=hdntl~hmac=376a2f34287b3d34b2d30ec0ff6d45fa012ba84434b217710d97e4e263fe0c8e","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
 https://livetv-push.hotstar.com/dash/live/2002464-b/sshd1livetvwv/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 #EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2-hd.webp",Star Sports 2 HD
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1763255407~acl=*sshd2livetv*~id=a86b86ad5b2720fa34156615a80fe1bc~data=hdntl~hmac=a154ca3c4595fcb9eb4006af9a4c66c56494353417a3840ef4008b76c4197413","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1763344208~acl=*sshd2livetv*~id=ec02943ec296c0d4a4417cb9df82d250~data=hdntl~hmac=c96e831a5f70d811ba01792b35ab0a12eb6bbb1a5f5fbc477d50cff8f6b88fed","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
 https://livetv-push.hotstar.com:443/dash/live/2002465-b/sshd2livetvwv/master.mpd
 
 
