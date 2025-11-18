@@ -528,28 +528,28 @@ http://nocable.cc:8080/EJ9GvC/046694/35241
 http://nocable.cc:8080/EJ9GvC/046694/35241
 
 
-#EXTINF:-1,Sky Sports Cricket
+#EXTINF:-1,Sky Sports Cricket 178.33.239.54
 http://cors.tundracast.com:2000/http://178.33.239.54:8080/503a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
 
-#EXTINF:-1,Sky Sports Mix
+#EXTINF:-1,Sky Sports Mix 178.33.239.54
 http://cors.tundracast.com:2000/http://178.33.239.54:8080/507a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
 
-#EXTINF:-1,Sky Sports Main Event
+#EXTINF:-1,Sky Sports Main Event 178.33.239.54
 http://cors.tundracast.com:2000/http://178.33.239.54:8080/502a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
 
-#EXTINF:-1,Sky Sports Premier League
+#EXTINF:-1,Sky Sports Premier League 178.33.239.54
 http://cors.tundracast.com:2000/http://178.33.239.54:8080/506a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
 
-#EXTINF:-1,Sky Sports Football
+#EXTINF:-1,Sky Sports Football 178.33.239.54
 http://cors.tundracast.com:2000/http://178.33.239.54:8080/500a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
 
-#EXTINF:-1,Sky Sports F1
+#EXTINF:-1,Sky Sports F1 178.33.239.54
 http://cors.tundracast.com:2000/http://178.33.239.54:8080/508a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
 
-#EXTINF:-1,Sky Sports News
+#EXTINF:-1,Sky Sports News 178.33.239.54
 http://cors.tundracast.com:2000/http://178.33.239.54:8080/501a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
 
-#EXTINF:-1,Sky Sport Action
+#EXTINF:-1,Sky Sport Action 178.33.239.54
 http://cors.tundracast.com:2000/http://178.33.239.54:8080/504a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
 
 
@@ -594,12 +594,13 @@ http://b1g.uk/200/230/260993
 #EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="Sports",Ten Cricket 9981
 http://103.101.197.10:9981/stream/channelid/373034842?profile=pass
 
-#EXTINF:-1,A SPORTS HD
+#EXTINF:-1,A SPORTS HD tnm3us
 https://stalker.tnm3us.workers.dev/30975.m3u8
 #EXTINF:-1,PTVSPORTS HD 66.102.120.18
 http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a04w
 #EXTINF:-1,PTVSPORTS HD 103.250.28.66
 http://cors.tundracast.com:2000/http://103.250.28.66:8000/play/a054
+
 
 
 
