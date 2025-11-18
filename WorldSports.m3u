@@ -506,6 +506,25 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 
+#EXTINF:-1,UK Sky Sports Golf nocable
+http://nocable.cc:8080/EJ9GvC/046694/35240
+
+#EXTINF:-1,UK Sky Sports F1 nocable
+http://nocable.cc:8080/EJ9GvC/046694/35244
+
+#EXTINF:-1,UK: Sky Sports RACING nocable
+http://nocable.cc:8080/EJ9GvC/046694/76842
+
+#EXTINF:-1,UK-Sky Sports Main Event nocable
+http://nocable.cc:8080/EJ9GvC/046694/35243
+
+#EXTINF:-1,UK Sky Sports Mix nocable
+http://nocable.cc:8080/EJ9GvC/046694/53706
+
+#EXTINF:-1,UK-Sky Sports News nocable
+http://nocable.cc:8080/EJ9GvC/046694/35241
+
+
 #EXTINF:-1,Sky Sports Cricket
 http://cors.tundracast.com:2000/http://178.33.239.54:8080/503a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
 
@@ -561,9 +580,6 @@ http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/9258/index.m3u8
 #EXTINF:-1,Sky Sports Plus b1g.uk
 http://b1g.uk/200/230/35801
 
-#EXTINF:-1,Sky Sports Golf b1g.uk
-http://b1g.uk/200/230/35800
-
 
 #EXTINF:-1,Willow Cricket 2 b1g.uk
 http://b1g.uk/200/230/260994
@@ -581,6 +597,7 @@ https://stalker.tnm3us.workers.dev/30975.m3u8
 http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a04w
 #EXTINF:-1,PTVSPORTS HD 103.250.28.66
 http://cors.tundracast.com:2000/http://103.250.28.66:8000/play/a054
+
 
 
 
