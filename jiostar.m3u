@@ -72,7 +72,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Thrills_BTS/output/index.mpd?__
 #EXTHTTP:{"cookie":"__hdnea__=st=1758280064~exp=1758366464~acl=/*~hmac=f828a4bfd62980ef6d3ebd9faf3668b0b73ac7da3322f0c65a8374a96179a356"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/output/index.mpd?__hdnea__=st=1758280064~exp=1758366464~acl=/*~hmac=f828a4bfd62980ef6d3ebd9faf3668b0b73ac7da3322f0c65a8374a96179a356&xxx=%7Ccookie=__hdnea__=st=1758280064~exp=1758366464~acl=/*~hmac=f828a4bfd62980ef6d3ebd9faf3668b0b73ac7da3322f0c65a8374a96179a356
 
-#EXTINF:-1 tvg-id="1374" group-title="Jiostar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_dIWBN9UHRSlehZO7R2Vh2gSVKAS78iRf3Q&s",Disney Junior
+#EXTINF:-1 tvg-id="1374" group-title="Jiostar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/500px-2024_Disney_Jr._Logo.svg.png",Disney Junior
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b1f9702f7d853c1b198495f64924311:40e11e60a12dd6c154dfea0ffbd5bda8
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
