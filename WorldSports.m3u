@@ -13,7 +13,7 @@ http://cors.tundracast.com:2000/https://fsly.stream.peacocktv.com/Content/CMAF_C
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1779C27B9D077A3BA0C9CC1BB9A94B9F:CC5CF3B7928FB9E0A1EE6A8B566F0A8E
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1YFwa_b8LVGnf4sX2dKNY-gFlFQHzJ9eQsOJIHfJP_Q&s=10",Willow Cricket SD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfrNjFH/20250529_123654.png",Willow Cricket
 https://a170aivottlinear-a.akamaihd.net:443/OTTB/bom-nitro/live/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRXmb9nB/Picsart-25-09-02-14-06-41-675.png" group-title="Sports", TNT Sports 1 
@@ -561,42 +561,10 @@ http://cors.tundracast.com:2000/http://178.33.239.54:8080/501a/index.mpd?token=t
 http://cors.tundracast.com:2000/http://178.33.239.54:8080/504a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
 
 
-#EXTINF:-1 tvg-logo="https://iili.io/K8gPQmg.png",Fox Sports 501 HD b1g.uk
-http://b1g.uk/200/230/260995
-
-#EXTINF:-1,Fox Sports 502 HD b1g.uk
-http://b1g.uk/200/230/839343
-
-#EXTINF:-1,Fox Sports 503 HD b1g.uk
-http://b1g.uk/200/230/839342
-
-#EXTINF:-1,Fox Sports 504 HD b1g.uk
-http://b1g.uk/200/230/839341
-
-#EXTINF:-1,Fox Sports 505 HD b1g.uk
-http://b1g.uk/200/230/839340
-
-#EXTINF:-1,Fox Sports 506 HD b1g.uk
-http://b1g.uk/200/230/839339
-
-#EXTINF:-1,Fox Sports 507 HD b1g.uk
-http://b1g.uk/200/230/839338
-
 #EXTINF:-1 ,Fox Sports 501 HD megatv
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
 #EXTINF:-1 ,Sky Sports Cricket megatv
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/9258/index.m3u8
-
-
-#EXTINF:-1,Sky Sports Plus b1g.uk
-http://b1g.uk/200/230/35801
-
-
-#EXTINF:-1,Willow Cricket 2 b1g.uk
-http://b1g.uk/200/230/260994
-
-#EXTINF:-1,Willow Cricket HD b1g.uk
-http://b1g.uk/200/230/260993
 
 
 #EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/afaqs/media/post_attachments/84882a51b6c9326e4499dedbb089ca95bd82663084027217207edb964a9a89ad.jpg" group-title="Sports",Ten Cricket 9981
@@ -608,6 +576,7 @@ https://stalker.tnm3us.workers.dev/30975.m3u8
 http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a04w
 #EXTINF:-1,PTVSPORTS HD 103.250.28.66
 http://cors.tundracast.com:2000/http://103.250.28.66:8000/play/a054
+
 
 
 
