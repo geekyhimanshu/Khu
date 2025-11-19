@@ -66,7 +66,7 @@ https://stream.kliv.fun/allplus13nov/jtv/manifest.mpd?id=1142
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://stream.kliv.fun/allplus13nov/jtv/manifest.mpd?id=1373
 
-#EXTINF:-1 tvg-id="1374" group-title="Jiostar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_dIWBN9UHRSlehZO7R2Vh2gSVKAS78iRf3Q&s",Disney Junior
+#EXTINF:-1 tvg-id="1374" group-title="Jiostar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/500px-2024_Disney_Jr._Logo.svg.png",Disney Junior
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b1f9702f7d853c1b198495f64924311:40e11e60a12dd6c154dfea0ffbd5bda8
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
