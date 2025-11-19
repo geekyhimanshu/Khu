@@ -535,9 +535,6 @@ http://nocable.cc:8080/EJ9GvC/046694/53706
 #EXTINF:-1,UK Sky Sports Premium League nocable
 http://nocable.cc:8080/EJ9GvC/046694/35241
 
-#EXTINF:-1,UK-Sky Sports News nocable
-http://nocable.cc:8080/EJ9GvC/046694/35241
-
 
 #EXTINF:-1,Sky Sports Cricket 178.33.239.54
 http://cors.tundracast.com:2000/http://178.33.239.54:8080/503a/index.mpd?token=test|Referer=http://178.33.239.54:8080/508a/index.mpd?token=test
@@ -611,6 +608,7 @@ https://stalker.tnm3us.workers.dev/30975.m3u8
 http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a04w
 #EXTINF:-1,PTVSPORTS HD 103.250.28.66
 http://cors.tundracast.com:2000/http://103.250.28.66:8000/play/a054
+
 
 
 
