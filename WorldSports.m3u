@@ -599,7 +599,7 @@ http://b1g.uk/200/230/260994
 http://b1g.uk/200/230/260993
 
 
-#EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="Sports",Ten Cricket 9981
+#EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/afaqs/media/post_attachments/84882a51b6c9326e4499dedbb089ca95bd82663084027217207edb964a9a89ad.jpg" group-title="Sports",Ten Cricket 9981
 http://103.101.197.10:9981/stream/channelid/373034842?profile=pass
 
 #EXTINF:-1,A SPORTS HD tnm3us
@@ -608,6 +608,7 @@ https://stalker.tnm3us.workers.dev/30975.m3u8
 http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a04w
 #EXTINF:-1,PTVSPORTS HD 103.250.28.66
 http://cors.tundracast.com:2000/http://103.250.28.66:8000/play/a054
+
 
 
 
