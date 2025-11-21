@@ -510,12 +510,6 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN.tv" tvg-name="DAZN.tv" tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" ch-number="7",DAZN
-https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-583/stream.mpd
-
-
 #EXTINF:-1,UK Sky Sports Golf nocable
 http://nocable.cc:8080/EJ9GvC/046694/35240
 
@@ -572,6 +566,7 @@ https://stalker.tnm3us.workers.dev/30975.m3u8
 http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a04w
 #EXTINF:-1,PTVSPORTS HD 103.250.28.66
 http://cors.tundracast.com:2000/http://103.250.28.66:8000/play/a054
+
 
 
 
