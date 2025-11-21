@@ -1,15 +1,25 @@
 #EXTM3U
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1CLvFQlH72RrIbEgS5AcM-mf_owdM8HXCmz0O2jRMvvRKS8TMR1Rbg4g&s=10",WWE HD
+http://cors.tundracast.com:2000/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wrjJqQ50/Picsart-25-09-02-14-04-46-017.png",Astro Cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://singapore-cors-proxy.onrender.com:443/https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1CLvFQlH72RrIbEgS5AcM-mf_owdM8HXCmz0O2jRMvvRKS8TMR1Rbg4g&s=10",WWE HD
-http://cors.tundracast.com:2000/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=581698bd7d049a4877227553e2902410:e39e223d3679e533b8144a6241f794ba
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://iili.io/KbJ51YN.png" group-title="HD SPORTS",Astro Cricket HD
+https://singapore-cors-proxy.onrender.com:443/https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_ott.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1779C27B9D077A3BA0C9CC1BB9A94B9F:CC5CF3B7928FB9E0A1EE6A8B566F0A8E
@@ -155,14 +165,6 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1763707068~acl=%2f*~id=332f0496-1fb
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://iili.io/KmUO5il.png" group-title="HD SPORTS",ESPN 2
 https://dice-live-oc.akamaized.net/hdntl=exp=1763707068~acl=%2f*~id=332f0496-1fb7-42bc-a2f1-4b43487aa1c5~data=hdntl,dWlkPXNWa2pnc3w2ZjZmZTIwMS02NWUyLTRmNWMtOWY3OC01MTBlNDU0NzY0YWUmaXA9MjAzLjk2LjIxOC4yNCZleHA9MTc2MzcwNzA5OCZlaWQ9MjE5MDI2JmNpZD1kY2Uuc2t5bnomb2lkPTMxOCZ0eXBlPUxJVkU~hmac=1366bc33cbd68bef0d7aef6324b7fa5e13fb539ff158c4d226f210c99e24d705/dash/live/2093714/219039-308446/manifest-d.mpd
-
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=581698bd7d049a4877227553e2902410:e39e223d3679e533b8144a6241f794ba
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="https://iili.io/KbJ51YN.png" group-title="HD SPORTS",Astro Cricket HD
-https://singapore-cors-proxy.onrender.com:443/https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_ott.mpd
 
 
 #EXTINF:-1,UK Sky Sports Golf nocable
@@ -566,6 +568,7 @@ https://stalker.tnm3us.workers.dev/30975.m3u8
 http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a04w
 #EXTINF:-1,PTVSPORTS HD 103.250.28.66
 http://cors.tundracast.com:2000/http://103.250.28.66:8000/play/a054
+
 
 
 
