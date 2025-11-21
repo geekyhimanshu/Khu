@@ -75,6 +75,9 @@ http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a00v
 #EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportsHindiHD1.jpg",Star Sports 1 Hindi HD Exclusive
 http://87.255.35.150:18923
 
+#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg", STARSPORTS 2 HD 163.61.227.29
+http://163.61.227.29:8000/play/a069/index.m3u8
+
 
 #EXTINF:-1 tvg-id="173" group-title="Jiostar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978f46cbc4372820a5bdf/images/237.webp" group-title="Jiostar", Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
