@@ -5,13 +5,13 @@
 #EXTINF:-1 tvg-logo="https://cdn.gadgets360.com/content/assets/channels/star-sports-1-hindi-hd.jpg",Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1764054608~acl=*sshindi*~id=0e35990bbc250c7c3eff8fde7baea59b~data=hdntl~hmac=a9ab707a3ea6c51ea59c27f93a71805f40063fd5c2948c9ed1819d9fddbf4e5d","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1764143407~acl=*sshindi*~id=cb248ac32a8df61c7e80921851b85060~data=hdntl~hmac=8e0040ec8fc6991a6335fe4ee3b56cb55c671db9a4d91014f4c82071cd115c31","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
 https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 #EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-1-hd.webp",Star Sports 1 HD
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1764054609~acl=*sshd1livetv*~id=e4bc19416a604912691fb45d9d13eae8~data=hdntl~hmac=ad81b49fa7bcb8e5247478a20878af3eb8a1b4766fdb2584fde3692863eb6b79","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1764143407~acl=*sshd1livetv*~id=838cf37f68a1b9110fb828132f6a0a94~data=hdntl~hmac=8703a1ae04a37ef510e88526c4b60425417eaee074e228e0a527507afa39ff4c","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
 https://livetv-push.hotstar.com/dash/live/2002464-b/sshd1livetvwv/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
