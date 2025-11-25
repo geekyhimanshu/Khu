@@ -17,20 +17,20 @@ https://livetv-push.hotstar.com/dash/live/2002464-b/sshd1livetvwv/master.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 #EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2-hd.webp",Star Sports 2 HD
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1764054609~acl=*sshd2livetv*~id=20ccb61bc00ae3ff241387feb79ed1c5~data=hdntl~hmac=ad661f832ec418c3281baea16c1c9d8a8c28386985a00425b04a085fbd826ae5","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1764143407~acl=*sshd2livetv*~id=532afbd53c122084e51721bb44cf5a21~data=hdntl~hmac=d00dede8e951edf9295c8914ff52ce0277ca3d0c53111509b8dca19ea96531ec","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
 https://livetv-push.hotstar.com:443/dash/live/2002465-b/sshd2livetvwv/master.mpd
 
 
 #EXTINF:-1 tvg-id="1984" group-title="Sports" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_BoxCover_3a373a17-83ff-48f3-bfc8-abea26977ebf.png",Star Sports 2 Hindi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764054606~acl=%2f*~id=e9643fdf30e3dc5669c0c16cd4a7ee6f~data=hdntl~hmac=b3dd3479bfc52ea97152743b34d715936d99738a335f87d293f3175905e11a19"}
+#EXTHTTP:{"cookie":"hdntl=exp=1764143406~acl=%2f*~id=d768ab8c7c409a6551fed44f57589d1e~data=hdntl~hmac=cdd26ec92cfd2b605315f4feeccc3720796a343f8b0df2554a15419d463eda42"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_Sports18_1HD/JCHLS/manifest.m3u8
 
 #EXTINF:-1 tvg-id="1985" group-title="Sports" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Hindi_BoxCover_4f3b2a8f-7a5a-43f9-ab20-85f8311fe39c.png",Star Sports 2 Hindi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764054606~acl=%2f*~id=e9643fdf30e3dc5669c0c16cd4a7ee6f~data=hdntl~hmac=b3dd3479bfc52ea97152743b34d715936d99738a335f87d293f3175905e11a19"}
+#EXTHTTP:{"cookie":"hdntl=exp=1764143406~acl=%2f*~id=d768ab8c7c409a6551fed44f57589d1e~data=hdntl~hmac=cdd26ec92cfd2b605315f4feeccc3720796a343f8b0df2554a15419d463eda42"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8
