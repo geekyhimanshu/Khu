@@ -106,7 +106,7 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1764072009~acl=%2f*~id=8a040100-44d
 #KODIPROP:inputstream.adaptive.license_key=708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://iili.io/Kbd3hYv.png" group-title="HD SPORTS",Sky Sports NZ 2
-https://dice-live-oc.akamaized.net/hdntl=exp=1764072009~acl=%2f*~id=8a040100-44dd-4de8-bf36-de7e29bea005~data=hdntl,dWlkPTU3MjQwMXxkY2Uuc2t5bnomaXA9MTYxLjY1LjIwMy4xMjEmZXhwPTE3NjQwNzIwMzgmZWlkPTIxOTAyNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=df9cd0777fb51be0a25d7d23706459a18c896dd151dd49a996a495d86d297a3c/dash/live/2093725/219027-308529/manifest-d.mpd
+https://dice-live-oc.akamaized.net/hdntl=exp=1764072009~acl=%2f*~id=8a040100-44dd-4de8-bf36-de7e29bea005~data=hdntl,dWlkPTU3MjQwMXxkY2Uuc2t5bnomaXA9MTYxLjY1LjIwMy4xMjEmZXhwPTE3NjQwNzIwMzgmZWlkPTIxOTAyNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=df9cd0777fb51be0a25d7d23706459a18c896dd151dd49a996a495d86d297a3c/dash/live/2093663/219027-311263/manifest-d.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -127,7 +127,7 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1764072009~acl=%2f*~id=8a040100-44d
 #KODIPROP:inputstream.adaptive.license_key=fdd24dd2c6c14126ad7c1ad1066b03dd:08289c6d57d54e8d8dca55e1862afb82
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://iili.io/KbdfMG9.png" group-title="HD SPORTS",Sky Sports NZ 5
-https://dice-live-oc.akamaized.net/hdntl=exp=1764072009~acl=%2f*~id=8a040100-44dd-4de8-bf36-de7e29bea005~data=hdntl,dWlkPTU3MjQwMXxkY2Uuc2t5bnomaXA9MTYxLjY1LjIwMy4xMjEmZXhwPTE3NjQwNzIwMzgmZWlkPTIxOTAyNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=df9cd0777fb51be0a25d7d23706459a18c896dd151dd49a996a495d86d297a3c/dash/live/2093728/219032-308532/manifest-d.mpd
+https://dice-live-oc.akamaized.net/hdntl=exp=1764072009~acl=%2f*~id=8a040100-44dd-4de8-bf36-de7e29bea005~data=hdntl,dWlkPTU3MjQwMXxkY2Uuc2t5bnomaXA9MTYxLjY1LjIwMy4xMjEmZXhwPTE3NjQwNzIwMzgmZWlkPTIxOTAyNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=df9cd0777fb51be0a25d7d23706459a18c896dd151dd49a996a495d86d297a3c/dash/live/2093665/219032-311265/manifest-d.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -583,6 +583,7 @@ http://cors.tundracast.com:2000/http://103.250.28.66:8000/play/a054
 
 #EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25725?accessKey=WkVjNWNscFhORDBLCg==" group-title="Sports",Ten Cricket Toffee TV
 https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8|Referer=https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
+
 
 
 
