@@ -23,14 +23,14 @@ https://livetv-push.hotstar.com:443/dash/live/2002465-b/sshd2livetvwv/master.mpd
 
 #EXTINF:-1 tvg-id="1984" group-title="Sports" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_BoxCover_3a373a17-83ff-48f3-bfc8-abea26977ebf.png",Star Sports 2 Hindi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764143406~acl=%2f*~id=d768ab8c7c409a6551fed44f57589d1e~data=hdntl~hmac=cdd26ec92cfd2b605315f4feeccc3720796a343f8b0df2554a15419d463eda42"}
+#EXTHTTP:{"cookie":"hdntl=exp=1764232209~acl=%2f*~id=27663b8246a614760a1aa11110537e0e~data=hdntl~hmac=bf220bc0c0d72025ee0597111f0020aa58a70d8c3a9ca78041e6aba3da6afd7b"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_Sports18_1HD/JCHLS/manifest.m3u8
 
 #EXTINF:-1 tvg-id="1985" group-title="Sports" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Hindi_BoxCover_4f3b2a8f-7a5a-43f9-ab20-85f8311fe39c.png",Star Sports 2 Hindi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764143406~acl=%2f*~id=d768ab8c7c409a6551fed44f57589d1e~data=hdntl~hmac=cdd26ec92cfd2b605315f4feeccc3720796a343f8b0df2554a15419d463eda42"}
+#EXTHTTP:{"cookie":"hdntl=exp=1764232209~acl=%2f*~id=27663b8246a614760a1aa11110537e0e~data=hdntl~hmac=bf220bc0c0d72025ee0597111f0020aa58a70d8c3a9ca78041e6aba3da6afd7b"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8
