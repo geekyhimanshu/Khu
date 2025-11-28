@@ -24,20 +24,20 @@ https://star-sports-1.joker-verse.workers.dev/master.mpd|User-Agent="Hotstar;in.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 #EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2-hd.webp",Star Sports 2 HD
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1764298813~acl=*sshd2livetv*~id=8191e7c4f7ae7806cb936783b0ffc9d6~data=hdntl~hmac=4944286913ce9d26cafa38189da28bea1bfa9baabefb376f8162d2a074c2df40","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1764387607~acl=*sshd2livetv*~id=1c470030fd289a0ca4d0d5f9b71b7265~data=hdntl~hmac=bc5bde31bf89ed24fc3da7aab86ca50bf3758bc3d71691008a2da78bdc24a5e6","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
 https://livetv-push.hotstar.com:443/dash/live/2002465-b/sshd2livetvwv/master.mpd
 
 
 #EXTINF:-1 tvg-id="1984" group-title="Sports" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_BoxCover_3a373a17-83ff-48f3-bfc8-abea26977ebf.png",Star Sports 2 Hindi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764232209~acl=%2f*~id=27663b8246a614760a1aa11110537e0e~data=hdntl~hmac=bf220bc0c0d72025ee0597111f0020aa58a70d8c3a9ca78041e6aba3da6afd7b"}
+#EXTHTTP:{"cookie":"hdntl=exp=1764387606~acl=%2f*~id=b76f36d964bb46282d3ecfe64f91db49~data=hdntl~hmac=4d28edd14b68e83c28ef894f3a15bf89bf721f787ba4a16c9b106cedc4172fbc"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_Sports18_1HD/JCHLS/manifest.m3u8
 
 #EXTINF:-1 tvg-id="1985" group-title="Sports" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Hindi_BoxCover_4f3b2a8f-7a5a-43f9-ab20-85f8311fe39c.png",Star Sports 2 Hindi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764232209~acl=%2f*~id=27663b8246a614760a1aa11110537e0e~data=hdntl~hmac=bf220bc0c0d72025ee0597111f0020aa58a70d8c3a9ca78041e6aba3da6afd7b"}
+#EXTHTTP:{"cookie":"hdntl=exp=1764387606~acl=%2f*~id=b76f36d964bb46282d3ecfe64f91db49~data=hdntl~hmac=4d28edd14b68e83c28ef894f3a15bf89bf721f787ba4a16c9b106cedc4172fbc"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8
@@ -70,16 +70,16 @@ http://116.90.120.149:8000/play/a0hi
 
 
 #EXTINF:-1  tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportsHindi1HD.jpg",Star Sports 1 Hindi HD 66.102.120.18
-http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a072
+https://cors-anywhere.creativeclaritycreations.com/http://66.102.120.18:8000/play/a072
 
 #EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportsHD.jpg",Star Sports 1 HD 66.102.120.18
-http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a009
+https://cors-anywhere.creativeclaritycreations.com/http://66.102.120.18:8000/play/a009
 
 #EXTINF:-1  tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportsHindiHD2.jpg",Star Sports2 Hindi HD 66.102.120.18
-http://cors.tundracast.com:2000/http://66.102.120.18:8000/play/a00v
+https://cors-anywhere.creativeclaritycreations.com/http://66.102.120.18:8000/play/a00v
 
 
-#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg", STARSPORTS 2 HD 87.255.35.150
+#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg", STARSPORTS 2 HD Exclusive
 http://87.255.35.150:18892
 
 #EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportsHindiHD1.jpg",Star Sports 1 Hindi HD Exclusive
@@ -302,43 +302,43 @@ https://stream.kliv.fun/allplus23/jtv/manifest.mpd?id=1136
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NQwKr_7fUcwVAulUPHyIXg","kid":"jqm2B1SSUgaOJgpfTX3TIQ"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/output/index.mpd?__hdnea__=st=1764204227~exp=1764290627~acl=/*~hmac=8f2c5c8ee1add040c106edbf26fa8cd013834421a179f417ed36ea495eba3fda&xxx=%7Ccookie=__hdnea__=st=1764204227~exp=1764290627~acl=/*~hmac=8f2c5c8ee1add040c106edbf26fa8cd013834421a179f417ed36ea495eba3fda
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/output/index.mpd?__hdnea__=st=1764298780~exp=1764385180~acl=/*~hmac=fca984732da758d0a778678d464196e4a42e9d08842306ba4eb96f2346d12f13&xxx=%7Ccookie=__hdnea__=st=1764298780~exp=1764385180~acl=/*~hmac=fca984732da758d0a778678d464196e4a42e9d08842306ba4eb96f2346d12f13
 
 #EXTINF:-1 tvg-id="1109" tvg-name="Star Sports 2 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797986a9540e6b3ede47bf/images/607.webp" group-title="Jiostar", Star Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5iCpcM6kdMSRrHiucaTXZA","kid":"lFfrkBKUVvqOqV4QukrFHg"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd?__hdnea__=st=1764204227~exp=1764290627~acl=/*~hmac=8f2c5c8ee1add040c106edbf26fa8cd013834421a179f417ed36ea495eba3fda&xxx=%7Ccookie=__hdnea__=st=1764204227~exp=1764290627~acl=/*~hmac=8f2c5c8ee1add040c106edbf26fa8cd013834421a179f417ed36ea495eba3fda
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd?__hdnea__=st=1764298780~exp=1764385180~acl=/*~hmac=fca984732da758d0a778678d464196e4a42e9d08842306ba4eb96f2346d12f13&xxx=%7Ccookie=__hdnea__=st=1764298780~exp=1764385180~acl=/*~hmac=fca984732da758d0a778678d464196e4a42e9d08842306ba4eb96f2346d12f13
 
 #EXTINF:-1 tvg-id="1106" tvg-name="Star Sports 1 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a7c5625a16ee72e958/images/402.webp" group-title="Jiostar", Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1764204227~exp=1764290627~acl=/*~hmac=8f2c5c8ee1add040c106edbf26fa8cd013834421a179f417ed36ea495eba3fda&xxx=%7Ccookie=__hdnea__=st=1764204227~exp=1764290627~acl=/*~hmac=8f2c5c8ee1add040c106edbf26fa8cd013834421a179f417ed36ea495eba3fda
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1764298780~exp=1764385180~acl=/*~hmac=fca984732da758d0a778678d464196e4a42e9d08842306ba4eb96f2346d12f13&xxx=%7Ccookie=__hdnea__=st=1764298780~exp=1764385180~acl=/*~hmac=fca984732da758d0a778678d464196e4a42e9d08842306ba4eb96f2346d12f13
 
 #EXTINF:-1 tvg-id="1389" tvg-name="Star Sports 3" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797981a9540e6b3ede477e/images/530.webp" group-title="Jiostar", Star Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4e8647eaf0659ac85f61765a5abcdc1:d749c9b27505beb0e1a8b6c30ca65de6
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/output/index.mpd?__hdnea__=st=1764204227~exp=1764290627~acl=/*~hmac=8f2c5c8ee1add040c106edbf26fa8cd013834421a179f417ed36ea495eba3fda&xxx=%7Ccookie=__hdnea__=st=1764204227~exp=1764290627~acl=/*~hmac=8f2c5c8ee1add040c106edbf26fa8cd013834421a179f417ed36ea495eba3fda
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/output/index.mpd?__hdnea__=st=1764298780~exp=1764385180~acl=/*~hmac=fca984732da758d0a778678d464196e4a42e9d08842306ba4eb96f2346d12f13&xxx=%7Ccookie=__hdnea__=st=1764298780~exp=1764385180~acl=/*~hmac=fca984732da758d0a778678d464196e4a42e9d08842306ba4eb96f2346d12f13
 
 #EXTINF:-1 tvg-id="300" tvg-name="Star Sports Select HD 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png",Star Sports Select 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c2c048e439d65316beeda6ef64d5d0f8:e2fdc132cbdee65501b845ce414fce39
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/output/index.mpd?__hdnea__=st=1764204227~exp=1764290627~acl=/*~hmac=8f2c5c8ee1add040c106edbf26fa8cd013834421a179f417ed36ea495eba3fda&xxx=%7Ccookie=__hdnea__=st=1764204227~exp=1764290627~acl=/*~hmac=8f2c5c8ee1add040c106edbf26fa8cd013834421a179f417ed36ea495eba3fda
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/output/index.mpd?__hdnea__=st=1764298780~exp=1764385180~acl=/*~hmac=fca984732da758d0a778678d464196e4a42e9d08842306ba4eb96f2346d12f13&xxx=%7Ccookie=__hdnea__=st=1764298780~exp=1764385180~acl=/*~hmac=fca984732da758d0a778678d464196e4a42e9d08842306ba4eb96f2346d12f13
 
 #EXTINF:-1 tvg-id="1404" tvg-name="Nat Geo Wild" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/4/46/1200px-Nat_Geo_Wild_logo.png/revision/latest?cb=20230606211219&path-prefix=pl" group-title="Jiostar", Nat Geo Wild
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df09db58c18355689e86870a4bba4971:df2323beb63a5582442eedae2059147e
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_BTS/output/index.mpd?__hdnea__=st=1764204227~exp=1764290627~acl=/*~hmac=8f2c5c8ee1add040c106edbf26fa8cd013834421a179f417ed36ea495eba3fda&xxx=%7Ccookie=__hdnea__=st=1764204227~exp=1764290627~acl=/*~hmac=8f2c5c8ee1add040c106edbf26fa8cd013834421a179f417ed36ea495eba3fda
+https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_BTS/output/index.mpd?__hdnea__=st=1764298780~exp=1764385180~acl=/*~hmac=fca984732da758d0a778678d464196e4a42e9d08842306ba4eb96f2346d12f13&xxx=%7Ccookie=__hdnea__=st=1764298780~exp=1764385180~acl=/*~hmac=fca984732da758d0a778678d464196e4a42e9d08842306ba4eb96f2346d12f13
 
 #EXTINF:-1 tvg-id="4302" tvg-name="Star Movies Select" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT/images/LOGO_HD/image.png" group-title="Jiostar", Star Movies Select
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+/M6z8pImxNUlVy/sJVwtQ","kid":"S31XnijUUEG6eMOpLwrMkg"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_BTS/output/index.mpd?__hdnea__=st=1764204227~exp=1764290627~acl=/*~hmac=8f2c5c8ee1add040c106edbf26fa8cd013834421a179f417ed36ea495eba3fda&xxx=%7Ccookie=__hdnea__=st=1764204227~exp=1764290627~acl=/*~hmac=8f2c5c8ee1add040c106edbf26fa8cd013834421a179f417ed36ea495eba3fda
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_BTS/output/index.mpd?__hdnea__=st=1764298780~exp=1764385180~acl=/*~hmac=fca984732da758d0a778678d464196e4a42e9d08842306ba4eb96f2346d12f13&xxx=%7Ccookie=__hdnea__=st=1764298780~exp=1764385180~acl=/*~hmac=fca984732da758d0a778678d464196e4a42e9d08842306ba4eb96f2346d12f13
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
