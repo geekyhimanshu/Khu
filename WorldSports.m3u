@@ -72,7 +72,7 @@ https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 
 
-#EXTINF:-1 tvg-id="Ten Sports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEMoyWYAMAEy2D7TCvsxt1x_p4Rp3hlgI1Us4n_kKvXJAlFKMrdDQNjonMaGw&s",Ten Sports HD 4456
+#EXTINF:-1 tvg-id="Ten Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Ten_Sports_Logo.png/250px-Ten_Sports_Logo.png",Ten Sports HD 4456
 https://cors-anywhere.creativeclaritycreations.com/http://175.107.244.52:4456/play/a05v
 
 #EXTINF:-1,Geo Super 4456
@@ -594,6 +594,7 @@ http://cors.tundracast.com:2000/http://103.250.28.66:8000/play/a054
 
 #EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25725?accessKey=WkVjNWNscFhORDBLCg==" group-title="Sports",Ten Cricket Toffee TV
 https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8|Referer=https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
+
 
 
 
