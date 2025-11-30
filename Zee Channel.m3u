@@ -3,11 +3,11 @@
 
 #EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-348/channel_web/1170x658withlog2096037619.png" group-title="ZEE5",Zee Zest HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Zest-HD/index/index.m3u8?hdntl=exp=1764465990~acl=%2f*~id=edb069a1-3dae-4f1e-b595-f1a38017cd3f~data=hdntl~hmac=7ac0af8ac20a3ccaf8a6127ecafe5f9670e55f606c374748572ec854e4c690a9
+https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Zest-HD/index/index.m3u8?hdntl=exp=1764553612~acl=%2f*~id=14b4e1a0-7c41-4d08-acd2-540513870f86~data=hdntl~hmac=95e7d218f0aa2ac9f1792eaa8657a2cc652fa989177ecf48ba1eb7939971f91b
 
 #EXTINF:-1 tvg-id="Zee Anmol Cinema 2" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigganga/channel_list/1170x65802779b8c9ffb451b8e8aea2958c9b3ff.png" group-title="ZEE5",Zee Anmol Cinema 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Ganga-Zee-Anmol-Cinema-2-SD/master/master.m3u8??hdntl=exp=1764465990~acl=%2f*~id=edb069a1-3dae-4f1e-b595-f1a38017cd3f~data=hdntl~hmac=7ac0af8ac20a3ccaf8a6127ecafe5f9670e55f606c374748572ec854e4c690a9
+https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Ganga-Zee-Anmol-Cinema-2-SD/master/master.m3u8?hdntl=exp=1764553612~acl=%2f*~id=14b4e1a0-7c41-4d08-acd2-540513870f86~data=hdntl~hmac=95e7d218f0aa2ac9f1792eaa8657a2cc652fa989177ecf48ba1eb7939971f91b
 
 
 #EXTINF:-1 tvg-id="&Xplor HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_list/1170x658withlogo358457080.png" group-title="ZEE5",&xplorHD
@@ -106,6 +106,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 #EXTINF:-1 tvg-id="English &Flix SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrM0RN7qcdX9Y7_KpWUYXZM9nhjWDr0TlhA&usqp=CAU" group-title="Zee Channels",English &Flix SD PeoTV Go
 https://edge4-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/manifest.mpd
+
 
 
 
