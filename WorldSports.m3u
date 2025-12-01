@@ -476,6 +476,16 @@ https://zamlb.tgaadi.workers.dev/98537.ts
 #EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="Fox Sports 507 FHD" tvg-logo="http://image.5gtv.online/logo/sports/fox/fox_507.png" group-title="Fox Sports",Fox Sports 507
 https://zamlb.tgaadi.workers.dev/98538.ts
 
+
+#EXTINF:-1,Now Sprts 1
+https://zamlb.tgaadi.workers.dev/107187.ts
+
+#EXTINF:-1,Now Sprts 2
+https://zamlb.tgaadi.workers.dev/107188.ts
+
+#EXTINF:-1,Now Sprts 3
+https://zamlb.tgaadi.workers.dev/107189.ts
+
 #EXTINF:-1,Now Sports 4
 https://zamlb.tgaadi.workers.dev/107190.ts
 
@@ -484,6 +494,9 @@ https://zamlb.tgaadi.workers.dev/107191.ts
 
 #EXTINF:-1,Now Sprts 6
 https://zamlb.tgaadi.workers.dev/107192.ts
+
+#EXTINF:-1,Now Sprts 7
+https://zamlb.tgaadi.workers.dev/107193.ts
 
 
 #EXTINF:-1 tvg-id="star1in" tvg-name="Star Sports 1" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png" group-title="CricHD" group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn47Htl8rZkop10CXrSjkn7Y9zA07Zdh1athN4qyFMx7VQtvqTcaxYT6cEjUKytO-hOvJT3nbKuIJZsUAgbouV4CRSahlPAXnyFmolO3mhdZwXR0W0WlkXYXQIJn-X8pe0lUoVCUbA14neQbccB4yTO2zutHj1jSjt33Z7BylqbBQSU7e_vw2w1AK5pbvf/s600/logo.png", Star Sports 1
@@ -582,6 +595,7 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/http://66.102.120.18:8000/play/
 
 #EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25725?accessKey=WkVjNWNscFhORDBLCg==" group-title="Sports",Ten Cricket Toffee TV
 https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8|Referer=https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
+
 
 
 
