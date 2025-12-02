@@ -162,6 +162,11 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1764653414~acl=%2f*~id=f0f6a7ea-005
 https://dice-live-oc.akamaized.net/hdntl=exp=1764653414~acl=%2f*~id=f0f6a7ea-0051-4286-8bad-6374689a3527~data=hdntl,dWlkPTU3MjQwMXxkY2Uuc2t5bnomaXA9NDkuMjI1LjEzNS4xMjEmZXhwPTE3NjQ2NTM0NDQmZWlkPTIxOTAyNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=f4af3d41f82486b009319012cf24250aad4766f7be69cb03c07450797c5d3b9a/dash/live/2093714/219039-308446/manifest-d.mpd
 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-name="Astro Cricket" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png", Astro Cricket
+https://smart.946985.filegear-sg.me/smart.php?id=Acricket
+
+
 #EXTINF:-1,UK Sky Sports Golf nocable
 http://nocable.cc:8080/EJ9GvC/046694/35240
 
@@ -595,6 +600,7 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/http://66.102.120.18:8000/play/
 
 #EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25725?accessKey=WkVjNWNscFhORDBLCg==" group-title="Sports",Ten Cricket Toffee TV
 https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8|Referer=https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
+
 
 
 
