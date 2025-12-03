@@ -24,7 +24,7 @@ https://star-sports-1.joker-verse.workers.dev/master.mpd|User-Agent="Hotstar;in.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
 #EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2-hd.webp",Star Sports 2 HD
-#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1764765011~acl=*sshd2livetv*~id=b467221d4cefec53a3789f529ae21dd5~data=hdntl~hmac=a2e218a5cfc25afc5a0fd66c8faff27e0ab5b5feaf82bf215a2c51956cbf86e1","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+#EXTHTTP:{"User-agent":"Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)","Cookie":"hdntl=exp=1764853808~acl=*sshd2livetv*~id=82b90905e5384f2867b3c6b0aa5f4b2c~data=hdntl~hmac=bf9ceec1f6b59b04f8a3f6c029fcfb82f15690a19bd5da3cef2778850e0b7acf","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
 https://livetv-push.hotstar.com:443/dash/live/2002465-b/sshd2livetvwv/master.mpd
 
 
