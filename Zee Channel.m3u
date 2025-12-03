@@ -11,31 +11,44 @@ https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Ganga-Zee-Anmol-Cinema-
 
 
 #EXTINF:-1 tvg-id="&Xplor HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_list/1170x658withlogo358457080.png" group-title="ZEE5",&xplorHD
-https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105553/AndxploreHDELE/index-connected.m3u8?hdntl=exp=1764852195~acl=%2f*~id=16566b39-2e46-4e3c-a3bf-ba1d9a9d6c7b~data=hdntl~hmac=73b7525841be8d390145997fa7cc61a21e8b7ad97aba6f1304f3ca73419af074
 
 #EXTINF:-1 tvg-id="Zee Classic" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee Classic.png" group-title="ZEE5",Zee Classic
-https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-176|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105547/ZeeClassicELE/master.m3u8?hdntl=exp=1764852195~acl=%2f*~id=16566b39-2e46-4e3c-a3bf-ba1d9a9d6c7b~data=hdntl~hmac=73b7525841be8d390145997fa7cc61a21e8b7ad97aba6f1304f3ca73419af074
+
 
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog1476130363.png" group-title="ZEE5", &pictures HD
-https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-tvpictureshd|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105174/ANDPicturesHDELE/index-connected.m3u8?hdntl=exp=1764852195~acl=%2f*~id=16566b39-2e46-4e3c-a3bf-ba1d9a9d6c7b~data=hdntl~hmac=73b7525841be8d390145997fa7cc61a21e8b7ad97aba6f1304f3ca73419af074
 
 #EXTINF:-1 tvg-id="Zee TV HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png" group-title="ZEE5",Zee TV HD
-https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeetvhd|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105531/ZeeTVHDMSLELE/index-connected.m3u8?hdntl=exp=1764852195~acl=%2f*~id=16566b39-2e46-4e3c-a3bf-ba1d9a9d6c7b~data=hdntl~hmac=73b7525841be8d390145997fa7cc61a21e8b7ad97aba6f1304f3ca73419af074
 
 #EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="ZEE5",&TV HD
-https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-tvhd_0|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105504/AndTVHDELE/index-connected.m3u8?hdntl=exp=1764852195~acl=%2f*~id=16566b39-2e46-4e3c-a3bf-ba1d9a9d6c7b~data=hdntl~hmac=73b7525841be8d390145997fa7cc61a21e8b7ad97aba6f1304f3ca73419af074
+
 
 #EXTINF:-1 tvg-id="Big Magic" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog2022520414.png" group-title="ZEE5",Big Magic
-https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-bigmagic_1786965389|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105176/BigMagicELE/master.m3u8?hdntl=exp=1764852195~acl=%2f*~id=16566b39-2e46-4e3c-a3bf-ba1d9a9d6c7b~data=hdntl~hmac=73b7525841be8d390145997fa7cc61a21e8b7ad97aba6f1304f3ca73419af074
+
 
 #EXTINF:-1 tvg-id="English &Flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list5d289fc39bef4ebca19c6bfe64e46e26.jpg" group-title="ZEE5",English &flix HD
-https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-channel_2105335046|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105517/AndFlixHDELE/index-connected.m3u8?hdntl=exp=1764852195~acl=%2f*~id=16566b39-2e46-4e3c-a3bf-ba1d9a9d6c7b~data=hdntl~hmac=73b7525841be8d390145997fa7cc61a21e8b7ad97aba6f1304f3ca73419af074
 
 #EXTINF:-1 tvg-id="English Zee Cafe HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list813457fc09e349d9ac922d5268ecbf8a.jpg" group-title="ZEE5",English Zee Cafe HD
-https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeecafehd|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105539/ZeecafeHDELE/index-connected.m3u8?hdntl=exp=1764852195~acl=%2f*~id=16566b39-2e46-4e3c-a3bf-ba1d9a9d6c7b~data=hdntl~hmac=73b7525841be8d390145997fa7cc61a21e8b7ad97aba6f1304f3ca73419af074
 
 #EXTINF:-1 tvg-id="&Prive HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg" group-title="ZEE5",&Prive HD
-https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-9z5543514|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2104969/AndPriveHDELENEW/index-connected.m3u8?hdntl=exp=1764852195~acl=%2f*~id=16566b39-2e46-4e3c-a3bf-ba1d9a9d6c7b~data=hdntl~hmac=73b7525841be8d390145997fa7cc61a21e8b7ad97aba6f1304f3ca73419af074
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -106,6 +119,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 #EXTINF:-1 tvg-id="English &Flix SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrM0RN7qcdX9Y7_KpWUYXZM9nhjWDr0TlhA&usqp=CAU" group-title="Zee Channels",English &Flix SD PeoTV Go
 https://edge4-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/manifest.mpd
+
 
 
 
