@@ -80,7 +80,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_1_SD_BTS/output/index.mpd?__hdne
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/output/index.mpd?__hdnea__=st=1764947018~exp=1765033418~acl=/*~hmac=25c554f35572a51d23bb6d2848c1ef98e69b741550ae9ec8c9118dcf1d019616&xxx=%7Ccookie=__hdnea__=st=1764947018~exp=1765033418~acl=/*~hmac=25c554f35572a51d23bb6d2848c1ef98e69b741550ae9ec8c9118dcf1d019616
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1764947018~exp=1765033418~acl=/*~hmac=25c554f35572a51d23bb6d2848c1ef98e69b741550ae9ec8c9118dcf1d019616&xxx=%7Ccookie=__hdnea__=st=1764947018~exp=1765033418~acl=/*~hmac=25c554f35572a51d23bb6d2848c1ef98e69b741550ae9ec8c9118dcf1d019616
 
 #EXTINF:-1 tvg-id="362" tvg-name="Star Sports 1 Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978e8c4589e08ce80f035/images/147.webp" group-title="Jiostar", Star Sports 1 Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
