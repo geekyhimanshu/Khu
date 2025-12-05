@@ -56,6 +56,19 @@ http://87.255.35.150:18828
 http://87.255.35.150:18882
 
 
+#EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978f46cbc4372820a5bdf/images/237.webp",Star Sports 1 Hindi HD 163.61.227.29
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://163.61.227.29:8000/play/a062
+
+#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a7c5625a16ee72e958/images/402.webp" , Star Sports 1 HD 163.61.227.29
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://163.61.227.29:8000/play/a00f
+
+#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797986a9540e6b3ede47bf/images/607.webp",Star Sports 2 HD 163.61.227.29
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://163.61.227.29:8000/play/a069
+
+#EXTINF:-1 tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/2QTUuuBj.png",Star Sports 2 Hindi HD 163.61.227.29
+https://cors-everywhere-wc8b4.ondigitalocean.app/http://163.61.227.29:8000/play/a012
+
+
 #EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportsHindiHD1.jpg",Star Sports 1 Hindi HD Exclusive
 http://87.255.35.150:18923
 
