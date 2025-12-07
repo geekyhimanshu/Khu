@@ -75,6 +75,12 @@ http://87.255.35.150:18923
 #EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg", STARSPORTS 2 HD Exclusive
 http://87.255.35.150:18892
 
+#EXTINF:-1 tvg-id="star1in" tvg-name="Star Sports 1" tvg-logo="https://cdn.gadgets360.com/content/assets/channels/star-sports-1-hd.jpg", Star Sports 1
+https://bd-streams.site/crx/master.php?id=star1in|Referer=https://bd-streams.site/crx/master.php?id=skyscric
+
+#EXTINF:-1 tvg-id="starhindi" tvg-name="Star Sports 1 Hindi" tvg-logo="https://cdn.gadgets360.com/content/assets/channels/star-sports-1-hindi-hd.jpg", Star Sports 1 Hindi
+https://bd-streams.site/crx/master.php?id=starhindi|Referer=https://bd-streams.site/crx/master.php?id=skyscric
+
 
 #EXTINF:-1 tvg-id="1984" group-title="Sports" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/2QTUuuBj.png",Star Sports 2 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
