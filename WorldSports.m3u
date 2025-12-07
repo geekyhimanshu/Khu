@@ -579,7 +579,7 @@ https://bd-streams.site/crx/master.php?id=skysme|Referer=https://bd-streams.site
 #EXTINF:-1 tvg-id="skysact" tvg-name="Sky Sports Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHR3r2O09T8TaEm_bN94bDKtxR0UHZP0n33w&usqp=CAU", Sky Sports Action
 https://bd-streams.site/crx/master.php?id=skysact|Referer=https://bd-streams.site/crx/master.php?id=skyscric
 
-#EXTINF:-1 tvg-id="skysgol" tvg-name="Sky Sports Golf" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnX4MHQEoSRWPtE9HuHZNN246s8YA9ZEM8pG3Tim1bYoydz4O47zNiLA&s", Sky Sports Golf
+#EXTINF:-1 tvg-id="skysgol" tvg-name="Sky Sports Golf" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMDNDKw242BWw0LdDuzb293T92MV9ywJAz3m-Pj6dr-NeibJw44FmjRgOoWVM&s", Sky Sports Golf
 https://bd-streams.site/crx/master.php?id=skysgol|Referer=https://bd-streams.site/crx/master.php?id=skyscric
 
 #EXTINF:-1 tvg-id="skysprem" tvg-name="Sky Sports Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBLdXasHoTc5NU6L9qLjqrD-NGMFVBaX22mBI5xdil2aMBAyTu_65utgUY&s=10", Sky Sports Premier League
@@ -591,14 +591,14 @@ https://bd-streams.site/crx/master.php?id=skysfott|Referer=https://bd-streams.si
 #EXTINF:-1 tvg-id="skysare" tvg-name="Sky Sports Plus" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008347584.png" group-title="CricHD" group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn47Htl8rZkop10CXrSjkn7Y9zA07Zdh1athN4qyFMx7VQtvqTcaxYT6cEjUKytO-hOvJT3nbKuIJZsUAgbouV4CRSahlPAXnyFmolO3mhdZwXR0W0WlkXYXQIJn-X8pe0lUoVCUbA14neQbccB4yTO2zutHj1jSjt33Z7BylqbBQSU7e_vw2w1AK5pbvf/s600/logo.png", Sky Sports Plus
 https://bd-streams.site/crx/master.php?id=skysare|Referer=https://bd-streams.site/crx/master.php?id=skyscric
 
-#EXTINF:-1 tvg-id="skysfor1" tvg-name="Sky Sports F1" tvg-logo="/data/user/0/com.instantbits.cast.webvideo/cache/imageCastCache/y6IX3.png", Sky Sports F1
+#EXTINF:-1 tvg-id="skysfor1" tvg-name="Sky Sports F1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-v_hINj_by0pYp4k3PvWaRIME2jrlUKCVmmXCcMcakfzyYKC3iaiX-VGp3e4&s", Sky Sports F1
 https://bd-streams.site/crx/master.php?id=skysfor1|Referer=https://bd-streams.site/crx/master.php?id=skyscric
 
 
 #EXTINF:-1 tvg-id="skysare" tvg-name="Sky Sports Arena" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745007829327.png" group-title="CricHD" group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn47Htl8rZkop10CXrSjkn7Y9zA07Zdh1athN4qyFMx7VQtvqTcaxYT6cEjUKytO-hOvJT3nbKuIJZsUAgbouV4CRSahlPAXnyFmolO3mhdZwXR0W0WlkXYXQIJn-X8pe0lUoVCUbA14neQbccB4yTO2zutHj1jSjt33Z7BylqbBQSU7e_vw2w1AK5pbvf/s600/logo.png", Sky Sports Arena
 https://bd-streams.site/crx/master.php?id=skysare|Referer=https://bd-streams.site/crx/master.php?id=skyscric
 
-#EXTINF:-1 tvg-id="skysmixx" tvg-name="Sky Sports Mix" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/13-by-xfireflix.png" group-title="CricHD" group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn47Htl8rZkop10CXrSjkn7Y9zA07Zdh1athN4qyFMx7VQtvqTcaxYT6cEjUKytO-hOvJT3nbKuIJZsUAgbouV4CRSahlPAXnyFmolO3mhdZwXR0W0WlkXYXQIJn-X8pe0lUoVCUbA14neQbccB4yTO2zutHj1jSjt33Z7BylqbBQSU7e_vw2w1AK5pbvf/s600/logo.png", Sky Sports Mix
+#EXTINF:-1 tvg-id="skysmixx" tvg-name="Sky Sports Mix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK8SnCLoj9Ul0mL9OKVRoJmJoFt251n7GL_uupmRXwZBZUAqPLyfJSjqNgTg&s", Sky Sports Mix
 https://bd-streams.site/crx/master.php?id=skysmixx|Referer=https://bd-streams.site/crx/master.php?id=skyscric
 
 #EXTINF:-1 tvg-id="skystennis" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745009085794.png" group-title="CricHD" group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn47Htl8rZkop10CXrSjkn7Y9zA07Zdh1athN4qyFMx7VQtvqTcaxYT6cEjUKytO-hOvJT3nbKuIJZsUAgbouV4CRSahlPAXnyFmolO3mhdZwXR0W0WlkXYXQIJn-X8pe0lUoVCUbA14neQbccB4yTO2zutHj1jSjt33Z7BylqbBQSU7e_vw2w1AK5pbvf/s600/logo.png", Sky Sports Tennis
@@ -638,6 +638,7 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/http://66.102.120.18:8000/play/
 
 #EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25725?accessKey=WkVjNWNscFhORDBLCg==" group-title="Sports",Ten Cricket Toffee TV
 https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8|Referer=https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
+
 
 
 
