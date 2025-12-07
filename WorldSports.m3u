@@ -153,14 +153,14 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1765152013~acl=%2f*~id=ad941156-c2f
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=326058ffe1cd4d3383781b36ca9145d1:99d405d46f114eff96789673e57d0121
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="https://iili.io/KmUjH9s.png" group-title="HD SPORTS",ESPN
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhcdY7UM7eLzESXeexsWULhGcpxsbGTABBEyLrc8DgP7MOfLb8Xg3-_v7IfA&s" group-title="HD SPORTS",ESPN
 https://dice-live-oc.akamaized.net/hdntl=exp=1765152013~acl=%2f*~id=ad941156-c2fa-4aa8-809e-0a0b00476b3f~data=hdntl,dWlkPVhaUDZ6aHxlOWE1ZjE4NS1lZTYxLTQwMWEtOGQ2Yy1lNjZjODhiM2E1ZDMmaXA9MTYxLjI5LjIzNy4xODUmZXhwPTE3NjUxNTIwNDImZWlkPTIxOTAyNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=df926ce2205cbcfcbeef05c0bab15bd7944d5b668baafe57f04bb0d647065f0b/dash/live/2093713/219038-308445/manifest-d.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a01e1e0d5fb145b8b33190588490a27a:bfd9e3b0866e49cbae1bb7f7116451c9
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="https://iili.io/KmUO5il.png" group-title="HD SPORTS",ESPN 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdUUqZs_9boIB-B-BQ9XT8YZbr4GYSn1ki_eR8TD5wO7IZq4Ls7Ppleg28hA&s" group-title="HD SPORTS",ESPN 2
 https://dice-live-oc.akamaized.net/hdntl=exp=1765152013~acl=%2f*~id=ad941156-c2fa-4aa8-809e-0a0b00476b3f~data=hdntl,dWlkPVhaUDZ6aHxlOWE1ZjE4NS1lZTYxLTQwMWEtOGQ2Yy1lNjZjODhiM2E1ZDMmaXA9MTYxLjI5LjIzNy4xODUmZXhwPTE3NjUxNTIwNDImZWlkPTIxOTAyNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=df926ce2205cbcfcbeef05c0bab15bd7944d5b668baafe57f04bb0d647065f0b/dash/live/2093714/219039-308446/manifest-d.mpd
 
 
@@ -631,6 +631,7 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/http://66.102.120.18:8000/play/
 
 #EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25725?accessKey=WkVjNWNscFhORDBLCg==" group-title="Sports",Ten Cricket Toffee TV
 https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8|Referer=https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
+
 
 
 
