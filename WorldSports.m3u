@@ -542,20 +542,20 @@ https://zamlb.tgaadi.workers.dev/107192.ts
 https://zamlb.tgaadi.workers.dev/107193.ts
 
 
-#EXTINF:-1 tvg-id="willowusa" tvg-name="Willow HD" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/38-by-xfireflix.png" group-title="CricHD" group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn47Htl8rZkop10CXrSjkn7Y9zA07Zdh1athN4qyFMx7VQtvqTcaxYT6cEjUKytO-hOvJT3nbKuIJZsUAgbouV4CRSahlPAXnyFmolO3mhdZwXR0W0WlkXYXQIJn-X8pe0lUoVCUbA14neQbccB4yTO2zutHj1jSjt33Z7BylqbBQSU7e_vw2w1AK5pbvf/s600/logo.png", Willow HD
+#EXTINF:-1 tvg-id="willowusa" tvg-name="Willow HD" tvg-logo="", Willow HD
 https://bd-streams.site/crx/master.php?id=willowusa|Referer=https://bd-streams.site/crx/master.php?id=skyscric
 
-#EXTINF:-1 tvg-id="willowextra" tvg-name="Willow HD 2" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/8-by-xfireflix.png" group-title="CricHD" group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn47Htl8rZkop10CXrSjkn7Y9zA07Zdh1athN4qyFMx7VQtvqTcaxYT6cEjUKytO-hOvJT3nbKuIJZsUAgbouV4CRSahlPAXnyFmolO3mhdZwXR0W0WlkXYXQIJn-X8pe0lUoVCUbA14neQbccB4yTO2zutHj1jSjt33Z7BylqbBQSU7e_vw2w1AK5pbvf/s600/logo.png", Willow HD 2
+#EXTINF:-1 tvg-id="willowextra" tvg-name="Willow HD 2" tvg-logo="", Willow HD 2
 https://bd-streams.site/crx/master.php?id=willowextra|Referer=https://bd-streams.site/crx/master.php?id=skyscric
 
 
-#EXTINF:-1 tvg-id="tenspk" tvg-name="Ten Sports" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/10-by-xfireflix.png" group-title="CricHD" group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn47Htl8rZkop10CXrSjkn7Y9zA07Zdh1athN4qyFMx7VQtvqTcaxYT6cEjUKytO-hOvJT3nbKuIJZsUAgbouV4CRSahlPAXnyFmolO3mhdZwXR0W0WlkXYXQIJn-X8pe0lUoVCUbA14neQbccB4yTO2zutHj1jSjt33Z7BylqbBQSU7e_vw2w1AK5pbvf/s600/logo.png", Ten Sports
+#EXTINF:-1 tvg-id="tenspk" tvg-name="Ten Sports" tvg-logo="", Ten Sports
 https://bd-streams.site/crx/master.php?id=tenspk|Referer=https://bd-streams.site/crx/master.php?id=skyscric
 
-#EXTINF:-1 tvg-id="ptvpk" tvg-name="PTV Sports" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png" group-title="CricHD" group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn47Htl8rZkop10CXrSjkn7Y9zA07Zdh1athN4qyFMx7VQtvqTcaxYT6cEjUKytO-hOvJT3nbKuIJZsUAgbouV4CRSahlPAXnyFmolO3mhdZwXR0W0WlkXYXQIJn-X8pe0lUoVCUbA14neQbccB4yTO2zutHj1jSjt33Z7BylqbBQSU7e_vw2w1AK5pbvf/s600/logo.png", PTV Sports
+#EXTINF:-1 tvg-id="ptvpk" tvg-name="PTV Sports" tvg-logo="", PTV Sports
 https://bd-streams.site/crx/master.php?id=ptvpk|Referer=https://bd-streams.site/crx/master.php?id=skyscric
 
-#EXTINF:-1 tvg-id="asportshd" tvg-name="A Sports HD" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/12-by-xfireflix.png" group-title="CricHD" group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn47Htl8rZkop10CXrSjkn7Y9zA07Zdh1athN4qyFMx7VQtvqTcaxYT6cEjUKytO-hOvJT3nbKuIJZsUAgbouV4CRSahlPAXnyFmolO3mhdZwXR0W0WlkXYXQIJn-X8pe0lUoVCUbA14neQbccB4yTO2zutHj1jSjt33Z7BylqbBQSU7e_vw2w1AK5pbvf/s600/logo.png", A Sports HD
+#EXTINF:-1 tvg-id="asportshd" tvg-name="A Sports HD" tvg-logo="", A Sports HD
 https://bd-streams.site/crx/master.php?id=asportshd|Referer=https://bd-streams.site/crx/master.php?id=skyscric
 
 
@@ -631,6 +631,7 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/http://66.102.120.18:8000/play/
 
 #EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25725?accessKey=WkVjNWNscFhORDBLCg==" group-title="Sports",Ten Cricket Toffee TV
 https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8|Referer=https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
+
 
 
 
