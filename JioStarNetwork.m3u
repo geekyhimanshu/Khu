@@ -30,14 +30,14 @@ https://livetv-push.hotstar.com:443/dash/live/2002465-b/sshd2livetvwv/master.mpd
 
 #EXTINF:-1 tvg-id="1984" group-title="Sports" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_BoxCover_3a373a17-83ff-48f3-bfc8-abea26977ebf.png",Star Sports 2 Hindi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1765098011~acl=%2f*~id=66821b17655be2ddc462ce68924e1c27~data=hdntl~hmac=902618aef70813c176b155bf961d588ebea4963656b7416aa6e0850cd5b89b0d"}
+#EXTHTTP:{"cookie":"hdntl=exp=1765231211~acl=%2f*~id=395b13c0e7ec4d403f6230c21dd15e93~data=hdntl~hmac=bf5364fd88e5bee5ea86e36e9e4fb7dc137fb97c276f1d7f3952f8775ee191c2"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_Sports18_1HD/JCHLS/manifest.m3u8
 
 #EXTINF:-1 tvg-id="1985" group-title="Sports" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Hindi_BoxCover_4f3b2a8f-7a5a-43f9-ab20-85f8311fe39c.png",Star Sports 2 Hindi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1765098011~acl=%2f*~id=66821b17655be2ddc462ce68924e1c27~data=hdntl~hmac=902618aef70813c176b155bf961d588ebea4963656b7416aa6e0850cd5b89b0d"}
+#EXTHTTP:{"cookie":"hdntl=exp=1765231211~acl=%2f*~id=395b13c0e7ec4d403f6230c21dd15e93~data=hdntl~hmac=bf5364fd88e5bee5ea86e36e9e4fb7dc137fb97c276f1d7f3952f8775ee191c2"}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8
@@ -75,10 +75,10 @@ http://87.255.35.150:18923
 #EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg", STARSPORTS 2 HD Exclusive
 http://87.255.35.150:18892
 
-#EXTINF:-1 tvg-id="star1in" tvg-name="Star Sports 1" tvg-logo="https://cdn.gadgets360.com/content/assets/channels/star-sports-1-hd.jpg", Star Sports 1
+#EXTINF:-1 tvg-id="star1in" tvg-name="Star Sports 1" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportsHD.jpg", Star Sports 1 HD
 https://bd-streams.site/crx/master.php?id=star1in|Referer=https://bd-streams.site/crx/master.php?id=skyscric
 
-#EXTINF:-1 tvg-id="starhindi" tvg-name="Star Sports 1 Hindi" tvg-logo="https://cdn.gadgets360.com/content/assets/channels/star-sports-1-hindi-hd.jpg", Star Sports 1 Hindi
+#EXTINF:-1 tvg-id="starhindi" tvg-name="Star Sports 1 Hindi" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportsHindiHD1.jpg", Star Sports 1 Hindi HD
 https://bd-streams.site/crx/master.php?id=starhindi|Referer=https://bd-streams.site/crx/master.php?id=skyscric
 
 
