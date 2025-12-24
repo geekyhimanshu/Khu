@@ -165,13 +165,13 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Hungama_BTS/output/index.mpd?__hdnea__=st
 https://jiotvpllive.cdn.jio.com/bpk-tv/Super_Hungama_BTS/output/index.mpd?__hdnea__=st=1766493097~exp=1766579497~acl=/*~hmac=91c7d2efbf78e7a06e5145738fb1f2bf62ccf36182bff4b8ff0da3b7deb67bc4&xxx=%7Ccookie=__hdnea__=st=1766493097~exp=1766579497~acl=/*~hmac=91c7d2efbf78e7a06e5145738fb1f2bf62ccf36182bff4b8ff0da3b7deb67bc4
 
 
-#EXTINF:-1 tvg-id="1404" tvg-name="Nat Geo Wild" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/4/46/1200px-Nat_Geo_Wild_logo.png/revision/latest?cb=20230606211219&path-prefix=pl" group-title="Jiostar", Nat Geo Wild
+#EXTINF:-1 tvg-id="1404" tvg-name="Nat Geo Wild" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/3/3a/Yhugky.png/revision/latest/scale-to-width-down/131?cb=20230606212147&path-prefix=pl" group-title="Jiostar", Nat Geo Wild
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df09db58c18355689e86870a4bba4971:df2323beb63a5582442eedae2059147e
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_BTS/output/index.mpd?__hdnea__=st=1766493097~exp=1766579497~acl=/*~hmac=91c7d2efbf78e7a06e5145738fb1f2bf62ccf36182bff4b8ff0da3b7deb67bc4&xxx=%7Ccookie=__hdnea__=st=1766493097~exp=1766579497~acl=/*~hmac=91c7d2efbf78e7a06e5145738fb1f2bf62ccf36182bff4b8ff0da3b7deb67bc4
 
-#EXTINF:-1 tvg-id="1332" group-title="Jiostar" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/3/3e/Nat_Geo_Wild_HD_logo.png/revision/latest?cb=20230606211346&path-prefix=pl" group-title="Jiostar", Nat Geo Wild HD
+#EXTINF:-1 tvg-id="1332" group-title="Jiostar" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/7/7a/Logopit_1748263965212.png/revision/latest/scale-to-width-down/180?cb=20250526125447&path-prefix=pl" group-title="Jiostar", Nat Geo Wild HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fc661aa1af51c98950c43329391d18:c2677c874886e78d24b3fb656c5734e0
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
