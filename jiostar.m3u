@@ -343,13 +343,13 @@ https://jiotvpllive.cdn.jio.com:443/bpk-tv/ZeeCinemaHD_BTS/output/index.mpd?__hd
 https://jiotvpllive.cdn.jio.com:443/bpk-tv/AndTVHD_BTS/output/index.mpd?__hdnea__=st=1768202954~exp=1768289354~acl=/*~hmac=b9caf532908582507d62b0fa80f5e12364fe3226fa2908ce7e0a46406c1c851f&xxx=%7Ccookie=__hdnea__=st=1768202954~exp=1768289354~acl=/*~hmac=b9caf532908582507d62b0fa80f5e12364fe3226fa2908ce7e0a46406c1c851f
 
 
-#EXTINF:-1 tvg-name="Star Sports Hindi 1" tvg-language="hindi" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7433/567433-h" group-title="SPORTS", Star Sports Hindi 1 JioHotstar
+#EXTINF:-1 tvg-name="Star Sports Hindi 1 HD" tvg-language="hindi" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7433/567433-h" group-title="SPORTS", Star Sports Hindi 1 HD JioHotstar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://star-sports-hindi-1.joker-verse.workers.dev/master.mpd|Origin="https://www.hotstar.com"&Referer="https://www.hotstar.com/"&User-Agent="Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)"&X-User-Agent="TiviMate/5.1.6 (Android 15)"
 
-#EXTINF:-1 tvg-name="Star Sports 1" tvg-language="english" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7430/567430-h" group-title="SPORTS", Star Sports 1 JioHotstar
+#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-language="english" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7430/567430-h" group-title="SPORTS", Star Sports 1 HD JioHotstar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
