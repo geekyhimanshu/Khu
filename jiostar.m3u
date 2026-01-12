@@ -313,21 +313,6 @@ https://jiotvmblive.cdn.jio.com:443/bpk-tv/AndFlixHD_MOB/WDVLive/index.mpd?__hdn
 https://jiotvmblive.cdn.jio.com:443/bpk-tv/AndPriveHD_MOB/WDVLive/index.mpd?__hdnea__=st=1768181221~exp=1768267621~acl=/*~hmac=2662552ce8e61b5f4751dd08fc948c44413aca789c3fd8353531770fb5e9ee53&xxx=%7Ccookie=__hdnea__=st=1768181221~exp=1768267621~acl=/*~hmac=2662552ce8e61b5f4751dd08fc948c44413aca789c3fd8353531770fb5e9ee53
 
 
-#EXTINF:-1 tvg-id="Zee TV HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png",Zee TV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QhXNfPWRXRxPcEE3rSEfRQ","kid":"akcnE92FVxix3CSYbvvHUg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1768180656~exp=1768267056~acl=/*~hmac=6e7cbdbbe75c9b4f23ebf7f735af8628b3651464d05ec8c9f508f3681c005443"}
-https://jiotvmblive.cdn.jio.com:443/bpk-tv/ZeeTVHD_MOB/WDVLive/index.mpd?__hdnea__=st=1768181221~exp=1768267621~acl=/*~hmac=2662552ce8e61b5f4751dd08fc948c44413aca789c3fd8353531770fb5e9ee53&xxx=%7Ccookie=__hdnea__=st=1768181221~exp=1768267621~acl=/*~hmac=2662552ce8e61b5f4751dd08fc948c44413aca789c3fd8353531770fb5e9ee53
-
-#EXTINF:-1 tvg-id="Zee Cinema HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"w7ONtVQnGejhAAjpGTCJ5g","kid":"k9UbqicxXL-ibfNcPD5Htg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1768180656~exp=1768267056~acl=/*~hmac=6e7cbdbbe75c9b4f23ebf7f735af8628b3651464d05ec8c9f508f3681c005443"}
-https://jiotvmblive.cdn.jio.com:443/bpk-tv/ZeeCinemaHD_MOB/WDVLive/index.mpd?__hdnea__=st=1768181221~exp=1768267621~acl=/*~hmac=2662552ce8e61b5f4751dd08fc948c44413aca789c3fd8353531770fb5e9ee53&xxx=%7Ccookie=__hdnea__=st=1768181221~exp=1768267621~acl=/*~hmac=2662552ce8e61b5f4751dd08fc948c44413aca789c3fd8353531770fb5e9ee53
-
-
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog1476130363.png",&pictures HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JbCLHHoATkPvksI5-T5mEw","kid":"CRh7zLfsWUKDUqMbSzIc4A"}],"type":"temporary"}
@@ -335,9 +320,24 @@ https://jiotvmblive.cdn.jio.com:443/bpk-tv/ZeeCinemaHD_MOB/WDVLive/index.mpd?__h
 #EXTHTTP:{"cookie":"__hdnea__=st=1768180656~exp=1768267056~acl=/*~hmac=6e7cbdbbe75c9b4f23ebf7f735af8628b3651464d05ec8c9f508f3681c005443"}
 https://jiotvmblive.cdn.jio.com:443/bpk-tv/AndPicturesHD_MOB/WDVLive/index.mpd?__hdnea__=st=1768181221~exp=1768267621~acl=/*~hmac=2662552ce8e61b5f4751dd08fc948c44413aca789c3fd8353531770fb5e9ee53&xxx=%7Ccookie=__hdnea__=st=1768181221~exp=1768267621~acl=/*~hmac=2662552ce8e61b5f4751dd08fc948c44413aca789c3fd8353531770fb5e9ee53
 
+
+#EXTINF:-1 tvg-id="Zee TV HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png",Zee TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QGTFIyi_6eYAh3a0ikMeSw","kid":"ojtgmzPiVKSOT8b6evD9jQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1768180656~exp=1768267056~acl=/*~hmac=6e7cbdbbe75c9b4f23ebf7f735af8628b3651464d05ec8c9f508f3681c005443"}
+https://jiotvpllive.cdn.jio.com:443/bpk-tv/ZeeTVHD_BTS/output/index.mpd?__hdnea__=st=1768202954~exp=1768289354~acl=/*~hmac=b9caf532908582507d62b0fa80f5e12364fe3226fa2908ce7e0a46406c1c851f&xxx=%7Ccookie=__hdnea__=st=1768202954~exp=1768289354~acl=/*~hmac=b9caf532908582507d62b0fa80f5e12364fe3226fa2908ce7e0a46406c1c851f
+
+#EXTINF:-1 tvg-id="Zee Cinema HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gFf_KCI38IMdzcT4qbKUbw","kid":"0ASaswf9WhO5bjBrlT0G3Q"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1768180656~exp=1768267056~acl=/*~hmac=6e7cbdbbe75c9b4f23ebf7f735af8628b3651464d05ec8c9f508f3681c005443"}
+https://jiotvpllive.cdn.jio.com:443/bpk-tv/ZeeCinemaHD_BTS/output/index.mpd?__hdnea__=st=1768202954~exp=1768289354~acl=/*~hmac=b9caf532908582507d62b0fa80f5e12364fe3226fa2908ce7e0a46406c1c851f&xxx=%7Ccookie=__hdnea__=st=1768202954~exp=1768289354~acl=/*~hmac=b9caf532908582507d62b0fa80f5e12364fe3226fa2908ce7e0a46406c1c851f
+
 #EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png",&TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":{"keys":[{"kty":"oct","k":"ZBxAIwqVy3bRlJEl-VUv2g","kid":"iClRJNspWmufUCfcYEnilA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZBxAIwqVy3bRlJEl-VUv2g","kid":"iClRJNspWmufUCfcYEnilA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1768202954~exp=1768289354~acl=/*~hmac=b9caf532908582507d62b0fa80f5e12364fe3226fa2908ce7e0a46406c1c851f"}
 https://jiotvpllive.cdn.jio.com:443/bpk-tv/AndTVHD_BTS/output/index.mpd?__hdnea__=st=1768202954~exp=1768289354~acl=/*~hmac=b9caf532908582507d62b0fa80f5e12364fe3226fa2908ce7e0a46406c1c851f&xxx=%7Ccookie=__hdnea__=st=1768202954~exp=1768289354~acl=/*~hmac=b9caf532908582507d62b0fa80f5e12364fe3226fa2908ce7e0a46406c1c851f
