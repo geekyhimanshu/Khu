@@ -356,55 +356,6 @@ https://star-sports-hindi-1.joker-verse.workers.dev/master.mpd|Origin="https://w
 https://star-sports-1.joker-verse.workers.dev/master.mpd|Origin="https://www.hotstar.com"&Referer="https://www.hotstar.com/"&User-Agent="Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)"&X-User-Agent="TiviMate/5.1.6 (Android 15)"
 
 
-#EXTINF:-1 group-title=Voot, Colors SD Voot
-https://jcevents.hotstar.com/bpk-tv/Colors_voot_MOB/Fallback/index.m3u8?__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6&xxx=%7Ccookie=__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6
-
-#EXTINF:-1 tvg-id=Colors HD tvg-logo=https://smartads.in/resources/assets/uploads/product_group/television/colors_hd_india.webp group-title=Voot, Colors HD VOOt
-https://jcevents.hotstar.com/bpk-tv/Colors_HD_voot_MOB/output03/index.m3u8?__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6&xxx=%7Ccookie=__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6
-
-#EXTINF:-1 group-title=Voot, Colors Gujarati Voot
-https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Gujarati_voot_MOB/output03/index.m3u8?__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6&xxx=%7Ccookie=__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6
-
-#EXTINF:-1 group-title=Voot, Colors Gujarati Cinema Voot
-https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Gujarati_Cinema_voot_MOB/output03/index.m3u8?__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6&xxx=%7Ccookie=__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6
-
-#EXTINF:-1 tvg-id=Colors Rishtey tvg-logo=https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/collors-rishtey-live-channels-16x9-3-1642676080416-1674198105431-1697532377978.jpg group-title="Entertainment", Colors Rishtey Voot
-https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Rishtey_voot_MOB/output03/index.m3u8?__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6&xxx=%7Ccookie=__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6
-
-#EXTINF:-1 group-title=Voot, Colors Infinity HD Voot
-https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Infinity_HD_voot_MOB/output03/index.m3u8?__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6&xxx=%7Ccookie=__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6
-
-#EXTINF:-1 group-title=Voot, Colors Infinity SD Voot
-https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Infinity_SD_voot_MOB/output03/index.m3u8?__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6&xxx=%7Ccookie=__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6
-#EXTINF:-1 group-title=Voot,Star Sports 2 Hindi SD Voot
-https://jiotvmblive.cdn.jio.com/bpk-tv/StarSports_2_Hin_SD_voot_MOB/output03/index.m3u8?__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6&xxx=%7Ccookie=__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6
-#EXTINF:-1 group-title=Voot,Star Sports 2 Hindi HD Voot
-https://jiotvmblive.cdn.jio.com/bpk-tv/StarSports_2_Hin_HD_voot_MOB/output03/index.m3u8?__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6&xxx=%7Ccookie=__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6
-
-#EXTINF:-1 group-title=Voot,Colors Cineplex HD Voot
-https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Cineplex_voot_MOB/output03/index.m3u8?__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6&xxx=%7Ccookie=__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6
-#EXTINF:-1 group-title=Voot,Colors Cineplex SD Voot
-https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Cineplex_SD_voot_MOB/output03/index.m3u8?__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6&xxx=%7Ccookie=__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6
-#EXTINF:-1 group-title=Voot,Colors Cineplex Bollywood Voot
-https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/output03/index.m3u8?__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6&xxx=%7Ccookie=__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6
-#EXTINF:-1 group-title=Voot,Colors Cineplex Superhits Voot
-https://jiotvmblive.cdn.jio.com/bpk-tv/Rishtey_Cineplex_voot_MOB/output03/index.m3u8?__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6&xxx=%7Ccookie=__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6
-
-#EXTINF:-1 group-title=Voot,Nick HD+ Voot
-https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_HD_Plus_voot_MOB/output03/index.m3u8?__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6&xxx=%7Ccookie=__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6
-#EXTINF:-1 group-title=Voot,Nick SD Voot
-https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_voot_MOB/output03/index.m3u8?__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6&xxx=%7Ccookie=__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6
-#EXTINF:-1 group-title=Voot,Nick Junior Voot
-https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Junior_voot_MOB/output03/index.m3u8?__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6&xxx=%7Ccookie=__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6
-#EXTINF:-1 group-title=Voot,Sonic Nickelodeon Voot
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/output03/index.m3u8?__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6&xxx=%7Ccookie=__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6
-#EXTINF:-1 group-title=Voot,MTV HD+ Voot
-https://jiotvmblive.cdn.jio.com/bpk-tv/MTV_HD_Plus_voot_MOB/output03/index.m3u8?__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6&xxx=%7Ccookie=__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6
-#EXTINF:-1 group-title=Voot,MTV SD Voot
-https://jiotvmblive.cdn.jio.com/bpk-tv/MTV_voot_MOB/output03/index.m3u8?__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6&xxx=%7Ccookie=__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6
-#EXTINF:-1 group-title=Voot,Clubbing TV Voot
-https://jiotvmblive.cdn.jio.com/bpk-tv/Clubbing_TV_voot_MOB/output03/index.m3u8?__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6&xxx=%7Ccookie=__hdnea__=st=1754047403~exp=1754133803~acl=/*~hmac=25f9c2457a950070a28ff030f9b8e6320f27cb7c8da408905c985593e1d5cbc6
-
 #EXTINF:-1 group-title=Voot,News18 India Voot
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8?__hdnea__=st=1754021248~exp=1754107648~acl=/*~hmac=aba18717c5e87a98bca6117765ae3472c8f8fdf1e33d6fa6ce150f2d1fbe669f
 #EXTINF:-1 group-title=Voot,News18 Gujarati Voot
