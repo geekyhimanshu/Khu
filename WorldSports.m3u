@@ -2,11 +2,6 @@
 
 #EXTM3U
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1CLvFQlH72RrIbEgS5AcM-mf_owdM8HXCmz0O2jRMvvRKS8TMR1Rbg4g&s=10",WWE HD
-https://cors-everywhere-wc8b4.ondigitalocean.app/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1779C27B9D077A3BA0C9CC1BB9A94B9F:CC5CF3B7928FB9E0A1EE6A8B566F0A8E
@@ -46,44 +41,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
-#EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/afaqs/media/post_attachments/84882a51b6c9326e4499dedbb089ca95bd82663084027217207edb964a9a89ad.jpg" group-title="Sports",Ten Cricket Peo
-https://edge4-moblive.yuppcdn.net/drm2/smil:tencricketdrm1.smil/manifest.mpd
-
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="https://iili.io/K8gPQmg.png" group-title="Sports",FOX 501 HD
-https://livecricketsl.cc.nf/proxy/fox.php/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25725?accessKey=WkVjNWNscFhORDBLCg==" group-title="Sports",Ten Cricket Toffee TV
-https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8|Referer=https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
-
-
-#EXTINF:-1 tvg-id="Cricket Gold New" tvg-logo="https://i.ytimg.com/vi/CeAgx48qQ3M/maxresdefault.jpg",Cricket Gold New
-https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8
-
-#EXTINF:-1 tvg-id="Cricket Gold Old" tvg-logo="https://www.cricexec.com/wp-content/uploads/2025/10/cricket-gold-logo-2025-300x169.webp",Cricket Gold  Old
-https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
-#EXTINF:-1 tvg-name="Peo Sports 1 SD" tvg-logo="https://www.slt.lk/sites/default/files/channel_images/150-PEO%20SPORTS%201.png", PEO SPORTS 1 SD
-https://edge4-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
-#EXTINF:-1 tvg-name="Peo Sports 2 SD" tvg-logo="https://www.slt.lk/sites/default/files/channel_images/151-PEO%20Sports2_0.jpg", PEO SPORTS 2 SD
-https://edge4-moblive.yuppcdn.net/drm1/smil:peosports2drm.smil/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
-#EXTINF:-1 tvg-name="Peo Sports 3 SD" tvg-logo="https://www.slt.lk/sites/default/files/channel_images/152-PEO%20SPORTS%203_0.png", Peo Sports 3 SD
-https://edge4-moblive.yuppcdn.net/drm1/smil:peosports3drm.smil/manifest.mpd
 
 
 #EXTINF:-1,Skysports EPL tzh911
@@ -433,116 +390,6 @@ https://zamlb.tgaadi.workers.dev/107192.ts
 https://zamlb.tgaadi.workers.dev/107193.ts
 
 
-#EXTINF:-1 tvg-id="willowusa" tvg-name="Willow HD" tvg-logo="", Willow HD
-https://bd-streams.site/crx/master.php?id=willowusa|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-
-#EXTINF:-1 tvg-id="willowextra" tvg-name="Willow HD 2" tvg-logo="", Willow HD 2
-https://bd-streams.site/crx/master.php?id=willowextra|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-
-
-#EXTINF:-1 tvg-id="tenspk" tvg-name="Ten Sports" tvg-logo="", Ten Sports
-https://bd-streams.site/crx/master.php?id=tenspk|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-
-#EXTINF:-1 tvg-id="ptvpk" tvg-name="PTV Sports" tvg-logo="", PTV Sports
-https://bd-streams.site/crx/master.php?id=ptvpk|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-
-#EXTINF:-1 tvg-id="asportshd" tvg-name="A Sports HD" tvg-logo="", A Sports HD
-https://bd-streams.site/crx/master.php?id=asportshd|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-
-
-#EXTINF:-1 tvg-id="skyscric" tvg-name="Sky Sports Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6o4gWgrFa2rhjQseiEQAlnw7zNkGUmfc1zA&usqp=CAU", Sky Sports Cricket
-https://bd-streams.site/crx/master.php?id=skyscric|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-
-#EXTINF:-1 tvg-id="skysme" tvg-name="Sky Sports Main Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqXycShOktMgQSs6TX7XrJ_w596wEa9FEKBNnKNu5l7-ZBJygk9XIIGc18aA&s", Sky Sports Main Event
-https://bd-streams.site/crx/master.php?id=skysme|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-
-
-#EXTINF:-1 tvg-id="skysme" tvg-name="Sky Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCtxtjcUZ5fy9ArETN7VJlXvmSuZ4RtSkQA817_66pCkGHvhOQNkJtV75kIzQ&s", Sky Cinema
-https://bd-streams.site/crx/master.php?id=skysme|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-
-#EXTINF:-1 tvg-id="skysact" tvg-name="Sky Sports Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHR3r2O09T8TaEm_bN94bDKtxR0UHZP0n33w&usqp=CAU", Sky Sports Action
-https://bd-streams.site/crx/master.php?id=skysact|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-
-#EXTINF:-1 tvg-id="skysgol" tvg-name="Sky Sports Golf" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMDNDKw242BWw0LdDuzb293T92MV9ywJAz3m-Pj6dr-NeibJw44FmjRgOoWVM&s", Sky Sports Golf
-https://bd-streams.site/crx/master.php?id=skysgol|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-
-#EXTINF:-1 tvg-id="skysprem" tvg-name="Sky Sports Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBLdXasHoTc5NU6L9qLjqrD-NGMFVBaX22mBI5xdil2aMBAyTu_65utgUY&s=10", Sky Sports Premier League
-https://bd-streams.site/crx/master.php?id=skysprem|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-
-#EXTINF:-1 tvg-id="skysfott" tvg-name="Sky Sports Football" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdWM04ded3I1O0hX_WxSAFdZ18obIzTKByew&s", Sky Sports Football
-https://bd-streams.site/crx/master.php?id=skysfott|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-
-#EXTINF:-1 tvg-id="skysare" tvg-name="Sky Sports Plus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzI1XyF4-z0lKDs2AzQ5HuVDSzGeMaHpS0EEGrsImBcaDMDHiCjQzSXeM125U&s", Sky Sports Plus
-https://bd-streams.site/crx/master.php?id=skysare|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-
-#EXTINF:-1 tvg-id="skysfor1" tvg-name="Sky Sports F1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-v_hINj_by0pYp4k3PvWaRIME2jrlUKCVmmXCcMcakfzyYKC3iaiX-VGp3e4&s", Sky Sports F1
-https://bd-streams.site/crx/master.php?id=skysfor1|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-
-
-#EXTINF:-1 tvg-id="skysare" tvg-name="Sky Sports Arena" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0nPXM9GthSCLN7Lq88QX2N3qkB-EkK9GJ9h2BvbtrdB4PU2ipjhOoz_yIM8&s", Sky Sports Arena
-https://bd-streams.site/crx/master.php?id=skysare|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-
-#EXTINF:-1 tvg-id="skysmixx" tvg-name="Sky Sports Mix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK8SnCLoj9Ul0mL9OKVRoJmJoFt251n7GL_uupmRXwZBZUAqPLyfJSjqNgTg&s", Sky Sports Mix
-https://bd-streams.site/crx/master.php?id=skysmixx|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-
-#EXTINF:-1 tvg-id="skystennis" tvg-name="Sky Sports Tennis" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXtvC2vjT1RSbS2FJ2R6TDW7PFj7rPDW42FVfe1TrthhJGwV_b8yG0dBnwF9M&s", Sky Sports Tennis
-https://bd-streams.site/crx/master.php?id=skystennis|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-
-
-#EXTINF:-1 tvg-id="laligauk" tvg-name="LaLiGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRStvCaRGBSi8kfv9DzPajaWdSfF5zW8oXYbRzwaRO8o3bFrccBJ_knLrY0ow&s", LaLiGA
-https://bd-streams.site/crx/master.php?id=laligauk|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-
-
-#EXTINF:-1 tvg-id="superfotball" tvg-name="Super Football" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIB6zWFMX4dz69mXehQvxh_4_tcEZoJ2W7AVEFEKpwWC8RVe4TtN334kH6sQ&s", Super Football
-https://bd-streams.site/crx/master.php?id=superfotball|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-
-#EXTINF:-1 tvg-id="superpremier" tvg-name="Super Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPBc_81l9juPzm8Gn8CQqT45ZXXrpyonJyw5js75_IbpLi3jN0srfwoWZajM&s", Super Premier League
-https://bd-streams.site/crx/master.php?id=superpremier|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-
-
-#EXTINF:-1 tvg-id="espnusa" tvg-name="ESPN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhcdY7UM7eLzESXeexsWULhGcpxsbGTABBEyLrc8DgP7MOfLb8Xg3-_v7IfA&s", ESPN 1
-https://bd-streams.site/crx/master.php?id=espnusa|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-
-#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdUUqZs_9boIB-B-BQ9XT8YZbr4GYSn1ki_eR8TD5wO7IZq4Ls7Ppleg28hA&s", ESPN 2
-https://bd-streams.site/crx/master.php?id=espn2|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-
-
-#EXTINF:-1 tvg-id="fox501" tvg-name="Fox Cricket 501 HD" tvg-logo="", Fox Cricket 501 HD
-https://bd-streams.site/crx/master.php?id=fox501|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-name="Astro Cricket" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png", Astro Cricket
-http://51.89.166.17:3002/index.php?id=Acricket
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-name="Astro Golf" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",ASTRO GOLF
-http://51.89.166.17:3002/index.php?id=Agolf
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="",ASTRO SPORTSPLUS
-http://51.89.166.17:3002/index.php?id=go_sportsplus
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="",ASTRO BADMINTON 1
-http://51.89.166.17:3002/index.php?id=go_badminton1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="",ASTRO BADMINTON 2
-http://51.89.166.17:3002/index.php?id=go_badminton2
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png",ASTRO GRANDSTAND
-http://51.89.166.17:3002/index.php?id=go_assp3
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png",ASTRO FOOTBALL
-http://51.89.166.17:3002/index.php?id=go_assp4
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="NBA TV" tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg",NBA TV
-http://51.89.166.17:3002/index.php?id=Nba
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v8rFtMbz/worldtv2.png" type="channel",ESPN Dutch
 http://79.124.52.91:6161/ESPNHD/index.m3u8
 
@@ -557,19 +404,19 @@ http://79.124.52.91:6161/ESPN4HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Ten Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Ten_Sports_Logo.png/650px-Ten_Sports_Logo.png",Ten Sports HD 4456
-https://cors-everywhere-wc8b4.ondigitalocean.app/http://175.107.244.52:4456/play/a05v
+https://anywhere.pwisetthon.com/http://175.107.244.52:4456/play/a05v
 
 #EXTINF:-1,Geo Super 4456
-https://cors-everywhere-wc8b4.ondigitalocean.app/http://175.107.244.52:4456/play/a06z
+https://anywhere.pwisetthon.com/http://175.107.244.52:4456/play/a06z
 
 
 #EXTINF:-1 tvg-id="" group-title="Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Ten_Sports_Logo.png/650px-Ten_Sports_Logo.png",Ten Sports HD Flussonic
 https://flussonic.superfasthdserver.com/TenSports/index.mpd
 
-#EXTINF:-1,A SPORTS HD tnm3us
-https://stalker.tnm3us.workers.dev/30975.m3u8
+
 #EXTINF:-1 tvg-name="PTV Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTVSPORTS HD 66.102.120.18
-https://cors-everywhere-wc8b4.ondigitalocean.app/http://66.102.120.18:8000/play/a04w
+https://anywhere.pwisetthon.com/http://66.102.120.18:8000/play/a04w
+
 
 
 
