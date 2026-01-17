@@ -72,7 +72,8 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d78c01625c3f4ed98912609799298544:b91bb882f9624872ada6125006fe5c73
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ndtvindia2/default/manifest.mpd
+https://vg-ndtvwatcho.akamaized.net/vglive-sk-834057/main.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10616d7c4bee41f1825bd805c6295172:dc85f2112f63477fb39fc149493c49be
