@@ -41,6 +41,30 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/05/09/20250509042549016858_59.png", Cricbuzz 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://neacdnpop3-edge02.aws.playco.com/live/eds/CricLife2/DASH/CricLife2.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e8b5ddac5332a4e66c002b4c0f22322:d06de29b0eacb81ac6e3f325849047e8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/05/11/20250511042549408522_81.png", Cricbuzz 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://neacdnpop3-edge02.aws.playco.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9dc5ddd99e3c723bf109a504da715dac:d39d55e9ba386a86641ca9668abf2b0d
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="",Criclife Women
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://neacdnpop3-edge02.aws.playco.com/live/eds/CricLife_Women_27112025/DASH/CricLife_Women_27112025.mpd
+
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -530,6 +554,7 @@ https://flussonic.superfasthdserver.com/TenSports/index.mpd
 
 #EXTINF:-1 tvg-name="PTV Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTVSPORTS HD 66.102.120.18
 https://anywhere.pwisetthon.com/http://66.102.120.18:8000/play/a04w
+
 
 
 
