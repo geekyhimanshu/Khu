@@ -50,6 +50,12 @@ https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 
 
+#EXTINF:-1 tvg-name="Sky.Sport.Mix" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportmix.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png",Sky Sport Mix
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c393a1661a7a0c306ed4b2d3f8c7b7e:74583ae652f0ed1bed5fc713f577fe1e
+https://otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd
+
+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f
@@ -555,6 +561,7 @@ https://anywhere.pwisetthon.com/http://175.107.244.52:4456/play/a05v
 
 #EXTINF:-1,Geo Super 4456
 https://anywhere.pwisetthon.com/http://175.107.244.52:4456/play/a06z
+
 
 
 
