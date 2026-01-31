@@ -62,7 +62,7 @@ https://otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjz3qplazr/o
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/05/09/20250509042549016858_59.png", Cricbuzz 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://neacdnpop3-edge02.aws.playco.com/live/eds/CricLife2/DASH/CricLife2.mpd
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -70,7 +70,7 @@ https://neacdnpop3-edge02.aws.playco.com/live/eds/CricLife2/DASH/CricLife2.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/05/11/20250511042549408522_81.png", Cricbuzz 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://neacdnpop3-edge02.aws.playco.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -78,7 +78,7 @@ https://neacdnpop3-edge02.aws.playco.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="",Criclife Women
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://neacdnpop3-edge02.aws.playco.com/live/eds/CricLife_Women_27112025/DASH/CricLife_Women_27112025.mpd
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife_Women_27112025/DASH/CricLife_Women_27112025.mpd
 
 
 #EXTINF:-1,Skysports EPL tzh911
@@ -446,6 +446,7 @@ https://anywhere.pwisetthon.com/http://175.107.244.52:4456/play/a05v
 
 #EXTINF:-1,Geo Super 4456
 https://anywhere.pwisetthon.com/http://175.107.244.52:4456/play/a06z
+
 
 
 
