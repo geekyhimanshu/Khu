@@ -38,6 +38,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 
 
+#EXTINF:-1 tvg-id="Big Magic" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog2022520414.png",Big Magic
+https://fucking-tv-ott.keralive.workers.dev/mumt05/BIGMAGIC/index.m3u8
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HD6fzl8BRUK-nNH3SRgSBA","kid":"QCNhNFd3TL63GmLDOZcOYw"}],"type":"temporary"}
 #EXTINF:1 tvg-id="Zee Anmol" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmol/channel_web/1170x658withlog_1844143347.png" group-title="Watcho Dishtv",Zee Anmol
@@ -84,6 +88,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ne9DFfAAQBmjcFvLPPMMow","kid":"hu3snjt9QEKk1KHKFPhH7g"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="Zoom" tvg-name="ZOOM" tvg-type="Music" group-title="ZEE5" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="Watcho Dishtv",ZOOM
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
+
 
 
 
