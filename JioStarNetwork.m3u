@@ -1,16 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1  tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://cdn.gadgets360.com/content/assets/channels/star-sports-1-hindi-hd.jpg",Star Sports 1 Hindi HD 66.102.120.18
-https://anywhere.pwisetthon.com/http://66.102.120.18:8000/play/a072
-
-#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://cdn.gadgets360.com/content/assets/channels/star-sports-1-hd.jpg",Star Sports 1 HD 66.102.120.18
-https://anywhere.pwisetthon.com/http://66.102.120.18:8000/play/a009
-
-#EXTINF:-1  tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_BoxCover_3a373a17-83ff-48f3-bfc8-abea26977ebf.png",Star Sports2 Hindi HD 66.102.120.18
-https://anywhere.pwisetthon.com/http://66.102.120.18:8000/play/a00v
-
-
 #EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSports1HindiHD.jpg",Star Sports 1 Hindi HD 163.61.227.29
 https://anywhere.pwisetthon.com/http://163.61.227.29:8000/play/a062
 
@@ -31,7 +21,7 @@ https://anywhere.pwisetthon.com/http://163.61.227.29:8000/play/a012
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://star-sports-hindi-1.joker-verse.workers.dev/master.mpd|User-Agent="Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)"&X-User-Agent="TiviMate/5.1.6 (Android 15)"
+https://star-sports-hindi-1.joker-verse.workers.dev/master.mpd
 
 #EXTINF:-1 tvg-name="Star Sports 1" tvg-language="english" tvg-logo="https://cdn.gadgets360.com/content/assets/channels/star-sports-1-hd.jpg" group-title="SPORTS", Star Sports 1 JioHotstar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -40,7 +30,7 @@ https://star-sports-hindi-1.joker-verse.workers.dev/master.mpd|User-Agent="Hotst
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://star-sports-1.joker-verse.workers.dev/master.mpd|User-Agent="Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)"&X-User-Agent="TiviMate/5.1.6 (Android 15)"
+https://star-sports-1.joker-verse.workers.dev/master.mpd
 
 
 #EXTINF:-1 tvg-id="173" group-title="Jiostar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978f46cbc4372820a5bdf/images/237.webp" group-title="Jiostar", Star Sports 1 Hindi HD
