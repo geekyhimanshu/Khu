@@ -255,7 +255,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_International_HD_BTS/output/index.
 #KODIPROP:inputstream.adaptive.license_key=6ac6943751e558b181da32727f03dff7:f36e5cd48252bcd0fcda2bfe21f5b365
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1758280064~exp=1758366464~acl=/*~hmac=f828a4bfd62980ef6d3ebd9faf3668b0b73ac7da3322f0c65a8374a96179a356"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_HD_BTS/output/index.mpd?__hdnea__=st=1758280064~exp=1758366464~acl=/*~hmac=f828a4bfd62980ef6d3ebd9faf3668b0b73ac7da3322f0c65a8374a96179a356&xxx=%7Ccookie=__hdnea__=st=1758280064~exp=1758366464~acl=/*~hmac=f828a4bfd62980ef6d3ebd9faf3668b0b73ac7da3322f0c65a8374a96179a356
+https://jiotvpllive.cdn.jio.com/bpk-tv/StarMoviesHD_BTS/output/index.mpd?__hdnea__=st=1758280064~exp=1758366464~acl=/*~hmac=f828a4bfd62980ef6d3ebd9faf3668b0b73ac7da3322f0c65a8374a96179a356&xxx=%7Ccookie=__hdnea__=st=1758280064~exp=1758366464~acl=/*~hmac=f828a4bfd62980ef6d3ebd9faf3668b0b73ac7da3322f0c65a8374a96179a356
 
 #EXTINF:-1 tvg-id="1115" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies.png",Star Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
