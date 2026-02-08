@@ -260,7 +260,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_BTS/output/index.mpd?__hdnea_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ac6943751e558b181da32727f03dff7:f36e5cd48252bcd0fcda2bfe21f5b365
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_HD_BTS/output/index.mpd?__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b&xxx=%7Ccookie=__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b
+https://jiotvpllive.cdn.jio.com/bpk-tv/StarMoviesHD_BTS/output/index.mpd?__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b&xxx=%7Ccookie=__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b
 
 #EXTINF:-1 tvg-id="4302" tvg-name="Star Movies Select" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT/images/LOGO_HD/image.png" group-title="Jiostar", Star Movies Select
 #KODIPROP:inputstream.adaptive.license_type=clearkey
