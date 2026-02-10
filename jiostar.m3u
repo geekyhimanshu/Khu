@@ -361,7 +361,7 @@ https://jiotvpllive.cdn.jio.com:443/bpk-tv/ZeeTVHD_MOB/WDVLive/index.mpd?__hdnea
 #EXTHTTP:{"cookie":"__hdnea__=st=1768180656~exp=1768267056~acl=/*~hmac=6e7cbdbbe75c9b4f23ebf7f735af8628b3651464d05ec8c9f508f3681c005443"}
 https://jiotvpllive.cdn.jio.com:443/bpk-tv/ZeeCinemaHD_MOB/WDVLive/index.mpd?__hdnea__=st=1768202822~exp=1768289222~acl=/*~hmac=e2dde7592978d82eea97e332b4f5e76b9727716e042620d3a58ab9244c943893
 
-#EXTINF:-1 tvg-id="1351" tvg-name="Zee TV SD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png" tvg-chno="1351" group-title="Zee",Zee TV SD
+#EXTINF:-1 tvg-id="1351" tvg-name="Zee TV SD" tvg-country="IN" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuZDG3YhqXnzAQVgIng4P5ZzXLf6y_pAfBeKC1GyTNI5k9SMjy" tvg-chno="1351" group-title="Zee",Zee TV SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JtBaSoKg1usxfdhhoG10bA","kid":"KE2xpGXuUMCBt_qXNcTgAA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
