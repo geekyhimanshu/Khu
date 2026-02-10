@@ -354,7 +354,7 @@ https://jiotvpllive.cdn.jio.com:443/bpk-tv/ZeeAnmolCinema2_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"__hdnea__=st=1768180656~exp=1768267056~acl=/*~hmac=6e7cbdbbe75c9b4f23ebf7f735af8628b3651464d05ec8c9f508f3681c005443"}
 https://jiotvpllive.cdn.jio.com:443/bpk-tv/ZeeTVHD_MOB/WDVLive/index.mpd?__hdnea__=st=1768181221~exp=1768267621~acl=/*~hmac=2662552ce8e61b5f4751dd08fc948c44413aca789c3fd8353531770fb5e9ee53
 
-#EXTINF:-1 tvg-id="Zee Cinema HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Zee-Cinema-HD-white.png" group-title="Zee",Zee Cinema HD
+#EXTINF:-1 tvg-id="Zee Cinema HD" tvg-logo="https://cdn.smartads.in/images/product/television/Zee-Cinema-HD.png" group-title="Zee",Zee Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"w7ONtVQnGejhAAjpGTCJ5g","kid":"k9UbqicxXL-ibfNcPD5Htg"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
