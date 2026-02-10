@@ -339,7 +339,7 @@ https://jiotvpllive.cdn.jio.com:443/bpk-tv/ZeeClassicSD_MOB/WDVLive/index.mpd?__
 #EXTHTTP:{"cookie":"__hdnea__=st=1768180656~exp=1768267056~acl=/*~hmac=6e7cbdbbe75c9b4f23ebf7f735af8628b3651464d05ec8c9f508f3681c005443"}
 https://jiotvpllive.cdn.jio.com:443/bpk-tv/AndXploreHD_MOB/WDVLive/index.mpd?__hdnea__=st=1768616762~exp=1768703162~acl=/*~hmac=9e8d2c1b59efd212a820393fdcad7288516f7bfebdb55f3cb9fd133162d05236
 
-#EXTINF:-1 tvg-id="2761" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Ganga.png" group-title="Zee",Zee Anmol Cinema 2
+#EXTINF:-1 tvg-id="2761" tvg-name="Zee Anmol Cinema 2" tvg-logo="" group-title="Zee",Zee Anmol Cinema 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iCLwFou_WPtw9Bcckq1huw","kid":"Uh9VXEPiXXWipTKjU1jO5g"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
@@ -354,7 +354,7 @@ https://jiotvpllive.cdn.jio.com:443/bpk-tv/ZeeAnmolCinema2_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"__hdnea__=st=1768180656~exp=1768267056~acl=/*~hmac=6e7cbdbbe75c9b4f23ebf7f735af8628b3651464d05ec8c9f508f3681c005443"}
 https://jiotvpllive.cdn.jio.com:443/bpk-tv/ZeeTVHD_MOB/WDVLive/index.mpd?__hdnea__=st=1768181221~exp=1768267621~acl=/*~hmac=2662552ce8e61b5f4751dd08fc948c44413aca789c3fd8353531770fb5e9ee53
 
-#EXTINF:-1 tvg-id="Zee Cinema HD" tvg-logo="https://cdn.smartads.in/images/product/television/Zee-Cinema-HD.png" group-title="Zee",Zee Cinema HD
+#EXTINF:-1 tvg-id="Zee Cinema HD" tvg-logo="" group-title="Zee",Zee Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"w7ONtVQnGejhAAjpGTCJ5g","kid":"k9UbqicxXL-ibfNcPD5Htg"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
@@ -368,21 +368,21 @@ https://jiotvpllive.cdn.jio.com:443/bpk-tv/ZeeCinemaHD_MOB/WDVLive/index.mpd?__h
 #EXTHTTP:{"cookie":"__hdnea__=st=1768180656~exp=1768267056~acl=/*~hmac=6e7cbdbbe75c9b4f23ebf7f735af8628b3651464d05ec8c9f508f3681c005443"}
 https://jiotvpllive.cdn.jio.com:443/bpk-tv/ZeeTV_MOB/WDVLive/index.mpd?__hdnea__=st=1768616762~exp=1768703162~acl=/*~hmac=9e8d2c1b59efd212a820393fdcad7288516f7bfebdb55f3cb9fd133162d05236
 
-#EXTINF:-1 tvg-id="484" tvg-name="Zee Cinema SD" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtGqObdSENq5B-K8HnxOZEKfCk_gr2TOcueZyvo9nMs76Bfp11ue9r9WE&s=10" tvg-chno="484" group-title="Zee",Zee Cinema SD
+#EXTINF:-1 tvg-id="484" tvg-name="Zee Cinema SD" tvg-country="IN" tvg-logo="" tvg-chno="484" group-title="Zee",Zee Cinema SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6n_ZZQlP-bkz4_tlRGbxnw","kid":"2kKuJQRvW6mA8P5MwuXjPg"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1768180656~exp=1768267056~acl=/*~hmac=6e7cbdbbe75c9b4f23ebf7f735af8628b3651464d05ec8c9f508f3681c005443"}
 https://jiotvpllive.cdn.jio.com:443/bpk-tv/ZeeCinema_MOB/WDVLive/index.mpd?__hdnea__=st=1768616762~exp=1768703162~acl=/*~hmac=9e8d2c1b59efd212a820393fdcad7288516f7bfebdb55f3cb9fd133162d05236
 
-#EXTINF:-1 tvg-id="585" tvg-name="Zing" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zing.png" tvg-chno="585" group-title="Zee",Zing
+#EXTINF:-1 tvg-id="585" tvg-name="Zing" tvg-country="IN" tvg-logo="" tvg-chno="585" group-title="Zee",Zing
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AnxHAjuOsljbIKxq57pGqA","kid":"ZIYy2KmdWe-G_WUUBf-1hw"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1768180656~exp=1768267056~acl=/*~hmac=6e7cbdbbe75c9b4f23ebf7f735af8628b3651464d05ec8c9f508f3681c005443"}
 https://jiotvpllive.cdn.jio.com:443/bpk-tv/ZeeZing_MOB/WDVLive/index.mpd?__hdnea__=st=1768616762~exp=1768703162~acl=/*~hmac=9e8d2c1b59efd212a820393fdcad7288516f7bfebdb55f3cb9fd133162d05236
 
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog1476130363.png" group-title="Zee",&pictures HD
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="" group-title="Zee",&pictures HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JbCLHHoATkPvksI5-T5mEw","kid":"CRh7zLfsWUKDUqMbSzIc4A"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
@@ -403,7 +403,7 @@ https://jiotvpllive.cdn.jio.com:443/bpk-tv/AndPictures_MOB/WDVLive/index.mpd?__h
 #EXTHTTP:{"cookie":"__hdnea__=st=1768180656~exp=1768267056~acl=/*~hmac=6e7cbdbbe75c9b4f23ebf7f735af8628b3651464d05ec8c9f508f3681c005443"}
 https://jiotvpllive.cdn.jio.com:443/bpk-tv/AndTVHD_MOB/WDVLive/index.mpd?__hdnea__=st=1768202882~exp=1768289282~acl=/*~hmac=4e347488754a7706888d6cb423caec56dd3c6e472ba6dac91f12c327f83fdb81
 
-#EXTINF:-1 tvg-id="1359" tvg-name="Big Magic" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png" tvg-chno="1359" group-title="Zee",Big Magic
+#EXTINF:-1 tvg-id="1359" tvg-name="Big Magic" tvg-country="IN" tvg-logo="" tvg-chno="1359" group-title="Zee",Big Magic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"A_540kAv4ipH61XyzOioWw","kid":"7Iy3sblQX-qf8QFbRZkfkw"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
@@ -417,21 +417,21 @@ https://jiotvpllive.cdn.jio.com:443/bpk-tv/BigMagic_MOB/WDVLive/index.mpd?__hdne
 #EXTHTTP:{"cookie":"__hdnea__=st=1768180656~exp=1768267056~acl=/*~hmac=6e7cbdbbe75c9b4f23ebf7f735af8628b3651464d05ec8c9f508f3681c005443"}
 https://jiotvpllive.cdn.jio.com:443/bpk-tv/ZeeAnmol_MOB/WDVLive/index.mpd?__hdnea__=st=1768616762~exp=1768703162~acl=/*~hmac=9e8d2c1b59efd212a820393fdcad7288516f7bfebdb55f3cb9fd133162d05236
 
-#EXTINF:-1 tvg-id="415" tvg-name="Zee Anmol Cinema" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" tvg-chno="415" group-title="Zee",Zee Anmol Cinema
+#EXTINF:-1 tvg-id="415" tvg-name="Zee Anmol Cinema" tvg-country="IN" tvg-logo="" tvg-chno="415" group-title="Zee",Zee Anmol Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qDQQHFIKsq9lrdkeXporYQ","kid":"1fRsO7FwVhq5PbecAygltQ"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1768180656~exp=1768267056~acl=/*~hmac=6e7cbdbbe75c9b4f23ebf7f735af8628b3651464d05ec8c9f508f3681c005443"}
 https://jiotvpllive.cdn.jio.com:443/bpk-tv/ZeeAnmolCinema_MOB/WDVLive/index.mpd?__hdnea__=st=1768616762~exp=1768703162~acl=/*~hmac=9e8d2c1b59efd212a820393fdcad7288516f7bfebdb55f3cb9fd133162d05236
 
-#EXTINF:-1 tvg-id="487" tvg-name="Zee Bollywood" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png" tvg-chno="487" group-title="Zee",Zee Bollywood
+#EXTINF:-1 tvg-id="487" tvg-name="Zee Bollywood" tvg-country="IN" tvg-logo="" tvg-chno="487" group-title="Zee",Zee Bollywood
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PrnHEoM4T0ZjS9DcPTVOLA","kid":"uCsEdVw1Xr6gykO_9Se1xw"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1768180656~exp=1768267056~acl=/*~hmac=6e7cbdbbe75c9b4f23ebf7f735af8628b3651464d05ec8c9f508f3681c005443"}
 https://jiotvpllive.cdn.jio.com:443/bpk-tv/ZeeBollywood_MOB/WDVLive/index.mpd?__hdnea__=st=1768616762~exp=1768703162~acl=/*~hmac=9e8d2c1b59efd212a820393fdcad7288516f7bfebdb55f3cb9fd133162d05236
 
-#EXTINF:-1 tvg-id="488" tvg-name="Zee Action" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png" tvg-chno="488" group-title="Zee",Zee Action
+#EXTINF:-1 tvg-id="488" tvg-name="Zee Action" tvg-country="IN" tvg-logo="" tvg-chno="488" group-title="Zee",Zee Action
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xo_NQzDl8Yh5PfUJu14Zpg","kid":"gOh9iMhWVHqRftg_YmVs1w"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
