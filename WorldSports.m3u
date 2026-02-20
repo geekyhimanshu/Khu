@@ -11,49 +11,32 @@ https://a170aivottlinear-a.akamaihd.net:443/OTTB/bom-nitro/live/dash/enc/f60kqes
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UhSPEELSOISfCngT8dqKew","kid":"KUtXYc78ItDGMSk54T2CeA"}],"type":"temporary"}
+https://netskrt.live.pv-cdn.net:443/OTTB/lhr-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/3OKhGKg.png" group-title="Sports", TNT Sports 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nxjSYpHZIwgzUB9_gi9odQ","kid":"8og4DKTO-a0_J6kqCOm7iw"}],"type":"temporary"}
+https://netskrt.live.pv-cdn.net:443/OTTB/lhr-nitro/live/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/3DPQCG9.png" group-title="Sports", TNT Sports 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ARYgH0pjrFv1eH0sYQxBpw","kid":"HZarNmu-ZFHt90B7WOL6Fg"}],"type":"temporary"}
+https://netskrt.live.pv-cdn.net:443/OTTB/lhr-nitro/live/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/3DPQfQS.png" group-title="Sports", TNT Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-
-
-#EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25725?accessKey=WkVjNWNscFhORDBLCg==" group-title="Sports",Ten Cricket Toffee TV
-https://m.xigzo.store/live.php?id=86db7302947d&e=.m3u8|Referer=https://m.xigzo.store/live.php?id=86db7302947d&e=.m3u8
-
-
-#EXTINF:-1 tvg-id="Cricket Gold New" tvg-logo="https://i.ytimg.com/vi/CeAgx48qQ3M/maxresdefault.jpg",Cricket Gold New
-https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8
-
-#EXTINF:-1 tvg-id="Cricket Gold Old" tvg-logo="https://www.cricexec.com/wp-content/uploads/2025/10/cricket-gold-logo-2025-300x169.webp",Cricket Gold  Old
-https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
-
-
-#EXTINF:-1 tvg-name="Sky.Sport.Mix" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportmix.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png",Sky Sport Mix
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3c393a1661a7a0c306ed4b2d3f8c7b7e:74583ae652f0ed1bed5fc713f577fe1e
-https://otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Y04Q7-SruxS-QAo8y6wCWA","kid":"GSsRFdoEFYXHcgAShUnvoQ"}],"type":"temporary"}
+https://netskrt.live.pv-cdn.net:443/OTTB/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -79,6 +62,19 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
 #EXTINF:-1 tvg-logo="",Criclife Women
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife_Women_27112025/DASH/CricLife_Women_27112025.mpd
+
+
+#EXTINF:-1 tvg-id="Cricket Gold New" tvg-logo="https://i.ytimg.com/vi/CeAgx48qQ3M/maxresdefault.jpg",Cricket Gold New
+https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8
+
+#EXTINF:-1 tvg-id="Cricket Gold Old" tvg-logo="https://www.cricexec.com/wp-content/uploads/2025/10/cricket-gold-logo-2025-300x169.webp",Cricket Gold  Old
+https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+
+
+#EXTINF:-1 tvg-name="Sky.Sport.Mix" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportmix.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png",Sky Sport Mix
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c393a1661a7a0c306ed4b2d3f8c7b7e:74583ae652f0ed1bed5fc713f577fe1e
+https://otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd
 
 
 #EXTINF:-1,Skysports EPL tzh911
@@ -446,6 +442,7 @@ https://anywhere.pwisetthon.com/http://175.107.244.52:4456/play/a05v
 
 #EXTINF:-1,Geo Super 4456
 https://anywhere.pwisetthon.com/http://175.107.244.52:4456/play/a06z
+
 
 
 
