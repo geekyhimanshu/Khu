@@ -506,7 +506,7 @@ https://jiotvmblive.cdn.jio.com:443/bpk-tv/ZeeCinemaHD_BTS/output/index.mpd?__hd
 https://jiotvmblive.cdn.jio.com:443/bpk-tv/AndTVHD_BTS/output/index.mpd?__hdnea__=st=1768202954~exp=1768289354~acl=/*~hmac=b9caf532908582507d62b0fa80f5e12364fe3226fa2908ce7e0a46406c1c851f&xxx=%7Ccookie=__hdnea__=st=1768202954~exp=1768289354~acl=/*~hmac=b9caf532908582507d62b0fa80f5e12364fe3226fa2908ce7e0a46406c1c851f
 
 
-#EXTINF:-1 tvg-id="1668" tvg-name="&Xplore HD" tvg-language="Hindi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_list/360x203d2a4069840764bd5beb44a0f86bf1ab3" group-title="Zee", &Xplore HD
+#EXTINF:-1 tvg-id="1668" tvg-name="&Xplore HD" tvg-language="Hindi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_list/360x203d2a4069840764bd5beb44a0f86bf1ab3.png" group-title="Zee", &Xplore HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jPXCSxaBBbyiSzWOsF9t9A","kid":"Z-UvS9z8UliYvgRG_rfxhQ"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
