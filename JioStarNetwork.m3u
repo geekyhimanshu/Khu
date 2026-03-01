@@ -37,57 +37,57 @@ https://star-sports-1.joker-verse.workers.dev/master.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd
+https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="362" tvg-name="Star Sports 1 Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978e8c4589e08ce80f035/images/147.webp" group-title="Jiostar", Star Sports 1 Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NQwKr_7fUcwVAulUPHyIXg","kid":"jqm2B1SSUgaOJgpfTX3TIQ"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/output/index.mpd
+https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="1106" tvg-name="Star Sports 1 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a7c5625a16ee72e958/images/402.webp" group-title="Jiostar", Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd
+https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="1142" group-title="Jiostar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1/images/LOGO_HD/image.png",Star Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df20894ec30954d3b28097c138f4cfda:ff9b6292b1cddbd11a046029cb314634
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_BTS/output/index.mpd
+https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="1984" group-title="Sports" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/2QTUuuBj.png",Star Sports 2 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9X8iy6MnOc576x-rPz0GCw","kid":"vR6mocH7Xc23CUNOCCa7wA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_1_HD_BTS/output/index.mpd
+https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvbpkmob.cdn.jio.com/bpk-tv/Sports18_1_HD_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="1985" group-title="Sports" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/3lAwZ2Hq.png",Star Sports 2 Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3ed8dc0e0cb5d238da80ee0a85bd2e1:67a96992e6406606f3480ab58d7f540c
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_1_SD_BTS/output/index.mpd
+https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvbpkmob.cdn.jio.com/bpk-tv/Sports18_1_SD_BTS/output/index.mpd
 
 
 #EXTINF:-1 tvg-id="1109" tvg-name="Star Sports 2 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797986a9540e6b3ede47bf/images/607.webp" group-title="Jiostar", Star Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5iCpcM6kdMSRrHiucaTXZA","kid":"lFfrkBKUVvqOqV4QukrFHg"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd
+https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="1141" group-title="Jiostar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797920c5625a16ee72f2d5/images/529.webp",Star Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc3aafe80845584199a637249fad2ffa:ca4474972fdb4bf8ecb164482853c692
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/output/index.mpd
+https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/output/index.mpd
 
 
 #EXTINF:-1 tvg-id="1389" tvg-name="Star Sports 3" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797981a9540e6b3ede477e/images/530.webp" group-title="Jiostar", Star Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4e8647eaf0659ac85f61765a5abcdc1:d749c9b27505beb0e1a8b6c30ca65de6
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/output/index.mpd
+https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/output/index.mpd
 
 
 #EXTINF:-1 tvg-id="1116" group-title="Jiostar" tvg-logo="https://dtil.tmsimg.com/assets/s143831_ld_h15_aa.png",Star Plus
@@ -222,25 +222,25 @@ https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https:
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea7985dacbb95f1c9d62e5a1675142e5:39d5910ca04841b5f32bf24623cdae58
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_1_BTS/output/index.mpd
+https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_Select_1_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="300" group-title="Jiostar" tvg-name="Star Sports Select HD 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png",Star Sports Select 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c2c048e439d65316beeda6ef64d5d0f8:e2fdc132cbdee65501b845ce414fce39
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/output/index.mpd
+https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="1114" group-title="Jiostar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2/images/LOGO_HD/image.png",Star Sports Select 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7d009d07aa5cbc81a441880530dfa5:8147983ad7402ebfc222d28b667a196f
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_2_BTS/output/index.mpd
+https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_Select_2_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="301" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png",Star Sports Select 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6017d0514d425fa38f6e80ba6dcc852f:0018944b00adf2078f62386f30c68b74
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/output/index.mpd
+https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/output/index.mpd
 
 
 #EXTINF:-1 tvg-id="1375" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_International_HD.png",Disney International HD
@@ -259,7 +259,7 @@ https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https:
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ac6943751e558b181da32727f03dff7:f36e5cd48252bcd0fcda2bfe21f5b365
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_HD_BTS/output/index.mpd
+https://anywhere.pwisetthon.com/https://play.mokakdaoni.me/proxy/main.php/https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Movies_HD_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="4302" tvg-name="Star Movies Select" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT/images/LOGO_HD/image.png" group-title="Jiostar", Star Movies Select
 #KODIPROP:inputstream.adaptive.license_type=clearkey
