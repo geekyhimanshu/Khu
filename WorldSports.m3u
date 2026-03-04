@@ -45,7 +45,7 @@ https://anywhere.pwisetthon.com/https://live-pv-ta.amazon.fastly-edge.com:443/lh
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
-https://anywhere.pwisetthon.com/https://singapore-cors-proxy.onrender.com:443/https://ucdn.starhubgo.com/bpk-tv/HubSports4HDnew/output/manifest.mpd
+https://ucdn.starhubgo.com/bpk-tv/HubSports4HDnew/output/manifest.mpd
 
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -54,7 +54,7 @@ https://anywhere.pwisetthon.com/https://singapore-cors-proxy.onrender.com:443/ht
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/05/09/20250509042549016858_59.png", Cricbuzz 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://anywhere.pwisetthon.com/https://singapore-cors-proxy.onrender.com:443/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -62,7 +62,7 @@ https://anywhere.pwisetthon.com/https://singapore-cors-proxy.onrender.com:443/ht
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/05/11/20250511042549408522_81.png", Cricbuzz 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://anywhere.pwisetthon.com/https://singapore-cors-proxy.onrender.com:443/https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -70,7 +70,7 @@ https://anywhere.pwisetthon.com/https://singapore-cors-proxy.onrender.com:443/ht
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="",Criclife Women
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://anywhere.pwisetthon.com/https://singapore-cors-proxy.onrender.com:443/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife_Women_27112025/DASH/CricLife_Women_27112025.mpd
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife_Women_27112025/DASH/CricLife_Women_27112025.mpd
 
 
 #EXTINF:-1 tvg-id="Cricket Gold New" tvg-logo="https://i.ytimg.com/vi/CeAgx48qQ3M/maxresdefault.jpg",Cricket Gold New
@@ -445,6 +445,7 @@ https://anywhere.pwisetthon.com/http://175.107.244.52:4456/play/a05v
 
 #EXTINF:-1,Geo Super 4456
 https://anywhere.pwisetthon.com/http://175.107.244.52:4456/play/a06z
+
 
 
 
