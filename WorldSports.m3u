@@ -215,21 +215,6 @@ https://d1jzu95oc8fgt3.cloudfront.net:443/FOX_Sports.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="219104" tvg-logo="https://iili.io/KWnBoiB.png" group-title="HD SPORTS",Premier Sports 1
-https://abizzcbaaaaaaaamlniubkrls2bb7.otte.live.cf.ww.aiv-cdn.net/fra-nitro/live/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="219104" tvg-logo="https://iili.io/KWnCF1I.png" group-title="HD SPORTS",Premier Sports 2
-https://abizzcbaaaaaaaaml3dau5ew7oiof.otte.live.cf.ww.aiv-cdn.net/fra-nitro/live/dash/enc/w34nznx0bz/out/v1/1c6639b9af994c75847def2249302066/cenc.mpd
-
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=680a24e3d3785ea8b3a33a56928ea128:3f07a7f94f0ac7ee96057224b6a4163d
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://iili.io/FfrCHqN.png" group-title="HD SPORTS",Prime TV
@@ -263,44 +248,9 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/o
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"K5uoEenFrq/IrhtxzcpNag", "kid":"Yg5RuCWWR1UXonqkJcUigA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroCricket" tvg-name="Laliga TV" group-title="HD SPORTS" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/3DPOPG2.webp",Laliga TV
-https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HYzgFbZ/tsn1.png", TSN Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/5r1nzp5/tsn2.png" group-title="Sports", TSN Sports 2
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/r6FWmrW/tsn3.png" group-title="Sports", TSN Sports 3
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/PxGj1GQ/tsn4.png" group-title="Sports", TSN Sports 4
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/F4dfsDM/tsn5.png" group-title="Sports", TSN Sports 5
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HV2c1Cc/ziggosport.png" group-title="☆SPORT+☆", ZIGGO SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
+#KODIPROP:inputstream.tive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3fNq3Dr/ziggosport2.png" group-title="☆SPORT+☆", ZIGGO SPORT 2
@@ -389,42 +339,10 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inp
 https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="820.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORT1.png" group-title="HD SPORTS",BeIN Sports 1 HD
-https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="821.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="HD SPORTS",BeIN Sports 2 HD
-https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="822.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="HD SPORTS",BeIN Sports 3 HD
-https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkjmoUatVnbQsL-NNHSj2L9zjbbMg92x5pNA&s",Fast Sports HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba9b637b639af897f228114363e882fa:27508374902bd52361f08a2ad4dba3a3
 https://cors-everywhere-wc8b4.ondigitalocean.app/https://live2.shoq.com.pk/live/eds/Fast_Sports_HD/DASH/Fast_Sports_HD.mpd
-
-
-#EXTINF:-1,Dubai Sports 1
-https://dmidspta.cdn.mgmlcdn.com:443/dubaisports/smil:dubaisports.stream.smil/master.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8C7BdHMr/Dubai-Sports-2.jpg",Dubai Sports 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/dubaisportshd/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/zfhHXPTT/Dubai-Sports-3.jpg",Dubai Sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/HT0W29vz/Tennis-Channel.jpg",Tennis Channel
@@ -432,105 +350,6 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="",Trace Sport
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1  tvg-name="Sky Sports Action FHD" tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="Sky Sports" radio="false",Sky Sports Action
-https://zamlb.tgaadi.workers.dev/1775.ts
-#EXTINF:-1  tvg-name="Sky Sports Cricket FHD" tvg-id="SkySpCricket.HD.uk" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="Sky Sports" radio="false",Sky Sports Cricket
-https://zamlb.tgaadi.workers.dev/1779.ts
-#EXTINF:-1  tvg-name="Sky Sports F1 FHD" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sky Sports" radio="false",Sky Sports F1
-https://zamlb.tgaadi.workers.dev/1783.ts
-#EXTINF:-1  tvg-name="Sky Sports Football FHD" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="Sky Sports" radio="false",Sky Sports Football
-https://zamlb.tgaadi.workers.dev/103979.ts
-#EXTINF:-1  tvg-name="Sky Sports Golf FHD" tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="Sky Sports" radio="false",Sky Sports Golf
-https://zamlb.tgaadi.workers.dev/1785.ts
-#EXTINF:-1  tvg-name="Sky Sports Main Event FHD" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="Sky Sports" radio="false",Sky Sports Main Event
-https://zamlb.tgaadi.workers.dev/1771.ts
-#EXTINF:-1  tvg-name="Sky Sports Mix FHD" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="Sky Sports" radio="false",Sky Sports Mix
-https://zamlb.tgaadi.workers.dev/1789.ts
-#EXTINF:-1  tvg-name="Sky Sports F1 FHD" tvg-id="SkySp.News.HD.uk" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="Sky Sports" radio="false",Sky Sports News
-https://zamlb.tgaadi.workers.dev/1787.ts
-#EXTINF:-1  tvg-name="Sky Sports Premier League FHD" tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="Sky Sports" radio="false",Sky Sports Premier League
-https://zamlb.tgaadi.workers.dev/1773.ts
-#EXTINF:-1  tvg-name="Sky Sports Racing FHD" tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://i.ibb.co/Hnp1hBz/sky-racing.png" group-title="Sky Sports" radio="false",Sky Sports Racing
-https://zamlb.tgaadi.workers.dev/3102.ts
-#EXTINF:-1  tvg-name="Sky Sports Tennis FHD" tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ZNUDU1r.png" group-title="Sky Sports" radio="false",Sky Sports Tennis
-https://zamlb.tgaadi.workers.dev/120929.ts
-#EXTINF:-1  tvg-name="Sky Sports+ FHD" tvg-id="SkySp+HD.uk" tvg-logo="https://i.ibb.co/ccNV9ppd/Sky-Sportsplus.png" group-title="Sky Sports" radio="false",Sky Sports+
-https://zamlb.tgaadi.workers.dev/1777.ts
-
-#EXTINF:-1 tvg-id="" group-title="Cricket" tvg-logo="http://image.5gtv.online/logo/sports/willow.png", Willow Cricket 
-https://zamlb.tgaadi.workers.dev/96988.ts
-
-#EXTINF:-1 tvg-id="" group-title="Cricket" tvg-logo="http://image.5gtv.online/logo/sports/willowxtra.png", Willow 2
-https://zamlb.tgaadi.workers.dev/15578.ts
-
-
-#EXTINF:-1,Hub Sports 1
-https://zamlb.tgaadi.workers.dev/107194.ts 
-
-#EXTINF:-1,Hub Sports 2
-https://zamlb.tgaadi.workers.dev/107195.ts
-
-#EXTINF:-1,Hub Sports 3
-https://zamlb.tgaadi.workers.dev/107196.ts
-
-#EXTINF:-1 tvg-id="" group-title="Cricket" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", Hub Sports 4
-https://zamlb.tgaadi.workers.dev/107197.ts
-
-
-#EXTINF:-1 tvg-id="" group-title="Cricket" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/PTV-Sports.png",PTV Sports
-https://zamlb.tgaadi.workers.dev/82612.ts
-
-#EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 FHD" tvg-logo="http://image.5gtv.online/logo/sports/fox/fox_501.png" group-title="Fox Sports",Fox Sports 501
-https://zamlb.tgaadi.workers.dev/98539.ts
-#EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="Fox Sports 502 FHD" tvg-logo="http://image.5gtv.online/logo/sports/fox/fox_502.png" group-title="Fox Sports",Fox Sports 502
-https://zamlb.tgaadi.workers.dev/16222.ts
-#EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="Fox Sports 503 FHD" tvg-logo="http://image.5gtv.online/logo/sports/fox/fox_503.png" group-title="Fox Sports",Fox Sports 503
-https://zamlb.tgaadi.workers.dev/16223.ts
-#EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="Fox Sports 504 FHD" tvg-logo="http://image.5gtv.online/logo/sports/fox/fox_504.png" group-title="Fox Sports",Fox Sports 504
-https://zamlb.tgaadi.workers.dev/16224.ts
-#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="Fox Sports 505 FHD" tvg-logo="http://image.5gtv.online/logo/sports/fox/fox_505.png" group-title="Fox Sports",Fox Sports 505
-https://zamlb.tgaadi.workers.dev/16225.ts
-#EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="Fox Sports 506 FHD" tvg-logo="http://image.5gtv.online/logo/sports/fox/fox_506.png" group-title="Fox Sports",Fox Sports 506
-https://zamlb.tgaadi.workers.dev/98537.ts
-#EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="Fox Sports 507 FHD" tvg-logo="http://image.5gtv.online/logo/sports/fox/fox_507.png" group-title="Fox Sports",Fox Sports 507
-https://zamlb.tgaadi.workers.dev/98538.ts
-
-
-#EXTINF:-1,Now Sprts 1
-https://zamlb.tgaadi.workers.dev/107187.ts
-
-#EXTINF:-1,Now Sprts 2
-https://zamlb.tgaadi.workers.dev/107188.ts
-
-#EXTINF:-1,Now Sprts 3
-https://zamlb.tgaadi.workers.dev/107189.ts
-
-#EXTINF:-1,Now Sports 4
-https://zamlb.tgaadi.workers.dev/107190.ts
-
-#EXTINF:-1,Now Spors 5
-https://zamlb.tgaadi.workers.dev/107191.ts
-
-#EXTINF:-1,Now Sprts 6
-https://zamlb.tgaadi.workers.dev/107192.ts
-
-#EXTINF:-1,Now Sprts 7
-https://zamlb.tgaadi.workers.dev/107193.ts
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8rFtMbz/worldtv2.png" type="channel",ESPN Dutch
-http://79.124.52.91:6161/ESPNHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mksxWpNC/worldtv2.png" type="channel",ESPN 2 Dutch
-http://79.124.52.91:6161/ESPN2HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1t6xT16y/worldtv2.png" type="channel",ESPN 3 Dutch
-http://79.124.52.91:6161/ESPN3HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvR9Mnjh/worldtv2.png" type="channel",ESPN 4 Dutch
-http://79.124.52.91:6161/ESPN4HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Ten Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Ten_Sports_Logo.png/650px-Ten_Sports_Logo.png",Ten Sports HD 4456
