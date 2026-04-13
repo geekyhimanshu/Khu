@@ -210,7 +210,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Plus_BTS/output/index.mpd?__hdnea__=
 
 #EXTINF:-1 tvg-id="1132" group-title="Jiostar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a2c5625a16ee72e905/images/144.webp",Star Plus HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f7b7241b2935a909d389fe318e5baaa:65783311644973348f359dc154bb41db
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Plus_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b&xxx=%7Ccookie=__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b
 
@@ -222,52 +222,52 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_BTS/output/index.mpd?__hdnea__=
 
 #EXTINF:-1 tvg-id="156" group-title="Jiostar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_HD/images/LOGO_HD/image.png",Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ad3786d9e5efa9e0c4aeb3e58c7b7:907509ccae7e68b30ae75b5d09fe60ef
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b&xxx=%7Ccookie=__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b
 
 
 #EXTINF:-1 tvg-id="1153" group-title="Jiostar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_THRILLS/images/LOGO_HD/image.png",Star Gold Thrills
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=189ccd629ff25ec1adc2e34d49b186eb:fd102ddbd3844b55b70c6aa23dbd212b
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Thrills_MOB/WDVLive/index.mpd?__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b&xxx=%7Ccookie=__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b
 
 
 #EXTINF:-1 tvg-id="1373" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/index.mpd?__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b&xxx=%7Ccookie=__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b
 
 #EXTINF:-1 tvg-id="1374" group-title="Jiostar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/500px-2024_Disney_Jr._Logo.svg.png",Disney Junior
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b1f9702f7d853c1b198495f64924311:40e11e60a12dd6c154dfea0ffbd5bda8
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Junior_MOB/WDVLive/index.mpd?__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b&xxx=%7Ccookie=__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b
 
 #EXTINF:-1 tvg-id="1391" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hungama.png",Hungama
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=454f8353caac500d95d641e0c7cfe048:0aaca46ea0f5096335598781fbe590e4
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvmblive.cdn.jio.com/bpk-tv/Hungama_MOB/WDVLive/index.mpd?__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b&xxx=%7Ccookie=__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b
 
 #EXTINF:-1 tvg-id="1392" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Super_Hungama.png",Super Hungama
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a450f0820c4589690eb336c29f18da6:820e84119563b56d6e6f0bf514cbdc3c
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvmblive.cdn.jio.com/bpk-tv/Super_Hungama_MOB/WDVLive/index.mpd?__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b&xxx=%7Ccookie=__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b
 
 
 #EXTINF:-1 tvg-id="1404" tvg-name="Nat Geo Wild" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/3/3a/Yhugky.png/revision/latest/scale-to-width-down/131?cb=20230606212147&path-prefix=pl" group-title="Jiostar", Nat Geo Wild
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df09db58c18355689e86870a4bba4971:df2323beb63a5582442eedae2059147e
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvmblive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_BTS/output/index.mpd?__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b&xxx=%7Ccookie=__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b
 
 #EXTINF:-1 tvg-id="1332" group-title="Jiostar" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/7/7a/Logopit_1748263965212.png/revision/latest/scale-to-width-down/180?cb=20250526125447&path-prefix=pl" group-title="Jiostar", Nat Geo Wild HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fc661aa1af51c98950c43329391d18:c2677c874886e78d24b3fb656c5734e0
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvmblive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b&xxx=%7Ccookie=__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b
 
@@ -279,7 +279,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/National_Geographic_BTS/output/index.mpd?
 
 #EXTINF:-1 tvg-id="1335" group-title="Jiostar" tvg-logo="https://preview.redd.it/national-geographic-hd-logo-2016-v0-zyv7w7hi9wye1.png?width=640&crop=smart&auto=webp&s=5ea1a442fc8958e26d222485a068569956d83901" group-title="Jiostar", National Geographic HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b006dd7965e5777a7fa33dd636c2e5d:179f796bdf11b750bebd469a3aeae1d0
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvmblive.cdn.jio.com/bpk-tv/National_Geographic_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b&xxx=%7Ccookie=__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b
 
@@ -292,7 +292,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_2_BTS/output/index.mpd?__hdnea_
 
 #EXTINF:-1 tvg-id="1155" group-title="Jiostar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f15edc5dfc4403f7be3e/images/914.webp",Star Gold 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6afa4754bc15dd28ab6806f417d319d:6a74ef2884813547109ee96098610387
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b&xxx=%7Ccookie=__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b
 
@@ -312,20 +312,20 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Bharat_BTS/output/index.mpd?__hdnea_
 
 #EXTINF:-1 tvg-id="931" group-title="Jiostar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_BHARAT_HD/images/LOGO_HD/image.png",Star Bharat HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=701524f373c55b2785ac49aab0bdc4a6:9de42eedb40f6c243848eb8aa8103e32
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Bharat_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b&xxx=%7Ccookie=__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b
 
 
 #EXTINF:-1 tvg-id="1119" group-title="Jiostar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_SELECT/images/LOGO_HD/image.png",Star Gold Select
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09706397be655eb6a26c6ba99b65e6d5:acb1ebe04e2a29fe098d532d7a506846
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Select_MOB/WDVLive/index.mpd?__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b&xxx=%7Ccookie=__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b
 
 #EXTINF:-1 tvg-id="1113" group-title="Jiostar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_SELECT_HD/images/LOGO_HD/image.png",Star Gold Select HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2cb38dd5e6235bd9936ad7a29bc7ffd8:281d7b329be4e22d4e0e3e1d508ba2a4
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b&xxx=%7Ccookie=__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b
 
@@ -363,44 +363,44 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_International_HD_MOB/WDVLive/index
 
 #EXTINF:-1 tvg-id="1115" group-title="Jiostar" tvg-logo="https://img.media.jio.com/tvpimages/30/15/301990_1748034621355_p_medium.jpg",Star Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e705c9330a935a119021d97c7677ce62:dd306a57de1715b0e1256d5c1737f485
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_MOB/WDVLive/index.mpd?__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b&xxx=%7Ccookie=__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b
 
 #EXTINF:-1 tvg-id="1104" group-title="Jiostar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_HD/images/LOGO_HD/image.png",Star Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ac6943751e558b181da32727f03dff7:f36e5cd48252bcd0fcda2bfe21f5b365
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvmblive.cdn.jio.com/bpk-tv/StarMoviesHD_MOB/WDVLive/index.mpd?__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b&xxx=%7Ccookie=__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b
 
 #EXTINF:-1 tvg-id="4302" tvg-name="Star Movies Select" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT/images/LOGO_HD/image.png" group-title="Jiostar", Star Movies Select
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+/M6z8pImxNUlVy/sJVwtQ","kid":"S31XnijUUEG6eMOpLwrMkg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_Select_MOB/WDVLive/index.mpd?__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b&xxx=%7Ccookie=__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b
 
 #EXTINF:-1 tvg-id="1110" group-title="Jiostar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",Star Movies Select HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b55393cd147a54debaf2b0f2d82b5d9f:6b168db49241a78c1b423ab9a29409ef
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b&xxx=%7Ccookie=__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b
 
 
 #EXTINF:-1 tvg-id="1998" group-title="Sports" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/r1W3wpgX.png",Star Sports Khel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab947ddbb9795d38bff35597b4f73108:2671e22eb7dc174c35b6aad4b113f7b0
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvmblive.cdn.jio.com/bpk-tv/StarSportsKhel_BTS/output/index.mpd?__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b&xxx=%7Ccookie=__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b
 
 #EXTINF:-1 tvg-id="1143" group-title="Jiostar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_UTSAV/images/LOGO_HD/image.png",Star Utsav
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=63456f11b1bf599a93a6a4b9a76db2bf:b47756e4d8fb938dcbcb72d6d877fbc3
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Utsav_MOB/WDVLive/index.mpd?__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b&xxx=%7Ccookie=__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b
 
 #EXTINF:-1 tvg-id="1136" group-title="Jiostar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES/images/LOGO_HD/image.png",Star Utsav Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1faf9c42dfe45669a70c470359886145:5a229a5f6f270c880b24014bf3cd6ee7
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Utsav_Movies_MOB/WDVLive/index.mpd?__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b&xxx=%7Ccookie=__hdnea__=st=1766988031~exp=1767074431~acl=/*~hmac=6cfb9058e9cca3aba3a03ccf8f285005cc777c175616ea25f56c505982cce08b
 
