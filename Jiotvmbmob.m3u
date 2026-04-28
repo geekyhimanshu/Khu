@@ -3,7 +3,7 @@
 
 #EXTINF:-1 tvg-id="154" tvg-name="Sony SAB SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony SAB SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MefL89KJ0xFjhkV-2LrDog","kid":"uk2bOFF1Ut6WVNNlLSeTOw"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1777373101~exp=1777394701~acl=/*~hmac=0dd69dcce2a774d1b3cf66644984cdab1fad89b418cb485ce0f81e15a8ae03b9"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_SAB_MOB/WDVLive/index.mpd?__hdnea__=st=1777373101~exp=1777394701~acl=/*~hmac=0dd69dcce2a774d1b3cf66644984cdab1fad89b418cb485ce0f81e15a8ae03b9
