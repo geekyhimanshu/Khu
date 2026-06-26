@@ -8,6 +8,15 @@
 #EXTHTTP:{"cookie":"__hdnea__=st=1777373101~exp=1777394701~acl=/*~hmac=0dd69dcce2a774d1b3cf66644984cdab1fad89b418cb485ce0f81e15a8ae03b9"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_SAB_MOB/WDVLive/index.mpd?__hdnea__=st=1777373101~exp=1777394701~acl=/*~hmac=0dd69dcce2a774d1b3cf66644984cdab1fad89b418cb485ce0f81e15a8ae03b9
 
+
+#EXTINF:-1 tvg-id="823" tvg-name="Sony BBC Earth SD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png" tvg-chno="823" group-title="Infotainment - English",Sony BBC Earth SD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iUPW5Wez2_dhzxmaJ6WkjA","kid":"I_YG454vX5uT5JTfTqnbCw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1782459910~exp=1782481510~acl=/*~hmac=991baa3b7b9aa6dbafa2d7d8c9d05ee77f06c5a55461526033a5973fc2f95e85"}
+https://jiotvmblive.cdn.jio.com:443/bpk-tv/Sony_BBC_Earth_SD_MOB/WDVLive/index.mpd?__hdnea__=st=1782459910~exp=1782481510~acl=/*~hmac=991baa3b7b9aa6dbafa2d7d8c9d05ee77f06c5a55461526033a5973fc2f95e85
+
+
 #EXTINF:-1 tvg-id="Zee Cafe HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list813457fc09e349d9ac922d5268ecbf8a.jpg" group-title="Zee",Zee Cafe HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iGjbbF5X5DMOkwTRh0XqXw","kid":"k3469UvVXvS4YiluAxm7gA"}],"type":"temporary"}
