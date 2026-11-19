@@ -8,7 +8,7 @@
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-cookie=hdntl=exp=1795089606~acl=%2f*~id=cb95322752b816952a28746d01eb2863~data=hdntl~hmac=59f8380b4171e3e7e86b9b325f5473a54504c9a58de2409eb47a353d49fc2da2
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)","Cookie":"hdntl=exp=1795089606~acl=%2f*~id=cb95322752b816952a28746d01eb2863~data=hdntl~hmac=59f8380b4171e3e7e86b9b325f5473a54504c9a58de2409eb47a353d49fc2da2"}
+#KODIPROP:http-cookie=hdntl=exp=1795089606~acl=%2f*~id=cb95322752b816952a28746d01eb2863~data=hdntl~hmac=59f8380b4171e3e7e86b9b325f5473a54504c9a58de2409eb47a353d49fc2da2
 https://livetv.hotstar.com/mp1/gec-india-1540068775/2930525295884240a39922ad485eb1a8/index.mpd?|cookie=hdntl=exp=1795089606~acl=%2f*~id=cb95322752b816952a28746d01eb2863~data=hdntl~hmac=59f8380b4171e3e7e86b9b325f5473a54504c9a58de2409eb47a353d49fc2da2&|cookie=hdntl=exp=1795089606~acl=%2f*~id=cb95322752b816952a28746d01eb2863~data=hdntl~hmac=59f8380b4171e3e7e86b9b325f5473a54504c9a58de2409eb47a353d49fc2da2&%7C=hdntl=exp=1795089606~acl=%2f*~id=cb95322752b816952a28746d01eb2863~data=hdntl~hmac=59f8380b4171e3e7e86b9b325f5473a54504c9a58de2409eb47a353d49fc2da2
 
 #EXTINF:-1 tvg-name="Colors Gujarati Cinema Digital" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/5642/1782288885642-h" group-title="Entertainment", Colors Gujarati Cinema Digital
@@ -20,5 +20,5 @@ https://livetv.hotstar.com/mp1/gec-india-1540068775/2930525295884240a39922ad485e
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-cookie=hdntl=exp=1795089606~acl=%2f*~id=cb95322752b816952a28746d01eb2863~data=hdntl~hmac=59f8380b4171e3e7e86b9b325f5473a54504c9a58de2409eb47a353d49fc2da2
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Digitaltv","Cookie":"hdntl=exp=1795089606~acl=%2f*~id=cb95322752b816952a28746d01eb2863~data=hdntl~hmac=59f8380b4171e3e7e86b9b325f5473a54504c9a58de2409eb47a353d49fc2da2"}
+#KODIPROP:http-cookie=hdntl=exp=1795089606~acl=%2f*~id=cb95322752b816952a28746d01eb2863~data=hdntl~hmac=59f8380b4171e3e7e86b9b325f5473a54504c9a58de2409eb47a353d49fc2da2
 https://livetv.hotstar.com/mp2/gec-india-1540068778/894041da6b2144bfab552b7ee94271a5/index.mpd?|cookie=hdntl=exp=1795089606~acl=%2f*~id=cb95322752b816952a28746d01eb2863~data=hdntl~hmac=59f8380b4171e3e7e86b9b325f5473a54504c9a58de2409eb47a353d49fc2da2&|cookie=hdntl=exp=1795089606~acl=%2f*~id=cb95322752b816952a28746d01eb2863~data=hdntl~hmac=59f8380b4171e3e7e86b9b325f5473a54504c9a58de2409eb47a353d49fc2da2&%7C=hdntl=exp=1795089606~acl=%2f*~id=cb95322752b816952a28746d01eb2863~data=hdntl~hmac=59f8380b4171e3e7e86b9b325f5473a54504c9a58de2409eb47a353d49fc2da2
